@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fontDefs>
+  <defs>
+  <!-- target: 処理対象となるゲームフォントを指定します -->
+  <!-- import: フォントを置換える場合に置換用のフォントファイル(.font)を指定します -->
+  <!-- fallback: 対象フォントに文字が無い時に文字を探すのに利用される代替フォントをゲーム内のフォント名で指定します -->
+  <!-- removeChars: 対象フォントから代替フォントと重複する文字を削除して文字を代替フォントの形状で表示させるようにします -->
+    <def target="ARIAL SDF" import="NanumBarunGothic" />
+    <def target="LiberationSans SDF" import="NanumBarunGothicBold" />
+    <def target="Proxima Nova Semibold SDF" import="NanumBarunGothic" />
+    <def target="Proxima Nova Thin SDF" import="NanumBarunGothicUltraLight" />
+    <def target="ProximaNova-Regular SDF" import="NanumBarunGothic" />
+    <def target="Proxima Nova ScOsf Extrabold SDF"  import="NanumBarunGothicBold" />
+    <def target="UnitedSansCond-Medium SDF" import="NanumBarunGothic" />
+    <def target="UnitedSansExt-Black SDF" import="NanumBarunGothicBold" />
+    <def target="UnitedSansExt-Medium SDF" import="NanumBarunGothic" />
+    <def target="UnitedSansExt-Light SDF" import="NanumBarunGothicLight" />
+    <def target="UnitedSansReg-Medium SDF" import="NanumBarunGothic" />
+    <def target="UnitedSansReg-Thin SDF" import="NanumBarunGothicUltraLight" />
+    <def target="UnitedSansReg-Black SDF" import="NanumBarunGothicBold" />
+    <def target="UnitedSansExt-Bold SDF" import="NanumBarunGothicBold" />
+    <def target="UnitedSansSemiExt-Medium SDF" import="NanumBarunGothic" />
+    <def target="UnitedSansSemiExt-Bold SDF" import="NanumBarunGothicBold" />
+    <def target="UnitedSansSemiExt-Thin SDF" import="NanumBarunGothicUltraLight" />
+    <def target="UnitedSansSemiExt-Light SDF" import="NanumBarunGothicLight" />
+    <def target="UnitedSerifReg-Black SDF" import="NanumBarunGothicBold" />
+    <def target="ProximaNova-Regular SDF RU" fallback="ProximaNova-Regular SDF" removeChars="true" />
+    <def target="Proxima Nova Semibold SDF RU" fallback="Proxima Nova Semibold SDF" removeChars="true" />
+    <def target="Kairos Sans W1G Cn SDF RU" fallback="UnitedSansCond-Medium SDF" removeChars="true" />
+    <def target="Kairos Sans W1G Ext Medium SDF RU" fallback="UnitedSansSemiExt-Medium SDF" removeChars="true" />
+    <def target="Kairos Sans W1G ExtraBold SDF RU" fallback="UnitedSansSemiExt-Bold SDF" removeChars="true" />
+    <def target="Kairos Sans W1G SDF RU" fallback="ProximaNova-Regular SDF" removeChars="true" />
+    <def target="Kairos Sans W1G Ext SDF RU" fallback="ProximaNova-Regular SDF" removeChars="true" />
+  </defs>
+</fontDefs>
