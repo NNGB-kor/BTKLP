@@ -1,7 +1,0 @@
-{
-    "Name": "FontReplaceMod",
-    "Version": "0.3.0",
-    "Enabled":true,
-
-    "DLL": "FontReplaceMod.dll",
-}
