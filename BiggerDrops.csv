@@ -1,25 +1,25 @@
 File,Key,Value,Translation
-shipUpgrades\argoUpgrade_Lance2Slot3.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance B. 
+BiggerDrops\shipUpgrades\argoUpgrade_Lance2Slot3.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance B. 
 
  <b><color=#F79232>Increases Lance B Slots to 3 and increases Drop Weight Limit by 50 tons</color></b>","회사가 Lance B에 추가 전투 유닛(멕과 차량 모두)을 투입할 수 있는 능력을 향상시킵니다.
 
 <b><color=#F79232>Lance B 슬롯이 3으로 증가하고, 드롭 중량 제한이 50톤 증가합니다</color></b>"
-shipUpgrades\argoUpgrade_Lance2Slot4.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance B. 
+BiggerDrops\shipUpgrades\argoUpgrade_Lance2Slot4.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance B. 
 
  <b><color=#F79232>Increases Lance B Slots to 4 and increases Drop Weight Limit by 50 tons</color></b>","회사가 Lance B에 추가 전투 유닛(멕과 차량 모두)을 투입할 수 있는 능력을 향상시킵니다.
 
 <b><color=#F79232>Lance B 슬롯이 4로 증가하고, 드롭 중량 제한이 50톤 증가합니다</color></b>"
-shipUpgrades\argoUpgrade_Lance2Slot5.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance B. 
+BiggerDrops\shipUpgrades\argoUpgrade_Lance2Slot5.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance B. 
 
  <b><color=#F79232>Increases Lance B Slots to 5 and increases Drop Weight Limit by 50 tons</color></b>","회사가 Lance B에 추가 전투 유닛(멕과 차량 모두)을 투입할 수 있는 능력을 향상시킵니다.
 
 <b><color=#F79232>Lance B 슬롯이 5로 증가하고, 드롭 중량 제한이 50톤 증가합니다</color></b>"
-shipUpgrades\argoUpgrade_Lance2Slot6.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance B. 
+BiggerDrops\shipUpgrades\argoUpgrade_Lance2Slot6.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance B. 
 
  <b><color=#F79232>Increases Lance B Slots to 6 and increases Drop Weight Limit by 50 tons</color></b>","회사가 Lance B에 추가 전투 유닛(멕과 차량 모두)을 투입할 수 있는 능력을 향상시킵니다.
 
 <b><color=#F79232>Lance B 슬롯이 6으로 증가하고, 드롭 중량 제한이 50톤 증가합니다</color></b>"
-shipUpgrades\argoUpgrade_mechBay_expandedBays1.json,Description.Details,"Increases the company's ability to store mechs by enabling the Mech Bay 2 tab to actually store mechs.
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_expandedBays1.json,Description.Details,"Increases the company's ability to store mechs by enabling the Mech Bay 2 tab to actually store mechs.
 
  <b><color=#e93a2d>WITHOUT THIS UPGRADE, MECH BAY 2 DOES NOT HOLD MECHS EVEN THOUGH YOU CAN LOOK AT MECH BAY 2. YOU REQUIRE THIS UPGRADE FOR MECH BAY 2 TO FUNCTION!!
 
@@ -28,122 +28,122 @@ shipUpgrades\argoUpgrade_mechBay_expandedBays1.json,Description.Details,"Increas
 <b><color=#e93a2d>이 업그레이드 없이는 멕 베이 2를 볼 수는 있지만 멕을 저장할 수 없습니다. 멕 베이 2가 제대로 작동하려면 이 업그레이드가 필요합니다!!
 
 자세한 내용과 제한 사항은 BTA 위키의 멕 베이 2 FAQ를 반드시 읽어 주십시오.</color></b>"
-shipUpgrades\argoUpgrade_mechBay_expandedBays2.json,Description.Details,"Increases the company's ability to store mechs by enabling the Mech Bay 3 tab to actually store mechs.
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_expandedBays2.json,Description.Details,"Increases the company's ability to store mechs by enabling the Mech Bay 3 tab to actually store mechs.
 
  <b><color=#e93a2d>WITHOUT THIS UPGRADE, MECH BAY 3 DOES NOT HOLD MECHS EVEN THOUGH YOU CAN LOOK AT MECH BAY 3. YOU REQUIRE THIS UPGRADE FOR MECH BAY 3 TO FUNCTION!!</color></b>","회사가 멕을 보관할 수 있는 능력을 향상시켜, 멕 베이 3 탭에서 실제로 멕을 저장할 수 있도록 합니다.
 
 <b><color=#e93a2d>이 업그레이드 없이는 멕 베이 3를 볼 수는 있지만 멕을 저장할 수 없습니다. 멕 베이 3가 제대로 작동하려면 이 업그레이드가 필요합니다!!</color></b>"
-shipUpgrades\argoUpgrade_mechBay_Lance1Slot5.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance A. 
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_Lance1Slot5.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance A. 
 
  <b><color=#F79232>Increases Lance A Slots to 5 and increases Drop Weight Limit by 50 tons.</color></b>","회사가 Lance A에 추가 전투 유닛(멕과 차량 모두)을 투입할 수 있는 능력을 향상시킵니다.
 
 <b><color=#F79232>Lance A 슬롯이 5로 증가하고, 드롭 중량 제한이 50톤 증가합니다.</color></b>"
-shipUpgrades\argoUpgrade_mechBay_Lance1Slot6.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance A. 
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_Lance1Slot6.json,Description.Details,"Increases the company's ability to field additional combat units, both mechs and vehicles, in Lance A. 
 
  <b><color=#F79232>Increases Lance A Slots to 6 and increases Drop Weight Limit by 50 tons.</color></b>","회사가 Lance A에 추가 전투 유닛(멕과 차량 모두)을 투입할 수 있는 능력을 향상시킵니다.
 
 <b><color=#F79232>Lance A 슬롯이 6으로 증가하고, 드롭 중량 제한이 50톤 증가합니다.</color></b>"
-shipUpgrades\argoUpgrade_mechBay_weightLimit1.json,Description.Details,This upgrade allows us to increase the drop weight limit even further. <b><color=#F79232>Increases Drop Weight Limit by 50 tons</color></b>,이 업그레이드는 드롭 중량 제한을 더욱 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 50톤 증가합니다</color></b>
-shipUpgrades\argoUpgrade_mechBay_weightLimit2.json,Description.Details,This upgrade allows us to increase the drop weight limit even further. <b><color=#F79232>Increases Drop Weight Limit by 50 tons</color></b>,이 업그레이드는 드롭 중량 제한을 더욱 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 50톤 증가합니다</color></b>
-shipUpgrades\argoUpgrade_mechBay_weightLimit3.json,Description.Details,This upgrade allows us to increase the drop weight limit even further. <b><color=#F79232>Increases Drop Weight Limit by 50 tons</color></b>,이 업그레이드는 드롭 중량 제한을 더욱 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 50톤 증가합니다</color></b>
-shipUpgrades\argoUpgrade_mechBay_weightLimit4.json,Description.Details,This upgrade allows us to increase the drop weight limit even further. <b><color=#F79232>Increases Drop Weight Limit by 50 tons</color></b>,이 업그레이드는 드롭 중량 제한을 더욱 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 50톤 증가합니다</color></b>
-shipUpgrades\argoUpgrade_mechBay_weightLimit5.json,Description.Details,This upgrade allows us to increase the drop weight limit even further. <b><color=#F79232>Increases Drop Weight Limit by 50 tons</color></b>,이 업그레이드는 드롭 중량 제한을 더욱 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 50톤 증가합니다</color></b>
-shipUpgrades\argoUpgrade_mechBay_weightLimitUltimate.json,Description.Details,This upgrade allows us to increase the drop weight limit to its absolute maximum. <b><color=#F79232>Increases Drop Weight Limit by 500 tons</color></b>,이 업그레이드는 드롭 중량 제한을 절대 최대치까지 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 500톤 증가합니다</color></b>
-shipUpgrades\argoUpgrade_VeeSlot.json,Description.Details,Increases the company's ability to field an additional combat vehicle. <b><color=#F79232>Increases Vehicle-Only Slots to 3 and increases Drop Weight Limit by 50 tons.</color></b>,"회사가 추가 전투 차량을 투입할 수 있는 능력을 향상시킵니다. <b><color=#F79232>차량 전용 슬롯이 3으로 증가하고, 드롭 중량 제한이 50톤 증가합니다.</color></b>"
-shipUpgrades\argoUpgrade_VeeSlot1.json,Description.Details,Increases the company's ability to field an additional combat vehicle. <b><color=#F79232>Increases Vehicle-Only Slots to 4 and increases Drop Weight Limit by 50 tons.</color></b>,"회사가 추가 전투 차량을 투입할 수 있는 능력을 향상시킵니다. <b><color=#F79232>차량 전용 슬롯이 4로 증가하고, 드롭 중량 제한이 50톤 증가합니다.</color></b>"
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,Description.Details,Affects non-jump travel times - not shown,
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,Description.Details,Affects non-jump travel times - not shown,
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,Description.Details,Affects non-jump travel times - not shown,
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,Description.Details,Affects non-jump travel times - not shown,
-statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,Description.Details,Affects non-jump travel times - not shown,
-statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,Description.Details,Affects non-jump travel times - not shown,
-statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,Description.Details,Affects non-jump travel times - not shown,
-statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,Description.Details,Affects non-jump travel times - not shown,
-statdesc\SimGameStatDesc_Intel_Show_Minimap.json,Description.Details,Enables pre-mission terrain map,임무 시작 전 지형 지도를 활성화합니다.
-statdesc\SimGameStatDesc_Intel_Show_Mood.json,Description.Details,Enables pre-mission weather information,임무 시작 전 날씨 정보를 활성화합니다.
-shipUpgrades\argoUpgrade_Lance2Slot3.json,Description.Name,Lance B Slot 3,
-shipUpgrades\argoUpgrade_Lance2Slot4.json,Description.Name,Lance B Slot 4,
-shipUpgrades\argoUpgrade_Lance2Slot5.json,Description.Name,Lance B Slot 5,
-shipUpgrades\argoUpgrade_Lance2Slot6.json,Description.Name,Lance B Slot 6,
-shipUpgrades\argoUpgrade_mechBay_expandedBays1.json,Description.Name,Second Set of Mech Bays,
-shipUpgrades\argoUpgrade_mechBay_expandedBays2.json,Description.Name,Third Set of Mech Bays,
-shipUpgrades\argoUpgrade_mechBay_Lance1Slot5.json,Description.Name,Lance A Slot 5,
-shipUpgrades\argoUpgrade_mechBay_Lance1Slot6.json,Description.Name,Lance A Slot 6,
-shipUpgrades\argoUpgrade_mechBay_weightLimit1.json,Description.Name,Drop Weight Limit 1,
-shipUpgrades\argoUpgrade_mechBay_weightLimit2.json,Description.Name,Drop Weight Limit 2,
-shipUpgrades\argoUpgrade_mechBay_weightLimit3.json,Description.Name,Drop Weight Limit 3,
-shipUpgrades\argoUpgrade_mechBay_weightLimit4.json,Description.Name,Drop Weight Limit 4,
-shipUpgrades\argoUpgrade_mechBay_weightLimit5.json,Description.Name,Drop Weight Limit 5,
-shipUpgrades\argoUpgrade_mechBay_weightLimitUltimate.json,Description.Name,Ultimate Drop Weight Limit,
-shipUpgrades\argoUpgrade_VeeSlot.json,Description.Name,Vehicle Drop 3,
-shipUpgrades\argoUpgrade_VeeSlot1.json,Description.Name,Vehicle Drop 4,
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,Description.Name,BiggerDrops_AdditionalMechSlots,
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,Description.Name,BiggerDrops_AdditionalMechTankSlots,
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,Description.Name,BiggerDrops_AdditionalPlayerMechSlots,
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,Description.Name,BiggerDrops_AdditionalTankMechSlots,
-statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,Description.Name,BiggerDrops_BAOnlySlots,
-statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,Description.Name,BiggerDrops_CuVehicleCount,
-statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,Description.Name,BiggerDrops_MaxTonnage,
-statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,Description.Name,BiggerDrops_MechOnlySlots,
-statdesc\SimGameStatDesc_Intel_Show_Minimap.json,Description.Name,Intel_Show_Minimap,
-statdesc\SimGameStatDesc_Intel_Show_Mood.json,Description.Name,Intel_Show_Mood,
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,infinitiveNegativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,infinitiveNegativeResult,Decreases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,infinitiveNegativeResult,Decreases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어가 조종하는 조종사 수 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,infinitiveNegativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,infinitiveNegativeResult,Decreases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,infinitiveNegativeResult,Decreases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,infinitiveNegativeResult,Decreases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,infinitiveNegativeResult,Decreases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_Intel_Show_Minimap.json,infinitiveNegativeResult,Disables pre-mission terrain map,임무 시작 전 지형 지도 비활성화
-statdesc\SimGameStatDesc_Intel_Show_Mood.json,infinitiveNegativeResult,Disables pre-mission weather information,임무 시작 전 날씨 정보 비활성화
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,infinitivePositiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,infinitivePositiveResult,Increases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,infinitivePositiveResult,Increases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어가 조종하는 조종사 수 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,infinitivePositiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,infinitivePositiveResult,Increases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,infinitivePositiveResult,Increases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,infinitivePositiveResult,Increases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,infinitivePositiveResult,Increases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_Intel_Show_Minimap.json,infinitivePositiveResult,Enables pre-mission terrain map,임무 시작 전 지형 지도 활성화
-statdesc\SimGameStatDesc_Intel_Show_Mood.json,infinitivePositiveResult,Enables pre-mission weather information,임무 시작 전 날씨 정보 활성화
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,infinitiveSetResult,Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}%
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,infinitiveSetResult,Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}%
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,infinitiveSetResult,Player Controlled Pilots {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}%
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,infinitiveSetResult,Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}%
-statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,infinitiveSetResult,Size of battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}%
-statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,infinitiveSetResult,Allows dropping additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 허용 {RES_VALUE.ToString}%
-statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,infinitiveSetResult,Max Drop Tonnage {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}%
-statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,infinitiveSetResult,Size of mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}%
-statdesc\SimGameStatDesc_Intel_Show_Minimap.json,infinitiveSetResult,Pre-mission terrain map {RES_VALUE.ToString}%,임무 시작 전 지형 지도 {RES_VALUE.ToString}%
-statdesc\SimGameStatDesc_Intel_Show_Mood.json,infinitiveSetResult,Pre-mission weather information enabled,임무 시작 전 날씨 정보 활성화
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,negativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,negativeResult,Decreases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,negativeResult,Decreases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,negativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,negativeResult,Decreases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,negativeResult,Decreases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,negativeResult,Decreases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,negativeResult,Decreases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 감소
-statdesc\SimGameStatDesc_Intel_Show_Minimap.json,negativeResult,Disables pre-mission terrain map,임무 시작 전 지형 지도 비활성화
-statdesc\SimGameStatDesc_Intel_Show_Mood.json,negativeResult,Disables pre-mission weather information,임무 시작 전 날씨 정보 비활성화
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,positiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,positiveResult,Increases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,positiveResult,Increases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,positiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,positiveResult,Increases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,positiveResult,Increases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,positiveResult,Increases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,positiveResult,Increases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_Intel_Show_Minimap.json,positiveResult,Enables pre-mission terrain map,임무 시작 전 지형 지도 활성화
-statdesc\SimGameStatDesc_Intel_Show_Mood.json,positiveResult,Enables pre-mission weather information,임무 시작 전 날씨 정보 활성화
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,setResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,setResult,Increases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,setResult,Increases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,setResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,setResult,Increases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,setResult,Allows dropping additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 허용 {RES_VALUE.ToString}%
-statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,setResult,Increases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,setResult,Increases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 증가
-statdesc\SimGameStatDesc_Intel_Show_Minimap.json,setResult,Pre-mission terrain map set to {RES_VALUE.ToString}%,임무 시작 전 지형 지도 {RES_VALUE.ToString}%로 설정
-statdesc\SimGameStatDesc_Intel_Show_Mood.json,setResult,Pre-mission weather information enabled,임무 시작 전 날씨 정보 활성화
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimit1.json,Description.Details,This upgrade allows us to increase the drop weight limit even further. <b><color=#F79232>Increases Drop Weight Limit by 50 tons</color></b>,이 업그레이드는 드롭 중량 제한을 더욱 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 50톤 증가합니다</color></b>
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimit2.json,Description.Details,This upgrade allows us to increase the drop weight limit even further. <b><color=#F79232>Increases Drop Weight Limit by 50 tons</color></b>,이 업그레이드는 드롭 중량 제한을 더욱 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 50톤 증가합니다</color></b>
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimit3.json,Description.Details,This upgrade allows us to increase the drop weight limit even further. <b><color=#F79232>Increases Drop Weight Limit by 50 tons</color></b>,이 업그레이드는 드롭 중량 제한을 더욱 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 50톤 증가합니다</color></b>
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimit4.json,Description.Details,This upgrade allows us to increase the drop weight limit even further. <b><color=#F79232>Increases Drop Weight Limit by 50 tons</color></b>,이 업그레이드는 드롭 중량 제한을 더욱 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 50톤 증가합니다</color></b>
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimit5.json,Description.Details,This upgrade allows us to increase the drop weight limit even further. <b><color=#F79232>Increases Drop Weight Limit by 50 tons</color></b>,이 업그레이드는 드롭 중량 제한을 더욱 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 50톤 증가합니다</color></b>
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimitUltimate.json,Description.Details,This upgrade allows us to increase the drop weight limit to its absolute maximum. <b><color=#F79232>Increases Drop Weight Limit by 500 tons</color></b>,이 업그레이드는 드롭 중량 제한을 절대 최대치까지 증가시킬 수 있도록 해줍니다. <b><color=#F79232>드롭 중량 제한이 500톤 증가합니다</color></b>
+BiggerDrops\shipUpgrades\argoUpgrade_VeeSlot.json,Description.Details,Increases the company's ability to field an additional combat vehicle. <b><color=#F79232>Increases Vehicle-Only Slots to 3 and increases Drop Weight Limit by 50 tons.</color></b>,"회사가 추가 전투 차량을 투입할 수 있는 능력을 향상시킵니다. <b><color=#F79232>차량 전용 슬롯이 3으로 증가하고, 드롭 중량 제한이 50톤 증가합니다.</color></b>"
+BiggerDrops\shipUpgrades\argoUpgrade_VeeSlot1.json,Description.Details,Increases the company's ability to field an additional combat vehicle. <b><color=#F79232>Increases Vehicle-Only Slots to 4 and increases Drop Weight Limit by 50 tons.</color></b>,"회사가 추가 전투 차량을 투입할 수 있는 능력을 향상시킵니다. <b><color=#F79232>차량 전용 슬롯이 4로 증가하고, 드롭 중량 제한이 50톤 증가합니다.</color></b>"
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,Description.Details,Affects non-jump travel times - not shown,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,Description.Details,Affects non-jump travel times - not shown,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,Description.Details,Affects non-jump travel times - not shown,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,Description.Details,Affects non-jump travel times - not shown,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,Description.Details,Affects non-jump travel times - not shown,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,Description.Details,Affects non-jump travel times - not shown,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,Description.Details,Affects non-jump travel times - not shown,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,Description.Details,Affects non-jump travel times - not shown,
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Minimap.json,Description.Details,Enables pre-mission terrain map,임무 시작 전 지형 지도를 활성화합니다.
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Mood.json,Description.Details,Enables pre-mission weather information,임무 시작 전 날씨 정보를 활성화합니다.
+BiggerDrops\shipUpgrades\argoUpgrade_Lance2Slot3.json,Description.Name,Lance B Slot 3,
+BiggerDrops\shipUpgrades\argoUpgrade_Lance2Slot4.json,Description.Name,Lance B Slot 4,
+BiggerDrops\shipUpgrades\argoUpgrade_Lance2Slot5.json,Description.Name,Lance B Slot 5,
+BiggerDrops\shipUpgrades\argoUpgrade_Lance2Slot6.json,Description.Name,Lance B Slot 6,
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_expandedBays1.json,Description.Name,Second Set of Mech Bays,
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_expandedBays2.json,Description.Name,Third Set of Mech Bays,
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_Lance1Slot5.json,Description.Name,Lance A Slot 5,
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_Lance1Slot6.json,Description.Name,Lance A Slot 6,
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimit1.json,Description.Name,Drop Weight Limit 1,
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimit2.json,Description.Name,Drop Weight Limit 2,
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimit3.json,Description.Name,Drop Weight Limit 3,
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimit4.json,Description.Name,Drop Weight Limit 4,
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimit5.json,Description.Name,Drop Weight Limit 5,
+BiggerDrops\shipUpgrades\argoUpgrade_mechBay_weightLimitUltimate.json,Description.Name,Ultimate Drop Weight Limit,
+BiggerDrops\shipUpgrades\argoUpgrade_VeeSlot.json,Description.Name,Vehicle Drop 3,
+BiggerDrops\shipUpgrades\argoUpgrade_VeeSlot1.json,Description.Name,Vehicle Drop 4,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,Description.Name,BiggerDrops_AdditionalMechSlots,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,Description.Name,BiggerDrops_AdditionalMechTankSlots,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,Description.Name,BiggerDrops_AdditionalPlayerMechSlots,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,Description.Name,BiggerDrops_AdditionalTankMechSlots,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,Description.Name,BiggerDrops_BAOnlySlots,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,Description.Name,BiggerDrops_CuVehicleCount,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,Description.Name,BiggerDrops_MaxTonnage,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,Description.Name,BiggerDrops_MechOnlySlots,
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Minimap.json,Description.Name,Intel_Show_Minimap,
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Mood.json,Description.Name,Intel_Show_Mood,
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,infinitiveNegativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,infinitiveNegativeResult,Decreases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,infinitiveNegativeResult,Decreases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어가 조종하는 조종사 수 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,infinitiveNegativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,infinitiveNegativeResult,Decreases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,infinitiveNegativeResult,Decreases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,infinitiveNegativeResult,Decreases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,infinitiveNegativeResult,Decreases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Minimap.json,infinitiveNegativeResult,Disables pre-mission terrain map,임무 시작 전 지형 지도 비활성화
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Mood.json,infinitiveNegativeResult,Disables pre-mission weather information,임무 시작 전 날씨 정보 비활성화
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,infinitivePositiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,infinitivePositiveResult,Increases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,infinitivePositiveResult,Increases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어가 조종하는 조종사 수 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,infinitivePositiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,infinitivePositiveResult,Increases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,infinitivePositiveResult,Increases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,infinitivePositiveResult,Increases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,infinitivePositiveResult,Increases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Minimap.json,infinitivePositiveResult,Enables pre-mission terrain map,임무 시작 전 지형 지도 활성화
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Mood.json,infinitivePositiveResult,Enables pre-mission weather information,임무 시작 전 날씨 정보 활성화
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,infinitiveSetResult,Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}%
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,infinitiveSetResult,Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}%
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,infinitiveSetResult,Player Controlled Pilots {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}%
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,infinitiveSetResult,Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}%
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,infinitiveSetResult,Size of battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}%
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,infinitiveSetResult,Allows dropping additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 허용 {RES_VALUE.ToString}%
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,infinitiveSetResult,Max Drop Tonnage {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}%
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,infinitiveSetResult,Size of mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}%
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Minimap.json,infinitiveSetResult,Pre-mission terrain map {RES_VALUE.ToString}%,임무 시작 전 지형 지도 {RES_VALUE.ToString}%
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Mood.json,infinitiveSetResult,Pre-mission weather information enabled,임무 시작 전 날씨 정보 활성화
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,negativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,negativeResult,Decreases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,negativeResult,Decreases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,negativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,negativeResult,Decreases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,negativeResult,Decreases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,negativeResult,Decreases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,negativeResult,Decreases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 감소
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Minimap.json,negativeResult,Disables pre-mission terrain map,임무 시작 전 지형 지도 비활성화
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Mood.json,negativeResult,Disables pre-mission weather information,임무 시작 전 날씨 정보 비활성화
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,positiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,positiveResult,Increases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,positiveResult,Increases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,positiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,positiveResult,Increases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,positiveResult,Increases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,positiveResult,Increases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,positiveResult,Increases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Minimap.json,positiveResult,Enables pre-mission terrain map,임무 시작 전 지형 지도 활성화
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Mood.json,positiveResult,Enables pre-mission weather information,임무 시작 전 날씨 정보 활성화
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,setResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,setResult,Increases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,setResult,Increases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,setResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_BAOnlySlots.json,setResult,Increases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_CuVehicleCount.json,setResult,Allows dropping additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 허용 {RES_VALUE.ToString}%
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MaxTonnage.json,setResult,Increases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_BiggerDrops_MechOnlySlots.json,setResult,Increases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Minimap.json,setResult,Pre-mission terrain map set to {RES_VALUE.ToString}%,임무 시작 전 지형 지도 {RES_VALUE.ToString}%로 설정
+BiggerDrops\statdesc\SimGameStatDesc_Intel_Show_Mood.json,setResult,Pre-mission weather information enabled,임무 시작 전 날씨 정보 활성화

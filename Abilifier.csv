@@ -1,18 +1,18 @@
 File,Key,Value,Translation
-abilities\AbilityDefAmidSpeed.json,Description.Details,"PASSIVE: Grants Amid the spirit of his favorite 'Mech, giving him +15% walk speed at all times.","패시브: Amid는 자신이 가장 좋아하는 멕의 정신에 힘입어, 항상 보행 속도가 +15% 증가합니다."
-abilities\AbilityDefBDInit.json,Description.Details,PASSIVE: Bloodydoves gains +1 Initiative and removes one bar of stability damage when reserving.,"패시브: Bloodydoves는 +1 이니셔티브를 얻고, 대기 시 안정성 피해 바를 1칸 제거합니다."
-abilities\AbilityDefBlueAP.json,Description.Details,PASSIVE: Aether deals 20% more damage with support weapons but also has a -50% crit chance penalty with them.,"패시브: Aether는 보조 무기로 주는 피해가 20% 증가하지만, 동시에 치명타 확률이 -50% 감소합니다."
-abilities\AbilityDefBlueSpeed.json,Description.Details,PASSIVE: Aether has 10% increased ground speed but also has 10% reduced range with ranged weaponry.,"패시브: Aether는 지상 이동 속도가 10% 증가하지만, 원거리 무기의 사거리가 10% 감소합니다."
-abilities\AbilityDefBTeam.json,Description.Details,"ACTION: Focus attention for a turn, gaining +1 to weapon accuracy and +5% to weapon damage for the turn. 2 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 한 턴 동안 집중하여 무기 명중률 +1과 무기 피해 +5%를 얻습니다. 재사용 대기시간은 2턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 15가 소모됩니다!</color></b>"
-abilities\AbilityDefBTeamCrit.json,Description.Details,"ACTION: Pray to the gods of luck to gain their favor, granting +50% critical damage chance for one turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 행운의 신들에게 기도하여 그들의 은총을 받아, 한 턴 동안 치명타 피해 확률이 +50% 증가합니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 15가 소모됩니다!</color></b>"
-abilities\AbilityDefClanTrait.json,Description.Details,"PASSIVE: The Clans train their warriors better and more thoroughly than the Inner Sphere does, granting them bonuses to their pilot skills as well as to their accuracy and speed. It does de-emphasize melee combat however, reducing their melee damage significantly.","패시브: 클랜은 이너스피어보다 전사들을 더 철저하고 우수하게 훈련시키므로, 조종사 기술과 명중률, 속도에 보너스를 제공합니다. 그러나 근접 전투는 경시되어 근접 피해가 크게 감소합니다."
-abilities\AbilityDefCMDHunter.json,Description.Details,PASSIVE: The Commander gains a very slight Called Shot bonus (roughly 5%).,패시브: 사령관은 약간의 지명 사격 보너스(약 5%)를 얻습니다.
-abilities\AbilityDefCMDOperative.json,Description.Details,PASSIVE: The Commander gains +2 better accuracy at maximum range.,패시브: 사령관은 최대 사거리에서 명중률이 +2 향상됩니다.
-abilities\AbilityDefCMDPilot.json,Description.Details,PASSIVE: The Commander gains +0.05 to their sprint multiplier.,패시브: 사령관은 스프린트 배율이 +0.05 증가합니다.
-abilities\AbilityDefCMDRacer.json,Description.Details,PASSIVE: The Commander gets +30 to their unsteady threshold in any mech they pilot.,패시브: 사령관은 어떤 멕을 조종하더라도 불안정 한계치가 +30 증가합니다.
-abilities\AbilityDefCMDSmuggler.json,Description.Details,PASSIVE: The Commander gains 10% sensor range.,패시브: 사령관은 센서 범위가 10% 증가합니다.
-abilities\AbilityDefCMDTrainee.json,Description.Details,PASSIVE: The Commander gains +2 resolve whenever resolve is gained.,패시브: 사령관은 결의를 획득할 때마다 추가로 +2 결의를 얻습니다.
-abilities\AbilityDefCMD_TankDrop_Cargo.json,Description.Details,"DEPLOYS A FERRET TANK FROM THE ARGO'S STORAGE BAYS UNDER YOUR CONTROL.
+Abilifier\abilities\AbilityDefAmidSpeed.json,Description.Details,"PASSIVE: Grants Amid the spirit of his favorite 'Mech, giving him +15% walk speed at all times.","패시브: Amid는 자신이 가장 좋아하는 멕의 정신에 힘입어, 항상 보행 속도가 +15% 증가합니다."
+Abilifier\abilities\AbilityDefBDInit.json,Description.Details,PASSIVE: Bloodydoves gains +1 Initiative and removes one bar of stability damage when reserving.,"패시브: Bloodydoves는 +1 이니셔티브를 얻고, 대기 시 안정성 피해 바를 1칸 제거합니다."
+Abilifier\abilities\AbilityDefBlueAP.json,Description.Details,PASSIVE: Aether deals 20% more damage with support weapons but also has a -50% crit chance penalty with them.,"패시브: Aether는 보조 무기로 주는 피해가 20% 증가하지만, 동시에 치명타 확률이 -50% 감소합니다."
+Abilifier\abilities\AbilityDefBlueSpeed.json,Description.Details,PASSIVE: Aether has 10% increased ground speed but also has 10% reduced range with ranged weaponry.,"패시브: Aether는 지상 이동 속도가 10% 증가하지만, 원거리 무기의 사거리가 10% 감소합니다."
+Abilifier\abilities\AbilityDefBTeam.json,Description.Details,"ACTION: Focus attention for a turn, gaining +1 to weapon accuracy and +5% to weapon damage for the turn. 2 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 한 턴 동안 집중하여 무기 명중률 +1과 무기 피해 +5%를 얻습니다. 재사용 대기시간은 2턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 15가 소모됩니다!</color></b>"
+Abilifier\abilities\AbilityDefBTeamCrit.json,Description.Details,"ACTION: Pray to the gods of luck to gain their favor, granting +50% critical damage chance for one turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 행운의 신들에게 기도하여 그들의 은총을 받아, 한 턴 동안 치명타 피해 확률이 +50% 증가합니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 15가 소모됩니다!</color></b>"
+Abilifier\abilities\AbilityDefClanTrait.json,Description.Details,"PASSIVE: The Clans train their warriors better and more thoroughly than the Inner Sphere does, granting them bonuses to their pilot skills as well as to their accuracy and speed. It does de-emphasize melee combat however, reducing their melee damage significantly.","패시브: 클랜은 이너스피어보다 전사들을 더 철저하고 우수하게 훈련시키므로, 조종사 기술과 명중률, 속도에 보너스를 제공합니다. 그러나 근접 전투는 경시되어 근접 피해가 크게 감소합니다."
+Abilifier\abilities\AbilityDefCMDHunter.json,Description.Details,PASSIVE: The Commander gains a very slight Called Shot bonus (roughly 5%).,패시브: 사령관은 약간의 지명 사격 보너스(약 5%)를 얻습니다.
+Abilifier\abilities\AbilityDefCMDOperative.json,Description.Details,PASSIVE: The Commander gains +2 better accuracy at maximum range.,패시브: 사령관은 최대 사거리에서 명중률이 +2 향상됩니다.
+Abilifier\abilities\AbilityDefCMDPilot.json,Description.Details,PASSIVE: The Commander gains +0.05 to their sprint multiplier.,패시브: 사령관은 스프린트 배율이 +0.05 증가합니다.
+Abilifier\abilities\AbilityDefCMDRacer.json,Description.Details,PASSIVE: The Commander gets +30 to their unsteady threshold in any mech they pilot.,패시브: 사령관은 어떤 멕을 조종하더라도 불안정 한계치가 +30 증가합니다.
+Abilifier\abilities\AbilityDefCMDSmuggler.json,Description.Details,PASSIVE: The Commander gains 10% sensor range.,패시브: 사령관은 센서 범위가 10% 증가합니다.
+Abilifier\abilities\AbilityDefCMDTrainee.json,Description.Details,PASSIVE: The Commander gains +2 resolve whenever resolve is gained.,패시브: 사령관은 결의를 획득할 때마다 추가로 +2 결의를 얻습니다.
+Abilifier\abilities\AbilityDefCMD_TankDrop_Cargo.json,Description.Details,"DEPLOYS A FERRET TANK FROM THE ARGO'S STORAGE BAYS UNDER YOUR CONTROL.
 
  <b><color=#8080ff>Resolve Cost: {20}</color></b>
 
@@ -25,407 +25,407 @@ abilities\AbilityDefCMD_TankDrop_Cargo.json,Description.Details,"DEPLOYS A FERRE
 <b><color=#e11919>사용 시 25,000 C-빌 소모!</color></b>
 
 <b><color=#15df37>계약당 전차는 한 대만 호출할 수 있습니다!</color></b>"
-abilities\AbilityDefFrostDR.json,Description.Details,PASSIVE: Scorch takes 10% less damage from all sources at all times.,패시브: Scorch는 항상 모든 피해로부터 10% 감소된 피해를 받습니다.
-abilities\AbilityDefG10a.json,Description.Details,"ACTION: Supercharge your cooling system for a turn, gaining +60 heat dissipation for the turn, at the cost of responsiveness in the controls. Your initiative is reduced by 2 for 2 turns. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 냉각 시스템을 과충전하여 한 턴 동안 열 소산량이 +60 증가하지만, 조종 반응성이 저하됩니다. 2턴 동안 이니셔티브가 -2 감소합니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
-abilities\AbilityDefG10T.json,Description.Details,"PASSIVE: This tank crew is such masters of their tank that they can squeeze extra firepower out of the guns, gaining a +10% flat bonus to damage with every attack.","패시브: 이 전차 승무원은 전차 운용의 대가이므로 포에서 더 많은 화력을 끌어내어, 모든 공격에 +10%의 고정 피해 보너스를 얻습니다."
-abilities\AbilityDefG5a.json,Description.Details,"ACTION: Supercharge your mech for a turn, dealing 15% greater damage and hitting with +2 accuracy for the turn. Generates an extra 30 heat this turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 멕을 과충전하여 한 턴 동안 주는 피해가 15% 증가하고 명중률이 +2 향상됩니다. 단, 이번 턴에 추가로 30의 열을 발생시킵니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
-abilities\AbilityDefG5T.json,Description.Details,"ACTION: Cannot be used if you have moved this turn. Intentionally pillbox this tank, losing all ability to move this turn. In exchange, gain +30% damage this turn. 4 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>","액션: 이번 턴에 이동했다면 사용할 수 없습니다. 의도적으로 전차를 고정 포대로 전환하여 이번 턴 동안 이동 능력을 완전히 상실합니다. 대신, 이번 턴에 +30% 피해를 얻습니다. 재사용 대기시간은 4턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 30 소모!</color></b>"
-abilities\AbilityDefG8a.json,Description.Details,PASSIVE: Grants a 10% damage bonus and +1 accuracy to attacks with energy weapons.,패시브: 에너지 무기 공격 시 피해가 10% 증가하고 명중률이 +1 향상됩니다.
-abilities\AbilityDefG8b.json,Description.Details,PASSIVE: Grants a 10% damage bonus and +1 accuracy to attacks with ballistic weapons.,패시브: 탄도 무기 공격 시 피해가 10% 증가하고 명중률이 +1 향상됩니다.
-abilities\AbilityDefG8c.json,Description.Details,PASSIVE: Grants a 10% damage bonus and +1 accuracy to attacks with missile weapons.,패시브: 미사일 무기 공격 시 피해가 10% 증가하고 명중률이 +1 향상됩니다.
-abilities\AbilityDefG8d.json,Description.Details,PASSIVE: Grants a 10% damage bonus and +1 accuracy to attacks with battle armor weapons.,패시브: 전투 장비 무기 공격 시 피해가 10% 증가하고 명중률이 +1 향상됩니다.
-abilities\AbilityDefG8e.json,Description.Details,"PASSIVE: Grants a 10% damage bonus and +1 accuracy to attacks with artillery cannon and howitzer weapons (does not apply to the Long Tom/Sniper/Thumper Pieces, the Arrow IV, the Sirocco, or the Cruise Missile/50).","패시브: 대포 및 곡사포 무기 공격 시 피해가 10% 증가하고 명중률이 +1 향상됩니다. (단, 롱 톰/스나이퍼/썸퍼 포, 애로우 IV, 시로코, 크루즈 미사일/50에는 적용되지 않습니다.)"
-abilities\AbilityDefG8T.json,Description.Details,"PASSIVE: This tank crew is able to use their increased knowledge of targeting systems to accurately target anything, letting them ignore 2 evasion on enemies at all times.",패시브: 이 전차 승무원은 향상된 조준 시스템 지식을 활용하여 언제나 적의 회피치 2를 무시하고 정확하게 목표를 조준할 수 있습니다.
-abilities\AbilityDefGrampaTex.json,Description.Details,PASSIVE: Grampa gets a 10% damage boost against all targets but also has a reduced stability threshold at all times.,"패시브: Grampa는 모든 대상에게 10%의 추가 피해를 주지만, 항상 안정성 한계치가 감소합니다."
-abilities\AbilityDefGu10a.json,Description.Details,"ACTION: Activate in order to gain a flat 20% damage reduction regardless of cover or positioning for all player units. The DR lasts for 2 turns. 4 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 발동 시 모든 아군 유닛이 지형이나 위치와 상관없이 20% 고정 피해 감소 효과를 얻습니다. 이 피해 감소는 2턴 동안 지속됩니다. 재사용 대기시간은 4턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
-abilities\AbilityDefGu10T.json,Description.Details,"ACTION: Cannot be used if you have moved this turn. Intentionally pillbox this tank, losing all ability to move for this turn and the next turn. In exchange, take 90% reduced damage from all sources until the end of your next turn. 4 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>","액션: 이번 턴에 이동했다면 사용할 수 없습니다. 전차를 의도적으로 고정 포대로 전환하여 이번 턴과 다음 턴 동안 이동 능력을 상실합니다. 그 대가로, 다음 턴 종료 시까지 모든 피해로부터 90% 감소된 피해만 받습니다. 재사용 대기시간은 4턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 30 소모!</color></b>"
-abilities\AbilityDefGu5a.json,Description.Details,"ACTION: Activate in order to gain a flat 50% damage reduction regardless of cover or positioning as well as gaining 1 initiative. The DR lasts until your next turn, initiative only applies next turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 발동 시 지형이나 위치와 관계없이 50% 고정 피해 감소 효과를 얻고, 이니셔티브가 +1 증가합니다. 피해 감소는 다음 턴까지 지속되며, 이니셔티브는 다음 턴에만 적용됩니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
-abilities\AbilityDefGu5T.json,Description.Details,"PASSIVE: This tank crew thinks ahead and brought backup components and patched in workarounds, reducing their tank's vulnerability to critical damage by 50% at all times.","패시브: 이 전차 승무원은 예비 부품을 준비하고 임시 수리 방안을 마련해 두어, 전차의 치명타 피해 취약성을 항상 50% 감소시킵니다."
-abilities\AbilityDefGu8a.json,Description.Details,"PASSIVE: Grants a 35% damage bonus to kicks, punches, and DFAs. Reduces self-damage from DFAs by 50%. Grants one extra punch attack.","패시브: 발차기, 펀치, DFA 공격의 피해가 35% 증가합니다. DFA로 인한 자손 피해는 50% 감소하며, 펀치 공격을 한 번 더 수행할 수 있습니다."
-abilities\AbilityDefGu8T.json,Description.Details,"PASSIVE: This tank crew is able to their incredible mastery of their machine to literally dodge incoming fire, reducing damage taken by 20% at all times.","패시브: 이 전차 승무원은 기계 운용의 놀라운 숙련도를 통해 들어오는 공격을 회피하여, 항상 받는 피해를 20% 감소시킵니다."
-abilities\AbilityDefLokiGhost.json,Description.Details,"PASSIVE: Loki's evasive charges are immune to being removed by sensor lock effects. However, he gets a -1 to weapon accuracy at all times.",패시브: Loki의 회피 충전은 센서 록 효과로 제거되지 않습니다. 그러나 무기 명중률이 항상 -1 감소합니다.
-abilities\AbilityDefNoBleed.json,Description.Details,PASSIVE: This pilot is immune to bleeding out in combat.,패시브: 이 조종사는 전투 중 출혈로 인한 사망에 면역을 가집니다.
-abilities\AbilityDefP10a.json,Description.Details,PASSIVE: Superior piloting skill lets you use waypoint movement to plot a perfect path during a sprint as well as ignore land mines.,"패시브: 뛰어난 조종 실력으로 스프린트 시 경유지 이동을 활용해 완벽한 경로를 설정할 수 있으며, 지뢰를 무시합니다."
-abilities\AbilityDefP10T.json,Description.Details,"ACTION: This unit uses targeting and spotting systems to transmit better movement paths to an allied unit, granting that unit increased movement speed (+60 meters) for a turn. Spotter has a 500 meter range. 4 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 40 Resolve to use!</color></b>","액션: 이 유닛은 조준 및 관측 시스템을 사용하여 아군 유닛에 더 나은 이동 경로를 전달하고, 해당 유닛은 한 턴 동안 이동 속도가 증가(+60m)합니다. 관측 범위는 500m입니다. 재사용 대기시간은 4턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 40 소모!</color></b>"
-abilities\AbilityDefP5a.json,Description.Details,"ACTION: Blur your mech's sensor signature such that you gain +2 evasive charges from movement for two turns. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 자신의 멕 센서 신호를 흐리게 하여, 2턴 동안 이동 시 회피 충전이 +2 추가됩니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
-abilities\AbilityDefP5T.json,Description.Details,"ACTION: For a single turn, this tank's movement ignores all terrain bonuses or penalties, letting it move through any terrain or landmines without issue. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 10 Resolve to use!</color></b>
+Abilifier\abilities\AbilityDefFrostDR.json,Description.Details,PASSIVE: Scorch takes 10% less damage from all sources at all times.,패시브: Scorch는 항상 모든 피해로부터 10% 감소된 피해를 받습니다.
+Abilifier\abilities\AbilityDefG10a.json,Description.Details,"ACTION: Supercharge your cooling system for a turn, gaining +60 heat dissipation for the turn, at the cost of responsiveness in the controls. Your initiative is reduced by 2 for 2 turns. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 냉각 시스템을 과충전하여 한 턴 동안 열 소산량이 +60 증가하지만, 조종 반응성이 저하됩니다. 2턴 동안 이니셔티브가 -2 감소합니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
+Abilifier\abilities\AbilityDefG10T.json,Description.Details,"PASSIVE: This tank crew is such masters of their tank that they can squeeze extra firepower out of the guns, gaining a +10% flat bonus to damage with every attack.","패시브: 이 전차 승무원은 전차 운용의 대가이므로 포에서 더 많은 화력을 끌어내어, 모든 공격에 +10%의 고정 피해 보너스를 얻습니다."
+Abilifier\abilities\AbilityDefG5a.json,Description.Details,"ACTION: Supercharge your mech for a turn, dealing 15% greater damage and hitting with +2 accuracy for the turn. Generates an extra 30 heat this turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 멕을 과충전하여 한 턴 동안 주는 피해가 15% 증가하고 명중률이 +2 향상됩니다. 단, 이번 턴에 추가로 30의 열을 발생시킵니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
+Abilifier\abilities\AbilityDefG5T.json,Description.Details,"ACTION: Cannot be used if you have moved this turn. Intentionally pillbox this tank, losing all ability to move this turn. In exchange, gain +30% damage this turn. 4 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>","액션: 이번 턴에 이동했다면 사용할 수 없습니다. 의도적으로 전차를 고정 포대로 전환하여 이번 턴 동안 이동 능력을 완전히 상실합니다. 대신, 이번 턴에 +30% 피해를 얻습니다. 재사용 대기시간은 4턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 30 소모!</color></b>"
+Abilifier\abilities\AbilityDefG8a.json,Description.Details,PASSIVE: Grants a 10% damage bonus and +1 accuracy to attacks with energy weapons.,패시브: 에너지 무기 공격 시 피해가 10% 증가하고 명중률이 +1 향상됩니다.
+Abilifier\abilities\AbilityDefG8b.json,Description.Details,PASSIVE: Grants a 10% damage bonus and +1 accuracy to attacks with ballistic weapons.,패시브: 탄도 무기 공격 시 피해가 10% 증가하고 명중률이 +1 향상됩니다.
+Abilifier\abilities\AbilityDefG8c.json,Description.Details,PASSIVE: Grants a 10% damage bonus and +1 accuracy to attacks with missile weapons.,패시브: 미사일 무기 공격 시 피해가 10% 증가하고 명중률이 +1 향상됩니다.
+Abilifier\abilities\AbilityDefG8d.json,Description.Details,PASSIVE: Grants a 10% damage bonus and +1 accuracy to attacks with battle armor weapons.,패시브: 전투 장비 무기 공격 시 피해가 10% 증가하고 명중률이 +1 향상됩니다.
+Abilifier\abilities\AbilityDefG8e.json,Description.Details,"PASSIVE: Grants a 10% damage bonus and +1 accuracy to attacks with artillery cannon and howitzer weapons (does not apply to the Long Tom/Sniper/Thumper Pieces, the Arrow IV, the Sirocco, or the Cruise Missile/50).","패시브: 대포 및 곡사포 무기 공격 시 피해가 10% 증가하고 명중률이 +1 향상됩니다. (단, 롱 톰/스나이퍼/썸퍼 포, 애로우 IV, 시로코, 크루즈 미사일/50에는 적용되지 않습니다.)"
+Abilifier\abilities\AbilityDefG8T.json,Description.Details,"PASSIVE: This tank crew is able to use their increased knowledge of targeting systems to accurately target anything, letting them ignore 2 evasion on enemies at all times.",패시브: 이 전차 승무원은 향상된 조준 시스템 지식을 활용하여 언제나 적의 회피치 2를 무시하고 정확하게 목표를 조준할 수 있습니다.
+Abilifier\abilities\AbilityDefGrampaTex.json,Description.Details,PASSIVE: Grampa gets a 10% damage boost against all targets but also has a reduced stability threshold at all times.,"패시브: Grampa는 모든 대상에게 10%의 추가 피해를 주지만, 항상 안정성 한계치가 감소합니다."
+Abilifier\abilities\AbilityDefGu10a.json,Description.Details,"ACTION: Activate in order to gain a flat 20% damage reduction regardless of cover or positioning for all player units. The DR lasts for 2 turns. 4 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 발동 시 모든 아군 유닛이 지형이나 위치와 상관없이 20% 고정 피해 감소 효과를 얻습니다. 이 피해 감소는 2턴 동안 지속됩니다. 재사용 대기시간은 4턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
+Abilifier\abilities\AbilityDefGu10T.json,Description.Details,"ACTION: Cannot be used if you have moved this turn. Intentionally pillbox this tank, losing all ability to move for this turn and the next turn. In exchange, take 90% reduced damage from all sources until the end of your next turn. 4 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>","액션: 이번 턴에 이동했다면 사용할 수 없습니다. 전차를 의도적으로 고정 포대로 전환하여 이번 턴과 다음 턴 동안 이동 능력을 상실합니다. 그 대가로, 다음 턴 종료 시까지 모든 피해로부터 90% 감소된 피해만 받습니다. 재사용 대기시간은 4턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 30 소모!</color></b>"
+Abilifier\abilities\AbilityDefGu5a.json,Description.Details,"ACTION: Activate in order to gain a flat 50% damage reduction regardless of cover or positioning as well as gaining 1 initiative. The DR lasts until your next turn, initiative only applies next turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 발동 시 지형이나 위치와 관계없이 50% 고정 피해 감소 효과를 얻고, 이니셔티브가 +1 증가합니다. 피해 감소는 다음 턴까지 지속되며, 이니셔티브는 다음 턴에만 적용됩니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
+Abilifier\abilities\AbilityDefGu5T.json,Description.Details,"PASSIVE: This tank crew thinks ahead and brought backup components and patched in workarounds, reducing their tank's vulnerability to critical damage by 50% at all times.","패시브: 이 전차 승무원은 예비 부품을 준비하고 임시 수리 방안을 마련해 두어, 전차의 치명타 피해 취약성을 항상 50% 감소시킵니다."
+Abilifier\abilities\AbilityDefGu8a.json,Description.Details,"PASSIVE: Grants a 35% damage bonus to kicks, punches, and DFAs. Reduces self-damage from DFAs by 50%. Grants one extra punch attack.","패시브: 발차기, 펀치, DFA 공격의 피해가 35% 증가합니다. DFA로 인한 자손 피해는 50% 감소하며, 펀치 공격을 한 번 더 수행할 수 있습니다."
+Abilifier\abilities\AbilityDefGu8T.json,Description.Details,"PASSIVE: This tank crew is able to their incredible mastery of their machine to literally dodge incoming fire, reducing damage taken by 20% at all times.","패시브: 이 전차 승무원은 기계 운용의 놀라운 숙련도를 통해 들어오는 공격을 회피하여, 항상 받는 피해를 20% 감소시킵니다."
+Abilifier\abilities\AbilityDefLokiGhost.json,Description.Details,"PASSIVE: Loki's evasive charges are immune to being removed by sensor lock effects. However, he gets a -1 to weapon accuracy at all times.",패시브: Loki의 회피 충전은 센서 록 효과로 제거되지 않습니다. 그러나 무기 명중률이 항상 -1 감소합니다.
+Abilifier\abilities\AbilityDefNoBleed.json,Description.Details,PASSIVE: This pilot is immune to bleeding out in combat.,패시브: 이 조종사는 전투 중 출혈로 인한 사망에 면역을 가집니다.
+Abilifier\abilities\AbilityDefP10a.json,Description.Details,PASSIVE: Superior piloting skill lets you use waypoint movement to plot a perfect path during a sprint as well as ignore land mines.,"패시브: 뛰어난 조종 실력으로 스프린트 시 경유지 이동을 활용해 완벽한 경로를 설정할 수 있으며, 지뢰를 무시합니다."
+Abilifier\abilities\AbilityDefP10T.json,Description.Details,"ACTION: This unit uses targeting and spotting systems to transmit better movement paths to an allied unit, granting that unit increased movement speed (+60 meters) for a turn. Spotter has a 500 meter range. 4 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 40 Resolve to use!</color></b>","액션: 이 유닛은 조준 및 관측 시스템을 사용하여 아군 유닛에 더 나은 이동 경로를 전달하고, 해당 유닛은 한 턴 동안 이동 속도가 증가(+60m)합니다. 관측 범위는 500m입니다. 재사용 대기시간은 4턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 40 소모!</color></b>"
+Abilifier\abilities\AbilityDefP5a.json,Description.Details,"ACTION: Blur your mech's sensor signature such that you gain +2 evasive charges from movement for two turns. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 자신의 멕 센서 신호를 흐리게 하여, 2턴 동안 이동 시 회피 충전이 +2 추가됩니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
+Abilifier\abilities\AbilityDefP5T.json,Description.Details,"ACTION: For a single turn, this tank's movement ignores all terrain bonuses or penalties, letting it move through any terrain or landmines without issue. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 10 Resolve to use!</color></b>
 
  <b><color=#099ff2>DOES NOT WORK FOR MECHS, DO NOT USE WITH MECHS!</color></b>","액션: 한 턴 동안 이 전차의 이동은 모든 지형 보너스나 페널티를 무시하며, 어떤 지형이나 지뢰도 문제없이 통과할 수 있습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 10 소모!</color></b>
 
 <b><color=#099ff2>멕에는 적용되지 않습니다, 멕과 함께 사용하지 마십시오!</color></b>"
-abilities\AbilityDefP8a.json,Description.Details,"PASSIVE: This pilot's evasive charges are immune to being removed by sensor lock effects. Additionally, pilot gets +2 defense at all times.","패시브: 이 조종사의 회피 충전은 센서 록 효과로 제거되지 않으며, 항상 방어력이 +2 증가합니다."
-abilities\AbilityDefP8T.json,Description.Details,"ACTION: Supercharge this tank's movement, gaining 60 meters of speed, at the cost of damage to the tank's structure equal to 10% of its current structure value. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 이 전차의 이동을 과충전하여 속도가 +60m 증가하지만, 전차의 현재 구조치의 10%에 해당하는 피해를 받습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
-abilities\AbilityDefRevostaeIndirect.json,Description.Details,PASSIVE: Revostae's indirect accuracy is increased by 4 but his direct accuracy is decreased by 2.,"패시브: Revostae는 간접 사격 명중률이 +4 증가하지만, 직접 사격 명중률은 -2 감소합니다."
-abilities\AbilityDefShadeMelee.json,Description.Details,"PASSIVE: Grants a 10% damage bonus to kicks, punches, and physical weapon attacks.","패시브: 발차기, 펀치, 물리 무기 공격의 피해가 10% 증가합니다."
-abilities\AbilityDefT10Aa.json,Description.Details,"PASSIVE: Gain a +25% boost to sensors, sight, all weapon long and max range brackets, and a 2.5% Called Shot bonus.","패시브: 센서, 시야, 모든 무기의 장거리 및 최대 사거리 범위가 +25% 증가하며, 지명 사격 보너스가 +2.5% 추가됩니다."
-abilities\AbilityDefT10T.json,Description.Details,"PASSIVE: Using special on-board command and control electronics, this unit serves as a company master, gaining +1 initiative, +10% sensor and sight range, and +1 resolve generation, all for itself in combat.","패시브: 특수 지휘·통제 전자 장비를 활용하여 이 유닛은 부대 지휘관 역할을 하며, 전투 중 자신에게 +1 이니셔티브, +10% 센서 및 시야 범위, +1 결의 생성 보너스를 얻습니다."
-abilities\AbilityDefT5Aa.json,Description.Details,"ACTION: Advanced heuristics provide your forces with +2 accuracy for the remainder of this turn. Does not affect this unit. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>","액션: 고급 휴리스틱을 통해 아군에게 이번 턴이 끝날 때까지 +2 명중률을 부여합니다. 이 유닛에는 적용되지 않습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 30 소모!</color></b>"
-abilities\AbilityDefT5T.json,Description.Details,"ACTION: This unit uses a high-power targeting laser to paint an enemy target instead of firing weapons this turn. Player units gain a +3 hit chance against that target for 2 turns. Target Painting has a 500 meter range. 4 turn cooldown, ends the turn. <b><color=#099ff2>Costs 30 Resolve to use! Ends Your Turn!</color></b>","액션: 이 유닛은 무기를 발사하는 대신 고출력 조준 레이저로 적 목표를 지정합니다. 아군 유닛은 해당 목표에 대해 2턴 동안 +3 명중률을 얻습니다. 목표 지정 사거리는 500m입니다. 재사용 대기시간은 4턴이며, 턴을 종료합니다. <b><color=#099ff2>사용 시 결의 30 소모! 턴 종료!</color></b>"
-abilities\AbilityDefT8Aa.json,Description.Details,PASSIVE: Gain a +33% boost to all support weapon short and medium range brackets as well as +10% damage with support weapons,"패시브: 모든 보조 무기의 단거리 및 중거리 범위가 +33% 증가하고, 보조 무기의 피해가 +10% 증가합니다."
-abilities\AbilityDefT8Ab.json,Description.Details,PASSIVE: Gain a +33% boost to all bomb bay weapon range brackets as well as +10% damage with bomb bay weapons,"패시브: 모든 폭탄창 무기의 사거리 범위가 +33% 증가하고, 폭탄창 무기의 피해가 +10% 증가합니다."
-abilities\AbilityDefT8Ac.json,Description.Details,"ACTION: Cannot be used if you have moved this turn. Engage in rapid target acquisition, gaining an +5 increase to initiative on your following turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>","액션: 이번 턴에 이동했다면 사용할 수 없습니다. 신속한 목표 획득을 수행하여 다음 턴에 이니셔티브가 +5 증가합니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 30 소모!</color></b>"
-abilities\AbilityDefT8T.json,Description.Details,ACTION: Perform a Sensor Lock on all enemies within 350 meters. There is a 3 round cooldown and the effect ends the unit's turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>,"액션: 반경 350m 이내의 모든 적에게 센서 록을 수행합니다. 재사용 대기시간은 3턴이며, 효과 발동 시 유닛의 턴이 종료됩니다. <b><color=#099ff2>사용 시 결의 30 소모!</color></b>"
-abilities\AbilityDeftboneHunt.json,Description.Details,"PASSIVE: t-bone's ballistic weapons ignore 3 evasion, but his indirect fire has a +4 penalty and all his weapons have their min range increased by 60 meters.","패시브: t-bone의 탄도 무기는 적의 회피치 3을 무시하지만, 간접 사격 시 -4 페널티를 받고 모든 무기의 최소 사거리가 60m 증가합니다."
-abilities\AbilityDefTexHealth.json,Description.Details,PASSIVE: Tex gains +2 pilot health just for showing up.,패시브: Tex는 단순히 출전하는 것만으로도 조종사 체력이 +2 증가합니다.
-abilities\AbilityDefTurtrusEnergy.json,Description.Details,PASSIVE: Turtrus's energy weapons generate 10% less heat when fired.,패시브: Turtrus의 에너지 무기는 발사 시 발생하는 열이 10% 감소합니다.
-abilities\AbilityDefVIPSafety.json,Description.Details,"ACTION: Focus on defense while giving up on offense, gaining 90% damage reduction but suffering a -20 penalty to attacks for the turn. 2 turn cooldown. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 방어에 집중하고 공격을 포기하여 한 턴 동안 받는 피해가 90% 감소하지만, 공격에 -20 페널티를 받습니다. 재사용 대기시간은 2턴입니다. <b><color=#099ff2>사용 시 결의 15 소모!</color></b>"
-abilities\AbilityDefWulfSRM.json,Description.Details,PASSIVE: Wulf's SRMs gain a 10% damage bonus and +1 accuracy but he also suffers a -1 penalty to all other weapon attacks.,"패시브: Wulf의 SRM은 피해가 10% 증가하고 명중률이 +1 상승하지만, 다른 모든 무기 공격에는 -1 페널티를 받습니다."
-abilities\AbilityDef_Battlefield_Ping.json,Description.Details,"ACTION: Perform a Sensor Lock on all enemies within 1500 meters, and generates 90 Heat for the user. There is a 99 round cooldown (it is effectively once per battle) and Ends your Turn.","액션: 반경 1500m 이내의 모든 적에게 센서 록을 수행하며, 사용자는 90의 열을 발생시킵니다. 재사용 대기시간은 99턴(사실상 전투당 1회)이며, 턴이 종료됩니다."
-abilities\AbilityDef_Bloodhound_Ping.json,Description.Details,"ACTION: Perform a Sensor Lock on all enemies within 300 meters, and generates 50 Heat for the user. There is a 4 round cooldown and Ends your Turn.","액션: 반경 300m 이내의 모든 적에게 센서 록을 수행하며, 사용자는 50의 열을 발생시킵니다. 재사용 대기시간은 4턴이며, 턴이 종료됩니다."
-abilities\AbilityDef_Boosted_Ping.json,Description.Details,"ACTION: Perform a Sensor Lock on all enemies within 350 meters, and generates 60 Heat for the user. There is a 5 round cooldown and Ends your Turn.","액션: 반경 350m 이내의 모든 적에게 센서 록을 수행하며, 사용자는 60의 열을 발생시킵니다. 재사용 대기시간은 5턴이며, 턴이 종료됩니다."
-abilities\AbilityDef_EmergencyVent.json,Description.Details,"ACTION: Performs an emergency coolant dump, venting a massive amount of heat in a single action. Must be used before movement and consumes the unit's entire turn. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 긴급 냉각수 방출을 수행하여 한 번에 대량의 열을 배출합니다. 이동 전에만 사용할 수 있으며, 유닛의 전체 턴을 소모합니다. <b><color=#099ff2>사용 시 결의 15 소모!</color></b>"
-abilities\AbilityDef_FirstAid.json,Description.Details,"ACTION: Staunches bleedouts for 3 turns, including the turn used. Must be used before movement and consumes the unit's entire turn. <b><color=#099ff2>Costs 0 Resolve to use!</color></b>","액션: 출혈을 3턴 동안(사용한 턴 포함) 멈춥니다. 이동 전에만 사용할 수 있으며, 유닛의 전체 턴을 소모합니다. <b><color=#099ff2>사용 시 결의 0 소모!</color></b>"
-abilities\AbilityDef_LightAP_Ping.json,Description.Details,"ACTION: Perform a Sensor Lock on all enemies within 100 meters, and generates 40 Heat for the user. There is a 3 round cooldown and Ends your Turn.","액션: 반경 100m 이내의 모든 적에게 센서 록을 수행하며, 사용자는 40의 열을 발생시킵니다. 재사용 대기시간은 3턴이며, 턴이 종료됩니다."
-abilities\AbilityDef_SensorSweep.json,Description.Details,"ACTION: Perform a Sensor Lock on all enemies within 1500 meters, and generates 45 Heat for the user. There is a 4 round cooldown and Ends your Turn.","액션: 반경 1500m 이내의 모든 적에게 센서 록을 수행하며, 사용자는 45의 열을 발생시킵니다. 재사용 대기시간은 4턴이며, 턴이 종료됩니다."
-abilities\AbilityDefAmidSpeed.json,Description.Name,SPIRIT OF THE CICADA,시카다의 영혼
-abilities\AbilityDefBDInit.json,Description.Name,DESIGNERS INSIGHT,설계자의 통찰
-abilities\AbilityDefBlueAP.json,Description.Name,SUPPORT MASTER,지원 전문가
-abilities\AbilityDefBlueSpeed.json,Description.Name,SPEED OF LIGHT,빛의 속도
-abilities\AbilityDefBTeam.json,Description.Name,TRAINING WHEELS,보조 바퀴
-abilities\AbilityDefBTeamCrit.json,Description.Name,BEGINNER'S LUCK,초심자의 행운
-abilities\AbilityDefClanTrait.json,Description.Name,Clan Training Trait,클랜 훈련 특성
-abilities\AbilityDefCMDHunter.json,Description.Name,BOUNTY HUNTER,현상금 사냥꾼
-abilities\AbilityDefCMDOperative.json,Description.Name,SPECIAL OPERATIVE,특수 요원
-abilities\AbilityDefCMDPilot.json,Description.Name,AEROSPACE PILOT,항공우주 조종사
-abilities\AbilityDefCMDRacer.json,Description.Name,OFFROAD RACER,오프로드 레이서
-abilities\AbilityDefCMDSmuggler.json,Description.Name,OFFWORLD SMUGGLER,오프월드 밀수업자
-abilities\AbilityDefCMDTrainee.json,Description.Name,OFFICER TRAINEE,장교 견습생
-abilities\AbilityDefCMD_TankDrop_Cargo.json,Description.Name,CARGO'S FERRET AIRDROP,카르고의 페럿 공중 투하
-abilities\AbilityDefFrostDR.json,Description.Name,INDESTRUCTIBLE,불멸
-abilities\AbilityDefG10a.json,Description.Name,STONE COLD,냉혈
-abilities\AbilityDefG10T.json,Description.Name,OVERWHELMING AGGRESSION,압도적인 공격성
-abilities\AbilityDefG5a.json,Description.Name,BATTLELORD,전투 군주
-abilities\AbilityDefG5T.json,Description.Name,INTENSIFY FIREPOWER,화력 강화
-abilities\AbilityDefG8a.json,Description.Name,ENERGY MASTER,에너지 마스터
-abilities\AbilityDefG8b.json,Description.Name,BALLISTIC MASTER,탄도 무기 전문가
-abilities\AbilityDefG8c.json,Description.Name,MISSILE MASTER,미사일 전문가
-abilities\AbilityDefG8d.json,Description.Name,BATTLE ARMOR MASTER,전투 장비 전문가
-abilities\AbilityDefG8e.json,Description.Name,CANNON MASTER,대포 전문가
-abilities\AbilityDefG8T.json,Description.Name,PERFECT TARGETING,완벽한 조준
-abilities\AbilityDefGrampaTex.json,Description.Name,OLD MAN OF THE MECHS,멕의 노장
-abilities\AbilityDefGu10a.json,Description.Name,DEFENSIVE FORMATION,방어 진형
-abilities\AbilityDefGu10T.json,Description.Name,HULL DOWN,차체 엄폐
-abilities\AbilityDefGu5a.json,Description.Name,SHIELDED STANCE,방패 자세
-abilities\AbilityDefGu5T.json,Description.Name,REDUNDANT COMPONENTS,중복 부품
-abilities\AbilityDefGu8a.json,Description.Name,BRAWLER,난투가
-abilities\AbilityDefGu8T.json,Description.Name,STREET RACER,스트리트 레이서
-abilities\AbilityDefLokiGhost.json,Description.Name,SENSOR GHOST,센서 고스트
-abilities\AbilityDefNoBleed.json,Description.Name,BLEEDOUT IMMUNITY,출혈 면역
-abilities\AbilityDefP10a.json,Description.Name,LIGHTFOOT,라이트풋
-abilities\AbilityDefP10T.json,Description.Name,SPOTTER,관측수
-abilities\AbilityDefP5a.json,Description.Name,PHANTOM,팬텀
-abilities\AbilityDefP5T.json,Description.Name,SIDESLIP,사이드슬립
-abilities\AbilityDefP8a.json,Description.Name,INVISIBLE TARGET,보이지 않는 표적
-abilities\AbilityDefP8T.json,Description.Name,BRUTE FORCE,억지력
-abilities\AbilityDefRevostaeIndirect.json,Description.Name,HOLD LOCKS PLEASE,HOLD LOCKS PLEASE
-abilities\AbilityDefShadeMelee.json,Description.Name,MELEE TYRANT,근접 전투의 폭군
-abilities\AbilityDefT10Aa.json,Description.Name,EAGLE EYE,예리한 조준
-abilities\AbilityDefT10T.json,Description.Name,COMMAND AND CONTROL,지휘 통제
-abilities\AbilityDefT5Aa.json,Description.Name,TARGET PREDICTION,목표 예측
-abilities\AbilityDefT5T.json,Description.Name,TARGET PAINTING,목표 지정
-abilities\AbilityDefT8Aa.json,Description.Name,KNIFE FIGHTER,단검 전사
-abilities\AbilityDefT8Ab.json,Description.Name,BOMBARDIER,폭격수
-abilities\AbilityDefT8Ac.json,Description.Name,FAST FIRE,속사
-abilities\AbilityDefT8T.json,Description.Name,SENSOR SWEEP,센서 탐색
-abilities\AbilityDeftboneHunt.json,Description.Name,KENTUCKY WINDAGE,켄터키 윈데이지
-abilities\AbilityDefTexHealth.json,Description.Name,HARD TO KILL,죽이기 어려운
-abilities\AbilityDefTurtrusEnergy.json,Description.Name,LASER INSULATOR,레이저 절연체
-abilities\AbilityDefVIPSafety.json,Description.Name,TAKING COVER,엄폐 중
-abilities\AbilityDefWulfSRM.json,Description.Name,SRM MASTER,SRM 전문가
-abilities\AbilityDef_Battlefield_Ping.json,Description.Name,BATTLEFIELD SURVEILLANCE,전장 감시
-abilities\AbilityDef_Bloodhound_Ping.json,Description.Name,BLOODHOUND PROBE PING,블러드하운드 탐침 신호
-abilities\AbilityDef_Boosted_Ping.json,Description.Name,BOOSTED ACTIVE PROBE PING,강화된 액티브 프로브 신호
-abilities\AbilityDef_EmergencyVent.json,Description.Name,EMERGENCY VENT,긴급 배출
-abilities\AbilityDef_FirstAid.json,Description.Name,FIRST AID,응급처치
-abilities\AbilityDef_LightAP_Ping.json,Description.Name,LIGHT ACTIVE PROBE PING,라이트 액티브 프로브 신호
-abilities\AbilityDef_SensorSweep.json,Description.Name,BATTLEFIELD SURVEILLANCE,전장 감시
-abilities\AbilityDefAmidSpeed.json,EffectData[0].Description.Details,Walk speed increased by 15%.,보행 속도 15% 증가
-abilities\AbilityDefBDInit.json,EffectData[0].Description.Details,+1 to base Initiative,기본 이니셔티브 +1
-abilities\AbilityDefBlueAP.json,EffectData[0].Description.Details,Support weapons deal 20% more damage.,보조 무기 피해 +20%
-abilities\AbilityDefBlueSpeed.json,EffectData[0].Description.Details,Aether has 10% increased ground speed but also has 10% reduced range with ranged weaponry.,"Aether는 지상 이동 속도 +10% 증가, 원거리 무기 사거리 -10% 감소"
-abilities\AbilityDefBTeam.json,EffectData[0].Description.Details,+5% Weapon Damage,무기 피해 +5%
-abilities\AbilityDefBTeamCrit.json,EffectData[0].Description.Details,+50% Crit Chance,치명타 확률 +50%
-abilities\AbilityDefClanTrait.json,EffectData[0].Description.Details,"The Clans train their warriors better and more thoroughly than the Inner Sphere does, granting them bonuses to their pilot skills as well as to their accuracy and speed. It does de-emphasize melee combat however, reducing their melee damage significantly.","클랜은 이너스피어보다 전사들을 더 철저하고 우수하게 훈련하여 조종사 기술, 명중률, 속도에 보너스를 제공합니다. 그러나 근접 전투는 경시되어 근접 피해가 크게 감소합니다."
-abilities\AbilityDefCMDHunter.json,EffectData[0].Description.Details,Called Shots slightly more reliable,지명 사격이 약간 더 신뢰성 있게 됨
-abilities\AbilityDefCMDOperative.json,EffectData[0].Description.Details,+2 accuracy at maximum range,최대 사거리에서 명중률 +2
-abilities\AbilityDefCMDPilot.json,EffectData[0].Description.Details,Grants +0.05 to sprint multiplier.,스프린트 배율 +0.05 증가
-abilities\AbilityDefCMDRacer.json,EffectData[0].Description.Details,Increases unsteady threshold by 30.,불안정 한계치 +30 증가
-abilities\AbilityDefCMDSmuggler.json,EffectData[0].Description.Details,Increases sensor range by 10%,센서 범위 10% 증가
-abilities\AbilityDefCMDTrainee.json,EffectData[0].Description.Details,Provides a 2 bonus to actions that generate Resolve.,결의를 생성하는 행동에 +2 보너스 제공
-abilities\AbilityDefFrostDR.json,EffectData[0].Description.Details,Incoming attacks deal 10% less damage to Scorch.,Scorch가 받는 피해 10% 감소
-abilities\AbilityDefG10a.json,EffectData[0].Description.Details,Dissipate 60 more heat this turn.,이번 턴에 열 소산 +60
-abilities\AbilityDefG10T.json,EffectData[0].Description.Details,All damage dealt is increased by 10%.,주는 피해 10% 증가
-abilities\AbilityDefG5a.json,EffectData[0].Description.Details,+15% Weapon Damage,무기 피해 +15%
-abilities\AbilityDefG5T.json,EffectData[0].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
-abilities\AbilityDefG8a.json,EffectData[0].Description.Details,Energy attacks deal [AMT] more damage.,에너지 무기 공격 피해 [AMT] 증가
-abilities\AbilityDefG8b.json,EffectData[0].Description.Details,Ballistic attacks deal [AMT] more damage.,탄도 무기 공격 피해 [AMT] 증가
-abilities\AbilityDefG8c.json,EffectData[0].Description.Details,Missile attacks deal [AMT] more damage.,미사일 무기 공격 피해 [AMT] 증가
-abilities\AbilityDefG8d.json,EffectData[0].Description.Details,Battle armor weapon attacks deal [AMT] more damage.,전투 장비 무기 공격 피해 [AMT] 증가
-abilities\AbilityDefG8e.json,EffectData[0].Description.Details,Artillery cannon and howitzer attacks deal [AMT] more damage.,대포 및 곡사포 공격 피해 [AMT] 증가
-abilities\AbilityDefG8T.json,EffectData[0].Description.Details,This unit ignores two enemy evasion at all times.,이 유닛은 항상 적의 회피치 2를 무시함
-abilities\AbilityDefGrampaTex.json,EffectData[0].Description.Details,Grampa's stability threshold is massively reduced.,Grampa의 안정성 한계치가 크게 감소함
-abilities\AbilityDefGu10a.json,EffectData[0].Description.Details,All incoming damage reduced by 20% for 2 turns.,받는 모든 피해 2턴 동안 20% 감소
-abilities\AbilityDefGu10T.json,EffectData[0].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
-abilities\AbilityDefGu5a.json,EffectData[0].Description.Details,All incoming damage reduced by 50% for 2 turns.,받는 모든 피해 2턴 동안 50% 감소
-abilities\AbilityDefGu5T.json,EffectData[0].Description.Details,All incoming critical chances reduced by 50%.,받는 치명타 확률 50% 감소
-abilities\AbilityDefGu8a.json,EffectData[0].Description.Details,"Kicks, punches, and DFAs deal 35% more damage. DFA self-damage reduced by 50%.","발차기, 펀치, DFA 피해 +35%, DFA 자손 피해 50% 감소"
-abilities\AbilityDefGu8T.json,EffectData[0].Description.Details,This unit takes 20% less damage at all times.,이 유닛은 항상 받는 피해 20% 감소
-abilities\AbilityDefLokiGhost.json,EffectData[0].Description.Details,Weapon attacks suffer -1 accuracy.,무기 공격 명중률 -1 페널티
-abilities\AbilityDefNoBleed.json,EffectData[0].Description.Details,This unit cannot bleed out from injuries.,이 유닛은 부상으로 출혈사 상태에 빠지지 않음
-abilities\AbilityDefP10a.json,EffectData[0].Description.Details,This unit can use waypoint movement even while sprinting.,이 유닛은 스프린트 중에도 경유지 이동 사용 가능
-abilities\AbilityDefP10T.json,EffectData[0].Description.Details,This unit has been spotted for and has +60 meters of movement speed for the turn.,이 유닛은 지정 관측을 받아 이번 턴에 이동 속도 +60m 획득
-abilities\AbilityDefP5a.json,EffectData[0].Description.Details,This unit can have up to 2 extra evasive charges from movement.,이 유닛은 이동으로 인한 회피 충전을 최대 2개까지 추가로 가질 수 있음
-abilities\AbilityDefP5T.json,EffectData[0].Description.Details,This unit ignores terrain bonuses and penalties as well as landmines this turn.,"이 유닛은 이번 턴에 지형 보너스와 페널티, 지뢰를 무시함"
-abilities\AbilityDefP8a.json,EffectData[0].Description.Details,This pilot has a +2 defense against being hit by any attack.,이 조종사는 모든 공격에 대해 +2 피격 방어를 가짐
-abilities\AbilityDefP8T.json,EffectData[0].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴에 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
-abilities\AbilityDefRevostaeIndirect.json,EffectData[0].Description.Details,Direct fire weapon accuracy suffer a +2 penalty.,직사 무기 명중률 -2 페널티
-abilities\AbilityDefShadeMelee.json,EffectData[0].Description.Details,"Kick, punch, and physical weapon attacks deal 10% more damage.","발차기, 펀치, 물리 무기 공격 피해 +10%"
-abilities\AbilityDefT10Aa.json,EffectData[0].Description.Details,"The long/max range brackets on this mech's weapons are increased by 25%, sensor and sight ranges are increased by 33%, and this mech gets a 2.5% boost to called shots.","이 멕의 무기 장거리/최대 사거리 범위 +25%, 센서 및 시야 범위 +33%, 지명 사격 보너스 +2.5%"
-abilities\AbilityDefT10T.json,EffectData[0].Description.Details,"This unit gains +1 initiative, +10% sight and sensor range, and +1 resolve whenever resolve is gained.","이 유닛은 +1 이니셔티브, +10% 시야 및 센서 범위, 결의 획득 시 추가로 +1 결의 획득"
-abilities\AbilityDefT5Aa.json,EffectData[0].Description.Details,Allies gains +2 to accuracy for this turn.,아군은 이번 턴 동안 명중률 +2 획득
-abilities\AbilityDefT5T.json,EffectData[0].Description.Details,This target was TAG'ed. +3 to hit.,이 목표는 TAG 지정됨. 명중률 +3
-abilities\AbilityDefT8Aa.json,EffectData[0].Description.Details,The short and medium range brackets on this mech's support weapons are increased by 33% and its support weapon damage is increased by 10%.,"이 멕의 보조 무기 단거리/중거리 범위 +33%, 보조 무기 피해 +10%"
-abilities\AbilityDefT8Ab.json,EffectData[0].Description.Details,The range brackets on this mech's bomb bay weapons are increased by 33% and its bomb bay weapon damage is increased by 10%.,"이 멕의 폭탄창 무기 사거리 범위 +33%, 폭탄창 무기 피해 +10%"
-abilities\AbilityDefT8Ac.json,EffectData[0].Description.Details,This unit gains +5 initiative on its next turn.,이 유닛은 다음 턴에 이니셔티브 +5 획득
-abilities\AbilityDeftboneHunt.json,EffectData[0].Description.Details,Ballistic weapon attacks ignore 3 evasion.,탄도 무기 공격은 회피치 3 무시
-abilities\AbilityDefTexHealth.json,EffectData[0].Description.Details,+2 to pilot health,조종사 체력 +2
-abilities\AbilityDefTurtrusEnergy.json,EffectData[0].Description.Details,Energy weapons generate 10% less heat.,에너지 무기 열 발생 10% 감소
-abilities\AbilityDefVIPSafety.json,EffectData[0].Description.Details,+90% Damage Reduction,피해 감소 90%
-abilities\AbilityDefWulfSRM.json,EffectData[0].Description.Details,SRM attacks deal 10% more damage.,SRM 공격 피해 +10%
-abilities\AbilityDef_EmergencyVent.json,EffectData[0].Description.Details,Dissipate 100 more heat this turn.,이번 턴에 열 소산 +100
-abilities\AbilityDef_FirstAid.json,EffectData[0].Description.Details,Bleed Rate x 0.01,출혈률 x 0.01
-abilities\AbilityDefAmidSpeed.json,EffectData[0].Description.Name,Walk Speed Increased,보행 속도 증가
-abilities\AbilityDefBDInit.json,EffectData[0].Description.Name,Initiative Boost,이니셔티브 상승
-abilities\AbilityDefBlueAP.json,EffectData[0].Description.Name,Support Weapon Damage Increased,보조 무기 피해 증가
-abilities\AbilityDefBlueSpeed.json,EffectData[0].Description.Name,Speed of Light,빛의 속도
-abilities\AbilityDefBTeam.json,EffectData[0].Description.Name,Overcharged Weapons,과충전 무기
-abilities\AbilityDefBTeamCrit.json,EffectData[0].Description.Name,Blessed By The Gods of Luck,행운의 신들의 가호
-abilities\AbilityDefClanTrait.json,EffectData[0].Description.Name,Clan Training Trait,클랜 훈련 특성
-abilities\AbilityDefCMDHunter.json,EffectData[0].Description.Name,Improved Called Shot,향상된 지명 사격
-abilities\AbilityDefCMDOperative.json,EffectData[0].Description.Name,Max Range Accuracy Increased,최대 사거리 명중률 증가
-abilities\AbilityDefCMDPilot.json,EffectData[0].Description.Name,Sprint Speed Bonus,스프린트 속도 보너스
-abilities\AbilityDefCMDRacer.json,EffectData[0].Description.Name,Unsteady Threshold Increased,불안정 한계치 증가
-abilities\AbilityDefCMDSmuggler.json,EffectData[0].Description.Name,Sensor Range Increased,센서 범위 증가
-abilities\AbilityDefCMDTrainee.json,EffectData[0].Description.Name,Rsolve Generation Increased,결의 생성 증가
-abilities\AbilityDefFrostDR.json,EffectData[0].Description.Name,Damage Reduction Increased,피해 감소 증가
-abilities\AbilityDefG10a.json,EffectData[0].Description.Name,Supercharged Cooling,과충전 냉각
-abilities\AbilityDefG10T.json,EffectData[0].Description.Name,Overwhelming Aggression,압도적인 공격성
-abilities\AbilityDefG5a.json,EffectData[0].Description.Name,Overcharged Weapons,과충전 무기
-abilities\AbilityDefG5T.json,EffectData[0].Description.Name,Intensified Firepower,강화된 화력
-abilities\AbilityDefG8a.json,EffectData[0].Description.Name,Energy Damage Increased,에너지 무기 피해 증가
-abilities\AbilityDefG8b.json,EffectData[0].Description.Name,Ballistic Damage Increased,탄도 무기 피해 증가
-abilities\AbilityDefG8c.json,EffectData[0].Description.Name,Missile Damage Increased,미사일 무기 피해 증가
-abilities\AbilityDefG8d.json,EffectData[0].Description.Name,Battle Armor Damage Increased,전투 장비 무기 피해 증가
-abilities\AbilityDefG8e.json,EffectData[0].Description.Name,Artillery Damage Increased,대포/곡사포 피해 증가
-abilities\AbilityDefG8T.json,EffectData[0].Description.Name,Perfect Targeting,완벽한 조준
-abilities\AbilityDefGrampaTex.json,EffectData[0].Description.Name,Reduced Stability Threshold,안정성 한계치 감소
-abilities\AbilityDefGu10a.json,EffectData[0].Description.Name,Damage Reduction,피해 감소
-abilities\AbilityDefGu10T.json,EffectData[0].Description.Name,Hull Down Cruise,차체 엄폐 기동
-abilities\AbilityDefGu5a.json,EffectData[0].Description.Name,Damage Reduction,피해 감소
-abilities\AbilityDefGu5T.json,EffectData[0].Description.Name,Redundant Components,중복 부품
-abilities\AbilityDefGu8a.json,EffectData[0].Description.Name,Brawler Buffs,난투 보너스
-abilities\AbilityDefGu8T.json,EffectData[0].Description.Name,Street Racer,스트리트 레이서
-abilities\AbilityDefLokiGhost.json,EffectData[0].Description.Name,Weapon Accuracy Decreased,무기 명중률 감소
-abilities\AbilityDefNoBleed.json,EffectData[0].Description.Name,No Bleedout,출혈 없음
-abilities\AbilityDefP10a.json,EffectData[0].Description.Name,Superior Waypointing,향상된 경유지 이동
-abilities\AbilityDefP10T.json,EffectData[0].Description.Name,Spotted,발견됨
-abilities\AbilityDefP5a.json,EffectData[0].Description.Name,EVASIVE MOVE,회피 기동
-abilities\AbilityDefP5T.json,EffectData[0].Description.Name,Sideslipping,사이드슬립
-abilities\AbilityDefP8a.json,EffectData[0].Description.Name,Invisible Defense,은밀한 방어
-abilities\AbilityDefP8T.json,EffectData[0].Description.Name,Brute Forcing It,억지 돌파
-abilities\AbilityDefRevostaeIndirect.json,EffectData[0].Description.Name,Direct Fire Accuracy Decreased,직사 명중률 감소
-abilities\AbilityDefShadeMelee.json,EffectData[0].Description.Name,Melee Damage Increased,근접 피해 증가
-abilities\AbilityDefT10Aa.json,EffectData[0].Description.Name,Eagle Eye,예리한 눈
-abilities\AbilityDefT10T.json,EffectData[0].Description.Name,Command and Control Initiative Boosted,지휘 통제 이니셔티브 상승
-abilities\AbilityDefT5Aa.json,EffectData[0].Description.Name,Target Prediction,목표 예측
-abilities\AbilityDefT5T.json,EffectData[0].Description.Name,Target Painted,목표 지정됨
-abilities\AbilityDefT8Aa.json,EffectData[0].Description.Name,Knife Fighter,단검 전사
-abilities\AbilityDefT8Ab.json,EffectData[0].Description.Name,Bombardier,폭격수
-abilities\AbilityDefT8Ac.json,EffectData[0].Description.Name,Fast Fire Initiative Boosted,속사 이니셔티브 상승
-abilities\AbilityDeftboneHunt.json,EffectData[0].Description.Name,Ballistic Evasion ignore,탄도 무기 회피 무시
-abilities\AbilityDefTexHealth.json,EffectData[0].Description.Name,Health Boost,체력 증가
-abilities\AbilityDefTurtrusEnergy.json,EffectData[0].Description.Name,Energy Heat Decreased,에너지 무기 열 발생 감소
-abilities\AbilityDefVIPSafety.json,EffectData[0].Description.Name,Increased DR,피해 감소 증가
-abilities\AbilityDefWulfSRM.json,EffectData[0].Description.Name,SRM Damage Increased,SRM 피해 증가
-abilities\AbilityDef_EmergencyVent.json,EffectData[0].Description.Name,Emergency Venting,긴급 배출
-abilities\AbilityDef_FirstAid.json,EffectData[0].Description.Name,Bleed reduction,출혈 감소
-abilities\AbilityDefClanTrait.json,EffectData[10].Description.Details,Damage Modifier,피해 수정치
-abilities\AbilityDefClanTrait.json,EffectData[10].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
-abilities\AbilityDefClanTrait.json,EffectData[11].Description.Details,Damage Modifier,피해 수정치
-abilities\AbilityDefClanTrait.json,EffectData[11].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
-abilities\AbilityDefClanTrait.json,EffectData[12].Description.Details,Damage Modifier,피해 수정치
-abilities\AbilityDefClanTrait.json,EffectData[12].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
-abilities\AbilityDefClanTrait.json,EffectData[13].Description.Details,Damage Modifier,피해 수정치
-abilities\AbilityDefClanTrait.json,EffectData[13].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
-abilities\AbilityDefBDInit.json,EffectData[1].Description.Details,DEFER ACTION CLEARS UNSTEADY,행동 연기 시 불안정 상태 해제
-abilities\AbilityDefBlueAP.json,EffectData[1].Description.Details,Support weapons have 50% less chance to cause critical damage.,보조 무기 치명타 확률 50% 감소
-abilities\AbilityDefBlueSpeed.json,EffectData[1].Description.Details,Support weapons have 50% less chance to cause critical damage.,보조 무기 치명타 확률 50% 감소
-abilities\AbilityDefBTeam.json,EffectData[1].Description.Details,+1 Accuracy,명중률 +1
-abilities\AbilityDefClanTrait.json,EffectData[1].Description.Details,Buffs Piloting Skill,조종 기술 보너스
-abilities\AbilityDefG10a.json,EffectData[1].Description.Details,Initiative reduced by 2 for 2 turns.,2턴 동안 이니셔티브 -2
-abilities\AbilityDefG5a.json,EffectData[1].Description.Details,+2 Accuracy,명중률 +2
-abilities\AbilityDefG5T.json,EffectData[1].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
-abilities\AbilityDefG8a.json,EffectData[1].Description.Details,Energy attacks gain +2 accuracy.,에너지 무기 공격 명중률 +2
-abilities\AbilityDefG8b.json,EffectData[1].Description.Details,Ballistic attacks gain +1 accuracy.,탄도 무기 공격 명중률 +1
-abilities\AbilityDefG8c.json,EffectData[1].Description.Details,Missile attacks gain +1 accuracy.,미사일 무기 공격 명중률 +1
-abilities\AbilityDefG8d.json,EffectData[1].Description.Details,Battle armor weapon attacks gain +1 accuracy.,전투 장비 무기 공격 명중률 +1
-abilities\AbilityDefG8e.json,EffectData[1].Description.Details,Artillery cannon and howitzer attacks gain +1 accuracy.,대포 및 곡사포 공격 명중률 +1
-abilities\AbilityDefGrampaTex.json,EffectData[1].Description.Details,+10% Weapon Damage,무기 피해 +10%
-abilities\AbilityDefGu10T.json,EffectData[1].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
-abilities\AbilityDefGu5a.json,EffectData[1].Description.Details,Iniative boosted by 1 for 2 turns.,2턴 동안 이니셔티브 +1
-abilities\AbilityDefGu8a.json,EffectData[1].Description.Details,Punch attacks deal 20% more damage.,펀치 공격 피해 +20%
-abilities\AbilityDefLokiGhost.json,EffectData[1].Description.Details,This unit is immune to sensor lock.,이 유닛은 센서 록에 면역
-abilities\AbilityDefP10a.json,EffectData[1].Description.Details,This unit can ignore land mines.,이 유닛은 지뢰를 무시할 수 있음
-abilities\AbilityDefP10T.json,EffectData[1].Description.Details,This unit has been spotted for and has +60 meters of movement speed for the turn.,이 유닛은 지정 관측을 받아 이번 턴 이동 속도 +60m 획득
-abilities\AbilityDefP5a.json,EffectData[1].Description.Details,This unit generates 2 extra EVASIVE charges from movement actions.,이 유닛은 이동 행동 시 회피 충전 +2 추가 획득
-abilities\AbilityDefP5T.json,EffectData[1].Description.Details,This unit ignores landmines this turn.,이 유닛은 이번 턴에 지뢰를 무시함
-abilities\AbilityDefP8a.json,EffectData[1].Description.Details,This unit is immune to sensor lock.,이 유닛은 센서 록에 면역
-abilities\AbilityDefP8T.json,EffectData[1].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴에 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
-abilities\AbilityDefRevostaeIndirect.json,EffectData[1].Description.Details,Indirect weapon accuracy gains a +4 bonus.,간접 무기 명중률 +4
-abilities\AbilityDefShadeMelee.json,EffectData[1].Description.Details,Punch attacks deal 10% more damage.,펀치 공격 피해 +10%
-abilities\AbilityDefT10Aa.json,EffectData[1].Description.Details,The max range brackets on this mech's weapons are increased by 25%.,이 멕의 무기 최대 사거리 범위 +25%
-abilities\AbilityDefT10T.json,EffectData[1].Description.Details,Increased sensors range,센서 범위 증가
-abilities\AbilityDefT5T.json,EffectData[1].Description.Details,Visual indicator of the TAG effect,TAG 효과 시각적 표시
-abilities\AbilityDefT8Aa.json,EffectData[1].Description.Details,The Medium range brackets on this mech's support weapons are increased by 33%.,이 멕의 보조 무기 중거리 범위 +33%
-abilities\AbilityDefT8Ab.json,EffectData[1].Description.Details,The Medium range brackets on this mech's support weapons are increased by 33%.,이 멕의 보조 무기 중거리 범위 +33%
-abilities\AbilityDeftboneHunt.json,EffectData[1].Description.Details,The min range brackets on this mech's weapons are increased by 60 meters.,이 멕의 무기 최소 사거리 +60m
-abilities\AbilityDefVIPSafety.json,EffectData[1].Description.Details,-20 Accuracy,명중률 -20
-abilities\AbilityDefWulfSRM.json,EffectData[1].Description.Details,SRM attacks gain +2 accuracy.,SRM 공격 명중률 +2
-abilities\AbilityDefBDInit.json,EffectData[1].Description.Name,Reserve Stab Removal,대기 시 안정성 피해 제거
-abilities\AbilityDefBlueAP.json,EffectData[1].Description.Name,Support Weapon Critical Chance Reduced,보조 무기 치명타 확률 감소
-abilities\AbilityDefBlueSpeed.json,EffectData[1].Description.Name,Aether Short Range,Aether 근거리
-abilities\AbilityDefBTeam.json,EffectData[1].Description.Name,Overcharged Targeting,과충전 조준
-abilities\AbilityDefClanTrait.json,EffectData[1].Description.Name,Piloting Buff,조종 기술 보너스
-abilities\AbilityDefG10a.json,EffectData[1].Description.Name,Initiative Penalty,이니셔티브 페널티
-abilities\AbilityDefG5a.json,EffectData[1].Description.Name,Overcharged Targeting,과충전 조준
-abilities\AbilityDefG5T.json,EffectData[1].Description.Name,Intensified Firepower,화력 강화
-abilities\AbilityDefG8a.json,EffectData[1].Description.Name,Energy Accuracy Increased,에너지 무기 명중률 증가
-abilities\AbilityDefG8b.json,EffectData[1].Description.Name,Ballistic Accuracy Increased,탄도 무기 명중률 증가
-abilities\AbilityDefG8c.json,EffectData[1].Description.Name,Missile Accuracy Increased,미사일 무기 명중률 증가
-abilities\AbilityDefG8d.json,EffectData[1].Description.Name,Battle Armor Accuracy Increased,전투 장비 무기 명중률 증가
-abilities\AbilityDefG8e.json,EffectData[1].Description.Name,Artillery Accuracy Increased,대포/곡사포 명중률 증가
-abilities\AbilityDefGrampaTex.json,EffectData[1].Description.Name,Grampa's Experience,Grampa의 경험
-abilities\AbilityDefGu10T.json,EffectData[1].Description.Name,Hull Down Flank,차체 엄폐 측면
-abilities\AbilityDefGu5a.json,EffectData[1].Description.Name,Initiative Boost,이니셔티브 상승
-abilities\AbilityDefGu8a.json,EffectData[1].Description.Name,Punch Damage Increased,펀치 피해 증가
-abilities\AbilityDefLokiGhost.json,EffectData[1].Description.Name,Sensor Ghost,센서 고스트
-abilities\AbilityDefP10a.json,EffectData[1].Description.Name,Land Mine Ignore,지뢰 무시
-abilities\AbilityDefP10T.json,EffectData[1].Description.Name,Spotted,발견됨
-abilities\AbilityDefP5a.json,EffectData[1].Description.Name,EVASIVE MOVE,회피 기동
-abilities\AbilityDefP5T.json,EffectData[1].Description.Name,Sideslipping,사이드슬립
-abilities\AbilityDefP8a.json,EffectData[1].Description.Name,Invisible Evasion,은밀한 회피
-abilities\AbilityDefP8T.json,EffectData[1].Description.Name,Brute Forcing It,억지 돌파
-abilities\AbilityDefRevostaeIndirect.json,EffectData[1].Description.Name,Indirect Accuracy Increased,간접 사격 명중률 증가
-abilities\AbilityDefShadeMelee.json,EffectData[1].Description.Name,Punch Damage Increased,펀치 피해 증가
-abilities\AbilityDefT10Aa.json,EffectData[1].Description.Name,Max Range Increase,최대 사거리 증가
-abilities\AbilityDefT10T.json,EffectData[1].Description.Name,C3 Sensors,C3 센서
-abilities\AbilityDefT5T.json,EffectData[1].Description.Name,TAG MARKED,TAG 지정됨
-abilities\AbilityDefT8Aa.json,EffectData[1].Description.Name,Medium Range Increase,중거리 증가
-abilities\AbilityDefT8Ab.json,EffectData[1].Description.Name,Medium Range Increase,중거리 증가
-abilities\AbilityDeftboneHunt.json,EffectData[1].Description.Name,Min Range Increase,최소 사거리 증가
-abilities\AbilityDefVIPSafety.json,EffectData[1].Description.Name,Neutralized Targeting,조준 무력화
-abilities\AbilityDefWulfSRM.json,EffectData[1].Description.Name,SRM Accuracy Increased,SRM 명중률 증가
-abilities\AbilityDefBlueSpeed.json,EffectData[2].Description.Details,Support weapons have 50% less chance to cause critical damage.,보조 무기 치명타 확률 50% 감소
-abilities\AbilityDefClanTrait.json,EffectData[2].Description.Details,Buffs Guts Skill,근성(Guts) 기술 보너스
-abilities\AbilityDefG5a.json,EffectData[2].Description.Details,+30 Heat Generated,+30 열 발생
-abilities\AbilityDefG5T.json,EffectData[2].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
-abilities\AbilityDefGu10T.json,EffectData[2].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
-abilities\AbilityDefGu8a.json,EffectData[2].Description.Details,DFA attacks deal 20% more damage.,DFA 공격 피해 +20%
-abilities\AbilityDefP10T.json,EffectData[2].Description.Details,This unit has been spotted for and has +60 meters of movement speed for the turn.,이 유닛은 지정 관측을 받아 이번 턴 이동 속도 +60m 획득
-abilities\AbilityDefP5T.json,EffectData[2].Description.Details,This unit ignores pathing this turn.,이 유닛은 이번 턴에 경로 제약을 무시함
-abilities\AbilityDefP8T.json,EffectData[2].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
-abilities\AbilityDefShadeMelee.json,EffectData[2].Description.Details,PhysWeap attacks deal 10% more damage.,물리 무기 공격 피해 +10%
-abilities\AbilityDefT10Aa.json,EffectData[2].Description.Details,Increases sensor range by 33%,센서 범위 +33%
-abilities\AbilityDefT10T.json,EffectData[2].Description.Details,Increases spotting distance.,관측 거리 증가
-abilities\AbilityDefT8Aa.json,EffectData[2].Description.Details,Support weapon attacks deal 10% more damage.,보조 무기 공격 피해 +10%
-abilities\AbilityDefT8Ab.json,EffectData[2].Description.Details,The Long range brackets on this mech's support weapons are increased by 33%.,이 멕의 보조 무기 장거리 범위 +33%
-abilities\AbilityDeftboneHunt.json,EffectData[2].Description.Details,Indirect weapon accuracy suffers a +4 penalty.,간접 무기 명중률 -4 페널티
-abilities\AbilityDefWulfSRM.json,EffectData[2].Description.Details,Weapon attacks suffer -1 accuracy.,무기 공격 명중률 -1 페널티
-abilities\AbilityDefBlueSpeed.json,EffectData[2].Description.Name,Aether Medium Range,Aether 중거리
-abilities\AbilityDefClanTrait.json,EffectData[2].Description.Name,Guts Buff,근성(Guts) 보너스
-abilities\AbilityDefG5a.json,EffectData[2].Description.Name,Overworked Cooling,과부하된 냉각
-abilities\AbilityDefG5T.json,EffectData[2].Description.Name,Intensified Firepower,강화된 화력
-abilities\AbilityDefGu10T.json,EffectData[2].Description.Name,Hull Down Walk,차체 엄폐 보행
-abilities\AbilityDefGu8a.json,EffectData[2].Description.Name,DFA Damage Increased,DFA 피해 증가
-abilities\AbilityDefP10T.json,EffectData[2].Description.Name,Spotted,발견됨
-abilities\AbilityDefP5T.json,EffectData[2].Description.Name,Sideslipping,사이드슬립
-abilities\AbilityDefP8T.json,EffectData[2].Description.Name,Brute Forcing It,억지 돌파
-abilities\AbilityDefShadeMelee.json,EffectData[2].Description.Name,PhysWeap Damage Increased,물리 무기 피해 증가
-abilities\AbilityDefT10Aa.json,EffectData[2].Description.Name,Sensor Range Increased,센서 범위 증가
-abilities\AbilityDefT10T.json,EffectData[2].Description.Name,C3 Spotting,C3 관측
-abilities\AbilityDefT8Aa.json,EffectData[2].Description.Name,Support Weapon Damage Increased,보조 무기 피해 증가
-abilities\AbilityDefT8Ab.json,EffectData[2].Description.Name,Long Range Increase,장거리 증가
-abilities\AbilityDeftboneHunt.json,EffectData[2].Description.Name,Indirect Accuracy Reduced,간접 사격 명중률 감소
-abilities\AbilityDefWulfSRM.json,EffectData[2].Description.Name,Weapon Accuracy Decreased,무기 명중률 감소
-abilities\AbilityDefBlueSpeed.json,EffectData[3].Description.Details,Support weapons have 50% less chance to cause critical damage.,보조 무기 치명타 확률 50% 감소
-abilities\AbilityDefClanTrait.json,EffectData[3].Description.Details,Buffs Tactics Skill,전술(Tactics) 기술 보너스
-abilities\AbilityDefG5T.json,EffectData[3].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
-abilities\AbilityDefGu10T.json,EffectData[3].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
-abilities\AbilityDefGu8a.json,EffectData[3].Description.Details,DFA attacks deal 50% less self damage.,DFA 공격 자손 피해 50% 감소
-abilities\AbilityDefP10T.json,EffectData[3].Description.Details,This unit has been spotted for and has +60 meters of movement speed for the turn.,이 유닛은 지정 관측을 받아 이번 턴 이동 속도 +60m 획득
-abilities\AbilityDefP5T.json,EffectData[3].Description.Details,Mechs are not supposed to use Sideslip.,멕은 사이드슬립을 사용할 수 없음
-abilities\AbilityDefP8T.json,EffectData[3].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
-abilities\AbilityDefT10Aa.json,EffectData[3].Description.Details,Increases visual distance by 33%.,시야 거리 +33% 증가
-abilities\AbilityDefT10T.json,EffectData[3].Description.Details,Provides a +1 bonus to Resolve,결의 획득 시 +1 보너스 제공
-abilities\AbilityDefT8Ab.json,EffectData[3].Description.Details,The Max range brackets on this mech's support weapons are increased by 33%.,이 멕의 보조 무기 최대 사거리 범위 +33%
-abilities\AbilityDefBlueSpeed.json,EffectData[3].Description.Name,Aether Long Range,Aether 장거리
-abilities\AbilityDefClanTrait.json,EffectData[3].Description.Name,Tactics Buff,전술(Tactics) 보너스
-abilities\AbilityDefG5T.json,EffectData[3].Description.Name,Intensified Firepower,강화된 화력
-abilities\AbilityDefGu10T.json,EffectData[3].Description.Name,Hull Down Run,차체 엄폐 전력 질주
-abilities\AbilityDefGu8a.json,EffectData[3].Description.Name,DFA Self-Damage Decreased,DFA 자손 피해 감소
-abilities\AbilityDefP10T.json,EffectData[3].Description.Name,Spotted,발견됨
-abilities\AbilityDefP5T.json,EffectData[3].Description.Name,Sideslip No Mech Walk,사이드슬립 – 멕 보행 불가
-abilities\AbilityDefP8T.json,EffectData[3].Description.Name,Brute Forcing It,억지 돌파
-abilities\AbilityDefT10Aa.json,EffectData[3].Description.Name,Visual Range Increased,시야 범위 증가
-abilities\AbilityDefT10T.json,EffectData[3].Description.Name,CNCResolveGain,지휘 통제 결의 획득
-abilities\AbilityDefT8Ab.json,EffectData[3].Description.Name,Max Range Increase,최대 사거리 증가
-abilities\AbilityDefBlueSpeed.json,EffectData[4].Description.Details,Support weapons have 50% less chance to cause critical damage.,보조 무기 치명타 확률 50% 감소
-abilities\AbilityDefClanTrait.json,EffectData[4].Description.Details,Damage Modifier,피해 수정치
-abilities\AbilityDefG5T.json,EffectData[4].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
-abilities\AbilityDefGu10T.json,EffectData[4].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
-abilities\AbilityDefGu8a.json,EffectData[4].Description.Details,Gain One Additional Punch,추가 펀치 공격 1회 획득
-abilities\AbilityDefP5T.json,EffectData[4].Description.Details,Mechs are not supposed to use Sideslip.,멕은 사이드슬립을 사용할 수 없음
-abilities\AbilityDefP8T.json,EffectData[4].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
-abilities\AbilityDefT10Aa.json,EffectData[4].Description.Details,Called Shots twice as reliable,지명 사격이 두 배 더 신뢰성 있게 적용됨
-abilities\AbilityDefT8Ab.json,EffectData[4].Description.Details,Bomb Bay weapon attacks deal 10% more damage.,폭탄창 무기 공격 피해 +10%
-abilities\AbilityDefBlueSpeed.json,EffectData[4].Description.Name,Aether Max Range,Aether 최대 사거리
-abilities\AbilityDefClanTrait.json,EffectData[4].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
-abilities\AbilityDefG5T.json,EffectData[4].Description.Name,Intensified Firepower,강화된 화력
-abilities\AbilityDefGu10T.json,EffectData[4].Description.Name,Hull Down DR,차체 엄폐 피해 감소
-abilities\AbilityDefGu8a.json,EffectData[4].Description.Name,Two Punches,펀치 2회
-abilities\AbilityDefP5T.json,EffectData[4].Description.Name,Sideslip No Mech Walk,사이드슬립 – 멕 보행 불가
-abilities\AbilityDefP8T.json,EffectData[4].Description.Name,Brute Forcing It,억지 돌파
-abilities\AbilityDefT10Aa.json,EffectData[4].Description.Name,Improved Called Shot,향상된 지명 사격
-abilities\AbilityDefT8Ab.json,EffectData[4].Description.Name,Bomb Bay Weapon Damage Increased,폭탄창 무기 피해 증가
-abilities\AbilityDefClanTrait.json,EffectData[5].Description.Details,Damage Modifier,피해 수정치
-abilities\AbilityDefG5T.json,EffectData[5].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
-abilities\AbilityDefP8T.json,EffectData[5].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
-abilities\AbilityDefClanTrait.json,EffectData[5].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
-abilities\AbilityDefG5T.json,EffectData[5].Description.Name,Intensified Firepower,강화된 화력
-abilities\AbilityDefP8T.json,EffectData[5].Description.Name,Brute Forcing It,억지 돌파
-abilities\AbilityDefClanTrait.json,EffectData[6].Description.Details,Damage Modifier,피해 수정치
-abilities\AbilityDefP8T.json,EffectData[6].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
-abilities\AbilityDefClanTrait.json,EffectData[6].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
-abilities\AbilityDefP8T.json,EffectData[6].Description.Name,Brute Forcing It,억지 돌파
-abilities\AbilityDefClanTrait.json,EffectData[7].Description.Details,Damage Modifier,피해 수정치
-abilities\AbilityDefClanTrait.json,EffectData[7].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
-abilities\AbilityDefClanTrait.json,EffectData[8].Description.Details,Damage Modifier,피해 수정치
-abilities\AbilityDefClanTrait.json,EffectData[8].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
-abilities\AbilityDefClanTrait.json,EffectData[9].Description.Details,Damage Modifier,피해 수정치
-abilities\AbilityDefClanTrait.json,EffectData[9].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
-abilities\AbilityDefGu10a.json,Description.Details,"ACTION: Activate in order to gain a flat 20% damage reduction for lancemates. Does not affect this unit. The DR lasts for 2 turns. 4 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 발동 시 랜스 동료들이 받는 피해가 2턴 동안 20% 감소합니다. 이 유닛에는 적용되지 않습니다. 재사용 대기시간은 4턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
-abilities\AbilityDefGu5a.json,Description.Details,"ACTION: Activate in order to gain a flat 50% damage reduction as well as gaining 1 initiative. The DR lasts until your next turn, initiative only applies next turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 발동 시 받는 피해가 50% 감소하고, 이니셔티브가 +1 증가합니다. 피해 감소는 다음 턴까지 지속되며, 이니셔티브는 다음 턴에만 적용됩니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
-abilities\AbilityDefGu5T.json,Description.Details,"PASSIVE: This tank is being piloted by a defensive mastermind. Their skill behind the wheel grants the tank additional hit defense, as they know how best to angle the tank's armor for maximum effectiveness.",패시브: 이 전차는 방어 전략의 대가가 조종하고 있습니다. 숙련된 조종 기술로 전차의 장갑 각도를 최적화하여 추가적인 피격 방어를 제공합니다.
-abilities\AbilityDefGu5T.json,Description.Name,ANGLED ARMOR,ANGLED ARMOR
-abilities\AbilityDefGu5T.json,EffectData[0].Description.Details,This unit gains +2 hit defense at all times.,이 유닛은 항상 피격 방어 +2를 얻습니다.
-abilities\AbilityDefGu5T.json,EffectData[0].Description.Name,Angled Armor,Angled Armor
-abilities\AbilityDefGu10T.json,EffectData[4].Description.Details,No jumping when Hull Down,점프 불가 (차체 엄폐 시)
-abilities\AbilityDefGu10T.json,EffectData[4].Description.Name,Hull Down Jump,차체 엄폐 점프
-abilities\AbilityDefGu10T.json,EffectData[5].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
-abilities\AbilityDefGu10T.json,EffectData[5].Description.Name,Hull Down DR,차체 엄폐 피해 감소
-abilities\AbilityDefP5a.json,Description.Details,"ACTION: Blur your mech's sensor signature such that you gain +1 evasive charge after moving and +1 evasive charge from your movement for two turns. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 멕의 센서 신호를 흐리게 하여 2턴 동안 이동 후 회피 충전 +1, 이동으로 인한 회피 충전 +1을 추가로 얻습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
-abilities\AbilityDefP5a.json,EffectData[0].Description.Details,This unit can have up to 1 extra evasive charges from movement.,이 유닛은 이동으로 인한 회피 충전을 최대 1개까지 추가로 가질 수 있습니다.
-abilities\AbilityDefP5a.json,EffectData[1].Description.Details,This unit generates 1 extra EVASIVE charges from movement actions.,이 유닛은 이동 행동 시 회피 충전을 추가로 1 얻습니다.
-abilities\AbilityDefGu5T.json,Description.Details,"PASSIVE: This tank is being piloted by a defensive mastermind. Their skill behind the wheel grants the tank +2 additional hit defense, as they know how best to angle the tank's armor for maximum effectiveness.",패시브: 이 전차는 방어 전략의 대가가 조종하고 있습니다. 숙련된 조종 기술로 전차의 장갑 각도를 최적화하여 피격 방어 +2를 얻습니다.
-abilities\AbilityDefP5a.json,Description.Details,"ACTION: Blur your mech's sensor signature such that you gain +2 evasive charges from your movement for two turns. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 멕의 센서 신호를 흐리게 하여 2턴 동안 이동 시 회피 충전 +2를 얻습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 15 소모!</color></b>"
-abilities\AbilityDefP5a.json,Description.Details,"ACTION: Blur your mech's sensor signature such that you gain +2 evasive charges from all movement for two turns. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 멕의 센서 신호를 흐리게 하여 2턴 동안 모든 이동에서 회피 충전 +2를 얻습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 15 소모!</color></b>"
+Abilifier\abilities\AbilityDefP8a.json,Description.Details,"PASSIVE: This pilot's evasive charges are immune to being removed by sensor lock effects. Additionally, pilot gets +2 defense at all times.","패시브: 이 조종사의 회피 충전은 센서 록 효과로 제거되지 않으며, 항상 방어력이 +2 증가합니다."
+Abilifier\abilities\AbilityDefP8T.json,Description.Details,"ACTION: Supercharge this tank's movement, gaining 60 meters of speed, at the cost of damage to the tank's structure equal to 10% of its current structure value. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 이 전차의 이동을 과충전하여 속도가 +60m 증가하지만, 전차의 현재 구조치의 10%에 해당하는 피해를 받습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
+Abilifier\abilities\AbilityDefRevostaeIndirect.json,Description.Details,PASSIVE: Revostae's indirect accuracy is increased by 4 but his direct accuracy is decreased by 2.,"패시브: Revostae는 간접 사격 명중률이 +4 증가하지만, 직접 사격 명중률은 -2 감소합니다."
+Abilifier\abilities\AbilityDefShadeMelee.json,Description.Details,"PASSIVE: Grants a 10% damage bonus to kicks, punches, and physical weapon attacks.","패시브: 발차기, 펀치, 물리 무기 공격의 피해가 10% 증가합니다."
+Abilifier\abilities\AbilityDefT10Aa.json,Description.Details,"PASSIVE: Gain a +25% boost to sensors, sight, all weapon long and max range brackets, and a 2.5% Called Shot bonus.","패시브: 센서, 시야, 모든 무기의 장거리 및 최대 사거리 범위가 +25% 증가하며, 지명 사격 보너스가 +2.5% 추가됩니다."
+Abilifier\abilities\AbilityDefT10T.json,Description.Details,"PASSIVE: Using special on-board command and control electronics, this unit serves as a company master, gaining +1 initiative, +10% sensor and sight range, and +1 resolve generation, all for itself in combat.","패시브: 특수 지휘·통제 전자 장비를 활용하여 이 유닛은 부대 지휘관 역할을 하며, 전투 중 자신에게 +1 이니셔티브, +10% 센서 및 시야 범위, +1 결의 생성 보너스를 얻습니다."
+Abilifier\abilities\AbilityDefT5Aa.json,Description.Details,"ACTION: Advanced heuristics provide your forces with +2 accuracy for the remainder of this turn. Does not affect this unit. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>","액션: 고급 휴리스틱을 통해 아군에게 이번 턴이 끝날 때까지 +2 명중률을 부여합니다. 이 유닛에는 적용되지 않습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 30 소모!</color></b>"
+Abilifier\abilities\AbilityDefT5T.json,Description.Details,"ACTION: This unit uses a high-power targeting laser to paint an enemy target instead of firing weapons this turn. Player units gain a +3 hit chance against that target for 2 turns. Target Painting has a 500 meter range. 4 turn cooldown, ends the turn. <b><color=#099ff2>Costs 30 Resolve to use! Ends Your Turn!</color></b>","액션: 이 유닛은 무기를 발사하는 대신 고출력 조준 레이저로 적 목표를 지정합니다. 아군 유닛은 해당 목표에 대해 2턴 동안 +3 명중률을 얻습니다. 목표 지정 사거리는 500m입니다. 재사용 대기시간은 4턴이며, 턴을 종료합니다. <b><color=#099ff2>사용 시 결의 30 소모! 턴 종료!</color></b>"
+Abilifier\abilities\AbilityDefT8Aa.json,Description.Details,PASSIVE: Gain a +33% boost to all support weapon short and medium range brackets as well as +10% damage with support weapons,"패시브: 모든 보조 무기의 단거리 및 중거리 범위가 +33% 증가하고, 보조 무기의 피해가 +10% 증가합니다."
+Abilifier\abilities\AbilityDefT8Ab.json,Description.Details,PASSIVE: Gain a +33% boost to all bomb bay weapon range brackets as well as +10% damage with bomb bay weapons,"패시브: 모든 폭탄창 무기의 사거리 범위가 +33% 증가하고, 폭탄창 무기의 피해가 +10% 증가합니다."
+Abilifier\abilities\AbilityDefT8Ac.json,Description.Details,"ACTION: Cannot be used if you have moved this turn. Engage in rapid target acquisition, gaining an +5 increase to initiative on your following turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>","액션: 이번 턴에 이동했다면 사용할 수 없습니다. 신속한 목표 획득을 수행하여 다음 턴에 이니셔티브가 +5 증가합니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 30 소모!</color></b>"
+Abilifier\abilities\AbilityDefT8T.json,Description.Details,ACTION: Perform a Sensor Lock on all enemies within 350 meters. There is a 3 round cooldown and the effect ends the unit's turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>,"액션: 반경 350m 이내의 모든 적에게 센서 록을 수행합니다. 재사용 대기시간은 3턴이며, 효과 발동 시 유닛의 턴이 종료됩니다. <b><color=#099ff2>사용 시 결의 30 소모!</color></b>"
+Abilifier\abilities\AbilityDeftboneHunt.json,Description.Details,"PASSIVE: t-bone's ballistic weapons ignore 3 evasion, but his indirect fire has a +4 penalty and all his weapons have their min range increased by 60 meters.","패시브: t-bone의 탄도 무기는 적의 회피치 3을 무시하지만, 간접 사격 시 -4 페널티를 받고 모든 무기의 최소 사거리가 60m 증가합니다."
+Abilifier\abilities\AbilityDefTexHealth.json,Description.Details,PASSIVE: Tex gains +2 pilot health just for showing up.,패시브: Tex는 단순히 출전하는 것만으로도 조종사 체력이 +2 증가합니다.
+Abilifier\abilities\AbilityDefTurtrusEnergy.json,Description.Details,PASSIVE: Turtrus's energy weapons generate 10% less heat when fired.,패시브: Turtrus의 에너지 무기는 발사 시 발생하는 열이 10% 감소합니다.
+Abilifier\abilities\AbilityDefVIPSafety.json,Description.Details,"ACTION: Focus on defense while giving up on offense, gaining 90% damage reduction but suffering a -20 penalty to attacks for the turn. 2 turn cooldown. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 방어에 집중하고 공격을 포기하여 한 턴 동안 받는 피해가 90% 감소하지만, 공격에 -20 페널티를 받습니다. 재사용 대기시간은 2턴입니다. <b><color=#099ff2>사용 시 결의 15 소모!</color></b>"
+Abilifier\abilities\AbilityDefWulfSRM.json,Description.Details,PASSIVE: Wulf's SRMs gain a 10% damage bonus and +1 accuracy but he also suffers a -1 penalty to all other weapon attacks.,"패시브: Wulf의 SRM은 피해가 10% 증가하고 명중률이 +1 상승하지만, 다른 모든 무기 공격에는 -1 페널티를 받습니다."
+Abilifier\abilities\AbilityDef_Battlefield_Ping.json,Description.Details,"ACTION: Perform a Sensor Lock on all enemies within 1500 meters, and generates 90 Heat for the user. There is a 99 round cooldown (it is effectively once per battle) and Ends your Turn.","액션: 반경 1500m 이내의 모든 적에게 센서 록을 수행하며, 사용자는 90의 열을 발생시킵니다. 재사용 대기시간은 99턴(사실상 전투당 1회)이며, 턴이 종료됩니다."
+Abilifier\abilities\AbilityDef_Bloodhound_Ping.json,Description.Details,"ACTION: Perform a Sensor Lock on all enemies within 300 meters, and generates 50 Heat for the user. There is a 4 round cooldown and Ends your Turn.","액션: 반경 300m 이내의 모든 적에게 센서 록을 수행하며, 사용자는 50의 열을 발생시킵니다. 재사용 대기시간은 4턴이며, 턴이 종료됩니다."
+Abilifier\abilities\AbilityDef_Boosted_Ping.json,Description.Details,"ACTION: Perform a Sensor Lock on all enemies within 350 meters, and generates 60 Heat for the user. There is a 5 round cooldown and Ends your Turn.","액션: 반경 350m 이내의 모든 적에게 센서 록을 수행하며, 사용자는 60의 열을 발생시킵니다. 재사용 대기시간은 5턴이며, 턴이 종료됩니다."
+Abilifier\abilities\AbilityDef_EmergencyVent.json,Description.Details,"ACTION: Performs an emergency coolant dump, venting a massive amount of heat in a single action. Must be used before movement and consumes the unit's entire turn. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 긴급 냉각수 방출을 수행하여 한 번에 대량의 열을 배출합니다. 이동 전에만 사용할 수 있으며, 유닛의 전체 턴을 소모합니다. <b><color=#099ff2>사용 시 결의 15 소모!</color></b>"
+Abilifier\abilities\AbilityDef_FirstAid.json,Description.Details,"ACTION: Staunches bleedouts for 3 turns, including the turn used. Must be used before movement and consumes the unit's entire turn. <b><color=#099ff2>Costs 0 Resolve to use!</color></b>","액션: 출혈을 3턴 동안(사용한 턴 포함) 멈춥니다. 이동 전에만 사용할 수 있으며, 유닛의 전체 턴을 소모합니다. <b><color=#099ff2>사용 시 결의 0 소모!</color></b>"
+Abilifier\abilities\AbilityDef_LightAP_Ping.json,Description.Details,"ACTION: Perform a Sensor Lock on all enemies within 100 meters, and generates 40 Heat for the user. There is a 3 round cooldown and Ends your Turn.","액션: 반경 100m 이내의 모든 적에게 센서 록을 수행하며, 사용자는 40의 열을 발생시킵니다. 재사용 대기시간은 3턴이며, 턴이 종료됩니다."
+Abilifier\abilities\AbilityDef_SensorSweep.json,Description.Details,"ACTION: Perform a Sensor Lock on all enemies within 1500 meters, and generates 45 Heat for the user. There is a 4 round cooldown and Ends your Turn.","액션: 반경 1500m 이내의 모든 적에게 센서 록을 수행하며, 사용자는 45의 열을 발생시킵니다. 재사용 대기시간은 4턴이며, 턴이 종료됩니다."
+Abilifier\abilities\AbilityDefAmidSpeed.json,Description.Name,SPIRIT OF THE CICADA,시카다의 영혼
+Abilifier\abilities\AbilityDefBDInit.json,Description.Name,DESIGNERS INSIGHT,설계자의 통찰
+Abilifier\abilities\AbilityDefBlueAP.json,Description.Name,SUPPORT MASTER,지원 전문가
+Abilifier\abilities\AbilityDefBlueSpeed.json,Description.Name,SPEED OF LIGHT,빛의 속도
+Abilifier\abilities\AbilityDefBTeam.json,Description.Name,TRAINING WHEELS,보조 바퀴
+Abilifier\abilities\AbilityDefBTeamCrit.json,Description.Name,BEGINNER'S LUCK,초심자의 행운
+Abilifier\abilities\AbilityDefClanTrait.json,Description.Name,Clan Training Trait,클랜 훈련 특성
+Abilifier\abilities\AbilityDefCMDHunter.json,Description.Name,BOUNTY HUNTER,현상금 사냥꾼
+Abilifier\abilities\AbilityDefCMDOperative.json,Description.Name,SPECIAL OPERATIVE,특수 요원
+Abilifier\abilities\AbilityDefCMDPilot.json,Description.Name,AEROSPACE PILOT,항공우주 조종사
+Abilifier\abilities\AbilityDefCMDRacer.json,Description.Name,OFFROAD RACER,오프로드 레이서
+Abilifier\abilities\AbilityDefCMDSmuggler.json,Description.Name,OFFWORLD SMUGGLER,오프월드 밀수업자
+Abilifier\abilities\AbilityDefCMDTrainee.json,Description.Name,OFFICER TRAINEE,장교 견습생
+Abilifier\abilities\AbilityDefCMD_TankDrop_Cargo.json,Description.Name,CARGO'S FERRET AIRDROP,카르고의 페럿 공중 투하
+Abilifier\abilities\AbilityDefFrostDR.json,Description.Name,INDESTRUCTIBLE,불멸
+Abilifier\abilities\AbilityDefG10a.json,Description.Name,STONE COLD,냉혈
+Abilifier\abilities\AbilityDefG10T.json,Description.Name,OVERWHELMING AGGRESSION,압도적인 공격성
+Abilifier\abilities\AbilityDefG5a.json,Description.Name,BATTLELORD,전투 군주
+Abilifier\abilities\AbilityDefG5T.json,Description.Name,INTENSIFY FIREPOWER,화력 강화
+Abilifier\abilities\AbilityDefG8a.json,Description.Name,ENERGY MASTER,에너지 마스터
+Abilifier\abilities\AbilityDefG8b.json,Description.Name,BALLISTIC MASTER,탄도 무기 전문가
+Abilifier\abilities\AbilityDefG8c.json,Description.Name,MISSILE MASTER,미사일 전문가
+Abilifier\abilities\AbilityDefG8d.json,Description.Name,BATTLE ARMOR MASTER,전투 장비 전문가
+Abilifier\abilities\AbilityDefG8e.json,Description.Name,CANNON MASTER,대포 전문가
+Abilifier\abilities\AbilityDefG8T.json,Description.Name,PERFECT TARGETING,완벽한 조준
+Abilifier\abilities\AbilityDefGrampaTex.json,Description.Name,OLD MAN OF THE MECHS,멕의 노장
+Abilifier\abilities\AbilityDefGu10a.json,Description.Name,DEFENSIVE FORMATION,방어 진형
+Abilifier\abilities\AbilityDefGu10T.json,Description.Name,HULL DOWN,차체 엄폐
+Abilifier\abilities\AbilityDefGu5a.json,Description.Name,SHIELDED STANCE,방패 자세
+Abilifier\abilities\AbilityDefGu5T.json,Description.Name,REDUNDANT COMPONENTS,중복 부품
+Abilifier\abilities\AbilityDefGu8a.json,Description.Name,BRAWLER,난투가
+Abilifier\abilities\AbilityDefGu8T.json,Description.Name,STREET RACER,스트리트 레이서
+Abilifier\abilities\AbilityDefLokiGhost.json,Description.Name,SENSOR GHOST,센서 고스트
+Abilifier\abilities\AbilityDefNoBleed.json,Description.Name,BLEEDOUT IMMUNITY,출혈 면역
+Abilifier\abilities\AbilityDefP10a.json,Description.Name,LIGHTFOOT,라이트풋
+Abilifier\abilities\AbilityDefP10T.json,Description.Name,SPOTTER,관측수
+Abilifier\abilities\AbilityDefP5a.json,Description.Name,PHANTOM,팬텀
+Abilifier\abilities\AbilityDefP5T.json,Description.Name,SIDESLIP,사이드슬립
+Abilifier\abilities\AbilityDefP8a.json,Description.Name,INVISIBLE TARGET,보이지 않는 표적
+Abilifier\abilities\AbilityDefP8T.json,Description.Name,BRUTE FORCE,억지력
+Abilifier\abilities\AbilityDefRevostaeIndirect.json,Description.Name,HOLD LOCKS PLEASE,HOLD LOCKS PLEASE
+Abilifier\abilities\AbilityDefShadeMelee.json,Description.Name,MELEE TYRANT,근접 전투의 폭군
+Abilifier\abilities\AbilityDefT10Aa.json,Description.Name,EAGLE EYE,예리한 조준
+Abilifier\abilities\AbilityDefT10T.json,Description.Name,COMMAND AND CONTROL,지휘 통제
+Abilifier\abilities\AbilityDefT5Aa.json,Description.Name,TARGET PREDICTION,목표 예측
+Abilifier\abilities\AbilityDefT5T.json,Description.Name,TARGET PAINTING,목표 지정
+Abilifier\abilities\AbilityDefT8Aa.json,Description.Name,KNIFE FIGHTER,단검 전사
+Abilifier\abilities\AbilityDefT8Ab.json,Description.Name,BOMBARDIER,폭격수
+Abilifier\abilities\AbilityDefT8Ac.json,Description.Name,FAST FIRE,속사
+Abilifier\abilities\AbilityDefT8T.json,Description.Name,SENSOR SWEEP,센서 탐색
+Abilifier\abilities\AbilityDeftboneHunt.json,Description.Name,KENTUCKY WINDAGE,켄터키 윈데이지
+Abilifier\abilities\AbilityDefTexHealth.json,Description.Name,HARD TO KILL,죽이기 어려운
+Abilifier\abilities\AbilityDefTurtrusEnergy.json,Description.Name,LASER INSULATOR,레이저 절연체
+Abilifier\abilities\AbilityDefVIPSafety.json,Description.Name,TAKING COVER,엄폐 중
+Abilifier\abilities\AbilityDefWulfSRM.json,Description.Name,SRM MASTER,SRM 전문가
+Abilifier\abilities\AbilityDef_Battlefield_Ping.json,Description.Name,BATTLEFIELD SURVEILLANCE,전장 감시
+Abilifier\abilities\AbilityDef_Bloodhound_Ping.json,Description.Name,BLOODHOUND PROBE PING,블러드하운드 탐침 신호
+Abilifier\abilities\AbilityDef_Boosted_Ping.json,Description.Name,BOOSTED ACTIVE PROBE PING,강화된 액티브 프로브 신호
+Abilifier\abilities\AbilityDef_EmergencyVent.json,Description.Name,EMERGENCY VENT,긴급 배출
+Abilifier\abilities\AbilityDef_FirstAid.json,Description.Name,FIRST AID,응급처치
+Abilifier\abilities\AbilityDef_LightAP_Ping.json,Description.Name,LIGHT ACTIVE PROBE PING,라이트 액티브 프로브 신호
+Abilifier\abilities\AbilityDef_SensorSweep.json,Description.Name,BATTLEFIELD SURVEILLANCE,전장 감시
+Abilifier\abilities\AbilityDefAmidSpeed.json,EffectData[0].Description.Details,Walk speed increased by 15%.,보행 속도 15% 증가
+Abilifier\abilities\AbilityDefBDInit.json,EffectData[0].Description.Details,+1 to base Initiative,기본 이니셔티브 +1
+Abilifier\abilities\AbilityDefBlueAP.json,EffectData[0].Description.Details,Support weapons deal 20% more damage.,보조 무기 피해 +20%
+Abilifier\abilities\AbilityDefBlueSpeed.json,EffectData[0].Description.Details,Aether has 10% increased ground speed but also has 10% reduced range with ranged weaponry.,"Aether는 지상 이동 속도 +10% 증가, 원거리 무기 사거리 -10% 감소"
+Abilifier\abilities\AbilityDefBTeam.json,EffectData[0].Description.Details,+5% Weapon Damage,무기 피해 +5%
+Abilifier\abilities\AbilityDefBTeamCrit.json,EffectData[0].Description.Details,+50% Crit Chance,치명타 확률 +50%
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[0].Description.Details,"The Clans train their warriors better and more thoroughly than the Inner Sphere does, granting them bonuses to their pilot skills as well as to their accuracy and speed. It does de-emphasize melee combat however, reducing their melee damage significantly.","클랜은 이너스피어보다 전사들을 더 철저하고 우수하게 훈련하여 조종사 기술, 명중률, 속도에 보너스를 제공합니다. 그러나 근접 전투는 경시되어 근접 피해가 크게 감소합니다."
+Abilifier\abilities\AbilityDefCMDHunter.json,EffectData[0].Description.Details,Called Shots slightly more reliable,지명 사격이 약간 더 신뢰성 있게 됨
+Abilifier\abilities\AbilityDefCMDOperative.json,EffectData[0].Description.Details,+2 accuracy at maximum range,최대 사거리에서 명중률 +2
+Abilifier\abilities\AbilityDefCMDPilot.json,EffectData[0].Description.Details,Grants +0.05 to sprint multiplier.,스프린트 배율 +0.05 증가
+Abilifier\abilities\AbilityDefCMDRacer.json,EffectData[0].Description.Details,Increases unsteady threshold by 30.,불안정 한계치 +30 증가
+Abilifier\abilities\AbilityDefCMDSmuggler.json,EffectData[0].Description.Details,Increases sensor range by 10%,센서 범위 10% 증가
+Abilifier\abilities\AbilityDefCMDTrainee.json,EffectData[0].Description.Details,Provides a 2 bonus to actions that generate Resolve.,결의를 생성하는 행동에 +2 보너스 제공
+Abilifier\abilities\AbilityDefFrostDR.json,EffectData[0].Description.Details,Incoming attacks deal 10% less damage to Scorch.,Scorch가 받는 피해 10% 감소
+Abilifier\abilities\AbilityDefG10a.json,EffectData[0].Description.Details,Dissipate 60 more heat this turn.,이번 턴에 열 소산 +60
+Abilifier\abilities\AbilityDefG10T.json,EffectData[0].Description.Details,All damage dealt is increased by 10%.,주는 피해 10% 증가
+Abilifier\abilities\AbilityDefG5a.json,EffectData[0].Description.Details,+15% Weapon Damage,무기 피해 +15%
+Abilifier\abilities\AbilityDefG5T.json,EffectData[0].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
+Abilifier\abilities\AbilityDefG8a.json,EffectData[0].Description.Details,Energy attacks deal [AMT] more damage.,에너지 무기 공격 피해 [AMT] 증가
+Abilifier\abilities\AbilityDefG8b.json,EffectData[0].Description.Details,Ballistic attacks deal [AMT] more damage.,탄도 무기 공격 피해 [AMT] 증가
+Abilifier\abilities\AbilityDefG8c.json,EffectData[0].Description.Details,Missile attacks deal [AMT] more damage.,미사일 무기 공격 피해 [AMT] 증가
+Abilifier\abilities\AbilityDefG8d.json,EffectData[0].Description.Details,Battle armor weapon attacks deal [AMT] more damage.,전투 장비 무기 공격 피해 [AMT] 증가
+Abilifier\abilities\AbilityDefG8e.json,EffectData[0].Description.Details,Artillery cannon and howitzer attacks deal [AMT] more damage.,대포 및 곡사포 공격 피해 [AMT] 증가
+Abilifier\abilities\AbilityDefG8T.json,EffectData[0].Description.Details,This unit ignores two enemy evasion at all times.,이 유닛은 항상 적의 회피치 2를 무시함
+Abilifier\abilities\AbilityDefGrampaTex.json,EffectData[0].Description.Details,Grampa's stability threshold is massively reduced.,Grampa의 안정성 한계치가 크게 감소함
+Abilifier\abilities\AbilityDefGu10a.json,EffectData[0].Description.Details,All incoming damage reduced by 20% for 2 turns.,받는 모든 피해 2턴 동안 20% 감소
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[0].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
+Abilifier\abilities\AbilityDefGu5a.json,EffectData[0].Description.Details,All incoming damage reduced by 50% for 2 turns.,받는 모든 피해 2턴 동안 50% 감소
+Abilifier\abilities\AbilityDefGu5T.json,EffectData[0].Description.Details,All incoming critical chances reduced by 50%.,받는 치명타 확률 50% 감소
+Abilifier\abilities\AbilityDefGu8a.json,EffectData[0].Description.Details,"Kicks, punches, and DFAs deal 35% more damage. DFA self-damage reduced by 50%.","발차기, 펀치, DFA 피해 +35%, DFA 자손 피해 50% 감소"
+Abilifier\abilities\AbilityDefGu8T.json,EffectData[0].Description.Details,This unit takes 20% less damage at all times.,이 유닛은 항상 받는 피해 20% 감소
+Abilifier\abilities\AbilityDefLokiGhost.json,EffectData[0].Description.Details,Weapon attacks suffer -1 accuracy.,무기 공격 명중률 -1 페널티
+Abilifier\abilities\AbilityDefNoBleed.json,EffectData[0].Description.Details,This unit cannot bleed out from injuries.,이 유닛은 부상으로 출혈사 상태에 빠지지 않음
+Abilifier\abilities\AbilityDefP10a.json,EffectData[0].Description.Details,This unit can use waypoint movement even while sprinting.,이 유닛은 스프린트 중에도 경유지 이동 사용 가능
+Abilifier\abilities\AbilityDefP10T.json,EffectData[0].Description.Details,This unit has been spotted for and has +60 meters of movement speed for the turn.,이 유닛은 지정 관측을 받아 이번 턴에 이동 속도 +60m 획득
+Abilifier\abilities\AbilityDefP5a.json,EffectData[0].Description.Details,This unit can have up to 2 extra evasive charges from movement.,이 유닛은 이동으로 인한 회피 충전을 최대 2개까지 추가로 가질 수 있음
+Abilifier\abilities\AbilityDefP5T.json,EffectData[0].Description.Details,This unit ignores terrain bonuses and penalties as well as landmines this turn.,"이 유닛은 이번 턴에 지형 보너스와 페널티, 지뢰를 무시함"
+Abilifier\abilities\AbilityDefP8a.json,EffectData[0].Description.Details,This pilot has a +2 defense against being hit by any attack.,이 조종사는 모든 공격에 대해 +2 피격 방어를 가짐
+Abilifier\abilities\AbilityDefP8T.json,EffectData[0].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴에 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
+Abilifier\abilities\AbilityDefRevostaeIndirect.json,EffectData[0].Description.Details,Direct fire weapon accuracy suffer a +2 penalty.,직사 무기 명중률 -2 페널티
+Abilifier\abilities\AbilityDefShadeMelee.json,EffectData[0].Description.Details,"Kick, punch, and physical weapon attacks deal 10% more damage.","발차기, 펀치, 물리 무기 공격 피해 +10%"
+Abilifier\abilities\AbilityDefT10Aa.json,EffectData[0].Description.Details,"The long/max range brackets on this mech's weapons are increased by 25%, sensor and sight ranges are increased by 33%, and this mech gets a 2.5% boost to called shots.","이 멕의 무기 장거리/최대 사거리 범위 +25%, 센서 및 시야 범위 +33%, 지명 사격 보너스 +2.5%"
+Abilifier\abilities\AbilityDefT10T.json,EffectData[0].Description.Details,"This unit gains +1 initiative, +10% sight and sensor range, and +1 resolve whenever resolve is gained.","이 유닛은 +1 이니셔티브, +10% 시야 및 센서 범위, 결의 획득 시 추가로 +1 결의 획득"
+Abilifier\abilities\AbilityDefT5Aa.json,EffectData[0].Description.Details,Allies gains +2 to accuracy for this turn.,아군은 이번 턴 동안 명중률 +2 획득
+Abilifier\abilities\AbilityDefT5T.json,EffectData[0].Description.Details,This target was TAG'ed. +3 to hit.,이 목표는 TAG 지정됨. 명중률 +3
+Abilifier\abilities\AbilityDefT8Aa.json,EffectData[0].Description.Details,The short and medium range brackets on this mech's support weapons are increased by 33% and its support weapon damage is increased by 10%.,"이 멕의 보조 무기 단거리/중거리 범위 +33%, 보조 무기 피해 +10%"
+Abilifier\abilities\AbilityDefT8Ab.json,EffectData[0].Description.Details,The range brackets on this mech's bomb bay weapons are increased by 33% and its bomb bay weapon damage is increased by 10%.,"이 멕의 폭탄창 무기 사거리 범위 +33%, 폭탄창 무기 피해 +10%"
+Abilifier\abilities\AbilityDefT8Ac.json,EffectData[0].Description.Details,This unit gains +5 initiative on its next turn.,이 유닛은 다음 턴에 이니셔티브 +5 획득
+Abilifier\abilities\AbilityDeftboneHunt.json,EffectData[0].Description.Details,Ballistic weapon attacks ignore 3 evasion.,탄도 무기 공격은 회피치 3 무시
+Abilifier\abilities\AbilityDefTexHealth.json,EffectData[0].Description.Details,+2 to pilot health,조종사 체력 +2
+Abilifier\abilities\AbilityDefTurtrusEnergy.json,EffectData[0].Description.Details,Energy weapons generate 10% less heat.,에너지 무기 열 발생 10% 감소
+Abilifier\abilities\AbilityDefVIPSafety.json,EffectData[0].Description.Details,+90% Damage Reduction,피해 감소 90%
+Abilifier\abilities\AbilityDefWulfSRM.json,EffectData[0].Description.Details,SRM attacks deal 10% more damage.,SRM 공격 피해 +10%
+Abilifier\abilities\AbilityDef_EmergencyVent.json,EffectData[0].Description.Details,Dissipate 100 more heat this turn.,이번 턴에 열 소산 +100
+Abilifier\abilities\AbilityDef_FirstAid.json,EffectData[0].Description.Details,Bleed Rate x 0.01,출혈률 x 0.01
+Abilifier\abilities\AbilityDefAmidSpeed.json,EffectData[0].Description.Name,Walk Speed Increased,보행 속도 증가
+Abilifier\abilities\AbilityDefBDInit.json,EffectData[0].Description.Name,Initiative Boost,이니셔티브 상승
+Abilifier\abilities\AbilityDefBlueAP.json,EffectData[0].Description.Name,Support Weapon Damage Increased,보조 무기 피해 증가
+Abilifier\abilities\AbilityDefBlueSpeed.json,EffectData[0].Description.Name,Speed of Light,빛의 속도
+Abilifier\abilities\AbilityDefBTeam.json,EffectData[0].Description.Name,Overcharged Weapons,과충전 무기
+Abilifier\abilities\AbilityDefBTeamCrit.json,EffectData[0].Description.Name,Blessed By The Gods of Luck,행운의 신들의 가호
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[0].Description.Name,Clan Training Trait,클랜 훈련 특성
+Abilifier\abilities\AbilityDefCMDHunter.json,EffectData[0].Description.Name,Improved Called Shot,향상된 지명 사격
+Abilifier\abilities\AbilityDefCMDOperative.json,EffectData[0].Description.Name,Max Range Accuracy Increased,최대 사거리 명중률 증가
+Abilifier\abilities\AbilityDefCMDPilot.json,EffectData[0].Description.Name,Sprint Speed Bonus,스프린트 속도 보너스
+Abilifier\abilities\AbilityDefCMDRacer.json,EffectData[0].Description.Name,Unsteady Threshold Increased,불안정 한계치 증가
+Abilifier\abilities\AbilityDefCMDSmuggler.json,EffectData[0].Description.Name,Sensor Range Increased,센서 범위 증가
+Abilifier\abilities\AbilityDefCMDTrainee.json,EffectData[0].Description.Name,Rsolve Generation Increased,결의 생성 증가
+Abilifier\abilities\AbilityDefFrostDR.json,EffectData[0].Description.Name,Damage Reduction Increased,피해 감소 증가
+Abilifier\abilities\AbilityDefG10a.json,EffectData[0].Description.Name,Supercharged Cooling,과충전 냉각
+Abilifier\abilities\AbilityDefG10T.json,EffectData[0].Description.Name,Overwhelming Aggression,압도적인 공격성
+Abilifier\abilities\AbilityDefG5a.json,EffectData[0].Description.Name,Overcharged Weapons,과충전 무기
+Abilifier\abilities\AbilityDefG5T.json,EffectData[0].Description.Name,Intensified Firepower,강화된 화력
+Abilifier\abilities\AbilityDefG8a.json,EffectData[0].Description.Name,Energy Damage Increased,에너지 무기 피해 증가
+Abilifier\abilities\AbilityDefG8b.json,EffectData[0].Description.Name,Ballistic Damage Increased,탄도 무기 피해 증가
+Abilifier\abilities\AbilityDefG8c.json,EffectData[0].Description.Name,Missile Damage Increased,미사일 무기 피해 증가
+Abilifier\abilities\AbilityDefG8d.json,EffectData[0].Description.Name,Battle Armor Damage Increased,전투 장비 무기 피해 증가
+Abilifier\abilities\AbilityDefG8e.json,EffectData[0].Description.Name,Artillery Damage Increased,대포/곡사포 피해 증가
+Abilifier\abilities\AbilityDefG8T.json,EffectData[0].Description.Name,Perfect Targeting,완벽한 조준
+Abilifier\abilities\AbilityDefGrampaTex.json,EffectData[0].Description.Name,Reduced Stability Threshold,안정성 한계치 감소
+Abilifier\abilities\AbilityDefGu10a.json,EffectData[0].Description.Name,Damage Reduction,피해 감소
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[0].Description.Name,Hull Down Cruise,차체 엄폐 기동
+Abilifier\abilities\AbilityDefGu5a.json,EffectData[0].Description.Name,Damage Reduction,피해 감소
+Abilifier\abilities\AbilityDefGu5T.json,EffectData[0].Description.Name,Redundant Components,중복 부품
+Abilifier\abilities\AbilityDefGu8a.json,EffectData[0].Description.Name,Brawler Buffs,난투 보너스
+Abilifier\abilities\AbilityDefGu8T.json,EffectData[0].Description.Name,Street Racer,스트리트 레이서
+Abilifier\abilities\AbilityDefLokiGhost.json,EffectData[0].Description.Name,Weapon Accuracy Decreased,무기 명중률 감소
+Abilifier\abilities\AbilityDefNoBleed.json,EffectData[0].Description.Name,No Bleedout,출혈 없음
+Abilifier\abilities\AbilityDefP10a.json,EffectData[0].Description.Name,Superior Waypointing,향상된 경유지 이동
+Abilifier\abilities\AbilityDefP10T.json,EffectData[0].Description.Name,Spotted,발견됨
+Abilifier\abilities\AbilityDefP5a.json,EffectData[0].Description.Name,EVASIVE MOVE,회피 기동
+Abilifier\abilities\AbilityDefP5T.json,EffectData[0].Description.Name,Sideslipping,사이드슬립
+Abilifier\abilities\AbilityDefP8a.json,EffectData[0].Description.Name,Invisible Defense,은밀한 방어
+Abilifier\abilities\AbilityDefP8T.json,EffectData[0].Description.Name,Brute Forcing It,억지 돌파
+Abilifier\abilities\AbilityDefRevostaeIndirect.json,EffectData[0].Description.Name,Direct Fire Accuracy Decreased,직사 명중률 감소
+Abilifier\abilities\AbilityDefShadeMelee.json,EffectData[0].Description.Name,Melee Damage Increased,근접 피해 증가
+Abilifier\abilities\AbilityDefT10Aa.json,EffectData[0].Description.Name,Eagle Eye,예리한 눈
+Abilifier\abilities\AbilityDefT10T.json,EffectData[0].Description.Name,Command and Control Initiative Boosted,지휘 통제 이니셔티브 상승
+Abilifier\abilities\AbilityDefT5Aa.json,EffectData[0].Description.Name,Target Prediction,목표 예측
+Abilifier\abilities\AbilityDefT5T.json,EffectData[0].Description.Name,Target Painted,목표 지정됨
+Abilifier\abilities\AbilityDefT8Aa.json,EffectData[0].Description.Name,Knife Fighter,단검 전사
+Abilifier\abilities\AbilityDefT8Ab.json,EffectData[0].Description.Name,Bombardier,폭격수
+Abilifier\abilities\AbilityDefT8Ac.json,EffectData[0].Description.Name,Fast Fire Initiative Boosted,속사 이니셔티브 상승
+Abilifier\abilities\AbilityDeftboneHunt.json,EffectData[0].Description.Name,Ballistic Evasion ignore,탄도 무기 회피 무시
+Abilifier\abilities\AbilityDefTexHealth.json,EffectData[0].Description.Name,Health Boost,체력 증가
+Abilifier\abilities\AbilityDefTurtrusEnergy.json,EffectData[0].Description.Name,Energy Heat Decreased,에너지 무기 열 발생 감소
+Abilifier\abilities\AbilityDefVIPSafety.json,EffectData[0].Description.Name,Increased DR,피해 감소 증가
+Abilifier\abilities\AbilityDefWulfSRM.json,EffectData[0].Description.Name,SRM Damage Increased,SRM 피해 증가
+Abilifier\abilities\AbilityDef_EmergencyVent.json,EffectData[0].Description.Name,Emergency Venting,긴급 배출
+Abilifier\abilities\AbilityDef_FirstAid.json,EffectData[0].Description.Name,Bleed reduction,출혈 감소
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[10].Description.Details,Damage Modifier,피해 수정치
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[10].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[11].Description.Details,Damage Modifier,피해 수정치
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[11].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[12].Description.Details,Damage Modifier,피해 수정치
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[12].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[13].Description.Details,Damage Modifier,피해 수정치
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[13].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
+Abilifier\abilities\AbilityDefBDInit.json,EffectData[1].Description.Details,DEFER ACTION CLEARS UNSTEADY,행동 연기 시 불안정 상태 해제
+Abilifier\abilities\AbilityDefBlueAP.json,EffectData[1].Description.Details,Support weapons have 50% less chance to cause critical damage.,보조 무기 치명타 확률 50% 감소
+Abilifier\abilities\AbilityDefBlueSpeed.json,EffectData[1].Description.Details,Support weapons have 50% less chance to cause critical damage.,보조 무기 치명타 확률 50% 감소
+Abilifier\abilities\AbilityDefBTeam.json,EffectData[1].Description.Details,+1 Accuracy,명중률 +1
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[1].Description.Details,Buffs Piloting Skill,조종 기술 보너스
+Abilifier\abilities\AbilityDefG10a.json,EffectData[1].Description.Details,Initiative reduced by 2 for 2 turns.,2턴 동안 이니셔티브 -2
+Abilifier\abilities\AbilityDefG5a.json,EffectData[1].Description.Details,+2 Accuracy,명중률 +2
+Abilifier\abilities\AbilityDefG5T.json,EffectData[1].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
+Abilifier\abilities\AbilityDefG8a.json,EffectData[1].Description.Details,Energy attacks gain +2 accuracy.,에너지 무기 공격 명중률 +2
+Abilifier\abilities\AbilityDefG8b.json,EffectData[1].Description.Details,Ballistic attacks gain +1 accuracy.,탄도 무기 공격 명중률 +1
+Abilifier\abilities\AbilityDefG8c.json,EffectData[1].Description.Details,Missile attacks gain +1 accuracy.,미사일 무기 공격 명중률 +1
+Abilifier\abilities\AbilityDefG8d.json,EffectData[1].Description.Details,Battle armor weapon attacks gain +1 accuracy.,전투 장비 무기 공격 명중률 +1
+Abilifier\abilities\AbilityDefG8e.json,EffectData[1].Description.Details,Artillery cannon and howitzer attacks gain +1 accuracy.,대포 및 곡사포 공격 명중률 +1
+Abilifier\abilities\AbilityDefGrampaTex.json,EffectData[1].Description.Details,+10% Weapon Damage,무기 피해 +10%
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[1].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
+Abilifier\abilities\AbilityDefGu5a.json,EffectData[1].Description.Details,Iniative boosted by 1 for 2 turns.,2턴 동안 이니셔티브 +1
+Abilifier\abilities\AbilityDefGu8a.json,EffectData[1].Description.Details,Punch attacks deal 20% more damage.,펀치 공격 피해 +20%
+Abilifier\abilities\AbilityDefLokiGhost.json,EffectData[1].Description.Details,This unit is immune to sensor lock.,이 유닛은 센서 록에 면역
+Abilifier\abilities\AbilityDefP10a.json,EffectData[1].Description.Details,This unit can ignore land mines.,이 유닛은 지뢰를 무시할 수 있음
+Abilifier\abilities\AbilityDefP10T.json,EffectData[1].Description.Details,This unit has been spotted for and has +60 meters of movement speed for the turn.,이 유닛은 지정 관측을 받아 이번 턴 이동 속도 +60m 획득
+Abilifier\abilities\AbilityDefP5a.json,EffectData[1].Description.Details,This unit generates 2 extra EVASIVE charges from movement actions.,이 유닛은 이동 행동 시 회피 충전 +2 추가 획득
+Abilifier\abilities\AbilityDefP5T.json,EffectData[1].Description.Details,This unit ignores landmines this turn.,이 유닛은 이번 턴에 지뢰를 무시함
+Abilifier\abilities\AbilityDefP8a.json,EffectData[1].Description.Details,This unit is immune to sensor lock.,이 유닛은 센서 록에 면역
+Abilifier\abilities\AbilityDefP8T.json,EffectData[1].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴에 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
+Abilifier\abilities\AbilityDefRevostaeIndirect.json,EffectData[1].Description.Details,Indirect weapon accuracy gains a +4 bonus.,간접 무기 명중률 +4
+Abilifier\abilities\AbilityDefShadeMelee.json,EffectData[1].Description.Details,Punch attacks deal 10% more damage.,펀치 공격 피해 +10%
+Abilifier\abilities\AbilityDefT10Aa.json,EffectData[1].Description.Details,The max range brackets on this mech's weapons are increased by 25%.,이 멕의 무기 최대 사거리 범위 +25%
+Abilifier\abilities\AbilityDefT10T.json,EffectData[1].Description.Details,Increased sensors range,센서 범위 증가
+Abilifier\abilities\AbilityDefT5T.json,EffectData[1].Description.Details,Visual indicator of the TAG effect,TAG 효과 시각적 표시
+Abilifier\abilities\AbilityDefT8Aa.json,EffectData[1].Description.Details,The Medium range brackets on this mech's support weapons are increased by 33%.,이 멕의 보조 무기 중거리 범위 +33%
+Abilifier\abilities\AbilityDefT8Ab.json,EffectData[1].Description.Details,The Medium range brackets on this mech's support weapons are increased by 33%.,이 멕의 보조 무기 중거리 범위 +33%
+Abilifier\abilities\AbilityDeftboneHunt.json,EffectData[1].Description.Details,The min range brackets on this mech's weapons are increased by 60 meters.,이 멕의 무기 최소 사거리 +60m
+Abilifier\abilities\AbilityDefVIPSafety.json,EffectData[1].Description.Details,-20 Accuracy,명중률 -20
+Abilifier\abilities\AbilityDefWulfSRM.json,EffectData[1].Description.Details,SRM attacks gain +2 accuracy.,SRM 공격 명중률 +2
+Abilifier\abilities\AbilityDefBDInit.json,EffectData[1].Description.Name,Reserve Stab Removal,대기 시 안정성 피해 제거
+Abilifier\abilities\AbilityDefBlueAP.json,EffectData[1].Description.Name,Support Weapon Critical Chance Reduced,보조 무기 치명타 확률 감소
+Abilifier\abilities\AbilityDefBlueSpeed.json,EffectData[1].Description.Name,Aether Short Range,Aether 근거리
+Abilifier\abilities\AbilityDefBTeam.json,EffectData[1].Description.Name,Overcharged Targeting,과충전 조준
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[1].Description.Name,Piloting Buff,조종 기술 보너스
+Abilifier\abilities\AbilityDefG10a.json,EffectData[1].Description.Name,Initiative Penalty,이니셔티브 페널티
+Abilifier\abilities\AbilityDefG5a.json,EffectData[1].Description.Name,Overcharged Targeting,과충전 조준
+Abilifier\abilities\AbilityDefG5T.json,EffectData[1].Description.Name,Intensified Firepower,화력 강화
+Abilifier\abilities\AbilityDefG8a.json,EffectData[1].Description.Name,Energy Accuracy Increased,에너지 무기 명중률 증가
+Abilifier\abilities\AbilityDefG8b.json,EffectData[1].Description.Name,Ballistic Accuracy Increased,탄도 무기 명중률 증가
+Abilifier\abilities\AbilityDefG8c.json,EffectData[1].Description.Name,Missile Accuracy Increased,미사일 무기 명중률 증가
+Abilifier\abilities\AbilityDefG8d.json,EffectData[1].Description.Name,Battle Armor Accuracy Increased,전투 장비 무기 명중률 증가
+Abilifier\abilities\AbilityDefG8e.json,EffectData[1].Description.Name,Artillery Accuracy Increased,대포/곡사포 명중률 증가
+Abilifier\abilities\AbilityDefGrampaTex.json,EffectData[1].Description.Name,Grampa's Experience,Grampa의 경험
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[1].Description.Name,Hull Down Flank,차체 엄폐 측면
+Abilifier\abilities\AbilityDefGu5a.json,EffectData[1].Description.Name,Initiative Boost,이니셔티브 상승
+Abilifier\abilities\AbilityDefGu8a.json,EffectData[1].Description.Name,Punch Damage Increased,펀치 피해 증가
+Abilifier\abilities\AbilityDefLokiGhost.json,EffectData[1].Description.Name,Sensor Ghost,센서 고스트
+Abilifier\abilities\AbilityDefP10a.json,EffectData[1].Description.Name,Land Mine Ignore,지뢰 무시
+Abilifier\abilities\AbilityDefP10T.json,EffectData[1].Description.Name,Spotted,발견됨
+Abilifier\abilities\AbilityDefP5a.json,EffectData[1].Description.Name,EVASIVE MOVE,회피 기동
+Abilifier\abilities\AbilityDefP5T.json,EffectData[1].Description.Name,Sideslipping,사이드슬립
+Abilifier\abilities\AbilityDefP8a.json,EffectData[1].Description.Name,Invisible Evasion,은밀한 회피
+Abilifier\abilities\AbilityDefP8T.json,EffectData[1].Description.Name,Brute Forcing It,억지 돌파
+Abilifier\abilities\AbilityDefRevostaeIndirect.json,EffectData[1].Description.Name,Indirect Accuracy Increased,간접 사격 명중률 증가
+Abilifier\abilities\AbilityDefShadeMelee.json,EffectData[1].Description.Name,Punch Damage Increased,펀치 피해 증가
+Abilifier\abilities\AbilityDefT10Aa.json,EffectData[1].Description.Name,Max Range Increase,최대 사거리 증가
+Abilifier\abilities\AbilityDefT10T.json,EffectData[1].Description.Name,C3 Sensors,C3 센서
+Abilifier\abilities\AbilityDefT5T.json,EffectData[1].Description.Name,TAG MARKED,TAG 지정됨
+Abilifier\abilities\AbilityDefT8Aa.json,EffectData[1].Description.Name,Medium Range Increase,중거리 증가
+Abilifier\abilities\AbilityDefT8Ab.json,EffectData[1].Description.Name,Medium Range Increase,중거리 증가
+Abilifier\abilities\AbilityDeftboneHunt.json,EffectData[1].Description.Name,Min Range Increase,최소 사거리 증가
+Abilifier\abilities\AbilityDefVIPSafety.json,EffectData[1].Description.Name,Neutralized Targeting,조준 무력화
+Abilifier\abilities\AbilityDefWulfSRM.json,EffectData[1].Description.Name,SRM Accuracy Increased,SRM 명중률 증가
+Abilifier\abilities\AbilityDefBlueSpeed.json,EffectData[2].Description.Details,Support weapons have 50% less chance to cause critical damage.,보조 무기 치명타 확률 50% 감소
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[2].Description.Details,Buffs Guts Skill,근성(Guts) 기술 보너스
+Abilifier\abilities\AbilityDefG5a.json,EffectData[2].Description.Details,+30 Heat Generated,+30 열 발생
+Abilifier\abilities\AbilityDefG5T.json,EffectData[2].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[2].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
+Abilifier\abilities\AbilityDefGu8a.json,EffectData[2].Description.Details,DFA attacks deal 20% more damage.,DFA 공격 피해 +20%
+Abilifier\abilities\AbilityDefP10T.json,EffectData[2].Description.Details,This unit has been spotted for and has +60 meters of movement speed for the turn.,이 유닛은 지정 관측을 받아 이번 턴 이동 속도 +60m 획득
+Abilifier\abilities\AbilityDefP5T.json,EffectData[2].Description.Details,This unit ignores pathing this turn.,이 유닛은 이번 턴에 경로 제약을 무시함
+Abilifier\abilities\AbilityDefP8T.json,EffectData[2].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
+Abilifier\abilities\AbilityDefShadeMelee.json,EffectData[2].Description.Details,PhysWeap attacks deal 10% more damage.,물리 무기 공격 피해 +10%
+Abilifier\abilities\AbilityDefT10Aa.json,EffectData[2].Description.Details,Increases sensor range by 33%,센서 범위 +33%
+Abilifier\abilities\AbilityDefT10T.json,EffectData[2].Description.Details,Increases spotting distance.,관측 거리 증가
+Abilifier\abilities\AbilityDefT8Aa.json,EffectData[2].Description.Details,Support weapon attacks deal 10% more damage.,보조 무기 공격 피해 +10%
+Abilifier\abilities\AbilityDefT8Ab.json,EffectData[2].Description.Details,The Long range brackets on this mech's support weapons are increased by 33%.,이 멕의 보조 무기 장거리 범위 +33%
+Abilifier\abilities\AbilityDeftboneHunt.json,EffectData[2].Description.Details,Indirect weapon accuracy suffers a +4 penalty.,간접 무기 명중률 -4 페널티
+Abilifier\abilities\AbilityDefWulfSRM.json,EffectData[2].Description.Details,Weapon attacks suffer -1 accuracy.,무기 공격 명중률 -1 페널티
+Abilifier\abilities\AbilityDefBlueSpeed.json,EffectData[2].Description.Name,Aether Medium Range,Aether 중거리
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[2].Description.Name,Guts Buff,근성(Guts) 보너스
+Abilifier\abilities\AbilityDefG5a.json,EffectData[2].Description.Name,Overworked Cooling,과부하된 냉각
+Abilifier\abilities\AbilityDefG5T.json,EffectData[2].Description.Name,Intensified Firepower,강화된 화력
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[2].Description.Name,Hull Down Walk,차체 엄폐 보행
+Abilifier\abilities\AbilityDefGu8a.json,EffectData[2].Description.Name,DFA Damage Increased,DFA 피해 증가
+Abilifier\abilities\AbilityDefP10T.json,EffectData[2].Description.Name,Spotted,발견됨
+Abilifier\abilities\AbilityDefP5T.json,EffectData[2].Description.Name,Sideslipping,사이드슬립
+Abilifier\abilities\AbilityDefP8T.json,EffectData[2].Description.Name,Brute Forcing It,억지 돌파
+Abilifier\abilities\AbilityDefShadeMelee.json,EffectData[2].Description.Name,PhysWeap Damage Increased,물리 무기 피해 증가
+Abilifier\abilities\AbilityDefT10Aa.json,EffectData[2].Description.Name,Sensor Range Increased,센서 범위 증가
+Abilifier\abilities\AbilityDefT10T.json,EffectData[2].Description.Name,C3 Spotting,C3 관측
+Abilifier\abilities\AbilityDefT8Aa.json,EffectData[2].Description.Name,Support Weapon Damage Increased,보조 무기 피해 증가
+Abilifier\abilities\AbilityDefT8Ab.json,EffectData[2].Description.Name,Long Range Increase,장거리 증가
+Abilifier\abilities\AbilityDeftboneHunt.json,EffectData[2].Description.Name,Indirect Accuracy Reduced,간접 사격 명중률 감소
+Abilifier\abilities\AbilityDefWulfSRM.json,EffectData[2].Description.Name,Weapon Accuracy Decreased,무기 명중률 감소
+Abilifier\abilities\AbilityDefBlueSpeed.json,EffectData[3].Description.Details,Support weapons have 50% less chance to cause critical damage.,보조 무기 치명타 확률 50% 감소
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[3].Description.Details,Buffs Tactics Skill,전술(Tactics) 기술 보너스
+Abilifier\abilities\AbilityDefG5T.json,EffectData[3].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[3].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
+Abilifier\abilities\AbilityDefGu8a.json,EffectData[3].Description.Details,DFA attacks deal 50% less self damage.,DFA 공격 자손 피해 50% 감소
+Abilifier\abilities\AbilityDefP10T.json,EffectData[3].Description.Details,This unit has been spotted for and has +60 meters of movement speed for the turn.,이 유닛은 지정 관측을 받아 이번 턴 이동 속도 +60m 획득
+Abilifier\abilities\AbilityDefP5T.json,EffectData[3].Description.Details,Mechs are not supposed to use Sideslip.,멕은 사이드슬립을 사용할 수 없음
+Abilifier\abilities\AbilityDefP8T.json,EffectData[3].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
+Abilifier\abilities\AbilityDefT10Aa.json,EffectData[3].Description.Details,Increases visual distance by 33%.,시야 거리 +33% 증가
+Abilifier\abilities\AbilityDefT10T.json,EffectData[3].Description.Details,Provides a +1 bonus to Resolve,결의 획득 시 +1 보너스 제공
+Abilifier\abilities\AbilityDefT8Ab.json,EffectData[3].Description.Details,The Max range brackets on this mech's support weapons are increased by 33%.,이 멕의 보조 무기 최대 사거리 범위 +33%
+Abilifier\abilities\AbilityDefBlueSpeed.json,EffectData[3].Description.Name,Aether Long Range,Aether 장거리
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[3].Description.Name,Tactics Buff,전술(Tactics) 보너스
+Abilifier\abilities\AbilityDefG5T.json,EffectData[3].Description.Name,Intensified Firepower,강화된 화력
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[3].Description.Name,Hull Down Run,차체 엄폐 전력 질주
+Abilifier\abilities\AbilityDefGu8a.json,EffectData[3].Description.Name,DFA Self-Damage Decreased,DFA 자손 피해 감소
+Abilifier\abilities\AbilityDefP10T.json,EffectData[3].Description.Name,Spotted,발견됨
+Abilifier\abilities\AbilityDefP5T.json,EffectData[3].Description.Name,Sideslip No Mech Walk,사이드슬립 – 멕 보행 불가
+Abilifier\abilities\AbilityDefP8T.json,EffectData[3].Description.Name,Brute Forcing It,억지 돌파
+Abilifier\abilities\AbilityDefT10Aa.json,EffectData[3].Description.Name,Visual Range Increased,시야 범위 증가
+Abilifier\abilities\AbilityDefT10T.json,EffectData[3].Description.Name,CNCResolveGain,지휘 통제 결의 획득
+Abilifier\abilities\AbilityDefT8Ab.json,EffectData[3].Description.Name,Max Range Increase,최대 사거리 증가
+Abilifier\abilities\AbilityDefBlueSpeed.json,EffectData[4].Description.Details,Support weapons have 50% less chance to cause critical damage.,보조 무기 치명타 확률 50% 감소
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[4].Description.Details,Damage Modifier,피해 수정치
+Abilifier\abilities\AbilityDefG5T.json,EffectData[4].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[4].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
+Abilifier\abilities\AbilityDefGu8a.json,EffectData[4].Description.Details,Gain One Additional Punch,추가 펀치 공격 1회 획득
+Abilifier\abilities\AbilityDefP5T.json,EffectData[4].Description.Details,Mechs are not supposed to use Sideslip.,멕은 사이드슬립을 사용할 수 없음
+Abilifier\abilities\AbilityDefP8T.json,EffectData[4].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
+Abilifier\abilities\AbilityDefT10Aa.json,EffectData[4].Description.Details,Called Shots twice as reliable,지명 사격이 두 배 더 신뢰성 있게 적용됨
+Abilifier\abilities\AbilityDefT8Ab.json,EffectData[4].Description.Details,Bomb Bay weapon attacks deal 10% more damage.,폭탄창 무기 공격 피해 +10%
+Abilifier\abilities\AbilityDefBlueSpeed.json,EffectData[4].Description.Name,Aether Max Range,Aether 최대 사거리
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[4].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
+Abilifier\abilities\AbilityDefG5T.json,EffectData[4].Description.Name,Intensified Firepower,강화된 화력
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[4].Description.Name,Hull Down DR,차체 엄폐 피해 감소
+Abilifier\abilities\AbilityDefGu8a.json,EffectData[4].Description.Name,Two Punches,펀치 2회
+Abilifier\abilities\AbilityDefP5T.json,EffectData[4].Description.Name,Sideslip No Mech Walk,사이드슬립 – 멕 보행 불가
+Abilifier\abilities\AbilityDefP8T.json,EffectData[4].Description.Name,Brute Forcing It,억지 돌파
+Abilifier\abilities\AbilityDefT10Aa.json,EffectData[4].Description.Name,Improved Called Shot,향상된 지명 사격
+Abilifier\abilities\AbilityDefT8Ab.json,EffectData[4].Description.Name,Bomb Bay Weapon Damage Increased,폭탄창 무기 피해 증가
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[5].Description.Details,Damage Modifier,피해 수정치
+Abilifier\abilities\AbilityDefG5T.json,EffectData[5].Description.Details,This unit can not move this turn but deals +30% damage for this turn.,이 유닛은 이번 턴에 이동할 수 없지만 피해 +30% 증가
+Abilifier\abilities\AbilityDefP8T.json,EffectData[5].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[5].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
+Abilifier\abilities\AbilityDefG5T.json,EffectData[5].Description.Name,Intensified Firepower,강화된 화력
+Abilifier\abilities\AbilityDefP8T.json,EffectData[5].Description.Name,Brute Forcing It,억지 돌파
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[6].Description.Details,Damage Modifier,피해 수정치
+Abilifier\abilities\AbilityDefP8T.json,EffectData[6].Description.Details,This unit gains 60 meters of speed this turn but loses 10% of its structure to do it.,이 유닛은 이번 턴 이동 속도 +60m 획득하지만 구조치의 10%를 상실함
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[6].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
+Abilifier\abilities\AbilityDefP8T.json,EffectData[6].Description.Name,Brute Forcing It,억지 돌파
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[7].Description.Details,Damage Modifier,피해 수정치
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[7].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[8].Description.Details,Damage Modifier,피해 수정치
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[8].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[9].Description.Details,Damage Modifier,피해 수정치
+Abilifier\abilities\AbilityDefClanTrait.json,EffectData[9].Description.Name,Melee Weapon Damage Mod,근접 무기 피해 보너스
+Abilifier\abilities\AbilityDefGu10a.json,Description.Details,"ACTION: Activate in order to gain a flat 20% damage reduction for lancemates. Does not affect this unit. The DR lasts for 2 turns. 4 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 발동 시 랜스 동료들이 받는 피해가 2턴 동안 20% 감소합니다. 이 유닛에는 적용되지 않습니다. 재사용 대기시간은 4턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
+Abilifier\abilities\AbilityDefGu5a.json,Description.Details,"ACTION: Activate in order to gain a flat 50% damage reduction as well as gaining 1 initiative. The DR lasts until your next turn, initiative only applies next turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 발동 시 받는 피해가 50% 감소하고, 이니셔티브가 +1 증가합니다. 피해 감소는 다음 턴까지 지속되며, 이니셔티브는 다음 턴에만 적용됩니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
+Abilifier\abilities\AbilityDefGu5T.json,Description.Details,"PASSIVE: This tank is being piloted by a defensive mastermind. Their skill behind the wheel grants the tank additional hit defense, as they know how best to angle the tank's armor for maximum effectiveness.",패시브: 이 전차는 방어 전략의 대가가 조종하고 있습니다. 숙련된 조종 기술로 전차의 장갑 각도를 최적화하여 추가적인 피격 방어를 제공합니다.
+Abilifier\abilities\AbilityDefGu5T.json,Description.Name,ANGLED ARMOR,ANGLED ARMOR
+Abilifier\abilities\AbilityDefGu5T.json,EffectData[0].Description.Details,This unit gains +2 hit defense at all times.,이 유닛은 항상 피격 방어 +2를 얻습니다.
+Abilifier\abilities\AbilityDefGu5T.json,EffectData[0].Description.Name,Angled Armor,Angled Armor
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[4].Description.Details,No jumping when Hull Down,점프 불가 (차체 엄폐 시)
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[4].Description.Name,Hull Down Jump,차체 엄폐 점프
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[5].Description.Details,This unit can not move this turn but takes 90% reduced damage from all sources until end of next turn.,"이 유닛은 이번 턴에 이동할 수 없지만, 다음 턴 종료 시까지 모든 피해 90% 감소"
+Abilifier\abilities\AbilityDefGu10T.json,EffectData[5].Description.Name,Hull Down DR,차체 엄폐 피해 감소
+Abilifier\abilities\AbilityDefP5a.json,Description.Details,"ACTION: Blur your mech's sensor signature such that you gain +1 evasive charge after moving and +1 evasive charge from your movement for two turns. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 20 Resolve to use!</color></b>","액션: 멕의 센서 신호를 흐리게 하여 2턴 동안 이동 후 회피 충전 +1, 이동으로 인한 회피 충전 +1을 추가로 얻습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 20 소모!</color></b>"
+Abilifier\abilities\AbilityDefP5a.json,EffectData[0].Description.Details,This unit can have up to 1 extra evasive charges from movement.,이 유닛은 이동으로 인한 회피 충전을 최대 1개까지 추가로 가질 수 있습니다.
+Abilifier\abilities\AbilityDefP5a.json,EffectData[1].Description.Details,This unit generates 1 extra EVASIVE charges from movement actions.,이 유닛은 이동 행동 시 회피 충전을 추가로 1 얻습니다.
+Abilifier\abilities\AbilityDefGu5T.json,Description.Details,"PASSIVE: This tank is being piloted by a defensive mastermind. Their skill behind the wheel grants the tank +2 additional hit defense, as they know how best to angle the tank's armor for maximum effectiveness.",패시브: 이 전차는 방어 전략의 대가가 조종하고 있습니다. 숙련된 조종 기술로 전차의 장갑 각도를 최적화하여 피격 방어 +2를 얻습니다.
+Abilifier\abilities\AbilityDefP5a.json,Description.Details,"ACTION: Blur your mech's sensor signature such that you gain +2 evasive charges from your movement for two turns. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 멕의 센서 신호를 흐리게 하여 2턴 동안 이동 시 회피 충전 +2를 얻습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 15 소모!</color></b>"
+Abilifier\abilities\AbilityDefP5a.json,Description.Details,"ACTION: Blur your mech's sensor signature such that you gain +2 evasive charges from all movement for two turns. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 15 Resolve to use!</color></b>","액션: 멕의 센서 신호를 흐리게 하여 2턴 동안 모든 이동에서 회피 충전 +2를 얻습니다. 재사용 대기시간은 3턴이며, 턴을 종료하지 않습니다. <b><color=#099ff2>사용 시 결의 15 소모!</color></b>"
