@@ -1,0 +1,173 @@
+{
+	"MinFov": 15.0,
+	"MaxFov": 150.0,
+	"MapWidth": 400.0,
+	"MapHeight": 400.0,
+	"MapTopViewBuffer": 25.0,
+	"MapLeftViewBuffer": 25.0,
+	"MapRightViewBuffer": 25.0,
+	"MapBottomViewBuffer": 75.0,
+	"use3040Map": true,
+	"splashTitle": "BattleTech Advanced <color=#daa520>Universe</color>",
+	"splashText": "<b>전쟁은 비즈니스이며, 전쟁은 결코 변하지 않습니다</b> \n\n 이너스피어에 오신 것을 환영합니다, 사령관님!\n\n 사령관님께서는 스타 리그 시절에 제작된 드롭십 아르고의 함교에 서 있는 용병입니다. 메크베이에는 힘들게 모은 몇 기의 멕이 있으며, 여섯 대가문이 모두 자리한 이너스피어와 다섯 주요 국가가 존재하는 변방지역이 눈앞에 펼쳐져 있습니다. \n\n 지금이 바로 그 순간입니다. 손을 뻗어 기회를 붙잡고, 이너스피어에 사령관님의 이름을 새기십시오!\n\n <b><color=#daa520>BTA 유니버스는 익숙하신 이너스피어와는 다른 세계입니다. 지도도 다르고 연대표 또한 달라졌으니, 현재 상황을 이해하시려면 타임라인 이벤트를 주의 깊게 읽어주시기 바랍니다!</color></b>",
+	"cheatcodes": [],
+	"reducedClanLogos": false,
+	"logos": [
+		{
+			"factionName": "Davion",
+			"logoImage": "davionLogo"
+		},
+		{
+			"factionName": "Liao",
+			"logoImage": "liaoLogo"
+		},
+		{
+			"factionName": "MagistracyOfCanopus",
+			"logoImage": "magistracyLogo"
+		},
+		{
+			"factionName": "Marik",
+			"logoImage": "marikLogo"
+		},
+		{
+			"factionName": "AuriganRestoration",
+			"logoImage": "restorationLogo"
+		},
+		{
+			"factionName": "TaurianConcordat",
+			"logoImage": "taurianLogo"
+		},
+		{
+			"factionName": "Steiner",
+			"logoImage": "steinerLogo"
+		},
+		{
+			"factionName": "Kurita",
+			"logoImage": "draconisLogo"
+		},
+		{
+			"factionName": "Circinus",
+			"logoImage": "circinusLogo"
+		},
+		{
+			"factionName": "Ives",
+			"logoImage": "stivesLogo"
+		},
+		{
+			"factionName": "Rasalhague",
+			"logoImage": "rasalhagueLogo"
+		},
+		{
+			"factionName": "ClanNovaCat",
+			"logoImage": "ClanNovaCatLogo"
+		},
+		{
+			"factionName": "Illyrian",
+			"logoImage": "illyrianLogo"
+		},
+		{
+			"factionName": "Marian",
+			"logoImage": "marianLogo"
+		},
+		{
+			"factionName": "Outworld",
+			"logoImage": "outworldsLogo"
+		},
+		{
+			"factionName": "WordOfBlake",
+			"logoImage": "WordOfBlakeLogo"
+		},
+		{
+			"factionName": "Chainelane",
+			"logoImage": "ChainelaneLogo"
+		},
+		{
+			"factionName": "Delphi",
+			"logoImage": "DelphiLogo"
+		},
+		{
+			"factionName": "Hanse",
+			"logoImage": "HanseLogo"
+		},
+		{
+			"factionName": "JarnFolk",
+			"logoImage": "JarnFolkLogo"
+		},
+		{
+			"factionName": "Tortuga",
+			"logoImage": "TortugaLogo"
+		},
+		{
+			"factionName": "ClanWolf",
+			"logoImage": "ClanWolfLogo"
+		},
+		{
+			"factionName": "ClanGhostBear",
+			"logoImage": "ClanGhostBearLogo"
+		},
+		{
+			"factionName": "ClanJadeFalcon",
+			"logoImage": "ClanJadeFalconLogo"
+		},
+		{
+			"factionName": "ClanGoliathScorpion",
+			"logoImage": "ClanGoliathScorpionLogo"
+		},
+		{
+			"factionName": "ClanSnowRaven",
+			"logoImage": "ClanSnowRavenLogo"
+		},
+		{
+			"factionName": "RimWorldsRepublic",
+			"logoImage": "RimWorldsRepublicLogo"
+		},
+		{
+			"factionName": "CalderonProtectorate",
+			"logoImage": "CalderonProtectorateLogo"
+		},
+		{
+			"factionName": "FroncReaches",
+			"logoImage": "FroncReachesLogo"
+		},
+		{
+			"factionName": "ScorpionEmpire",
+			"logoImage": "ScorpionEmpireLogo"
+		},
+		{
+			"factionName": "JacobsonHaven",
+			"logoImage": "JacobsonHavenLogo"
+		},
+		{
+			"factionName": "Cameron",
+			"logoImage": "TerranHegemonyLogo"
+		},
+		{
+			"factionName": "SanctuaryAlliance",
+			"logoImage": "SanctuaryAllianceLogo"
+		},
+		{
+			"factionName": "DaneSacellum",
+			"logoImage": "DaneSacellumLogo"
+		},
+		{
+			"factionName": "MallardRepublic",
+			"logoImage": "MallardRepublicLogo"
+		},
+		{
+			"factionName": "AuriganDirectorate",
+			"logoImage": "directorateLogo"
+		},
+		{
+			"factionName": "Rim",
+			"logoImage": "RimCollectionLogo"
+		},
+		{
+			"factionName": "Lothian",
+			"logoImage": "lothianLogo"
+		},
+		{
+			"factionName": "Castile",
+			"logoImage": "CastileLogo"
+		}
+	]
+}
