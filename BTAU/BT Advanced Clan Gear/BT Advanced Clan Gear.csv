@@ -1,4 +1,12 @@
 ﻿File,Key,Value,Translation
+BT Advanced Clan Gear/ammobox/Ammo_AmmunitionBox_Generic_PAC2.json,Description.Details,"Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.","탄약 상자에는 투사체 기반 무장에 필요한 탄약이 들어 있으며, 무기 유형마다 최소 하나의 탄약 상자가 필요합니다. 치명타를 받으면 탄약 상자 안에 남아 있는 탄약이 폭발하여 장착 위치에 피해를 줍니다. C.A.S.E.를 사용하면 위험을 완화할 수 있습니다."
+BT Advanced Clan Gear/ammobox/Ammo_AmmunitionBox_Generic_PAC4.json,Description.Details,"Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.","탄약 상자에는 투사체 기반 무장에 필요한 탄약이 들어 있으며, 무기 유형마다 최소 하나의 탄약 상자가 필요합니다. 치명타를 받으면 탄약 상자 안에 남아 있는 탄약이 폭발하여 장착 위치에 피해를 줍니다. C.A.S.E.를 사용하면 위험을 완화할 수 있습니다."
+BT Advanced Clan Gear/ammobox/Ammo_AmmunitionBox_Generic_PAC8.json,Description.Details,"Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.","탄약 상자에는 투사체 기반 무장에 필요한 탄약이 들어 있으며, 무기 유형마다 최소 하나의 탄약 상자가 필요합니다. 치명타를 받으면 탄약 상자 안에 남아 있는 탄약이 폭발하여 장착 위치에 피해를 줍니다. C.A.S.E.를 사용하면 위험을 완화할 수 있습니다."
+BT Advanced Clan Gear/ammunition/Ammunition_ATM_ER.json,Description.Details,"Short range missiles, capable of dealing heavy damage at close range via shaped charge warheads.","단거리 미사일로, 성형작약 탄두를 통해 근거리에서 큰 피해를 줄 수 있습니다."
+BT Advanced Clan Gear/ammunition/Ammunition_ATM_HE.json,Description.Details,"Short range missiles, capable of dealing heavy damage at close range via shaped charge warheads.","단거리 미사일로, 성형작약 탄두를 통해 근거리에서 큰 피해를 줄 수 있습니다."
+BT Advanced Clan Gear/ammunition/Ammunition_PAC2.json,Description.Details,"Moderate caliber rounds, suitable for long range fire in an AC/5.","중구경 탄환으로, AC/5의 장거리 사격에 적합합니다."
+BT Advanced Clan Gear/ammunition/Ammunition_PAC4.json,Description.Details,"Moderate caliber rounds, suitable for long range fire in an AC/5.","중구경 탄환으로, AC/5의 장거리 사격에 적합합니다."
+BT Advanced Clan Gear/ammunition/Ammunition_PAC8.json,Description.Details,"Moderate caliber rounds, suitable for long range fire in an AC/5.","중구경 탄환으로, AC/5의 장거리 사격에 적합합니다."
 BT Advanced Clan Gear/internals/Gear_Guardian_ECM_CLAN.json,Auras[1].statusEffects[0].Description.Details,"Guardian ECM is jamming C3 networks, preventing C3 networks from functioning within 120 meters.",가디언 ECM이 C3 네트워크를 교란하여 120미터 이내에서 C3 네트워크가 작동하지 못하게 합니다.
 BT Advanced Clan Gear/internals/Gear_Guardian_ECM_CLAN.json,Auras[1].statusEffects[1].Description.Details,"Guardian ECM is jamming C3 networks, preventing C3 networks from functioning within 120 meters.",가디언 ECM이 C3 네트워크를 교란하여 120미터 이내에서 C3 네트워크가 작동하지 못하게 합니다.
 BT Advanced Clan Gear/internals/Gear_Guardian_ECM_CLAN.json,Auras[1].statusEffects[2].Description.Details,"Guardian ECM is jamming C3 networks, preventing C3 networks from functioning within 120 meters.",가디언 ECM이 C3 네트워크를 교란하여 120미터 이내에서 C3 네트워크가 작동하지 못하게 합니다.
@@ -8,6 +16,96 @@ BT Advanced Clan Gear/internals/Gear_Guardian_ECM_CLAN.json,Auras[2].statusEffec
 BT Advanced Clan Gear/internals/Gear_Guardian_ECM_CLAN.json,Auras[3].statusEffects[0].Description.Details,"ECM is scrambling this unit's DroneOS system, rendering the 'Mech functionally useless in combat due to turning its sensor systems effectively blind and disrupting its movement ability due to weakened controls.","ECM이 이 유닛의 DroneOS 시스템을 교란하여, 센서 시스템을 사실상 눈먼 상태로 만들고 약화된 제어로 인해 이동 능력까지 방해함으로써 이 메크를 전투에서 기능적으로 쓸모없게 만듭니다."
 BT Advanced Clan Gear/internals/Gear_Guardian_ECM_CLAN.json,Auras[3].statusEffects[1].Description.Details,"ECM is scrambling this unit's DroneOS system, rendering the 'Mech functionally useless in combat due to turning its sensor systems effectively blind and disrupting its movement ability due to weakened controls.","ECM이 이 유닛의 DroneOS 시스템을 교란하여, 센서 시스템을 사실상 눈먼 상태로 만들고 약화된 제어로 인해 이동 능력까지 방해함으로써 이 메크를 전투에서 기능적으로 쓸모없게 만듭니다."
 BT Advanced Clan Gear/internals/Gear_Guardian_ECM_CLAN.json,Auras[3].statusEffects[2].Description.Details,"ECM is scrambling this unit's DroneOS system, rendering the 'Mech functionally useless in combat due to turning its sensor systems effectively blind and disrupting its movement ability due to weakened controls.","ECM이 이 유닛의 DroneOS 시스템을 교란하여, 센서 시스템을 사실상 눈먼 상태로 만들고 약화된 제어로 인해 이동 능력까지 방해함으로써 이 메크를 전투에서 기능적으로 쓸모없게 만듭니다."
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_AC20_CLAN.json,Description.Details,"The king of the battlefield in terms of raw damage, AC/20s hit harder than any other weapon. However, this comes at the expense of weight, range, and severely limited ammunition. Like all Autocannon weaponry, AC/20s suffer from recoil effects from continuous fire. 
+
+<b><color=#ffcc00>Uses UAC20 Ammo.</color></b> 
+
+ <b><color=#00ffff>Left Click on Chance to hit during battle to switch firing mode</color> </b>","순수 피해량 면에서 전장의 왕이라 할 수 있는 AC/20은 그 어떤 무기보다도 강력한 타격을 가합니다. 그러나 이는 중량, 사거리, 그리고 심하게 제한된 탄약을 대가로 합니다. 모든 오토캐논 무장과 마찬가지로, AC/20은 연속 사격으로 인한 반동 효과를 겪습니다. 
+
+<b><color=#ffcc00>UAC20 탄약을 사용합니다.</color></b> 
+
+ <b><color=#00ffff>전투 중 명중 확률을 좌클릭하여 사격 모드를 전환합니다.</color> </b>"
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_AC20_Improved.json,Description.Details,"A rare and transitory weapon, the Improved AC/20 was an Early Clan design, spanning the time after the Exodus but before the development of true Clantech weaponry and bridging the Inner Sphere AC/20 and the later Clan Ultra AC/20. The weapon would largely be forgotten to the mists of history, only appearing rarely in old units dug out of Brian Caches by desperate Clan garrison forces or pirates and thieves.","희귀하고 과도기적인 무기인 개량형 AC/20은 초기 클랜 설계로, 엑소더스 이후부터 진정한 클랜테크 무장이 개발되기 전까지의 시기에 만들어졌으며, 이너스피어 AC/20과 이후의 클랜 울트라 AC/20 사이를 잇는 가교 역할을 했습니다. 이 무기는 대체로 역사의 안개 속에 잊혀졌고, 절박한 클랜 주둔군이나 해적, 도둑들이 브라이언 캐시에서 발굴한 오래된 유닛에서 드물게 모습을 드러낼 뿐입니다."
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_AC20_LBX_CLAN.json,Description.Details,"Developed by Lubalin Ballistics for the Terran Hegemony, the LB-X Autocannon was a derivative of the standard and relatively primitive Autocannon design. Taking advantage of advanced materials, the company was able to reduce the weight of the weapon for only a slight increase in bulk and mated it with the advanced Mercury-VII targeting system to boost its effective range. 
+
+<b><color=#ffcc00>Uses LBX20 Ammo.</color></b>","테란 헤게모니를 위해 루발린 발리스틱스가 개발한 LB-X 오토캐논은 표준적이고 비교적 원시적인 오토캐논 설계에서 파생된 무기였습니다. 첨단 소재를 활용한 이 회사는 부피가 약간 증가하는 것만 감수하고 무기의 중량을 줄일 수 있었으며, 여기에 첨단 머큐리-VII 표적 시스템을 결합하여 유효 사거리를 향상시켰습니다. 
+
+<b><color=#ffcc00>LBX20 탄약을 사용합니다.</color></b>"
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_AC2_Improved.json,Description.Details,"A vanishingly rare piece of technology, the Improved AC/2 dates to the Clan's Golden Century and is a sort of transitory weapon between Star League technology and later Clan technology. The Improved AC/2 has very minimal gains over the Star League AC/2 and seems to have been abandoned in favor of the later Ultra AC/2 instead.","극히 희귀한 기술인 개량형 AC/2는 클랜의 골든 센추리까지 거슬러 올라가며, 스타 리그 기술과 이후의 클랜 기술 사이에 위치한 일종의 과도기적 무기입니다. 개량형 AC/2는 스타 리그 AC/2에 비해 개선점이 매우 미미하며, 이후의 울트라 AC/2를 선호하게 되면서 폐기된 것으로 보입니다."
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_AC2_LBX_CLAN.json,Description.Details,"Developed by Lubalin Ballistics for the Terran Hegemony, the LB-X Autocannon was a derivative of the standard and relatively primitive Autocannon design. Taking advantage of advanced materials, the company was able to reduce the weight of the weapon for only a slight increase in bulk and mated it with the advanced Mercury-VII targeting system to boost its effective range. 
+
+<b><color=#ffcc00>Uses LBX2 Ammo.</color></b>","테란 헤게모니를 위해 루발린 발리스틱스가 개발한 LB-X 오토캐논은 표준적이고 비교적 원시적인 오토캐논 설계에서 파생된 무기였습니다. 첨단 소재를 활용한 이 회사는 부피가 약간 증가하는 것만 감수하고 무기의 중량을 줄일 수 있었으며, 여기에 첨단 머큐리-VII 표적 시스템을 결합하여 유효 사거리를 향상시켰습니다. 
+
+<b><color=#ffcc00>LBX2 탄약을 사용합니다.</color></b>"
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_AC5_CLAN.json,Description.Details,"Ultra Autocannons boast double the rate of fire of a regular Autocannon, with only moderate increases in weight, size, and heat. The UAC/5 is a reliable long range weapon.  
+
+<b><color=#ffcc00>Uses UAC5 Ammo.</color></b> 
+
+ <b><color=#00ffff>Left Click on Chance to hit during battle to switch firing mode</color> </b>","울트라 오토캐논은 일반 오토캐논의 두 배에 달하는 연사 속도를 자랑하며, 중량, 크기, 열 생성량 증가는 보통 수준에 그칩니다. UAC/5는 신뢰성 높은 장거리 무기입니다.  
+
+<b><color=#ffcc00>UAC5 탄약을 사용합니다.</color></b> 
+
+ <b><color=#00ffff>전투 중 명중 확률을 좌클릭하여 사격 모드를 전환합니다.</color> </b>"
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_AC5_Improved.json,Description.Details,"A vanishingly rare piece of technology, the Improved AC/5 dates to the Clan's Golden Century and is a sort of transitory weapon between Star League technology and later Clan technology. The Improved AC/5 has very minimal gains over the Star League AC/5 and seems to have been abandoned in favor of the later Ultra AC/5 instead.","극히 희귀한 기술인 개량형 AC/5는 클랜의 골든 센추리까지 거슬러 올라가며, 스타 리그 기술과 이후의 클랜 기술 사이에 위치한 일종의 과도기적 무기입니다. 개량형 AC/5는 스타 리그 AC/5에 비해 개선점이 매우 미미하며, 이후의 울트라 AC/5를 선호하게 되면서 폐기된 것으로 보입니다."
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_AC5_LBX_CLAN.json,Description.Details,"Developed by Lubalin Ballistics for the Terran Hegemony, the LB-X Autocannon was a derivative of the standard and relatively primitive Autocannon design. Taking advantage of advanced materials, the company was able to reduce the weight of the weapon for only a slight increase in bulk and mated it with the advanced Mercury-VII targeting system to boost its effective range. 
+
+<b><color=#ffcc00>Uses LBX5 Ammo.</color></b>","테란 헤게모니를 위해 루발린 발리스틱스가 개발한 LB-X 오토캐논은 표준적이고 비교적 원시적인 오토캐논 설계에서 파생된 무기였습니다. 첨단 소재를 활용한 이 회사는 부피가 약간 증가하는 것만 감수하고 무기의 중량을 줄일 수 있었으며, 여기에 첨단 머큐리-VII 표적 시스템을 결합하여 유효 사거리를 향상시켰습니다. 
+
+<b><color=#ffcc00>LBX5 탄약을 사용합니다.</color></b>"
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_AC5_RAC_CLAN.json,Description.Details,"The Rotary Autocannon/5 is an attempt to make a revolver autocannon. It can spin off up to 6 shots in one burst, though it risks jamming and being worthless for a time in doing so. Still, it can produce incredible damage in short bursts. This is the Clan take on the concept, which is very similar to the Inner Sphere version with minor statistical differences, despite the superior material science of the Clans. 
+
+ <b><color=#ffcc00>Uses RAC5 Ammo.</color></b> 
+
+ <b><color=#00ffff>Left Click on Ammocount/Damage value during battle to switch firing mode</color> </b>","로터리 오토캐논/5는 리볼버식 오토캐논을 만들려는 시도입니다. 한 번의 점사로 최대 6발까지 회전 발사할 수 있지만, 그렇게 할 경우 탄걸림이 발생해 한동안 쓸모없어질 위험이 있습니다. 그래도 짧은 점사로 막대한 피해를 만들어낼 수 있습니다. 이것은 해당 개념에 대한 클랜식 설계로, 클랜의 우수한 재료 공학에도 불구하고 사소한 수치 차이를 제외하면 이너스피어 버전과 매우 유사합니다. 
+
+ <b><color=#ffcc00>RAC5 탄약을 사용합니다.</color></b> 
+
+ <b><color=#00ffff>전투 중 Ammocount/Damage 값을 좌클릭하여 사격 모드를 전환합니다.</color> </b>"
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_PAC2_CLAN.json,Description.Details,"The PAC/2 is a Clan weapon intended for Clan ProtoMechs. However, since ProtoMechs remain vanishingly rare, it has snuck out into wider use here and there, usually on IndustrialMechs or other units not intended for line combat. The PAC/2 is relatively light but like the other 2-class Autocannons, the PAC/2 does minimal damage to enemy targets and is generally only good for its extreme range brackets.","PAC/2는 클랜 프로토메크용으로 의도된 클랜 무기입니다. 그러나 프로토메크가 여전히 극히 희귀하기 때문에, 여기저기 더 넓은 용도로 흘러나와 보통 인더스트리얼메크나 전열 전투용이 아닌 다른 유닛에 사용되고 있습니다. PAC/2는 비교적 가볍지만, 다른 2급 오토캐논들과 마찬가지로 적 표적에게 주는 피해가 최소 수준이며, 일반적으로 극단적으로 긴 사거리 구간에서만 쓸 만합니다."
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_PAC4_CLAN.json,Description.Details,"The PAC/4 is a Clan weapon intended for Clan ProtoMechs. However, since ProtoMechs remain vanishingly rare, it has snuck out into wider use here and there, usually on IndustrialMechs or other units not intended for line combat. While the PAC/4 is relatively light compared to other autocannons, it also does only middling damage, making it good at nothing and only ok at most things. It does have notable range however, which is at least one advantage to the system.","PAC/4는 클랜 프로토메크용으로 의도된 클랜 무기입니다. 그러나 프로토메크가 여전히 극히 희귀하기 때문에, 여기저기 더 넓은 용도로 흘러나와 보통 인더스트리얼메크나 전열 전투용이 아닌 다른 유닛에 사용되고 있습니다. PAC/4는 다른 오토캐논에 비해 비교적 가볍지만, 피해량도 그저 중간 수준에 불과하여 무엇 하나 뛰어난 점은 없고 대부분의 용도에서 그럭저럭 괜찮은 정도입니다. 다만 사거리는 눈에 띄게 길며, 이는 적어도 이 시스템의 한 가지 장점입니다."
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_PAC8_CLAN.json,Description.Details,"The PAC/8 is a Clan weapon intended for Clan ProtoMechs. However, since ProtoMechs remain vanishingly rare, it has snuck out into wider use here and there, usually on IndustrialMechs or other units not intended for line combat. The PAC/8 is relatively light, though bulky, and does respectable damage making it a decent choice for garrison units.","PAC/8은 클랜 프로토메크용으로 의도된 클랜 무기입니다. 그러나 프로토메크가 여전히 극히 희귀하기 때문에, 여기저기 더 넓은 용도로 흘러나와 보통 인더스트리얼메크나 전열 전투용이 아닌 다른 유닛에 사용되고 있습니다. PAC/8은 비교적 가볍지만 부피가 크며, 준수한 피해를 주기 때문에 주둔 유닛에 적당한 선택지입니다."
+BT Advanced Clan Gear/weapons/Weapon_Autocannon_UAC10_Prototype.json,Description.Details,"An odd and transitory weapon, the Early Clan (or EC) Ultra Autocannon/10 serves as a bridge between the Inner Sphere AC/10 and the later true Clan-grade UAC/10. Dating to the Clan Golden Century, the EC UAC/10 bears much in common with its later Inner Sphere counterpart, showing the similar paths technology would take over the centuries. The EC UAC/10 was largely not a great weapon and was later abandoned by the Clans once they developed a true Clantech version of the weapon.","기묘하고 과도기적인 무기인 초기 클랜, 또는 EC 울트라 오토캐논/10은 이너스피어 AC/10과 이후의 진정한 클랜 등급 UAC/10 사이를 잇는 가교 역할을 합니다. 클랜 골든 센추리까지 거슬러 올라가는 EC UAC/10은 이후의 이너스피어 대응 무기와 많은 공통점을 지니며, 수 세기에 걸쳐 기술이 비슷한 경로를 밟게 되었음을 보여줍니다. EC UAC/10은 대체로 뛰어난 무기는 아니었고, 클랜이 해당 무기의 진정한 클랜테크 버전을 개발한 뒤에는 폐기되었습니다."
+BT Advanced Clan Gear/weapons/Weapon_Flamer_Flamer_CLAN.json,Description.Details,"Flamer weapons are unique in that they deal little physical damage but instead expel superheated plasma, applying substantial heat to their target. When done properly, this can hamper enemy return fire or even cause the targeted unit to shut down from overheating.","화염방사기 무기는 물리 피해는 거의 주지 않지만, 대신 초고온 플라즈마를 방출하여 대상에게 상당한 열을 가한다는 점에서 독특합니다. 제대로 사용하면 적의 반격 사격을 방해하거나, 심지어 대상 유닛이 과열로 정지하게 만들 수도 있습니다."
+BT Advanced Clan Gear/weapons/Weapon_Flamer_Heavy_CLAN.json,Description.Details,"Flamer weapons are unique in that they deal little physical damage but instead expel superheated plasma, applying substantial heat to their target. The Heavy Flamer is larger and heavier than the standard Flamer, but inflicts much more heat and damage than a normal Flamer and requires externally mounted ammunition unlike other Flamer weapons.","화염방사기 무기는 물리 피해는 거의 주지 않지만, 대신 초고온 플라즈마를 방출하여 대상에게 상당한 열을 가한다는 점에서 독특합니다. 헤비 화염방사기는 표준 화염방사기보다 크고 무겁지만, 일반 화염방사기보다 훨씬 더 많은 열과 피해를 주며, 다른 화염방사기 무기와 달리 외부 장착 탄약을 필요로 합니다."
+BT Advanced Clan Gear/weapons/Weapon_FLAMER_PLASMA_CLAN.json,Description.Details,"This Plasma Cannon accelerates and superheats a cartridge of 'plastic foam' into an excited state and release it as plasma, creating a tremendous kinetic and thermal impact. Unlike the Capellan version, the Clan Scientists focused exclusively on heat generation, making the Plasma Cannon cause nearly twice as much heat damage on the target. <b><color=#099ff2>VOLATILE!</color></b>  
+
+<b><color=#ffcc00>Uses Plasma Ammo.</color></b>","이 플라즈마 캐논은 '플라스틱 폼' 카트리지를 가속하고 과열하여 들뜬 상태로 만든 뒤 플라즈마로 방출함으로써, 막대한 운동 및 열 충격을 일으킵니다. 카펠란 버전과 달리, 클랜 과학자들은 열 생성에만 집중하여 플라즈마 캐논이 표적에게 거의 두 배에 달하는 열 피해를 주게 만들었습니다. <b><color=#099ff2>폭발 위험!</color></b>  
+
+<b><color=#ffcc00>플라즈마 탄약을 사용합니다.</color></b>"
+BT Advanced Clan Gear/weapons/Weapon_FLAMER_PLASMA_CLAN.json,statusEffects[0].Description.Details,High energy residue reduces heat efficiency by 20%.,고에너지 잔류물이 열 효율을 20% 감소시킵니다.
+BT Advanced Clan Gear/weapons/Weapon_Gauss_Antipersonnel_CLAN.json,Description.Details,"The Anti-Personnel Gauss Rifle is a modern Clan Jade Falcon invention designed to scythe through infantry and battle armor by firing a small tightly-packed cluster of metal flechettes, dealing massive damage to lightly armored targets. 
+
+ <b><color=#ffcc00>Uses AP Gauss Ammo.</color></b>","대인 가우스 라이플은 클랜 제이드 팰컨이 현대에 발명한 무기로, 작고 조밀하게 뭉친 금속 플레셰트 무리를 발사하여 보병과 배틀 아머를 베어 넘기도록 설계되었으며, 경장갑 표적에게 막대한 피해를 줍니다. 
+
+ <b><color=#ffcc00>AP 가우스 탄약을 사용합니다.</color></b>"
+BT Advanced Clan Gear/weapons/Weapon_Gauss_Gauss_CLAN.json,Description.Details,"A Gauss Rifle uses electromagnetic charges to accelerate metallic rounds at extremely high speed, dealing massive damage by kinetic force alone. Unlike Autocannons, Gauss Rifles ammunition will not explode upon a Critical Hit. <b><color=#099ff2>VOLATILE!</color></b>","가우스 라이플은 전자기 전하를 사용해 금속 탄환을 극도로 빠른 속도로 가속하여, 순수한 운동 에너지만으로 막대한 피해를 줍니다. 오토캐논과 달리, 가우스 라이플 탄약은 치명타를 받아도 폭발하지 않습니다. <b><color=#099ff2>폭발 위험!</color></b>"
+BT Advanced Clan Gear/weapons/Weapon_Gauss_HAG20_CLAN.json,Description.Details,"The Hyper-Assault Gauss Rifle is a variation on the Gauss Rifle developed by Clan Hell's Horses. Hoping to stay ahead of the increasing technological curve, they used similar design principles to the Heavy Gauss Rifle, however, Horse scientists used a series of capacitors and launching tubes to fire a multitude of smaller-caliber slugs. 
+
+<b><color=#ffcc00>Uses Hyper Gauss Ammo.</color></b> 
+
+<b><color=#099ff2>VOLATILE!</color></b>","하이퍼 어썰트 가우스 라이플은 클랜 헬스 호시스가 개발한 가우스 라이플의 변형입니다. 점점 높아지는 기술 수준보다 앞서 나가기를 바라며, 그들은 헤비 가우스 라이플과 유사한 설계 원리를 사용했습니다. 그러나 헬스 호시스 과학자들은 일련의 축전기와 발사관을 사용해 다수의 작은 구경 탄자를 발사하도록 만들었습니다. 
+
+<b><color=#ffcc00>하이퍼 가우스 탄약을 사용합니다.</color></b> 
+
+<b><color=#099ff2>폭발 위험!</color></b>"
+BT Advanced Clan Gear/weapons/Weapon_Gauss_HAG30_CLAN.json,Description.Details,"The Hyper-Assault Gauss Rifle is a variation on the Gauss Rifle developed by Clan Hell's Horses. Hoping to stay ahead of the increasing technological curve, they used similar design principles to the Heavy Gauss Rifle, however, Horse scientists used a series of capacitors and launching tubes to fire a multitude of smaller-caliber slugs. 
+
+<b><color=#ffcc00>Uses Hyper Gauss Ammo.</color></b> 
+
+<b><color=#099ff2>VOLATILE!</color></b>","하이퍼 어썰트 가우스 라이플은 클랜 헬스 호시스가 개발한 가우스 라이플의 변형입니다. 점점 높아지는 기술 수준보다 앞서 나가기를 바라며, 그들은 헤비 가우스 라이플과 유사한 설계 원리를 사용했습니다. 그러나 헬스 호시스 과학자들은 일련의 축전기와 발사관을 사용해 다수의 작은 구경 탄자를 발사하도록 만들었습니다. 
+
+<b><color=#ffcc00>하이퍼 가우스 탄약을 사용합니다.</color></b> 
+
+<b><color=#099ff2>폭발 위험!</color></b>"
+BT Advanced Clan Gear/weapons/Weapon_Gauss_HAG40_CLAN.json,Description.Details,"The Hyper-Assault Gauss Rifle is a variation on the Gauss Rifle developed by Clan Hell's Horses. Hoping to stay ahead of the increasing technological curve, they used similar design principles to the Heavy Gauss Rifle, however, Horse scientists used a series of capacitors and launching tubes to fire a multitude of smaller-caliber slugs. 
+
+<b><color=#ffcc00>Uses Hyper Gauss Ammo.</color></b> 
+
+<b><color=#099ff2>VOLATILE!</color></b>","하이퍼 어썰트 가우스 라이플은 클랜 헬스 호시스가 개발한 가우스 라이플의 변형입니다. 점점 높아지는 기술 수준보다 앞서 나가기를 바라며, 그들은 헤비 가우스 라이플과 유사한 설계 원리를 사용했습니다. 그러나 헬스 호시스 과학자들은 일련의 축전기와 발사관을 사용해 다수의 작은 구경 탄자를 발사하도록 만들었습니다. 
+
+<b><color=#ffcc00>하이퍼 가우스 탄약을 사용합니다.</color></b> 
+
+<b><color=#099ff2>폭발 위험!</color></b>"
 BT Advanced Clan Gear/weapons/Weapon_Gauss_ImprovedGauss_0-STOCK.json,Description.Details,"A strange and mostly forgotten transition technology, this Improved Gauss Rifle was pioneered by the Clans during their formative years. It is not as advanced as the Clan Gauss Rifle but features some improvements over the Inner Sphere Gauss. Unlike Autocannons, Gauss Rifles ammunition will not explode upon a Critical Hit.  <b><color=#099ff2>VOLATILE!</color></b>","이상하고 대부분 잊힌 과도기 기술인 이 개량형 가우스 라이플은 클랜의 형성기 동안 개척되었습니다. 클랜 가우스 라이플만큼 진보적이지는 않지만, 이너스피어 가우스보다 몇 가지 개선점을 갖추고 있습니다. 오토캐논과 달리, 가우스 라이플 탄약은 치명타를 받아도 폭발하지 않습니다.  <b><color=#099ff2>유폭 위험!</color></b>"
 BT Advanced Clan Gear/weapons/Weapon_Laser_HeavyLargeLaser_CLAN.json,Description.Details,"Clan Star Adder developed the Heavy Lasers to deal more damage, but with an increased heat output. In addition, interference with a BattleMech's sensors means that a Heavy Large Laser is penalized with a +3 to-hit modifier.","클랜 스타 애더는 더 높은 피해를 주기 위해 헤비 레이저를 개발했지만, 그만큼 열 출력도 증가했습니다. 또한 배틀메크의 센서에 간섭을 일으키기 때문에 헤비 라지 레이저는 명중 보정치 +3의 불이익을 받습니다."
 BT Advanced Clan Gear/weapons/Weapon_Laser_HeavyMediumLaser_CLAN.json,Description.Details,"Clan Star Adder developed the Heavy Lasers to deal more damage, but with an increased heat output. In addition, interference with a BattleMech's sensors means that a Heavy Medium Laser is penalized with a +3 to-hit modifier.","클랜 스타 애더는 더 높은 피해를 주기 위해 헤비 레이저를 개발했지만, 그만큼 열 출력도 증가했습니다. 또한 배틀메크의 센서에 간섭을 일으키기 때문에 헤비 미디엄 레이저는 명중 보정치 +3의 불이익을 받습니다."
