@@ -1,0 +1,196 @@
+﻿File,Key,Value,Translation
+TisButAScratch/events/tbone_event_co_DEBILITATED_ArmL.json,Description.Details,"[[DM.BaseDescriptionDefs[TBoneLoreDoc],Doc Cobble]] summons you to the medbay, where [[SCN_MW,{SCN_MW.Callsign}]] is laying on a bed.
+
+
+""Commander, {SCN_MW.Callsign}'s rehabilitation is coming along, but with the advanced facilities aboard the <i>Argo</i>, we can certainly speed things up, <i>if</i> we want to pay the price. The newer prosthetics have almost no acclimatization time but we'll need a hefty chunk of change to get those pukes at [[DM.BaseDescriptionDefs[LoreNAIS],New Avalon]] to send us the specs.""
+
+
+""What do you think?""
+
+ <b><color=#e51717>THIS EVENT REMOVES THE DEBILITATED CONDITION, IT DOES NOT IMMEDIATELY REMOVE THEIR INJURIES. WITHOUT THIS PROSTHETIC THE PILOT CANNOT BE FIELDED.</color></b>","[[DM.BaseDescriptionDefs[TBoneLoreDoc],닥터 코블]]이 당신을 의무실로 호출합니다. 그곳에는 [[SCN_MW,{SCN_MW.Callsign}]]이 침대에 누워 있습니다.
+
+
+""사령관님, {SCN_MW.Callsign}의 재활은 순조롭게 진행되고 있습니다. 하지만 <i>아르고</i>에 있는 첨단 시설을 활용하면, 그 대가를 지불할 의향만 있다면 분명히 속도를 높일 수 있습니다. 최신 보철물은 적응 시간이 거의 없지만, [[DM.BaseDescriptionDefs[LoreNAIS],뉴 아발론]]의 그 망할 놈들이 사양서를 보내주게 하려면 상당한 돈이 필요할 겁니다.""
+
+
+""어떻게 생각하십니까?""
+
+ <b><color=#e51717>이 이벤트는 쇠약 상태를 제거하지만, 부상을 즉시 제거하지는 않습니다. 이 보철물이 없으면 해당 파일럿은 출전시킬 수 없습니다.</color></b>"
+TisButAScratch/events/tbone_event_co_DEBILITATED_ArmL.json,Options[0].Description.Details,Refused.,거절
+TisButAScratch/events/tbone_event_co_DEBILITATED_ArmL.json,Options[0].ResultSets[0].Description.Details,"""Sorry Doc, we just can't spare the cash for it right now. Carry on with your normal rehabilitation.""","""죄송합니다, 닥터. 지금은 그 비용을 감당할 여유가 없습니다. 일반 재활 절차를 계속 진행하십시오."""
+TisButAScratch/events/tbone_event_co_DEBILITATED_ArmL.json,Options[1].Description.Details,Buy the replacement.,대체품을 구매합니다.
+TisButAScratch/events/tbone_event_co_DEBILITATED_ArmL.json,Options[1].ResultSets[0].Description.Details,"""This company is a family. Whatever we need to do to keep us going, we'll do it. Transfer payment to [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]] immediately.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]] is no longer debilitated and may be deployed.","""이 중대는 가족입니다. 우리가 계속 나아가기 위해 해야 할 일이 있다면, 무엇이든 할 겁니다. [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]]에 즉시 대금을 이체하십시오.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]]은 더 이상 쇠약 상태가 아니며 배치할 수 있습니다."
+TisButAScratch/events/tbone_event_co_DEBILITATED_ArmR.json,Description.Details,"[[DM.BaseDescriptionDefs[TBoneLoreDoc],Doc Cobble]] summons you to the medbay, where [[SCN_MW,{SCN_MW.Callsign}]] is laying on a bed.
+
+
+""Commander, {SCN_MW.Callsign}'s rehabilitation is coming along, but with the advanced facilities aboard the <i>Argo</i>, we can certainly speed things up, <i>if</i> we want to pay the price. The newer prosthetics have almost no acclimatization time but we'll need a hefty chunk of change to get those pukes at [[DM.BaseDescriptionDefs[LoreNAIS],New Avalon]] to send us the specs.""
+
+
+""What do you think?""
+
+ <b><color=#e51717>THIS EVENT REMOVES THE DEBILITATED CONDITION, IT DOES NOT IMMEDIATELY REMOVE THEIR INJURIES. WITHOUT THIS PROSTHETIC THE PILOT CANNOT BE FIELDED.</color></b>","[[DM.BaseDescriptionDefs[TBoneLoreDoc],닥터 코블]]이 당신을 의무실로 호출합니다. 그곳에는 [[SCN_MW,{SCN_MW.Callsign}]]이 침대에 누워 있습니다.
+
+
+""사령관님, {SCN_MW.Callsign}의 재활은 순조롭게 진행되고 있습니다. 하지만 <i>아르고</i>에 있는 첨단 시설을 활용하면, 그 대가를 지불할 의향만 있다면 분명히 속도를 높일 수 있습니다. 최신 보철물은 적응 시간이 거의 없지만, [[DM.BaseDescriptionDefs[LoreNAIS],뉴 아발론]]의 그 망할 놈들이 사양서를 보내주게 하려면 상당한 돈이 필요할 겁니다.""
+
+
+""어떻게 생각하십니까?""
+
+ <b><color=#e51717>이 이벤트는 쇠약 상태를 제거하지만, 부상을 즉시 제거하지는 않습니다. 이 보철물이 없으면 해당 파일럿은 출전시킬 수 없습니다.</color></b>"
+TisButAScratch/events/tbone_event_co_DEBILITATED_ArmR.json,Options[0].Description.Details,Refused.,거절
+TisButAScratch/events/tbone_event_co_DEBILITATED_ArmR.json,Options[0].ResultSets[0].Description.Details,"""Sorry Doc, we just can't spare the cash for it right now. Carry on with your normal rehabilitation.""","""죄송합니다, 닥터. 지금은 그 비용을 감당할 여유가 없습니다. 일반 재활 절차를 계속 진행하십시오."""
+TisButAScratch/events/tbone_event_co_DEBILITATED_ArmR.json,Options[1].Description.Details,Buy the replacement.,대체품을 구매합니다.
+TisButAScratch/events/tbone_event_co_DEBILITATED_ArmR.json,Options[1].ResultSets[0].Description.Details,"""This company is a family. Whatever we need to do to keep us going, we'll do it. Transfer payment to [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]] immediately.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]] is no longer debilitated and may be deployed.","""이 중대는 가족입니다. 우리가 계속 나아가기 위해 해야 할 일이 있다면, 무엇이든 할 겁니다. [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]]에 즉시 대금을 이체하십시오.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]]은 더 이상 쇠약 상태가 아니며 배치할 수 있습니다."
+TisButAScratch/events/tbone_event_co_DEBILITATED_Head.json,Description.Details,"[[DM.BaseDescriptionDefs[TBoneLoreDoc],Doc Cobble]] summons you to the medbay, where [[SCN_MW,{SCN_MW.Callsign}]] is laying on a bed.
+
+
+""Commander, {SCN_MW.Callsign}'s rehabilitation is coming along, but with the advanced facilities aboard the <i>Argo</i>, we can certainly speed things up, <i>if</i> we want to pay the price. The newer prosthetics have almost no acclimatization time but we'll need a hefty chunk of change to get those pukes at [[DM.BaseDescriptionDefs[LoreNAIS],New Avalon]] to send us the specs.""
+
+
+""What do you think?""
+
+ <b><color=#e51717>THIS EVENT REMOVES THE DEBILITATED CONDITION, IT DOES NOT IMMEDIATELY REMOVE THEIR INJURIES. WITHOUT THIS PROSTHETIC THE PILOT CANNOT BE FIELDED.</color></b>","[[DM.BaseDescriptionDefs[TBoneLoreDoc],닥터 코블]]이 당신을 의무실로 호출합니다. 그곳에는 [[SCN_MW,{SCN_MW.Callsign}]]이 침대에 누워 있습니다.
+
+
+""사령관님, {SCN_MW.Callsign}의 재활은 순조롭게 진행되고 있습니다. 하지만 <i>아르고</i>에 있는 첨단 시설을 활용하면, 그 대가를 지불할 의향만 있다면 분명히 속도를 높일 수 있습니다. 최신 보철물은 적응 시간이 거의 없지만, [[DM.BaseDescriptionDefs[LoreNAIS],뉴 아발론]]의 그 망할 놈들이 사양서를 보내주게 하려면 상당한 돈이 필요할 겁니다.""
+
+
+""어떻게 생각하십니까?""
+
+ <b><color=#e51717>이 이벤트는 쇠약 상태를 제거하지만, 부상을 즉시 제거하지는 않습니다. 이 보철물이 없으면 해당 파일럿은 출전시킬 수 없습니다.</color></b>"
+TisButAScratch/events/tbone_event_co_DEBILITATED_Head.json,Options[0].Description.Details,Refused.,거절
+TisButAScratch/events/tbone_event_co_DEBILITATED_Head.json,Options[0].ResultSets[0].Description.Details,"""Sorry Doc, we just can't spare the cash for it right now. Carry on with your normal rehabilitation.""","""죄송합니다, 닥터. 지금은 그 비용을 감당할 여유가 없습니다. 일반 재활 절차를 계속 진행하십시오."""
+TisButAScratch/events/tbone_event_co_DEBILITATED_Head.json,Options[1].Description.Details,Buy the replacement.,대체품을 구매합니다.
+TisButAScratch/events/tbone_event_co_DEBILITATED_Head.json,Options[1].ResultSets[0].Description.Details,"""This company is a family. Whatever we need to do to keep us going, we'll do it. Transfer payment to [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]] immediately.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]] is no longer debilitated and may be deployed.","""이 중대는 가족입니다. 우리가 계속 나아가기 위해 해야 할 일이 있다면, 무엇이든 할 겁니다. [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]]에 즉시 대금을 이체하십시오.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]]은 더 이상 쇠약 상태가 아니며 배치할 수 있습니다."
+TisButAScratch/events/tbone_event_co_DEBILITATED_LegL.json,Description.Details,"[[DM.BaseDescriptionDefs[TBoneLoreDoc],Doc Cobble]] summons you to the medbay, where [[SCN_MW,{SCN_MW.Callsign}]] is laying on a bed.
+
+
+""Commander, {SCN_MW.Callsign}'s rehabilitation is coming along, but with the advanced facilities aboard the <i>Argo</i>, we can certainly speed things up, <i>if</i> we want to pay the price. The newer prosthetics have almost no acclimatization time but we'll need a hefty chunk of change to get those pukes at [[DM.BaseDescriptionDefs[LoreNAIS],New Avalon]] to send us the specs.""
+
+
+""What do you think?""
+
+ <b><color=#e51717>THIS EVENT REMOVES THE DEBILITATED CONDITION, IT DOES NOT IMMEDIATELY REMOVE THEIR INJURIES. WITHOUT THIS PROSTHETIC THE PILOT CANNOT BE FIELDED.</color></b>","[[DM.BaseDescriptionDefs[TBoneLoreDoc],닥터 코블]]이 당신을 의무실로 호출합니다. 그곳에는 [[SCN_MW,{SCN_MW.Callsign}]]이 침대에 누워 있습니다.
+
+
+""사령관님, {SCN_MW.Callsign}의 재활은 순조롭게 진행되고 있습니다. 하지만 <i>아르고</i>에 있는 첨단 시설을 활용하면, 그 대가를 지불할 의향만 있다면 분명히 속도를 높일 수 있습니다. 최신 보철물은 적응 시간이 거의 없지만, [[DM.BaseDescriptionDefs[LoreNAIS],뉴 아발론]]의 그 망할 놈들이 사양서를 보내주게 하려면 상당한 돈이 필요할 겁니다.""
+
+
+""어떻게 생각하십니까?""
+
+ <b><color=#e51717>이 이벤트는 쇠약 상태를 제거하지만, 부상을 즉시 제거하지는 않습니다. 이 보철물이 없으면 해당 파일럿은 출전시킬 수 없습니다.</color></b>"
+TisButAScratch/events/tbone_event_co_DEBILITATED_LegL.json,Options[0].Description.Details,Refused.,거절
+TisButAScratch/events/tbone_event_co_DEBILITATED_LegL.json,Options[0].ResultSets[0].Description.Details,"""Sorry Doc, we just can't spare the cash for it right now. Carry on with your normal rehabilitation.""","""죄송합니다, 닥터. 지금은 그 비용을 감당할 여유가 없습니다. 일반 재활 절차를 계속 진행하십시오."""
+TisButAScratch/events/tbone_event_co_DEBILITATED_LegL.json,Options[1].Description.Details,Buy the replacement.,대체품을 구매합니다.
+TisButAScratch/events/tbone_event_co_DEBILITATED_LegL.json,Options[1].ResultSets[0].Description.Details,"""This company is a family. Whatever we need to do to keep us going, we'll do it. Transfer payment to [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]] immediately.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]] is no longer debilitated and may be deployed.","""이 중대는 가족입니다. 우리가 계속 나아가기 위해 해야 할 일이 있다면, 무엇이든 할 겁니다. [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]]에 즉시 대금을 이체하십시오.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]]은 더 이상 쇠약 상태가 아니며 배치할 수 있습니다."
+TisButAScratch/events/tbone_event_co_DEBILITATED_LegR.json,Description.Details,"[[DM.BaseDescriptionDefs[TBoneLoreDoc],Doc Cobble]] summons you to the medbay, where [[SCN_MW,{SCN_MW.Callsign}]] is laying on a bed.
+
+
+""Commander, {SCN_MW.Callsign}'s rehabilitation is coming along, but with the advanced facilities aboard the <i>Argo</i>, we can certainly speed things up, <i>if</i> we want to pay the price. The newer prosthetics have almost no acclimatization time but we'll need a hefty chunk of change to get those pukes at [[DM.BaseDescriptionDefs[LoreNAIS],New Avalon]] to send us the specs.""
+
+
+""What do you think?""
+
+ <b><color=#e51717>THIS EVENT REMOVES THE DEBILITATED CONDITION, IT DOES NOT IMMEDIATELY REMOVE THEIR INJURIES. WITHOUT THIS PROSTHETIC THE PILOT CANNOT BE FIELDED.</color></b>","[[DM.BaseDescriptionDefs[TBoneLoreDoc],닥터 코블]]이 당신을 의무실로 호출합니다. 그곳에는 [[SCN_MW,{SCN_MW.Callsign}]]이 침대에 누워 있습니다.
+
+
+""사령관님, {SCN_MW.Callsign}의 재활은 순조롭게 진행되고 있습니다. 하지만 <i>아르고</i>에 있는 첨단 시설을 활용하면, 그 대가를 지불할 의향만 있다면 분명히 속도를 높일 수 있습니다. 최신 보철물은 적응 시간이 거의 없지만, [[DM.BaseDescriptionDefs[LoreNAIS],뉴 아발론]]의 그 망할 놈들이 사양서를 보내주게 하려면 상당한 돈이 필요할 겁니다.""
+
+
+""어떻게 생각하십니까?""
+
+ <b><color=#e51717>이 이벤트는 쇠약 상태를 제거하지만, 부상을 즉시 제거하지는 않습니다. 이 보철물이 없으면 해당 파일럿은 출전시킬 수 없습니다.</color></b>"
+TisButAScratch/events/tbone_event_co_DEBILITATED_LegR.json,Options[0].Description.Details,Refused.,거절
+TisButAScratch/events/tbone_event_co_DEBILITATED_LegR.json,Options[0].ResultSets[0].Description.Details,"""Sorry Doc, we just can't spare the cash for it right now. Carry on with your normal rehabilitation.""","""죄송합니다, 닥터. 지금은 그 비용을 감당할 여유가 없습니다. 일반 재활 절차를 계속 진행하십시오."""
+TisButAScratch/events/tbone_event_co_DEBILITATED_LegR.json,Options[1].Description.Details,Buy the replacement.,대체품을 구매합니다.
+TisButAScratch/events/tbone_event_co_DEBILITATED_LegR.json,Options[1].ResultSets[0].Description.Details,"""This company is a family. Whatever we need to do to keep us going, we'll do it. Transfer payment to [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]] immediately.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]] is no longer debilitated and may be deployed.","""이 중대는 가족입니다. 우리가 계속 나아가기 위해 해야 할 일이 있다면, 무엇이든 할 겁니다. [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]]에 즉시 대금을 이체하십시오.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]]은 더 이상 쇠약 상태가 아니며 배치할 수 있습니다."
+TisButAScratch/events/tbone_event_co_DEBILITATED_Torso.json,Description.Details,"[[DM.BaseDescriptionDefs[TBoneLoreDoc],Doc Cobble]] summons you to the medbay, where [[SCN_MW,{SCN_MW.Callsign}]] is laying on a bed.
+
+
+""Commander, {SCN_MW.Callsign}'s rehabilitation is coming along, but with the advanced facilities aboard the <i>Argo</i>, we can certainly speed things up, <i>if</i> we want to pay the price. The newer prosthetics have almost no acclimatization time but we'll need a hefty chunk of change to get those pukes at [[DM.BaseDescriptionDefs[LoreNAIS],New Avalon]] to send us the specs.""
+
+
+""What do you think?""
+
+ <b><color=#e51717>THIS EVENT REMOVES THE DEBILITATED CONDITION, IT DOES NOT IMMEDIATELY REMOVE THEIR INJURIES. WITHOUT THIS PROSTHETIC THE PILOT CANNOT BE FIELDED.</color></b>","[[DM.BaseDescriptionDefs[TBoneLoreDoc],닥터 코블]]이 당신을 의무실로 호출합니다. 그곳에는 [[SCN_MW,{SCN_MW.Callsign}]]이 침대에 누워 있습니다.
+
+
+""사령관님, {SCN_MW.Callsign}의 재활은 순조롭게 진행되고 있습니다. 하지만 <i>아르고</i>에 있는 첨단 시설을 활용하면, 그 대가를 지불할 의향만 있다면 분명히 속도를 높일 수 있습니다. 최신 보철물은 적응 시간이 거의 없지만, [[DM.BaseDescriptionDefs[LoreNAIS],뉴 아발론]]의 그 망할 놈들이 사양서를 보내주게 하려면 상당한 돈이 필요할 겁니다.""
+
+
+""어떻게 생각하십니까?""
+
+ <b><color=#e51717>이 이벤트는 쇠약 상태를 제거하지만, 부상을 즉시 제거하지는 않습니다. 이 보철물이 없으면 해당 파일럿은 출전시킬 수 없습니다.</color></b>"
+TisButAScratch/events/tbone_event_co_DEBILITATED_Torso.json,Options[0].Description.Details,Refused.,거절
+TisButAScratch/events/tbone_event_co_DEBILITATED_Torso.json,Options[0].ResultSets[0].Description.Details,"""Sorry Doc, we just can't spare the cash for it right now. Carry on with your normal rehabilitation.""","""죄송합니다, 닥터. 지금은 그 비용을 감당할 여유가 없습니다. 일반 재활 절차를 계속 진행하십시오."""
+TisButAScratch/events/tbone_event_co_DEBILITATED_Torso.json,Options[1].Description.Details,Buy the replacement.,대체품을 구매합니다.
+TisButAScratch/events/tbone_event_co_DEBILITATED_Torso.json,Options[1].ResultSets[0].Description.Details,"""This company is a family. Whatever we need to do to keep us going, we'll do it. Transfer payment to [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]] immediately.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]] is no longer debilitated and may be deployed.","""이 중대는 가족입니다. 우리가 계속 나아가기 위해 해야 할 일이 있다면, 무엇이든 할 겁니다. [[DM.BaseDescriptionDefs[LoreNAIS],NAIS]]에 즉시 대금을 이체하십시오.""
+
+
+[[SCN_MW,{SCN_MW.Callsign}]]은 더 이상 쇠약 상태가 아니며 배치할 수 있습니다."
+TisButAScratch/settings.json,BleedingEffects[0].effectDataJO[0].Description.Details,"This pilot has suffered minor blood loss and has gone into minor shock, reducing accuracy.",이 파일럿은 경미한 출혈을 겪고 가벼운 쇼크 상태에 빠져 명중률이 감소합니다.
+TisButAScratch/settings.json,BleedingEffects[1].effectDataJO[0].Description.Details,This pilot has lost a lot of blood. Things are spinny and unstable.,이 파일럿은 많은 피를 흘렸습니다. 시야가 빙글빙글 돌고 몸이 불안정합니다.
+TisButAScratch/settings.json,BleedingEffects[2].effectDataJO[0].Description.Details,"This pilot has a broken leg and is suffering a walking, running, and jumping penalty.","이 파일럿은 다리가 부러져 보행, 달리기, 점프에 불이익을 받고 있습니다."
+TisButAScratch/settings.json,BleedingEffects[2].effectDataJO[1].Description.Details,This pilot has a broken leg and is suffering a jump distance penalty.,이 파일럿은 다리가 부러져 점프 거리에 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[0].effectDataJO[0].Description.Details,This pilot is concussed. Unsteady threshold is decreased.,이 파일럿은 뇌진탕 상태입니다. 불안정 한계치가 감소합니다.
+TisButAScratch/settings.json,InjuryEffectsList[10].effectDataJO[0].Description.Details,This pilot has been severely burned and is suffering a movement penalty.,이 파일럿은 심각한 화상을 입어 이동 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[10].effectDataJO[1].Description.Details,This pilot has been severely burned and is suffering a jump distance penalty.,이 파일럿은 심각한 화상을 입어 점프 거리에 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[11].effectDataJO[0].Description.Details,This pilot has been severely burned and is suffering a movement penalty.,이 파일럿은 심각한 화상을 입어 이동 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[11].effectDataJO[1].Description.Details,This pilot has been severely burned and is suffering a jump distance penalty.,이 파일럿은 심각한 화상을 입어 점프 거리에 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[12].effectDataJO[0].Description.Details,This pilot has a broken leg and is suffering a movement penalty.,이 파일럿은 다리가 부러져 이동 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[12].effectDataJO[1].Description.Details,This pilot has a broken leg and is suffering a jump distance penalty.,이 파일럿은 다리가 부러져 점프 거리에 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[13].effectDataJO[0].Description.Details,This pilot has a broken leg and is suffering a movement penalty.,이 파일럿은 다리가 부러져 이동 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[13].effectDataJO[1].Description.Details,This pilot has a broken leg and is suffering a jump distance penalty.,이 파일럿은 다리가 부러져 점프 거리에 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[14].effectDataJO[0].Description.Details,This pilot has a broken leg and is suffering a movement penalty.,이 파일럿은 다리가 부러져 이동 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[14].effectDataJO[1].Description.Details,This pilot has a broken leg and is suffering a jump distance penalty.,이 파일럿은 다리가 부러져 점프 거리에 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[15].effectDataJO[0].Description.Details,This pilot has a broken leg and is suffering a movement penalty.,이 파일럿은 다리가 부러져 이동 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[15].effectDataJO[1].Description.Details,This pilot has a broken leg and is suffering a jump distance penalty.,이 파일럿은 다리가 부러져 점프 거리에 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[16].effectDataJO[0].Description.Details,This pilot is suffering from internal bleeding and receives a debuff to Evasion.,이 파일럿은 내출혈을 겪고 있어 회피에 약화 효과를 받습니다.
+TisButAScratch/settings.json,InjuryEffectsList[17].effectDataJO[0].Description.Details,This pilot has broken ribs and receives a debuff to Evasion.,이 파일럿은 갈비뼈가 부러져 회피에 약화 효과를 받습니다.
+TisButAScratch/settings.json,InjuryEffectsList[18].effectDataJO[0].Description.Details,This pilot has a punctured lung and has a penalty to Guts.,이 파일럿은 폐에 구멍이 뚫려 배짱에 불이익을 받습니다.
+TisButAScratch/settings.json,InjuryEffectsList[19].effectDataJO[0].Description.Details,This pilot has a collapsed lung and has a penalty to Guts.,이 파일럿은 폐 허탈을 겪고 있어 배짱에 불이익을 받습니다.
+TisButAScratch/settings.json,InjuryEffectsList[1].effectDataJO[0].Description.Details,"This pilot has a broken jaw, and generates 5 less resolve due to hampered communications.",이 파일럿은 턱이 부러져 의사소통에 지장을 받으므로 결의 생성량이 5 감소합니다.
+TisButAScratch/settings.json,InjuryEffectsList[20].effectDataJO[0].Description.Details,This pilot has been severely burned and is suffering a penalty to Evasion.,이 파일럿은 심각한 화상을 입어 회피에 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[2].effectDataJO[0].Description.Details,This pilot has severe burns to the head. Sight distance is impaired.,이 파일럿은 머리에 심각한 화상을 입었습니다. 시야 거리가 저하됩니다.
+TisButAScratch/settings.json,InjuryEffectsList[3].effectDataJO[0].Description.Details,This pilot has suffered barotrauma to the head. Unsteady threshold decreased.,이 파일럿은 머리에 압력 외상을 입었습니다. 불안정 한계치가 감소합니다.
+TisButAScratch/settings.json,InjuryEffectsList[4].effectDataJO[0].Description.Details,"This pilot has been severely burned, and is suffering an accuracy penalty.",이 파일럿은 심각한 화상을 입어 명중률 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[5].effectDataJO[0].Description.Details,"This pilot has been severely burned, and is suffering an accuracy penalty.",이 파일럿은 심각한 화상을 입어 명중률 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[6].effectDataJO[0].Description.Details,"This pilot has a broken arm, and is suffering an accuracy penalty.",이 파일럿은 팔이 부러져 명중률 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[7].effectDataJO[0].Description.Details,"This pilot has a broken arm, and is suffering an accuracy penalty.",이 파일럿은 팔이 부러져 명중률 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[8].effectDataJO[0].Description.Details,"This pilot has a compound fracture in their arm, and is suffering an accuracy penalty.",이 파일럿은 팔에 복합 골절을 입어 명중률 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InjuryEffectsList[9].effectDataJO[0].Description.Details,"This pilot has a compound fracture in their arm, and is suffering an accuracy penalty.",이 파일럿은 팔에 복합 골절을 입어 명중률 불이익을 받고 있습니다.
+TisButAScratch/settings.json,InternalDmgInjuries[0].effectDataJO[0].Description.Details,"This pilot has suffered from neural feedback from a DNI or EI interface, and has drastically reduced accuracy.",이 파일럿은 DNI 또는 EI 인터페이스로 인한 신경 피드백을 겪어 명중률이 크게 감소했습니다.
+TisButAScratch/settings.json,OvercrowdingEffects[0].effectDataJO[0].Description.Details,This pilot is tired from sleeping in stank ass sheets someone else used. Hotbunking sucks.,이 파일럿은 다른 사람이 쓰던 지독하게 냄새나는 시트에서 자느라 피곤합니다. 핫벙킹은 정말 최악입니다.

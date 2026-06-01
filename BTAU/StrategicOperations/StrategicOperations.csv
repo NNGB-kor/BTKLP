@@ -1,0 +1,1301 @@
+﻿File,Key,Value,Translation
+StrategicOperations/abilities/AbilityDefAirliftActivate.json,Description.Details,"ACTION: This unit will airlift the targeted unit, hoisting it into the air and carrying it around. The airlifted unit can still shoot, but can take no movement actions as long as it is held.","행동: 이 유닛은 대상 유닛을 공수하여 공중으로 들어 올리고 운반합니다. 공수된 유닛은 여전히 사격할 수 있지만, 붙잡혀 있는 동안에는 이동 행동을 취할 수 없습니다."
+StrategicOperations/abilities/AbilityDefBattleArmorMount.json,Description.Details,ACTION: Battle armor will mount/dismount selected unit,행동: 배틀 아머가 선택한 유닛에 탑승하거나 하차합니다.
+StrategicOperations/abilities/AbilityDefCMD_BADrop.json,Description.Details,"DEPLOYS A BATTLE ARMOR SQUAD FROM THE ARGO'S STORAGE BAYS UNDER ALLIED CONTROL.
+
+ <b><color=#099ff2>Has a 2 turn cooldown! Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in two squads per contract!</color></b>
+
+ <b><color=#e11919>Costs 10000 C-Bills per use!</color></b>","아르고의 보관 베이에서 아군 조종의 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>2턴 재사용 대기 시간이 있습니다! 사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 두 분대만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 10000 C-Bills가 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Achilles.json,Description.Details,"DEPLOYS AN ACHILLES BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 10000 C-Bills per use!</color></b>","아군 조종의 아킬레스 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 분대 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 10000 C-Bills가 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Armstrong.json,Description.Details,"DEPLOYS AN ARMSTRONG BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 10000 C-Bills per use!</color></b>","아군 조종의 암스트롱 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 분대 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 10000 C-Bills가 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Asterion.json,Description.Details,"DEPLOYS AN ASTERION BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 10000 C-Bills per use!</color></b>","아군 조종의 아스테리온 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 분대 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 10000 C-Bills가 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Dragoon.json,Description.Details,"DEPLOYS A DRAGOON BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 20000 C-Bills per use!</color></b>","아군 조종의 드라군 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 분대 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 20000 C-Bills가 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Elemental.json,Description.Details,"DEPLOYS AN ELEMENTAL BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 50000 C-Bills per use!</color></b>","아군 조종의 엘리멘탈 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 분대 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 50000 C-Bills가 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_FaShih.json,Description.Details,"DEPLOYS A FA SHIH BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 20000 C-Bills per use!</color></b>","아군 조종의 파 시 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 분대 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 20000 C-Bills가 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Gnome.json,Description.Details,"DEPLOYS A GNOME BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 60000 C-Bills per use!</color></b>","아군 조종의 노움 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 분대 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 60000 C-Bills가 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Golem.json,Description.Details,"DEPLOYS A GOLEM BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 70000 C-Bills per use!</color></b>","아군 조종의 골렘 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 분대 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 70000 C-Bills가 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Grenadier.json,Description.Details,"DEPLOYS A GRENADIER BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 30000 C-Bills per use!</color></b>","아군 통제하의 그레네디어 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 30000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_InfiltratorMkII.json,Description.Details,"DEPLOYS AN INFILTRATOR MK. II BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 10000 C-Bills per use!</color></b>","연합 통제하에 인필트레이터 MK. II 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용하려면 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 10000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_IS_Standard.json,Description.Details,"DEPLOYS AN IS STANDARD BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 10000 C-Bills per use!</color></b>","표준 배틀 아머 분대를 배치합니다. 아군이 통제합니다.
+
+ <b><color=#099ff2>사용 시 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 10000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Kanazuchi.json,Description.Details,"DEPLOYS A KANAZUCHI BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 40000 C-Bills per use!</color></b>","아군이 통제하는 카나즈치 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용에 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 40000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Krupp.json,Description.Details,"DEPLOYS A KRUPP BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 40000 C-Bills per use!</color></b>","아군 통제하에 크루프 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용하려면 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 40000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Marauder.json,Description.Details,"DEPLOYS A MARAUDER BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 40000 C-Bills per use!</color></b>","아군 통제하에 마라우더 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용에 Resolve 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 하나만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 40000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Phalanx.json,Description.Details,"DEPLOYS A PHALANX BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 20000 C-Bills per use!</color></b>","아군 통제 하에 팔랑크스 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용에 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 한 분대만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 20000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Raiden.json,Description.Details,"DEPLOYS A RAIDEN BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 30000 C-Bills per use!</color></b>","레이든 배틀 아머 분대를 아군 통제하에 배치합니다.
+
+ <b><color=#099ff2>사용에 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 30000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Ravager.json,Description.Details,"DEPLOYS A RAVAGER BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 40000 C-Bills per use!</color></b>","아군 통제하에 레이버저 배틀 아머 분대를 투입합니다.
+
+ <b><color=#099ff2>사용에 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 한 분대만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 40000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Rottweiler.json,Description.Details,"DEPLOYS A ROTTWEILER BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 10000 C-Bills per use!</color></b>","아군 통제하에 로트와일러 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 한 분대만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 10000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Salamander.json,Description.Details,"DEPLOYS A SALAMANDER BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 50000 C-Bills per use!</color></b>","아군이 통제하는 샐러맨더 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용에 Resolve 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 50000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Simo.json,Description.Details,"DEPLOYS A SIMO BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 30000 C-Bills per use!</color></b>","아군 통제하에 시모 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용에 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 30000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Sloth.json,Description.Details,"DEPLOYS A SLOTH BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 30000 C-Bills per use!</color></b>","아군 통제 하에 슬로스 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용에 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 30000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Tengu.json,Description.Details,"DEPLOYS A TENGU BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 40000 C-Bills per use!</color></b>","아군이 통제하는 텐구 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용에 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 40000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Theseus.json,Description.Details,"DEPLOYS A THESEUS BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 10000 C-Bills per use!</color></b>","아군 통제하에 테세우스 배틀 아머 분대를 투입합니다.
+
+ <b><color=#099ff2>사용 시 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 10000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_Void.json,Description.Details,"DEPLOYS A VOID BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 20000 C-Bills per use!</color></b>","아군이 통제하는 보이드 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용에 결의 15가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 20000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_BADrop_YingLong.json,Description.Details,"DEPLOYS A YING LONG BATTLE ARMOR SQUAD ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in one squad per contract!</color></b>
+
+ <b><color=#e11919>Costs 20000 C-Bills per use!</color></b>","아군 통제하에 있는 잉 롱 배틀 아머 분대를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 분대는 한 번만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 20000 C-빌이 듭니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_FireBase.json,Description.Details,"DEPLOYS A TURRET FROM THE ARGO'S STORAGE BAYS UNDER ALLIED CONTROL.
+
+ <b><color=#099ff2>Has a 2 turn cooldown! Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in two turrets per contract!</color></b>
+
+ <b><color=#e11919>Costs 10000 C-Bills per use!</color></b>","아군 통제 하에 아르고의 저장 구역에서 포탑을 배치합니다.
+
+ <b><color=#099ff2>재사용 대기시간이 2턴입니다! 사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 포탑은 두 기까지만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 10000 C-빌이 듭니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_Strafe.json,Description.Details,"CALLS IN A STRAFING RUN BY THE ARGO'S TWO ATTACHED AEROSPACE FIGHTERS.
+
+ <b><color=#099ff2>Has a 3 turn cooldown! Costs 15 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in two strafes per contract! The fighters attack in two waves, one after another!</color></b>
+
+ <b><color=#e11919>Costs 35000 C-Bills per wave!</color></b>","아르고에 배속된 두 대의 항공우주 전투기로 기총소사 지원을 요청합니다.
+
+ <b><color=#099ff2>재사용 대기시간은 3턴입니다! 사용 시 결의 15를 소모합니다!</color></b>
+
+ <b><color=#15df37>계약당 기총소사 지원은 두 번만 요청할 수 있습니다! 전투기들은 두 개의 파상으로, 차례차례 공격합니다!</color></b>
+
+ <b><color=#e11919>파상당 35000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_Strafe_AI.json,Description.Details,"AI USE ONLY: CALLS IN A STRAFING RUN BY THE ARGO'S ATTACHED AEROSPACE FIGHTERS.
+
+ <b><color=#099ff2>Has a 3 turn cooldown! Costs 35 Resolve to use!</color></b>
+
+ <b><color=#15df37>Can only call in five strafes per contract!</color></b>
+
+ <b><color=#e11919>Costs 50000 C-Bills per use!</color></b>","AI 전용: 아르고에 배속된 에어로스페이스 파이터들에게 기총소사 지원을 요청합니다.
+
+ <b><color=#099ff2>재사용 대기시간은 3턴입니다! 사용 시 결의 35가 소모됩니다!</color></b>
+
+ <b><color=#15df37>계약당 기총소사 지원은 다섯 번만 요청할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 50000 C-빌이 듭니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_Strafe_AI.json,EffectData[0].Description.Details,WITNESS ME,나를 지켜보십시오
+StrategicOperations/abilities/AbilityDefCMD_Strafe_AI.json,EffectData[1].Description.Details,WITNESS ME,나를 지켜보십시오
+StrategicOperations/abilities/AbilityDefCMD_TonkDrop.json,Description.Details,"DEPLOYS A TANK FROM THE ARGO'S STORAGE BAYS UNDER ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 35 Resolve to use!</color></b>
+
+<b><color=#15df37>Can only call in one tank per contract!</color></b>
+
+ <b><color=#e11919>Costs 50000 C-Bills per use!</color></b>","아군 통제하에 있는 아르고의 저장고에서 전차를 배치합니다.
+
+ <b><color=#099ff2>사용에 결의 35가 소모됩니다!</color></b>
+
+<b><color=#15df37>계약당 전차는 한 대만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용당 50000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_TonkDrop_UrbanAmbush.json,Description.Details,"DEPLOYS A TANK FROM THE ARGO'S STORAGE BAYS UNDER ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 35 Resolve to use!</color></b>
+
+<b><color=#15df37>Can only call in one tank per contract!</color></b>
+
+ <b><color=#e11919>Costs 50000 C-Bills per use!</color></b>","아군 통제하에 있는 아르고의 저장고에서 탱크를 배치합니다.
+
+ <b><color=#099ff2>사용에 결의 35가 소모됩니다!</color></b>
+
+<b><color=#15df37>계약당 탱크는 한 대만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 50000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_UrbDrop.json,Description.Details,"DEPLOYS A BATTLEMECH FROM THE ARGO'S STORAGE BAYS UNDER ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 50 Resolve to use!</color></b>
+
+<b><color=#15df37>Can only call in one BattleMech per contract!</color></b>
+
+ <b><color=#e11919>Costs 100000 C-Bills per use!</color></b>","아군 통제하에 아르고의 저장 격납고에서 배틀메크를 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 50이 소모됩니다!</color></b>
+
+<b><color=#15df37>계약당 배틀메크는 한 대만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 100000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefCMD_VTOLDrop.json,Description.Details,"DEPLOYS A SCOUTING DRONE FROM THE ARGO'S STORAGE BAYS UNDER ALLIED CONTROL.
+
+ <b><color=#099ff2>Costs 20 Resolve to use!</color></b>
+
+<b><color=#15df37>Can only call in two drones per contract!</color></b>
+
+ <b><color=#e11919>Costs 75000 C-Bills per use!</color></b>","아군 통제하에 있는 아르고의 저장고에서 정찰 드론을 배치합니다.
+
+ <b><color=#099ff2>사용 시 결의 20이 소모됩니다!</color></b>
+
+<b><color=#15df37>계약당 드론은 두 대만 호출할 수 있습니다!</color></b>
+
+ <b><color=#e11919>사용할 때마다 75000 C-빌이 소모됩니다!</color></b>"
+StrategicOperations/abilities/AbilityDefDeSwarmerMovement.json,Description.Details,ACTION: Do fancy footworks and barrel rolls to get rid of swarming Battle Armor but suffer a significant attack penalty while doing so. Must be done before movement and has a better chance of success based on total evasion generated from subsequent movement.,"행동: 현란한 발놀림과 배럴 롤을 수행해 들러붙은 배틀 아머를 떼어내십시오. 하지만 그렇게 하는 동안에는 공격 페널티를 크게 받습니다. 이동 전에 반드시 수행해야 하며, 이후 이동으로 생성된 총 회피 수치가 높을수록 성공 확률이 더 높아집니다."
+StrategicOperations/abilities/AbilityDefDeSwarmerMovement.json,EffectData[0].Description.Details,-10 Accuracy,-10 정확도
+StrategicOperations/abilities/AbilityDefDeSwarmerRoll.json,Description.Details,ACTION: Unit will roll (self-knockdown) to remove swarming Battle Armor.  Must be done before movement.,행동: 유닛이 달라붙은 배틀 아머를 떨쳐내기 위해 구르기(자체 넘어짐)를 수행합니다. 이동 전에 반드시 해야 합니다.
+StrategicOperations/abilities/AbilityDefDeSwarmerSwat.json,Description.Details,ACTION: Unit will attempt to remove swarming Battle Armor with hands/limbs. Must be done before movement.,행동: 유닛이 손이나 팔다리로 달라붙은 배틀 아머를 떼어내려 시도합니다. 이동 전에 수행해야 합니다.
+StrategicOperations/abilities/AbilityDefResupply.json,Description.Details,"ACTION: Unit will resupply from target. 
+
+ <b><color=#099ff2>Both resuppling and resupplier will shutdown for an entire turn during the resupply, be sure they are safe before initiating resupply!</color></b>","행동: 유닛이 목표로부터 보급을 받습니다. 
+
+ <b><color=#099ff2>보급을 받는 쪽과 보급하는 쪽은 보급 중 한 턴 전체 동안 셧다운되니, 보급을 시작하기 전에 반드시 안전한지 확인하십시오!</color></b>"
+StrategicOperations/abilities/AbilityDefResupply.json,EffectData[0].Description.Details,INITIALIZING RESUPPLY,보급을 초기화하고 있습니다
+StrategicOperations/contracts/Gear_Contract_Aerospace_Permanent_Avar.json,Description.Details,"Thanks to the ASF's common status, this is a permanent contract offer for use of a Avar Aerospace Fighter during Strafing Runs. Purchasing this contract will permit the use of the Avar Aerospace Fighter when making use of the Strafing Run Comm Suite. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the strafe ability to select a specific unit from among those available!</color></b>","ASF의 일반적인 운용 지위 덕분에, 이것은 기총소사 중 아바르 에어로스페이스 파이터를 사용하기 위한 영구 계약 제안입니다. 이 계약을 구매하시면 기총소사 통신 스위트를 사용할 때 아바르 에어로스페이스 파이터를 사용할 수 있게 됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>기총소사 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Aerospace_Permanent_Batu.json,Description.Details,"Thanks to the ASF's common status, this is a permanent contract offer for use of a Batu Aerospace Fighter during Strafing Runs. Purchasing this contract will permit the use of the Batu Aerospace Fighter when making use of the Strafing Run Comm Suite. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the strafe ability to select a specific unit from among those available!</color></b>","ASF의 일반 등급 덕분에, 이것은 기총소사를 수행할 때 바투 에어로스페이스 파이터를 사용할 수 있는 영구 계약 제안입니다. 이 계약을 구매하면 기총소사 통신 스위트를 사용할 때 바투 에어로스페이스 파이터를 사용할 수 있게 됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>기총소사 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Aerospace_Permanent_Eisensturm.json,Description.Details,"Thanks to the ASF's common status, this is a permanent contract offer for use of a Eisensturm Aerospace Fighter during Strafing Runs. Purchasing this contract will permit the use of the Eisensturm Aerospace Fighter when making use of the Strafing Run Comm Suite. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the strafe ability to select a specific unit from among those available!</color></b>","ASF의 일반 등급 지위 덕분에, 이것은 기총소사를 수행하는 동안 아이젠슈투름 에어로스페이스 파이터를 사용할 수 있는 영구 계약 제안입니다. 이 계약을 구매하시면 기총소사 통신 장비를 사용할 때 아이젠슈투름 에어로스페이스 파이터를 사용할 수 있게 됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>기총소사 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Aerospace_Permanent_Mechbuster.json,Description.Details,"Thanks to the ASF's common status, this is a permanent contract offer for use of a Mechbuster Aerospace Fighter during Strafing Runs. Purchasing this contract will permit the use of the Mechbuster Aerospace Fighter when making use of the Strafing Run Comm Suite. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the strafe ability to select a specific unit from among those available!</color></b>","ASF의 일반 등급 지위 덕분에, 이것은 기총소사를 수행할 때 메크버스터 에어로스페이스 파이터를 사용할 수 있는 영구 계약 제안입니다. 이 계약을 구매하면 기총소사 통신 장비를 사용할 때 메크버스터 에어로스페이스 파이터를 사용할 수 있게 됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>기총소사 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛들 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Aerospace_Permanent_Slayer.json,Description.Details,"Thanks to the ASF's common status, this is a permanent contract offer for use of a Slayer Aerospace Fighter during Strafing Runs. Purchasing this contract will permit the use of the Slayer Aerospace Fighter when making use of the Strafing Run Comm Suite. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the strafe ability to select a specific unit from among those available!</color></b>","ASF의 일반적인 운용 지위 덕분에, 이것은 스트레이핑 런 동안 슬레이어 에어로스페이스 파이터를 사용할 수 있는 영구 계약 제안입니다. 이 계약을 구매하시면 스트레이핑 런 통신 장비를 사용할 때 슬레이어 에어로스페이스 파이터를 사용할 수 있게 됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>제압 사격 능력을 전개할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Achilles_General.json,Description.Details,"Thanks to the battle armor's common status, this is a permanent contract with a squad of Achilles Battle Armor. Purchasing this contract will permit the option to field Achilles Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","배틀 아머의 일반 보급 상태 덕분에, 이것은 아킬레스 배틀 아머 분대와의 영구 계약입니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용해 아킬레스 배틀 아머를 전장에 투입할 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛들 가운데 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Asterion_TaurianConcordat.json,Description.Details,"Due to your friendship with The Taurian Concordat, they have offered you a permanent contract with a squad of their Asterion Battle Armor. Purchasing this contract will permit the option to field Asterion Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","타우리안 협정국과의 우호 관계 덕분에, 그들은 아스테리온 배틀 아머 분대를 운용할 수 있는 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용하여 아스테리온 배틀 아머를 전장에 투입하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛들 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Elemental_Clans.json,Description.Details,"Thanks to the battle armor's common status, this is a permanent contract with a squad of Elementals. Purchasing this contract will permit the option to field Elementals using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","배틀 아머의 일반적인 운용 상태 덕분에, 이것은 엘리멘탈 분대와의 영구 계약입니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용해 엘리멘탈을 투입하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_FaShih_Liao.json,Description.Details,"Due to your friendship with The Capellan Confederation, they have offered you a permanent contract with a squad of their Fa Shih Battle Armor. Purchasing this contract will permit the option to field Fa Shih Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","카펠란 연합과의 우호 관계에 따라, 그들이 자국의 파 시 배틀 아머 분대와 함께하는 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 공중투하를 사용해 파 시 배틀 아머를 전개하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중투하 능력을 전개할 때 Shift를 누르고 있으면, 사용 가능한 유닛들 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Grenadier_Davion.json,Description.Details,"Due to your friendship with the Federated Suns, they have offered you a permanent contract with a squad of their Grenadier Battle Armor. Purchasing this contract will permit the option to field Grenadier Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","항성 합중국과의 우호 관계 덕분에, 그들이 자국의 그레네디어 배틀 아머 분대와 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용해 그레네디어 배틀 아머를 투입하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_InfiltratorMkII_Davion_Steiner.json,Description.Details,"Due to your friendship with either the Federated Suns or the Lyran Commonwealth, they have offered you a permanent contract with a squad of their Infiltrator Mk II Battle Armor. Purchasing this contract will permit the option to field Infiltrator Mk II Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","항성 합중국 또는 라이란 연방과의 우호 관계로 인해, 그들이 자국의 인필트레이터 Mk II 배틀 아머 분대와 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용해 인필트레이터 Mk II 배틀 아머를 출격시킬 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Kanazuchi_Kurita.json,Description.Details,"Due to your friendship with The Draconis Combine, they have offered you a permanent contract with a squad of their Kanazuchi Battle Armor. Purchasing this contract will permit the option to field Kanazuchi Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","드라코니스 연맹과의 우호 관계 덕분에, 그들은 카나즈치 배틀 아머 분대와의 영구 계약을 제안했습니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용해 카나즈치 배틀 아머를 출격시킬 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Krupp_Rasalhague.json,Description.Details,"Due to your friendship with The Free Rasalhague Republic, they have offered you a permanent contract with a squad of their Krupp Battle Armor. Purchasing this contract will permit the option to field Krupp Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","자유 라살하그 공화국과의 우호 관계로 인해, 그들이 자국의 크루프 배틀 아머 분대와 영구 계약을 제안해 오셨습니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용해 크루프 배틀 아머를 투입할 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛들 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Marauder_Marian.json,Description.Details,"Due to your friendship with The Marian Hegemony, they have offered you a permanent contract with a contubernium of their new Marauder Battle Armor. Purchasing this contract will permit the option to field Marauder Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","마리안 헤게모니와의 우호 관계로 인해, 그들이 신형 마라우더 배틀 아머의 콘투베르니움과 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용해 마라우더 배틀 아머를 투입할 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Phalanx_Marik.json,Description.Details,"Due to your friendship with The Free Worlds League, they have offered you a permanent contract with a squad of their Phalanx Battle Armor. Purchasing this contract will permit the option to field Phalanx Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","자유 행성 연대와의 우호 관계 덕분에, 그들은 자국의 팔랑크스 배틀 아머 분대와 함께하는 영구 계약을 제안했습니다. 이 계약을 구매하시면 배틀 아머 공중강하를 사용해 팔랑크스 배틀 아머를 출격시키는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중강하 능력을 배치할 때 Shift를 누르고 계시면, 이용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Raiden_Kurita.json,Description.Details,"Due to your friendship with The Draconis Combine, they have offered you a permanent contract with a squad of their Raiden Battle Armor. Purchasing this contract will permit the option to field Raiden Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","드라코니스 연맹과의 우호 관계로 인해, 그들이 레이덴 배틀 아머 분대와의 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 공중 강하를 사용하여 레이덴 배틀 아머를 배치할 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 강하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛들 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Ravager_Marian.json,Description.Details,"Due to your friendship with The Marian Hegemony, they have offered you a permanent contract with a contubernium of their new Ravager Battle Armor. Purchasing this contract will permit the option to field Ravager Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","마리안 헤게모니와의 우호 관계 덕분에, 그들은 자국의 신형 레비저 배틀 아머 한 콘투베르니움에 대한 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용해 레비저 배틀 아머를 투입하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Rottweiler_Steiner.json,Description.Details,"Due to your friendship with the Lyran Commonwealth, they have offered you a permanent contract with a squad of their Rottweiler Battle Armor. Purchasing this contract will permit the option to field Rottweiler Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","라이란 연방과의 우호 관계로 인해, 그들이 로트바일러 배틀 아머 분대와의 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 공중 강하를 사용해 로트바일러 배틀 아머를 투입할 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 강하 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Sloth_Steiner.json,Description.Details,"Due to your friendship with the Lyran Commonwealth, they have offered you a permanent contract with a squad of their Sloth Battle Armor. Purchasing this contract will permit the option to field Sloth Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","라이란 연방과의 우호 관계에 따라, 그들이 자사의 슬로스 배틀 아머 분대와 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용해 슬로스 배틀 아머를 투입하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Tengu_WoB.json,Description.Details,"Due to your friendship with The Word of Blake, they have offered you a permanent contract with a squad of their Tengu Battle Armor. Purchasing this contract will permit the option to field Tengu Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","블레이크의 말씀과의 우호 관계로 인해, 그들은 텐구 배틀 아머 분대와의 영구 계약을 제안해 왔습니다. 이 계약을 구매하면 배틀 아머 공중강하를 사용해 텐구 배틀 아머를 출격시킬 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중강하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛들 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Theseus_Magistracy.json,Description.Details,"Due to your friendship with The Magistracy of Canopus, they have offered you a permanent contract with a squad of their Theseus Battle Armor. Purchasing this contract will permit the option to field Theseus Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","카노푸스 행정국과의 우호 관계에 따라, 그들이 자국의 테세우스 배틀 아머 분대와의 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 공중투하를 사용해 테세우스 배틀 아머를 투입하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_Void_Kurita.json,Description.Details,"Due to your friendship with The Draconis Combine, they have offered you a permanent contract with a squad of their Void Battle Armor. Purchasing this contract will permit the option to field Void Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","드라코니스 연맹과의 우호 관계에 따라, 그들이 보이드 배틀 아머 분대와의 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 공중투하를 사용해 보이드 배틀 아머를 전장에 투입하는 옵션이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_BattleArmor_YingLong_Liao.json,Description.Details,"Due to your friendship with The Capellan Confederation, they have offered you a permanent contract with a squad of their Ying Long Battle Armor. Purchasing this contract will permit the option to field Ying Long Battle Armor using a Battle Armor Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","카펠란 연합과의 우호 관계로 인해, 그들이 자국의 잉 롱 배틀 아머 분대와의 영구 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀 아머 에어드롭을 사용해 잉 롱 배틀 아머를 배치하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Atlas_Steiner.json,Description.Details,"Due to your friendship with The Lyran Commonwealth, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Lyran Atlas AS7-S when using a BattleMech Airdrop Beacon. After use, the contract is void and the Atlas can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","라이란 연방과의 우호 관계로 인해, 그들이 자사의 멕워리어 중 한 명과 계약할 기회를 제공해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 라이란 아틀라스 AS7-S를 한 번 공중 투하받을 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 아틀라스를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 전개할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Banshee_Delphi.json,Description.Details,"Due to your friendship with The New Delphi Compact, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Primitive Banshee BNC-1E when using a BattleMech Airdrop Beacon. After use, the contract is void and the Banshee can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","더 뉴 델파이 컴팩트와의 우호 관계 덕분에, 그들이 자사 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비콘 사용 시 프리미티브 밴시 BNC-1E를 한 번만 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 밴시를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 전개할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Bombard_SolarisVII.json,Description.Details,"Due to your heavy pockets, Solaris Arms, the premier mech manufacturer on the gameworld Solaris VII, has offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of an arena-ready Bombard BMB-013 when using a BattleMech Airdrop Beacon. After use, the contract is void and the Bombard can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","주머니가 두둑하신 덕분에, 게임 월드 솔라리스 VII의 최고 메크 제조사인 솔라리스 암즈가 자사 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 아레나 준비를 마친 봄바드 BMB-013을 일회성으로 공중 투하받으실 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 봄바드를 호출하실 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Brigand_Tortuga.json,Description.Details,"Due to your friendship with The Tortuga Dominions, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Tortugan Brigand LDT-1 when using a BattleMech Airdrop Beacon. After use, the contract is void and the Brigand can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","토르투가 도미니언과의 우호 관계로 인해, 그들이 자국 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비콘을 사용할 때 토르투간 브리건드 LDT-1을 한 번만 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 브리건드를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 한 번만 사용할 수 있으며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Charger_Chainelane.json,Description.Details,"Due to your friendship with The Chainelane Isles, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Chainelane Charger CGR-1A1 when using a BattleMech Airdrop Beacon. After use, the contract is void and the Charger can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","체이널레인 제도와의 우호 관계로 인해, 그들은 자국 멕워리어 중 한 명과의 계약을 제안했습니다. 이 계약을 구매하시면 배틀메크 공중투하 비컨 사용 시 체이널레인 차저 CGR-1A1을 한 번만 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 차저를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 1회용이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Corsair_Pirate.json,Description.Details,"Due to your friendship with the local piracy gangs, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a pirate Corsair COR-6R when using a BattleMech Airdrop Beacon. After use, the contract is void and the Corsair can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","현지 해적 갱단과의 우호 관계로 인해, 그들이 자신들의 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 공중투하 비컨 사용 시 해적 코세어 COR-6R을 1회에 한해 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 코세어를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_DragonFire_Kurita.json,Description.Details,"Due to your friendship with the Draconis Combine, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Kuritan Dragon Fire DGR-3F when using a BattleMech Airdrop Beacon. After use, the contract is void and the Dragon Fire can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","드라코니스 연맹과의 우호 관계로 인해, 그들이 자국 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 쿠리타제 드래곤 파이어 DGR-3F를 한 번에 한해 공중 투하로 호출할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 드래곤 파이어를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 전개할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Emperor_Ives.json,Description.Details,"Due to your friendship with The St. Ives Compact, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a St. Ives Emperor EMP-6A when using a BattleMech Airdrop Beacon. After use, the contract is void and the Emperor can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","세인트 아이브스 컴팩트와의 우호 관계 덕분에, 그들이 자사 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 공중투하 비컨 사용 시 세인트 아이브스 엠퍼러 EMP-6A를 한 번만 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 엠퍼러를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 1회용이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 전개할 때 Shift를 누르고 있으면 이용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Goliath_Marian.json,Description.Details,"Due to your friendship with The Marian Hegemony, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Marian Goliath GOL-2H when using a BattleMech Airdrop Beacon. After use, the contract is void and the Goliath can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","마리안 헤게모니와의 우호 관계로 인해, 그들은 자국 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 마리안 골리앗 GOL-2H를 한 번에 한해 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 골리앗을 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Gunslinger_FRR.json,Description.Details,"Due to your friendship with The Free Rasalhague Republic, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a FRR Gunslinger GUN-1ERD when using a BattleMech Airdrop Beacon. After use, the contract is void and the Gunslinger can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","자유 라살하그 공화국과의 우호 관계로 인해, 그들이 자국 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비콘 사용 시 FRR 건슬링어 GUN-1ERD를 한 번만 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 건슬링어를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 1회용이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 전개할 때 Shift를 누르고 있으면, 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Hauptmann_Steiner.json,Description.Details,"Due to your friendship with The Lyran Commonwealth, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Lyran Hauptmann Prime when using a BattleMech Airdrop Beacon. After use, the contract is void and the Hauptmann can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","라이란 연방과의 우호 관계로 인해, 그들이 자국 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 라이란 하웁트만 프라임을 일회성 에어드롭으로 호출할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 하웁트만을 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 전개할 때 Shift를 누르고 있으면 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Hazard_Circinian.json,Description.Details,"Due to your friendship with The Circinus Federation, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Circinian Hazard HZD-2C when using a BattleMech Airdrop Beacon. After use, the contract is void and the Hazard can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","서키너스 페더레이션과의 우호 관계 덕분에, 그들이 소속 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 공중투하 비컨 사용 시 서키니안 해저드 HZD-2C를 한 번에 한해 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 해저드를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Juggernaut_SolarisVII.json,Description.Details,"Due to your heavy pockets, Solaris Arms, the premier mech manufacturer on the gameworld Solaris VII, has offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of an arena-ready Juggernaut JG-R9T1 when using a BattleMech Airdrop Beacon. After use, the contract is void and the Juggernaut can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","당신의 두둑한 주머니 덕분에, 게임월드 솔라리스 VII의 최고 메크 제조사인 솔라리스 암스가 자사 멕워리어 중 한 명과의 계약을 제안했습니다. 이 계약을 구매하면 배틀메크 에어드롭 비콘 사용 시 아레나 실전 준비가 완료된 저거너트 JG-R9T1을 한 번에 한해 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 저거너트를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 1회용이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_KingCrab_ComStar.json,Description.Details,"Due to your friendship with ComStar, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a ComGuard King Crab KGC-001 when using a BattleMech Airdrop Beacon. After use, the contract is void and the King Crab can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","컴스타와의 우호 관계로 인해, 그들이 자사의 멕워리어 중 한 명과의 계약을 제안했습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 컴가드 킹 크랩 KGC-001을 한 번만 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 킹 크랩을 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Kintaro_Aurigan.json,Description.Details,"Due to your friendship with The Aurigan Coalition, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of an Aurigan Kintaro KTO-19 when using a BattleMech Airdrop Beacon. After use, the contract is void and the Kintaro can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","아우리가 연합과의 우호 관계로 인해, 그들은 자사 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 아우리가 킨타로 KTO-19를 한 번에 한해 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 킨타로를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 전개할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Mackie_Hanse.json,Description.Details,"Due to your friendship with The Hanseatic League, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Hanse Mackie MSK-7A when using a BattleMech Airdrop Beacon. After use, the contract is void and the Mackie can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","한자동맹과의 우호 관계로 인해, 그들은 자사 멕워리어 중 한 명과의 계약을 제안했습니다. 이 계약을 구매하면 배틀메크 공중투하 비컨 사용 시 한세 마키 MSK-7A를 일회성으로 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 마키를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_MackieII_Cameron.json,Description.Details,"Due to your friendship with the Terran Hegemony, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Hegemony Mackie II MSK-II-10H when using a BattleMech Airdrop Beacon. After use, the contract is void and the Mackie II can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","테란 헤제모니와의 우호 관계로 인해, 그들이 자국 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비콘 사용 시 헤제모니 매키 II MSK-II-10H를 일회성으로 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 매키 II를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 전개할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Merlin_Outworlds.json,Description.Details,"Due to your friendship with The Outworlds Alliance, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of an Alliance Merlin MLN-1B when using a BattleMech Airdrop Beacon. After use, the contract is void and the Merlin can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","아웃월드 동맹과의 우호 관계로 인해, 그들이 자국 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 공중투하 비콘 사용 시 아웃월드 동맹 멀린 MLN-1B를 한 번만 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 멀린을 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 일회용이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 전개할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_NovaCat_CNC.json,Description.Details,"Due to your friendship with Clan Nova Cat, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Nova Cat Prime when using a BattleMech Airdrop Beacon. After use, the contract is void and the Nova Cat can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","클랜 노바 캣과의 우호 관계 덕분에, 그들이 자사의 멕워리어 한 명과 계약할 기회를 제공했습니다. 이 계약을 구매하시면 배틀메크 공중투하 비컨 사용 시 노바 캣 프라임을 한 번만 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 노바 캣을 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 일회용이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면 이용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Omen_CSR.json,Description.Details,"Due to your friendship with Clan Snow Raven, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of an Omen OMN-1 when using a BattleMech Airdrop Beacon. After use, the contract is void and the Omen can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","클랜 스노우 레이븐과의 우정 덕분에, 그들이 자사의 멕워리어 중 한 명과 계약할 기회를 제공해 주었습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 Omen OMN-1을 일회성으로 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 Omen을 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Permanent_Blackjack_Generic.json,Description.Details,"Thanks to the mech's common status, this is a permanent contract offer for use of a Blackjack BJ-1. Purchasing this contract will permit the airdrop of a Blackjack BJ-1 when using a BattleMech Airdrop Beacon. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","메크의 흔한 보급 상태 덕분에, 이것은 블랙잭 BJ-1 사용에 대한 영구 계약 제안입니다. 이 계약을 구매하시면 배틀메크 공중투하 비콘 사용 시 블랙잭 BJ-1을 공중투하할 수 있게 됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Permanent_Hunchback_Generic.json,Description.Details,"Thanks to the mech's common status, this is a permanent contract offer for use of a Hunchback HBK-4G. Purchasing this contract will permit the airdrop of a Hunchback HBK-4G when using a BattleMech Airdrop Beacon. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이 메크는 널리 운용되는 기종이므로, Hunchback HBK-4G 사용에 대한 상시 계약 제안입니다. 이 계약을 구매하시면 배틀메크 공중투하 비컨 사용 시 Hunchback HBK-4G를 공중투하할 수 있게 됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Permanent_Jenner_Generic.json,Description.Details,"Thanks to the mech's common status, this is a permanent contract offer for use of a Jenner JR7-D. Purchasing this contract will permit the airdrop of a Jenner JR7-D when using a BattleMech Airdrop Beacon. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","메크의 흔한 보급 상태 덕분에, 이것은 제너 JR7-D 사용을 위한 영구 계약 제안입니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 제너 JR7-D를 공중 투하할 수 있습니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Permanent_Panther_Generic.json,Description.Details,"Thanks to the mech's common status, this is a permanent contract offer for use of a Panther PNT-9R. Purchasing this contract will permit the airdrop of a Panther PNT-9R when using a BattleMech Airdrop Beacon. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이 메크는 흔한 기종이므로, 판터 PNT-9R을 사용할 수 있는 영구 계약 제안입니다. 이 계약을 구매하면 배틀메크 에어드롭 비컨 사용 시 판터 PNT-9R을 에어드롭할 수 있게 됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Permanent_Trebuchet_Generic.json,Description.Details,"Thanks to the mech's common status, this is a permanent contract offer for use of a Trebuchet TBT-5N. Purchasing this contract will permit the airdrop of a Trebuchet TBT-5N when using a BattleMech Airdrop Beacon. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이 메크의 일반적인 보급 상태 덕분에, 이는 트레뷰셋 TBT-5N 사용에 대한 영구 계약 제안입니다. 이 계약을 구매하면 배틀메크 에어드롭 비콘 사용 시 트레뷰셋 TBT-5N을 공중 투하할 수 있게 됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛들 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Permanent_Valiant_SolarisVII.json,Description.Details,"Due to your heavy pockets Vining Engineering and Salvage Team, a premier mech manufacturer on the gameworld Solaris VII, has offered you a contract with one of their mechwarriors. Purchasing this contract will permit the airdrop of an arena-ready Valiant V4-LNT-K7 when using a BattleMech Airdrop Beacon. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","든든한 자금력 덕분에, 게임월드 솔라리스 VII의 최고급 메크 제조사인 바이닝 엔지니어링 앤드 샐비지 팀이 자사 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 아레나 실전 배치 상태의 밸리언트 V4-LNT-K7을 공중 투하할 수 있게 됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Prometheus_SolarisVII.json,Description.Details,"Due to your extremely deep pockets, the Dark Mirage research concern is willing to offer you use of their original Prometheus BattleMech, as well as a pilot specially attuned to the needs of the design. Purchasing this contract will permit a one-time airdrop of the original Prometheus when using a BattleMech Airdrop Beacon. After use, the contract is void and the Prometheus can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","당신의 막대한 자금력 덕분에, 다크 미라지 연구 기업은 자사의 오리지널 프로메테우스 배틀메크와 더불어 그 설계의 요구에 특별히 맞춰진 조종사까지 제공할 의향이 있습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비콘 사용 시 오리지널 프로메테우스를 일회성으로 공중 투하받을 수 있습니다. 사용 후에는 계약이 무효가 되며, 프로메테우스는 더 이상 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Screamer_Rim.json,Description.Details,"Due to your friendship with the Rim Worlds Republic, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a RWR Screamer LAM when using a BattleMech Airdrop Beacon. After use, the contract is void and the Screamer can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","림 월즈 리퍼블릭과의 우호 관계로 인해, 그들은 자사의 멕워리어 중 한 명과 계약할 기회를 제공했습니다. 이 계약을 구매하시면 BattleMech 에어드롭 비컨 사용 시 RWR 스크리머 LAM을 1회 한정으로 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 스크리머를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 1회용이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛들 중 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_ShadowHawk_Canopian.json,Description.Details,"Due to your friendship with The Magistracy of Canopus, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Canopian Shadow Hawk SHD-5M when using a BattleMech Airdrop Beacon. After use, the contract is void and the Shadow Hawk can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","카노푸스 행정국과의 우호 관계로 인해, 그들이 자국의 멕워리어 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 카노피안 섀도 호크 SHD-5M을 한 번에 한해 공중 투하받을 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 섀도 호크를 호출할 수 없게 됩니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛들 가운데 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Talos_Taurian.json,Description.Details,"Due to your friendship with The Taurian Concordat, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Taurian Talos TLS-2B when using a BattleMech Airdrop Beacon. After use, the contract is void and the Talos can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","타우리안 협정국과의 우호 관계로 인해, 그들이 자국 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 공중투하 비컨 사용 시 타우리안 탈로스 TLS-2B를 한 번만 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 탈로스를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 전개할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Templar_Davion.json,Description.Details,"Due to your friendship with The Federated Suns, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Davion Templar Prime when using a BattleMech Airdrop Beacon. After use, the contract is void and the Templar can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","항성 합중국과의 우호 관계로 인해, 그들이 자국의 멕워리어 한 명과 계약할 기회를 제안해 왔습니다. 이 계약을 구매하면 배틀메크 공중투하 비컨을 사용할 때 다비온 템플러 프라임을 한 번만 공중투하할 수 있게 됩니다. 사용 후에는 계약이 무효가 되며, 더 이상 템플러를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 일회용이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 전개할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Thunder_Liao.json,Description.Details,"Due to your friendship with The Capellan Confederation, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Liao Thunder THR-2L when using a BattleMech Airdrop Beacon. After use, the contract is void and the Thunder can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","카펠란 연합과의 우호 관계 덕분에, 그들이 자국 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하면 배틀메크 공중투하 비콘을 사용할 때 랴오 썬더 THR-2L을 한 번만 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 썬더를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 1회용이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Thunderbolt_JarnFolk.json,Description.Details,"Due to your friendship with The JarnFolk, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a JarnFolk Primitive Thunderbolt TDR-1C when using a BattleMech Airdrop Beacon. After use, the contract is void and the Thunderbolt can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","자른포크와의 우정으로 인해, 그들이 자네에게 자신들의 멕워리어 중 한 명과 계약할 기회를 제공했습니다. 이 계약을 구매하면 배틀메크 에어드롭 비컨 사용 시 자른포크 프리미티브 썬더볼트 TDR-1C를 일회성으로 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 썬더볼트를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 일회용이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Toyama_WoB.json,Description.Details,"Due to your friendship with The Word of Blake, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a WoB Toyama TYM-1A when using a BattleMech Airdrop Beacon. After use, the contract is void and the Toyama can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","블레이크의 말씀과의 우호 관계로 인해, 그들이 자사의 멕워리어 한 명과 계약할 기회를 제공했습니다. 이 계약을 구매하시면 배틀메크 공중투하 비컨 사용 시 WoB 토야마 TYM-1A를 한 번에 한해 공중투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 토야마를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Mech_Yeoman_Marik.json,Description.Details,"Due to your friendship with The Free Worlds League, they have offered you a contract with one of their mechwarriors. Purchasing this contract will permit a one-time airdrop of a Marik Yeoman YMN-10-OR when using a BattleMech Airdrop Beacon. After use, the contract is void and the Yeoman can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","자유 행성 연대와의 우호 관계 덕분에, 그들이 자국 멕워리어 중 한 명과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 배틀메크 에어드롭 비컨 사용 시 마릭 요먼 YMN-10-OR을 한 번에 한해 공중 투하할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 요먼을 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 사용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 전개할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Alacorn_ComStar.json,Description.Details,"Due to your friendship with ComStar, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field an Alacorn VI using a Tank Airdrop. After use, the contract is void and the Alacorn VI can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","컴스타와의 우정 덕분에, 그들이 자사의 전차 승무원 중 한 팀과의 계약을 제안해 왔습니다. 이 계약을 구매하면 전차 공중투하를 사용하여 알라콘 VI를 한 번 출격시킬 수 있는 선택권이 부여됩니다. 사용한 후에는 계약이 무효가 되며, 더 이상 알라콘 VI를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Alacorn_Steiner.json,Description.Details,"Due to your friendship with The Lyran Commonwealth, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field an Alacorn VII using a Tank Airdrop. After use, the contract is void and the Alacorn VII can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","라이란 연방과의 우호 관계로 인해, 그들이 자국 전차 승무원들 중 하나와의 계약을 제안해 왔습니다. 이 계약을 구매하시면 전차 공중투하를 사용해 알라콘 VII를 한 번 출격시킬 수 있는 선택권이 부여됩니다. 사용 후에는 계약이 무효가 되며, 더 이상 알라콘 VII를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Behemoth.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Behemoth Tank. Purchasing this contract will permit the option to field Behemoth Tanks using a Tank Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 베헤모스 탱크 공중투하 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 탱크 공중투하를 사용해 베헤모스 탱크를 출격시킬 수 있는 선택권이 부여됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 계시면 사용 가능한 유닛들 가운데 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Burke_WoB.json,Description.Details,"Due to your friendship with The Word of Blake, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field a Royal Burke using a Tank Airdrop. After use, the contract is void and the Royal Burke can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","블레이크의 말씀과의 우정 덕분에, 그들은 자신들의 전차 승무원 중 한 팀과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 전차 공중투하를 사용해 로열 버크를 한 번만 출격시킬 수 있는 선택권이 주어집니다. 사용 후에는 계약이 무효가 되며, 더 이상 로열 버크를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 일회용이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Carrier_Heavy_Mortar_Taurian.json,Description.Details,"Due to your friendship with The Taurian Concordat, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field a Heavy Mortar Carrier using a Tank Airdrop. After use, the contract is void and the Heavy Mortar Carrier can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","타우리안 협정국과의 우호 관계로 인해, 그들이 자국 전차 승무원들 중 하나와의 계약을 제안해 왔습니다. 이 계약을 구매하시면 전차 공중 투하를 사용해 헤비 박격포 캐리어를 한 번 출격시킬 수 있는 선택권이 부여됩니다. 사용 후에는 계약이 무효가 되며, 더 이상 헤비 박격포 캐리어를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 1회용이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Carrier_LRM.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a LRM Carrier Tank. Purchasing this contract will permit the option to field LRM Carrier Tanks using a Tank Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 LRM 캐리어 탱크를 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하면 탱크 공중 투하를 사용해 LRM 캐리어 탱크를 배치할 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛들 가운데 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Carrier_Mortar_Marian.json,Description.Details,"Due to your friendship with The Marian Hegemony, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field a Mortar Carrier using a Tank Airdrop. After use, the contract is void and the Mortar Carrier can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","마리안 헤게모니와의 우호 관계로 인해, 그들이 자국 전차 승무원 중 하나와의 계약을 제안해 왔습니다. 이 계약을 구매하시면 전차 공중투하를 사용해 모타 캐리어를 한 번에 한해 출격시킬 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 모타 캐리어를 호출할 수 없게 됩니다.
+
+ <b><color=#099ff2>이 계약은 일회용이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Carrier_Rifle_Outworlds.json,Description.Details,"Due to your friendship with The Outworlds Alliance, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field a Rifle Carrier using a Tank Airdrop. After use, the contract is void and the Rifle Carrier can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","아웃월드 동맹과의 우호 관계 덕분에, 그들이 자신들의 전차 승무원 중 하나와 계약할 기회를 제공해 주었습니다. 이 계약을 구매하시면 탱크 에어드롭을 사용해 라이플 캐리어를 한 번에 한해 투입할 수 있습니다. 사용 후에는 계약이 무효가 되며, 라이플 캐리어는 더 이상 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 일회용이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Challenger_Davion.json,Description.Details,"Due to your friendship with The Federated Suns, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field a Challenger using a Tank Airdrop. After use, the contract is void and the Challenger can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","항성 합중국과의 우호 관계로 인해, 그들이 자국 전차 승무원 중 한 팀과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 탱크 에어드롭을 사용해 챌린저를 한 번 출전시킬 수 있는 권한이 부여됩니다. 사용 후에는 계약이 무효가 되며, 더 이상 챌린저를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Devastator.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Devastator Tank. Purchasing this contract will permit the option to field Devastator Tanks using a Tank Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 데바스테이터 탱크 공중투하 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 탱크 공중투하를 사용해 데바스테이터 탱크를 전장에 투입할 수 있는 선택권이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 계시면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Hetzer.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Hetzer Tank. Purchasing this contract will permit the option to field Hetzer Tanks using a Tank Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 헤처 탱크를 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하면 탱크 공중 투하를 사용하여 헤처 탱크를 출격시킬 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_LTV-4.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a LTV-4 Tank. Purchasing this contract will permit the option to field LTV-4 Tanks using a Tank Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 LTV-4 탱크를 공중 투하할 권리를 구매하는 영구 계약입니다. 이 계약을 구매하시면 탱크 공중 투하를 사용해 LTV-4 탱크를 배치할 수 있는 선택권이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Manticore.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Manticore Tank. Purchasing this contract will permit the option to field Manticore Tanks using a Tank Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 맨티코어 탱크를 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 탱크 공중 투하를 사용해 맨티코어 탱크를 배치하는 옵션이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 계시면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Merkava_VIII_Canopian.json,Description.Details,"Due to your friendship with The Magistracy of Canopus, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field a Merkava VIII using a Tank Airdrop. After use, the contract is void and the Merkava VIII can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","카노푸스 행정국과의 우호 관계로 인해, 그들이 자국 전차 승무원 중 하나와의 계약을 제안해 왔습니다. 이 계약을 구매하시면 전차 공중 투하를 사용해 메르카바 VIII를 한 번에 한해 투입할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 메르카바 VIII를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 1회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Po_Marik.json,Description.Details,"Due to your friendship with The Free Worlds League, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field a Po using a Tank Airdrop. After use, the contract is void and the Po can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","자유 행성 연대와의 우호 관계로 인해, 그들이 전차 승무원 중 하나와의 계약을 제안해 왔습니다. 이 계약을 구매하면 전차 에어드롭을 사용해 Po를 한 번 출격시킬 수 있는 선택권이 부여됩니다. 사용한 뒤에는 계약이 무효가 되며, 더 이상 Po를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이것은 일회용 계약이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Saladin.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Saladin Tank. Purchasing this contract will permit the option to field Saladin Tanks using a Tank Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 샐러딘 탱크를 공중 강하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 탱크 공중 강하를 사용해 샐러딘 탱크를 배치할 수 있는 선택권이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 강하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Schrek_Liao.json,Description.Details,"Due to your friendship with The Capellan Confederation, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field a Schrek using a Tank Airdrop. After use, the contract is void and the Schrek can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","카펠란 연합과의 우호 관계로 인해, 그들이 자국 전차 승무원들 중 한 팀과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 일회성으로 전차 공중투하를 사용해 슈레크를 전장에 투입하실 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 슈레크를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 일회용이며, 사용 후에는 더 이상 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Scimitar.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Scimitar Tank. Purchasing this contract will permit the option to field Scimitar Tanks using a Tank Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 시미타 탱크를 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하면 탱크 공중 투하를 사용해 시미타 탱크를 배치할 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Testudo_Marian.json,Description.Details,"Due to your friendship with The Marian Hegemony, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field a Testudo using a Tank Airdrop. After use, the contract is void and the Testudo can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","마리안 헤게모니와의 우호 관계로 인해, 그들이 자국의 전차 승무원 중 한 팀과의 계약을 제안해 왔습니다. 이 계약을 구매하시면 일회성으로 전차 공중투하를 사용해 테스투도를 투입할 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 테스투도를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 일회용이며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Tank_Tokugawa_Kurita.json,Description.Details,"Due to your friendship with The Draconis Combine, they have offered you a contract with one of their tank crews. Purchasing this contract will permit the one-time option to field a Tokugawa using a Tank Airdrop. After use, the contract is void and the Tokugawa can no longer be called in.
+
+ <b><color=#099ff2>THIS IS A ONE-USE CONTRACT, IT WILL BECOME UNAVAILABLE AFTER USE!</color></b>
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","드라코니스 연맹과의 우호 관계로 인해, 그들이 전차 승무원 중 한 부대와의 계약을 제안해 왔습니다. 이 계약을 구매하면 탱크 에어드롭을 사용해 토쿠가와를 한 번 출격시킬 수 있습니다. 사용 후에는 계약이 무효가 되며, 더 이상 토쿠가와를 호출할 수 없습니다.
+
+ <b><color=#099ff2>이 계약은 한 번만 사용할 수 있으며, 사용 후에는 이용할 수 없게 됩니다!</color></b>
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면, 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Heavy_ArrowIV.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Arrow IV Turret. Purchasing this contract will permit the option to field Arrow IV Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 에어드롭으로 Arrow IV 터렛을 투하할 권리를 구매하는 영구 계약입니다. 이 계약을 구매하면 터렛 에어드롭을 사용해 Arrow IV 터렛을 배치할 수 있는 선택권이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>에어드롭 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Heavy_HVAC.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Dual HVAC/10 Turret. Purchasing this contract will permit the option to field Dual HVAC/10 Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 듀얼 HVAC/10 터렛을 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 터렛 공중 투하를 사용해 듀얼 HVAC/10 터렛을 배치할 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Heavy_Laser.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Heavy Laser Turret. Purchasing this contract will permit the option to field Heavy Laser Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 헤비 레이저 터렛을 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 터렛 공중 투하를 사용해 헤비 레이저 터렛을 배치할 수 있는 선택권이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Heavy_LRM.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Heavy LRM Turret. Purchasing this contract will permit the option to field Heavy LRM Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 헤비 LRM 터릿을 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 터릿 공중 투하를 사용하여 헤비 LRM 터릿을 배치하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Heavy_Shredder.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Heavy Shredder Turret. Purchasing this contract will permit the option to field Heavy Shredder Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 헤비 슈레더 터렛을 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 터렛 공중 투하를 사용해 헤비 슈레더 터렛을 배치할 수 있는 선택권이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Heavy_Sniper.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Heavy Sniper Turret. Purchasing this contract will permit the option to field Heavy Sniper Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 헤비 스나이퍼 터렛을 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 터렛 공중 투하를 사용해 헤비 스나이퍼 터렛을 배치하는 옵션이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 계시면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Heavy_Thunderbolt.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Heavy Thunderbolt Turret. Purchasing this contract will permit the option to field Heavy Thunderbolt Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 헤비 선더볼트 터렛을 공중 투하할 권리를 구매하는 영구 계약입니다. 이 계약을 구매하시면 터렛 공중 투하를 사용해 헤비 선더볼트 터렛을 배치할 수 있는 옵션이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Light_LRM.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Light LRM Turret. Purchasing this contract will permit the option to field Light LRM Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 라이트 LRM 터렛을 공중 투하할 권리를 구매하는 영구 계약입니다. 이 계약을 구매하시면 터렛 공중 투하를 사용해 라이트 LRM 터렛을 배치할 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 계시면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Light_MRM.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Light MRM Turret. Purchasing this contract will permit the option to field Light MRM Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 라이트 MRM 터렛을 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하면 터렛 공중 투하를 사용하여 라이트 MRM 터렛을 배치할 수 있는 선택권이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Light_RAC.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a RAC/2 Turret. Purchasing this contract will permit the option to field RAC/2 Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 RAC/2 터릿 공중투하 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 터릿 공중투하를 사용해 RAC/2 터릿을 배치할 수 있는 선택권이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 계시면 사용 가능한 유닛들 가운데 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Light_Shredder.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Light Shredder Turret. Purchasing this contract will permit the option to field Light Shredder Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 라이트 슈레더 터렛을 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 터렛 공중 투하를 사용해 라이트 슈레더 터렛을 배치할 수 있는 선택권이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 계시면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Light_Sniper.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Light Sniper Turret. Purchasing this contract will permit the option to field Light Sniper Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 라이트 스나이퍼 터렛을 공중 투하할 권리를 구매하는 영구 계약입니다. 이 계약을 구매하시면 터렛 공중 투하를 사용해 라이트 스나이퍼 터렛을 배치하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 계시면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Standard_LBX.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Dual LB-10X Turret. Purchasing this contract will permit the option to field Dual LB-10X Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 듀얼 LB-10X 터렛을 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하시면 터렛 공중 투하를 사용해 듀얼 LB-10X 터렛을 배치할 수 있는 선택 권한이 부여됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Standard_LRM.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Standard LRM Turret. Purchasing this contract will permit the option to field Standard LRM Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 스탠다드 LRM 터렛을 공중투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하면 터렛 공중투하를 사용하여 스탠다드 LRM 터렛을 배치할 수 있는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛들 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Standard_Mortar.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Medium Mortar Turret. Purchasing this contract will permit the option to field Medium Mortar Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 미디엄 박격포 포탑을 공중투하할 권리를 구매하는 영구 계약입니다. 이 계약을 구매하시면 포탑 공중투하를 사용해 미디엄 박격포 포탑을 배치할 수 있는 옵션이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Standard_Shredder.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Standard Shredder Turret. Purchasing this contract will permit the option to field Standard Shredder Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 스탠다드 슈레더 터렛을 공중 투하할 권리를 구매하는 영구 계약입니다. 이 계약을 구매하시면 터렛 공중 투하를 사용해 스탠다드 슈레더 터렛을 배치하는 선택지가 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛들 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/contracts/Gear_Contract_Turret_Standard_Sniper.json,Description.Details,"This is a permanent contract for purchasing the right to airdrop a Standard Sniper Turret. Purchasing this contract will permit the option to field Standard Sniper Turrets using a Turret Airdrop. This contract is permanent and does not expire.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이것은 스탠더드 스나이퍼 터렛을 공중 투하할 권리를 구매하기 위한 영구 계약입니다. 이 계약을 구매하면 터렛 공중 투하를 사용해 스탠더드 스나이퍼 터렛을 배치할 수 있는 선택권이 허용됩니다. 이 계약은 영구적이며 만료되지 않습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 유닛 중에서 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/pilot/pilot_bd_AerospacePilot.json,Description.Details,"Exists to be a generic Aerospace Pilot for Strafes. Is not normally acquireable. If you have this pilot, report it to the BTA Team as a bug.
+
+ <b><color=#099ff2>NOT FOR GENERAL USE</color></b>","기총소사를 위한 일반적인 항공우주 조종사로 존재합니다. 보통은 획득할 수 없습니다. 이 조종사를 보유하고 계시다면, 버그로 BTA 팀에 보고해 주십시오.
+
+ <b><color=#099ff2>일반 사용 금지</color></b>"
+StrategicOperations/pilot/pilot_bd_BAdefault.json,Description.Details,"Exists to be a generic Battle Armor pilot for Airdrops. Is not normally acquireable. If you have this pilot, report it to the BTA Team as a bug.
+
+ <b><color=#099ff2>NOT FOR GENERAL USE</color></b>","에어드롭용 일반적인 배틀 아머 조종사로 존재합니다. 보통은 획득할 수 없습니다. 이 조종사가 있다면 버그로 BTA 팀에 보고해 주십시오.
+
+ <b><color=#099ff2>일반 사용 금지</color></b>"
+StrategicOperations/pilot/pilot_bd_DronePilot.json,Description.Details,"Exists to be a generic Aerospace Pilot for Strafes. Is not normally acquireable. If you have this pilot, report it to the BTA Team as a bug.
+
+ <b><color=#099ff2>NOT FOR GENERAL USE</color></b>","기총소사를 위한 일반 항공우주기 조종사로 존재합니다. 일반적으로는 획득할 수 없습니다. 이 조종사가 있다면, 버그로 BTA 팀에 보고해 주십시오.
+
+ <b><color=#099ff2>일반 사용 금지</color></b>"
+StrategicOperations/pilot/pilot_bd_MechDefault.json,Description.Details,"Exists to be a generic MechWarrior for Airdrops. Is not normally acquireable. If you have this pilot, report it to the BTA Team as a bug.
+
+ <b><color=#099ff2>NOT FOR GENERAL USE</color></b>","공중 강하용 범용 멕워리어로 존재합니다. 일반적으로는 획득할 수 없습니다. 이 조종사를 보유하고 계시다면, 버그로 BTA 팀에 보고해 주십시오.
+
+ <b><color=#099ff2>일반 사용 불가</color></b>"
+StrategicOperations/pilot/pilot_bd_Prometheus.json,Description.Details,"Exists to be a MechWarrior for the Prometheus Airdrops contract. Is not normally acquireable. If you have this pilot, report it to the BTA Team as a bug.
+
+ <b><color=#099ff2>NOT FOR GENERAL USE</color></b>","프로메테우스 에어드롭스 계약을 위한 멕워리어로 존재합니다. 일반적으로는 획득할 수 없습니다. 이 파일럿을 보유하고 계시다면 버그로 BTA 팀에 신고해 주십시오.
+
+ <b><color=#099ff2>일반 사용 금지</color></b>"
+StrategicOperations/pilot/pilot_bd_TankDriver.json,Description.Details,"Exists to be a generic Tank Crew for Airdrops. Is not normally acquireable. If you have this pilot, report it to the BTA Team as a bug.
+
+ <b><color=#099ff2>NOT FOR GENERAL USE</color></b>","공중 강하용 범용 전차 승무원으로 존재합니다. 일반적으로는 획득할 수 없습니다. 이 파일럿을 보유하고 계시다면, 버그로 BTA 팀에 보고해 주십시오.
+
+ <b><color=#099ff2>일반 사용 불가</color></b>"
+StrategicOperations/pilot/pilot_bd_TurretOperator.json,Description.Details,"Exists to be a generic Turret Operator for Airdrops. Is not normally acquireable. If you have this pilot, report it to the BTA Team as a bug.
+
+ <b><color=#099ff2>NOT FOR GENERAL USE</color></b>","에어드롭용 일반 포탑 오퍼레이터로 존재합니다. 보통은 획득할 수 없습니다. 이 파일럿을 보유하고 계시다면, 버그로 BTA 팀에 신고해 주십시오.
+
+ <b><color=#099ff2>일반 사용 금지</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA.json,Description.Details,"This bulky and heavy communication equipment grants the carrying mech's pilot the ability to coordinate with the Argo and call in an airdropped squad of battle armor, either one of Yang's IS Standard squads or a squad provided by an ally faction. BA squads other than Yang's IS Standard can be called in after buying their contract from the relevant faction.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이 육중하고 무거운 통신 장비는 이를 탑재한 메크의 조종사에게 아르고와 협조하여 공중 투하되는 배틀 아머 분대를 요청할 수 있는 능력을 부여합니다. 요청 가능한 대상은 양의 IS 스탠더드 분대 하나 또는 동맹 세력이 제공하는 분대 하나입니다. 양의 IS 스탠더드가 아닌 BA 분대는 해당 세력으로부터 계약을 구매한 뒤에 호출하실 수 있습니다.
+
+ <b><color=#099ff2>공중 투하 능력을 배치할 때 Shift를 누르고 계시면, 사용 가능한 유닛들 중에서 특정 유닛을 선택하실 수 있습니다!</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Calls in a Battle Armor Airdrop.,활성화 능력입니다. 사격 행동을 사용합니다. 배틀 아머 에어드롭을 호출합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Achilles.json,Description.Details,"This piece of equipment represents a squad of Achilles Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 아킬레스 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중에 소환하실 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경하실 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치하는 데 해당 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Achilles.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Achilles Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 아킬레스 배틀 아머 분대를 출격시킵니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Asterion.json,Description.Details,"This piece of equipment represents a squad of Asterion Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 아스테리온 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력으로 임무 도중에 호출할 수 있습니다. 이 장비는 오직 한 개 분대만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치 시 해당 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Asterion.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Asterion Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 아스테리온 배틀 아머 분대를 투입합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Dragoon.json,Description.Details,"This piece of equipment represents a squad of Dragoon Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 드라군 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대의 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치 시 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Dragoon.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Dragoon Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 드라군 배틀 아머 분대를 배치합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Elemental.json,Description.Details,"This piece of equipment represents a squad of Elemental Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 엘리멘탈 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대의 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있고, 사거리가 매우 짧으며, 배치하면 해당 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Elemental.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Elemental Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 엘리멘탈 배틀 아머 분대를 투입합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_FaShih.json,Description.Details,"This piece of equipment represents a squad of Fa Shih Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 파 시 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중에 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대의 종류는 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치에 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_FaShih.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Fa Shih Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 파 시 배틀 아머 분대를 전개합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Gnome.json,Description.Details,"This piece of equipment represents a squad of Gnome Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 그놈 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 호출할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대의 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치 시 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Gnome.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Gnome Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 그놈 배틀 아머 분대를 출격시킵니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Golem.json,Description.Details,"This piece of equipment represents a squad of Golem Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 골렘 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치하면 해당 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Golem.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Golem Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 골렘 배틀 아머 분대를 출격시킵니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Grenadier.json,Description.Details,"This piece of equipment represents a squad of Grenadier Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 그레네디어 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 호출하실 수 있습니다. 이 장비는 오직 한 분대만 제공하며, 분대 유형은 변경하실 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용 가능하며, 사거리가 매우 짧고, 배치에 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Grenadier.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Grenadier Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 그레네이더 배틀 아머 분대를 배치합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_InfiltratorMkII.json,Description.Details,"This piece of equipment represents a squad of Infiltrator Mk. II Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 인필트레이터 Mk. II 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 오직 한 개 분대만 제공하며, 분대의 종류는 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치 시 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_InfiltratorMkII.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Infiltrator Mk. II Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 인필트레이터 Mk. II 배틀 아머 분대를 투입합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_IS_Standard.json,Description.Details,"This piece of equipment represents a squad of IS Standard Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 IS 스탠다드 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중에 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치 시 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_IS_Standard.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of IS Standard Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. IS 스탠더드 배틀 아머 분대를 출격시킵니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Kanazuchi.json,Description.Details,"This piece of equipment represents a squad of Kanazuchi Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 카나즈치 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중에 소환할 수 있습니다. 이 장비는 오직 한 개 분대만 제공하며, 분대의 종류는 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치 시 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Kanazuchi.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Kanazuchi Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 카나즈치 배틀 아머 분대를 투입합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Krupp.json,Description.Details,"This piece of equipment represents a squad of Krupp Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 크루프 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치 시 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Krupp.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Krupp Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 크루프 배틀 아머 분대를 출격시킵니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Marauder.json,Description.Details,"This piece of equipment represents a squad of Marauder Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 마라우더 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중에 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대의 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치하면 해당 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Marauder.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Marauder Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 머로더 배틀 아머 분대를 투입합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Phalanx.json,Description.Details,"This piece of equipment represents a squad of Phalanx Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 팔랑크스 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중에 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며 분대의 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치하면 해당 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Phalanx.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Phalanx Battle Armor.,활성화형 능력(사격 행동 사용)입니다. 팔랑크스 배틀 아머 분대를 출격시킵니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Raiden.json,Description.Details,"This piece of equipment represents a squad of Raiden Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 라이덴 배틀 아머 분대를 나타냅니다. 이들은 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치하면 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Raiden.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Raiden Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 라이덴 배틀 아머 분대를 출격시킵니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Ravager.json,Description.Details,"This piece of equipment represents a squad of Ravager Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 레이비저 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치하면 자신의 차례를 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Ravager.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Ravager Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 레이버저 배틀 아머 분대를 출격시킵니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Rottweiler.json,Description.Details,"This piece of equipment represents a squad of Rottweiler Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 로트바일러 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 호출할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치 시 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Rottweiler.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Rottweiler Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 로트와일러 배틀 아머 분대를 출격시킵니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Salamander.json,Description.Details,"This piece of equipment represents a squad of Salamander Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 샐러맨더 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대의 종류는 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고, 배치에 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Salamander.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Salamander Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 샐러맨더 배틀 아머 분대를 배치합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Simo.json,Description.Details,"This piece of equipment represents a squad of Simo Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 시모 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중에 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대의 종류는 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고 배치에 자신의 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Simo.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Simo Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 시모 배틀 아머 분대를 투입합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Sloth.json,Description.Details,"This piece of equipment represents a squad of Sloth Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 슬로스 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고 배치 시 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Sloth.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Sloth Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 슬로스 배틀 아머 분대를 방출합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Tengu.json,Description.Details,"This piece of equipment represents a squad of Tengu Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 텐구 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고 배치 시 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Tengu.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Tengu Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 텐구 배틀 아머 분대를 방출합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Theseus.json,Description.Details,"This piece of equipment represents a squad of Theseus Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 테세우스 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고 배치 시 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Theseus.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Theseus Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 테세우스 배틀 아머 분대를 방출합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Void.json,Description.Details,"This piece of equipment represents a squad of Void Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 보이드 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고 배치 시 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_Void.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Void Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 보이드 배틀 아머 분대를 방출합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_YingLong.json,Description.Details,"This piece of equipment represents a squad of Ying Long Battle Armor that have been deployed onto this unit. They can be summoned mid-mission via the ability this piece of equipment grants. This equipment provides only one squad and the type of squad cannot be changed.
+
+ <b><color=#099ff2>ONLY USABLE ONCE PER MISSION, HAS A VERY SHORT RANGE AND CONSUMES YOUR TURN TO DEPLOY.</color></b>","이 장비는 이 유닛에 배치된 잉 롱 배틀 아머 분대를 나타냅니다. 이 장비가 부여하는 능력을 통해 임무 도중 소환할 수 있습니다. 이 장비는 분대 하나만 제공하며, 분대 유형은 변경할 수 없습니다.
+
+ <b><color=#099ff2>임무당 한 번만 사용할 수 있으며, 사거리가 매우 짧고 배치 시 턴을 소모합니다.</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_BA_YingLong.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Releases a squad of Ying Long Battle Armor.,활성화 능력입니다. 사격 행동을 사용합니다. 잉 롱 배틀 아머 분대를 방출합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_Drone.json,Description.Details,"This bulky and heavy communication equipment grants the carrying mech's pilot the ability to coordinate with the Argo and call in an airdropped VTOL drone. This robotic drone can provide battlefield support functions such as sensor locking targets, TAGing and NARCing enemies, and provides an ECM field for coverage as necessary.","이 부피가 크고 무거운 통신 장비는 장착한 메크의 파일럿에게 아르고와 협조하여 공수 투하 VTOL 드론을 호출할 수 있는 능력을 부여합니다. 이 로봇 드론은 표적 센서 락, 적 TAG 지정 및 NARC 지정 같은 전장 지원 기능을 제공할 수 있으며, 필요에 따라 방호용 ECM 필드를 제공합니다."
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_Drone.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Calls in a Drone Airdrop.,활성화 능력입니다. 사격 행동을 사용합니다. 드론 공수 투하를 호출합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_Mech.json,Description.Details,"This bulky and heavy communication equipment grants the carrying mech's pilot the ability to coordinate with the Argo and call in an airdropped BattleMech, either one of Yang's project Urbies or a mech provided by an ally faction. Mechs other than Yang's pet Urbie can be called in after buying their contract from the relevant faction.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이 부피가 크고 무거운 통신 장비는 장착한 메크의 파일럿에게 아르고와 협조하여 공수 투하 배틀메크를 호출할 수 있는 능력을 부여합니다. 양의 프로젝트 어비나 아군 세력이 제공하는 메크 중 하나를 호출할 수 있습니다. 양의 애용 어비가 아닌 메크는 관련 세력으로부터 계약을 구매한 뒤 호출할 수 있습니다.
+
+ <b><color=#099ff2>공수 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 것 중 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_Mech.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Calls in a BattleMech Airdrop.,활성화 능력입니다. 사격 행동을 사용합니다. 배틀메크 공수 투하를 호출합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_Tank.json,Description.Details,"This bulky and heavy communication equipment grants the carrying mech's pilot the ability to coordinate with the Argo and call in an airdropped tank, either one of Yang's Vedettes or a tank provided by an ally faction. Tanks other than Yang's pet Vedette can be called in after buying their contract from the relevant faction.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이 부피가 크고 무거운 통신 장비는 장착한 메크의 파일럿에게 아르고와 협조하여 공수 투하 전차를 호출할 수 있는 능력을 부여합니다. 양의 베데트나 아군 세력이 제공하는 전차 중 하나를 호출할 수 있습니다. 양의 애용 베데트가 아닌 전차는 관련 세력으로부터 계약을 구매한 뒤 호출할 수 있습니다.
+
+ <b><color=#099ff2>공수 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 것 중 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_Tank.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Calls in a Tank Airdrop.,활성화 능력입니다. 사격 행동을 사용합니다. 전차 공수 투하를 호출합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_Tank_UrbanAmbush.json,Description.Details,"This bulky and heavy communication equipment grants the carrying mech's pilot the ability to coordinate with the Argo and call in an airdropped tank, either one of Yang's Vedettes or a tank provided by an ally faction. Tanks other than Yang's pet Vedette can be called in after buying their contract from the relevant faction.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이 부피가 크고 무거운 통신 장비는 장착한 메크의 파일럿에게 아르고와 협조하여 공수 투하 전차를 호출할 수 있는 능력을 부여합니다. 양의 베데트나 아군 세력이 제공하는 전차 중 하나를 호출할 수 있습니다. 양의 애용 베데트가 아닌 전차는 관련 세력으로부터 계약을 구매한 뒤 호출할 수 있습니다.
+
+ <b><color=#099ff2>공수 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 것 중 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_Tank_UrbanAmbush.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Calls in a Tank Airdrop.,활성화 능력입니다. 사격 행동을 사용합니다. 전차 공수 투하를 호출합니다.
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_Turret.json,Description.Details,"This bulky and heavy communication equipment grants the carrying mech's pilot the ability to coordinate with the Argo and call in an airdropped turret, either one of Yang's turrets or a turret provided by an ally faction. Turrets other than Yang's turret can be called in after buying their contract from the relevant faction.
+
+ <b><color=#099ff2>Hold Shift when deploying the airdrop ability to select a specific unit from among those available!</color></b>","이 부피가 크고 무거운 통신 장비는 장착한 메크의 파일럿에게 아르고와 협조하여 공수 투하 터렛을 호출할 수 있는 능력을 부여합니다. 양의 터렛이나 아군 세력이 제공하는 터렛 중 하나를 호출할 수 있습니다. 양의 터렛이 아닌 터렛은 관련 세력으로부터 계약을 구매한 뒤 호출할 수 있습니다.
+
+ <b><color=#099ff2>공수 투하 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 것 중 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/upgrade/Gear_Airdrop_Beacon_Turret.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Calls in a Turret Airdrop.,활성화 능력입니다. 사격 행동을 사용합니다. 터렛 공수 투하를 호출합니다.
+StrategicOperations/upgrade/Gear_Strafing_Run.json,Description.Details,"This specialized communication equipment grants the carrying mech's pilot the ability to coordinate with the Argo and call in an aerospace fighter strafing run on a given flight path. The basic ASF called in is the Shilone, which has a battery of lasers.
+
+ <b><color=#099ff2>Hold Shift when deploying the strafe ability to select a specific unit from among those available!</color></b>","이 특수 통신 장비는 장착한 메크의 파일럿에게 아르고와 협조하여 지정된 비행 경로에 항공우주 전투기의 기총소사를 호출할 수 있는 능력을 부여합니다. 호출되는 기본 ASF는 레이저 포대를 갖춘 샤일론입니다.
+
+ <b><color=#099ff2>기총소사 능력을 배치할 때 Shift를 누르고 있으면 사용 가능한 것 중 특정 유닛을 선택할 수 있습니다!</color></b>"
+StrategicOperations/upgrade/Gear_Strafing_Run.json,statusEffects[0].Description.Details,Activated ability (uses Firing action). Calls an allied aerospace fighter to perform a strafing run on the targeted area.,활성화 능력입니다. 사격 행동을 사용합니다. 아군 항공우주 전투기를 호출하여 지정된 지역에 기총소사를 수행하게 합니다.
+StrategicOperations/upgrade/Gear_TurretBeacon_lightning.json,Description.Details,"Purchasing this beacon will allow you to deploy an automated Gear_TurretBeacon_lightning when the appropriate target painter is install on one of your units. Unfortunately, the components of the LGR Turret are hard-mounted and cannot be salvaged.",이 비컨을 구매하면 적절한 표적 지시기가 사령관님의 유닛 중 하나에 장착되어 있을 때 자동화된 Gear_TurretBeacon_lightning을 배치할 수 있습니다. 안타깝게도 LGR 터렛의 구성품은 고정 장착되어 있어 인양할 수 없습니다.

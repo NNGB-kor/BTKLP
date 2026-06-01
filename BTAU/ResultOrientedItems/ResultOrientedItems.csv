@@ -1,0 +1,137 @@
+﻿File,Key,Value,Translation
+ResultOrientedItems/items/Gear_A_Ton_Of_Money.json,Description.Details,"Congrats on your victory, Commander. Here's a bunch of extra cash to keep you afloat as you proceed.","승리를 축하드립니다, 사령관님. 계속 나아가시는 동안 버틸 수 있도록 상당한 추가 자금을 드리겠습니다."
+ResultOrientedItems/items/Gear_All_The_Money.json,Description.Details,"Congrats on your victory, Commander. You've officially won BTA and you get to not worry about money for a while.","승리를 축하드립니다, 사령관님. 사령관님은 공식적으로 BTA에서 승리하셨으며, 한동안 돈 걱정은 하지 않으셔도 됩니다."
+ResultOrientedItems/items/Gear_BattleRoyal_Assault.json,Description.Details,"This ticket is good for one (1) entry into a local Battle Royal event. This ticket permits the holder to enter into a Battle Royale in the Assault Mech category.
+
+<b><color=#ffcc00>This item immediately generates a Battle Royal contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀 로열 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 어썰트 메크 부문에서 배틀 로열에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 배틀 로열 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_BattleRoyal_Heavy.json,Description.Details,"This ticket is good for one (1) entry into a local Battle Royal event. This ticket permits the holder to enter into a Battle Royale in the Heavy Mech category.
+
+<b><color=#ffcc00>This item immediately generates a Battle Royal contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀 로열 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 헤비 메크 부문에서 배틀 로열에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 배틀 로열 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_BattleRoyal_Light.json,Description.Details,"This ticket is good for one (1) entry into a local Battle Royal event. This ticket permits the holder to enter into a Battle Royale in the Light Mech category.
+
+<b><color=#ffcc00>This item immediately generates a Battle Royal contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀 로열 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 라이트 메크 부문에서 배틀 로열에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 배틀 로열 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_BattleRoyal_Medium.json,Description.Details,"This ticket is good for one (1) entry into a local Battle Royal event. This ticket permits the holder to enter into a Battle Royale in the Medium Mech category.
+
+<b><color=#ffcc00>This item immediately generates a Battle Royal contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀 로열 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 미디엄 메크 부문에서 배틀 로열에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 배틀 로열 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_BattleRoyal_Superheavy.json,Description.Details,"This ticket is good for one (1) entry into a local Battle Royal event. This ticket permits the holder to enter into a Battle Royale in the Superheavy Mech category.
+
+<b><color=#ffcc00>This item immediately generates a Battle Royal contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀 로열 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 슈퍼헤비 메크 부문에서 배틀 로열에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 배틀 로열 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_BattleRoyal_Ultralight.json,Description.Details,"This ticket is good for one (1) entry into a local Battle Royal event. This ticket permits the holder to enter into a Battle Royale in the Ultralight Mech category.
+
+<b><color=#ffcc00>This item immediately generates a Battle Royal contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀 로열 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 울트라라이트 메크 부문에서 배틀 로열에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 배틀 로열 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Bribe_Locals.json,Description.Details,"Where there are officials, there are corrupt officials. Pay a hefty bribe to raise your standing with this star system's owner. Raises faction reputation by 15, as long as your reputation is below 10.
+
+<b><color=#ffcc00>This item will not work for Clans. Waste your money if you want, but you've been warned.</color></b>","관리가 있는 곳에는 부패한 관리도 있습니다. 상당한 뇌물을 지불하여 이 항성계 소유자와의 관계를 개선합니다. 평판이 10 미만인 경우, 세력 평판을 15 증가시킵니다.
+
+<b><color=#ffcc00>이 아이템은 클랜에는 작동하지 않습니다. 돈을 낭비하고 싶으시다면 말리지는 않겠지만, 경고는 드렸습니다.</color></b>"
+ResultOrientedItems/items/Gear_Bribe_Pirates.json,Description.Details,"Turns out, pirates like money more than they dislike you. Pay a hefty bribe to raise your standing with the pirate faction. Raises pirate reputation by 15, as long as your reputation is below 10.","알고 보니 해적들은 사령관님을 싫어하는 것보다 돈을 더 좋아합니다. 상당한 뇌물을 지불하여 해적 세력과의 관계를 개선합니다. 해적 평판이 10 미만인 경우, 해적 평판을 15 증가시킵니다."
+ResultOrientedItems/items/Gear_Cash_Money.json,Description.Details,"Congrats on your victory, Commander. Here's some extra cash to keep you afloat as you proceed.","승리를 축하드립니다, 사령관님. 계속 나아가시는 동안 버틸 수 있도록 추가 자금을 드리겠습니다."
+ResultOrientedItems/items/Gear_Chocolate_Coins.json,Description.Details,"Commandant Kringle congratulates you on your victory, Commander. To celebrate, here's a sack of ''chocolate'' coins for you to pass out when bonus time comes around for your crew. Wink wink.","크링글 사령관이 승리를 축하드립니다, 사령관님. 이를 기념해서, 승무원들에게 보너스 지급 시간이 왔을 때 나눠줄 ''초콜릿'' 동전 한 자루를 드리겠습니다. 윙크 윙크."
+ResultOrientedItems/items/Gear_Duo_Duel_Assault.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a duo duel in the Assault Mech category.
+
+<b><color=#ffcc00>This item immediately generates a duo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 어썰트 메크 부문에서 2인 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 2인 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Duo_Duel_Heavy.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a duo duel in the Heavy Mech category.
+
+<b><color=#ffcc00>This item immediately generates a duo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 헤비 메크 부문에서 2인 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 2인 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Duo_Duel_Light.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a duo duel in the Light Mech category.
+
+<b><color=#ffcc00>This item immediately generates a duo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 라이트 메크 부문에서 2인 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 2인 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Duo_Duel_Medium.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a duo duel in the Medium Mech category.
+
+<b><color=#ffcc00>This item immediately generates a duo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 미디엄 메크 부문에서 2인 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 2인 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Duo_Duel_Superheavy.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a duo duel in the Superheavy Mech category.
+
+<b><color=#ffcc00>This item immediately generates a duo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 슈퍼헤비 메크 부문에서 2인 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 2인 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Duo_Duel_Ultralight.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a duo duel in the Ultralight Mech category.
+
+<b><color=#ffcc00>This item immediately generates a duo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 울트라라이트 메크 부문에서 2인 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 2인 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Overlord_Fight.json,Description.Details,"This item lets you spawn a specialized contract where you fight against an Overlord dropship, complete with its associated mech forces.
+
+<b><color=#ffcc00>This item immediately generates a special contract on the planet of purchase against an Overlord dropship.</color></b> 
+
+<b><color=#ff2a2a>THIS CONTRACT IS EXTREMELY DIFFICULT, PREPARE FOR ANYTHING AND EVERYTHING.</color></b>","이 아이템을 사용하면 오버로드 드롭십 및 그에 수반되는 메크 병력과 전투하는 특수 계약을 생성할 수 있습니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 오버로드 드롭십을 상대하는 특수 계약을 즉시 생성합니다.</color></b> 
+
+<b><color=#ff2a2a>이 계약은 극도로 어렵습니다. 모든 상황에 대비하십시오.</color></b>"
+ResultOrientedItems/items/Gear_Rattler_Fight.json,Description.Details,"This item lets you spawn a specialized contract where you fight against a Rattler Mobile Fortress, complete with its escorting mech forces.
+
+<b><color=#ffcc00>This item immediately generates a special contract on the planet of purchase against a Rattler Mobile Fortress.</color></b> 
+
+<b><color=#ff2a2a>THIS CONTRACT IS EXTREMELY DIFFICULT, PROBABLY UNWINNABLE WITHOUT EXTREME MEASURES, YOU HAVE BEEN WARNED.</color></b>","이 아이템을 사용하면 래틀러 모바일 포트리스 및 그 호위 메크 병력과 전투하는 특수 계약을 생성할 수 있습니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 래틀러 모바일 포트리스를 상대하는 특수 계약을 즉시 생성합니다.</color></b> 
+
+<b><color=#ff2a2a>이 계약은 극도로 어렵습니다. 극단적인 조치 없이는 아마 승리할 수 없을 것입니다. 경고는 드렸습니다.</color></b>"
+ResultOrientedItems/items/Gear_Rattler_Fight_Easy.json,Description.Details,"This item lets you spawn a specialized contract where you fight against a Rattler Mk 1 Mobile Fortress, complete with its escorting mech forces.
+
+<b><color=#ffcc00>This item immediately generates a special contract on the planet of purchase against a Rattler Mk 1 Mobile Fortress.</color></b> 
+
+<b><color=#ff2a2a>THIS CONTRACT IS EXTREMELY DIFFICULT, QUITE POSSIBLY UNWINNABLE WITHOUT EXTREME MEASURES, YOU HAVE BEEN WARNED.</color></b>","이 아이템을 사용하면 래틀러 Mk 1 모바일 포트리스 및 그 호위 메크 병력과 전투하는 특수 계약을 생성할 수 있습니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 래틀러 Mk 1 모바일 포트리스를 상대하는 특수 계약을 즉시 생성합니다.</color></b> 
+
+<b><color=#ff2a2a>이 계약은 극도로 어렵습니다. 극단적인 조치 없이는 승리할 수 없을 가능성이 큽니다. 경고는 드렸습니다.</color></b>"
+ResultOrientedItems/items/Gear_Solo_Duel_Assault.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a solo duel in the Assault Mech category.
+
+<b><color=#ffcc00>This item immediately generates a solo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 어썰트 메크 부문에서 단독 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 단독 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Solo_Duel_Heavy.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a solo duel in the Heavy Mech category.
+
+<b><color=#ffcc00>This item immediately generates a solo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 헤비 메크 부문에서 단독 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 단독 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Solo_Duel_Light.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a solo duel in the Light Mech category.
+
+<b><color=#ffcc00>This item immediately generates a solo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 라이트 메크 부문에서 단독 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 단독 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Solo_Duel_Medium.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a solo duel in the Medium Mech category.
+
+<b><color=#ffcc00>This item immediately generates a solo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 미디엄 메크 부문에서 단독 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 단독 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Solo_Duel_Superheavy.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a solo duel in the Superheavy Mech category.
+
+<b><color=#ffcc00>This item immediately generates a solo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 슈퍼헤비 메크 부문에서 단독 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 단독 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Solo_Duel_Ultralight.json,Description.Details,"This ticket is good for one (1) entry into a local BattleMech Duel event. This ticket permits the holder to enter into a solo duel in the Ultralight Mech category.
+
+<b><color=#ffcc00>This item immediately generates a solo duel contract on the planet of purchase. Do not sell this item from your inventory, bad things will happen.</color></b>","이 티켓은 지역 배틀메크 결투 이벤트에 1회 입장할 수 있는 티켓입니다. 이 티켓은 소지자가 울트라라이트 메크 부문에서 단독 결투에 참가할 수 있도록 허가합니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 단독 결투 계약을 즉시 생성합니다. 이 아이템을 인벤토리에서 판매하지 마십시오. 나쁜 일이 벌어질 것입니다.</color></b>"
+ResultOrientedItems/items/Gear_Union_Fight.json,Description.Details,"This item lets you spawn a specialized contract where you fight against a Union dropship, complete with its associated mech forces.
+
+<b><color=#ffcc00>This item immediately generates a special contract on the planet of purchase against an Union dropship.</color></b> 
+
+<b><color=#ff2a2a>THIS CONTRACT IS VERY DIFFICULT, PREPARE ACCORDINGLY.</color></b>","이 아이템을 사용하면 유니온 드롭십 및 그에 수반되는 메크 병력과 전투하는 특수 계약을 생성할 수 있습니다.
+
+<b><color=#ffcc00>이 아이템은 구매한 행성에서 유니온 드롭십을 상대하는 특수 계약을 즉시 생성합니다.</color></b> 
+
+<b><color=#ff2a2a>이 계약은 매우 어렵습니다. 그에 맞게 준비하십시오.</color></b>"
