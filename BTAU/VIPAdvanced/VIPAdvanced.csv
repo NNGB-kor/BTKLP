@@ -80,7 +80,7 @@ VIPAdvanced/aerospace/vehicledef_HORSKR_AIRLIFT.json,Description.Details,"The Ho
 <b>Rear</b>         75     30
 
 <b>Total</b>      490     120
-","호스크르 공중수송 VTOL은 원래 신속한 전장 인양을 위해 설계되었습니다. 어떤 지상 팀보다도 더 빠르게 들어와 귀중한 인양품을 챙겨 달아날 수 있었습니다. 하지만 이 임무에서 뛰어난 성능을 보이자, 수완 좋은 용병들은 머지않아 이 VTOL의 두 번째 용도를 깨달았습니다. 바로 전투 유닛들을 원래라면 갈 수 없는 장소로 실어 나르는 것이었습니다. 호스크르는 무장과 장갑이 빈약하지만, 그것이 제공하는 막대한 활용성은 대체로 충분히 가치 있는 것으로 여겨집니다.
+","호스크르 공중수송 VTOL은 원래 신속한 전장 인양을 위해 설계되었습니다. 어떤 지상 팀보다도 더 빠르게 들어와 귀중한 인양품을 챙겨 달아날 수 있었습니다. 하지만 이 임무에서 뛰어난 성능을 보이자, 수완 좋은 용병들은 머지않아 이 VTOL의 두 번째 용도를 깨달았습니다. 바로 전투 유닛들을 원래라면 갈 수 없는 장소로 실어 나르는 것이었습니다. 호스크르는 무장과 장갑이 빈약하지만, 그것이 제공하는 막대한 활용성은 대체로 충분히 가치 있는 것으로 여겨집니다.</color></b>
 
  <b><color=#ffcc00>이동력: 5/8 헥스: 150/240미터.</color></b>
 
@@ -158,7 +158,7 @@ VIPAdvanced/aerospace/vehicledef_NIGHTSHADE_LPPC.json,Description.Details,"Contr
 
 <b>로터</b>         15     10
 
-<b>합계</b>      245     75"
+<b>합계</b>      245     75</color>"
 VIPAdvanced/aerospace/vehicledef_REDKITE.json,Description.Details,"A fast attack VTOL, the Red Kite was designed for deep raiding and flanking efforts in war. Armed with a battery of Medium Chemical Lasers, the Red Kite proved a cheap and effective light VTOL design for fast strikes. However, it is very lightly armored, meaning it is highly vulnerable to incoming damage, ensuring that Red Kite operational teams learn to keep on the move constantly, lest they suffer a disaster.
 
  <b><color=#ffcc00>Fuel Cell: Improved vehicle engine that works in a Vacuum.</color></b>
@@ -206,7 +206,7 @@ VIPAdvanced/aerospace/vehicledef_TAGDRONE.json,Description.Details,"The Hale Art
 <b>Rear</b>         40     15
 
 <b>Total</b>      279     75
-","헤일 아틀러리 VTOL은 오직 한 가지 목적을 위해 특별히 설계되었습니다. 바로 포격용 레이저 표적지시기를 전장으로 운반하는 것입니다. 레이저 표적지시기와 보조 화력용 LRM-10만으로 무장한 헤일은 방어를 속도에 의존하며, 실질적으로 기능하는 장갑은 매우 적게 탑재하고 있습니다. 그럼에도 포격 표적지시기의 위력은 종종 전투의 흐름을 뒤집기에 충분하며, 그래서 헤일은 이너스피어의 군 지휘부에서 제 역할을 찾게 되었습니다.
+","헤일 아틀러리 VTOL은 오직 한 가지 목적을 위해 특별히 설계되었습니다. 바로 포격용 레이저 표적지시기를 전장으로 운반하는 것입니다. 레이저 표적지시기와 보조 화력용 LRM-10만으로 무장한 헤일은 방어를 속도에 의존하며, 실질적으로 기능하는 장갑은 매우 적게 탑재하고 있습니다. 그럼에도 포격 표적지시기의 위력은 종종 전투의 흐름을 뒤집기에 충분하며, 그래서 헤일은 이너스피어의 군 지휘부에서 제 역할을 찾게 되었습니다.</color></b>
 
  <b><color=#ffcc00>ICE: 공기 흡입식 연소 엔진입니다. 이 유닛은 희박한 대기에서는 배치할 수 없습니다.</color></b>
 
@@ -366,7 +366,7 @@ VIPAdvanced/aerospace/vehicledef_VTOLDRONE.json,Description.Details,"The Mata Ha
 <b>Rear</b>         40     15
 
 <b>Total</b>      279     75
-","마타 하리 센서 VTOL은 사실상 무장하지 않은 정찰 유닛입니다. 무장이라고 부를 수나 있다면, TAG와 나크 런처만을 장비한 마타 하리는 아군 전력에 지원을 제공하기 위해 존재합니다. 비글 액티브 프로브와 가디언 ECM을 통해, 마타 하리는 충분한 전자전 지원을 제공할 수 있습니다. 하지만 이 VTOL은 어떠한 공격 무장도 전혀 탑재하지 않았으므로, 형편없는 장갑으로는 오래 버틸 수 없기 때문에 전장에서 궁지에 몰리지 않도록 극도로 주의해야 합니다.
+","마타 하리 센서 VTOL은 사실상 무장하지 않은 정찰 유닛입니다. 무장이라고 부를 수나 있다면, TAG와 나크 런처만을 장비한 마타 하리는 아군 전력에 지원을 제공하기 위해 존재합니다. 비글 액티브 프로브와 가디언 ECM을 통해, 마타 하리는 충분한 전자전 지원을 제공할 수 있습니다. 하지만 이 VTOL은 어떠한 공격 무장도 전혀 탑재하지 않았으므로, 형편없는 장갑으로는 오래 버틸 수 없기 때문에 전장에서 궁지에 몰리지 않도록 극도로 주의해야 합니다.</color></b>
 
  <b><color=#ffcc00>ICE: 공기 흡입식 연소 엔진입니다. 이 유닛은 희박한 대기에서는 배치할 수 없습니다.</color></b>
 
@@ -409,7 +409,7 @@ VIPAdvanced/aerospace/vehicledef_YELLOWJACKET.json,Description.Details,"Contract
 
 <b>로터</b>         15     10
 
-<b>합계</b>      245     75"
+<b>합계</b>      245     75</color>"
 VIPAdvanced/aerospacechassis/vehiclechassisdef_DAKOTA_TRANSPORT.json,Description.Details,"The Dakota Transport Gunship was designed as a carrier for infantry squads. After the development of Inner Sphere Battle Armor, the Dakota was quickly refit to accomodate a BA squad. Because of the Dakota's ease of maintenance and deployment, it became ubiquitous on the battlefields of the Inner Sphere.
 
  <b><color=#ffcc00>CARRIES A SQUAD OF IS STANDARD BATTLE ARMOR!</color></b>
@@ -491,7 +491,7 @@ VIPAdvanced/aerospacechassis/vehiclechassisdef_HORSKR_AIRLIFT.json,Description.D
 <b>Rear</b>         75     30
 
 <b>Total</b>      490     120
-","호르스크 에어리프트 VTOL은 원래 신속한 전장 회수를 위해 설계되었습니다. 어떤 지상 팀보다도 더 빠르게 들어와 귀중한 회수물을 챙겨 이탈할 수 있었습니다. 하지만 이 임무에서 뛰어난 성능을 보인 지 얼마 지나지 않아, 수완 좋은 용병들은 이 VTOL의 두 번째 용도를 깨달았습니다. 바로 원래는 갈 수 없던 장소로 전투 유닛을 실어 나르는 것이었습니다. 호르스크는 무장과 장갑이 가벼운 편이지만, 그것이 제공하는 엄청난 활용성은 대체로 그만한 가치가 있다고 여겨집니다.
+","호르스크 에어리프트 VTOL은 원래 신속한 전장 회수를 위해 설계되었습니다. 어떤 지상 팀보다도 더 빠르게 들어와 귀중한 회수물을 챙겨 이탈할 수 있었습니다. 하지만 이 임무에서 뛰어난 성능을 보인 지 얼마 지나지 않아, 수완 좋은 용병들은 이 VTOL의 두 번째 용도를 깨달았습니다. 바로 원래는 갈 수 없던 장소로 전투 유닛을 실어 나르는 것이었습니다. 호르스크는 무장과 장갑이 가벼운 편이지만, 그것이 제공하는 엄청난 활용성은 대체로 그만한 가치가 있다고 여겨집니다.</color></b>
 
  <b><color=#ffcc00>이동: 5/8 헥스: 150/240 미터.</color></b>
 
@@ -569,7 +569,7 @@ VIPAdvanced/aerospacechassis/vehiclechassisdef_NIGHTSHADE_LPPC.json,Description.
 
 <b>로터</b>         15     10
 
-<b>합계</b>      245     75"
+<b>합계</b>      245     75</color>"
 VIPAdvanced/aerospacechassis/vehiclechassisdef_REDKITE.json,Description.Details,"A fast attack VTOL, the Red Kite was designed for deep raiding and flanking efforts in war. Armed with a battery of Medium Chemical Lasers, the Red Kite proved a cheap and effective light VTOL design for fast strikes. However, it is very lightly armored, meaning it is highly vulnerable to incoming damage, ensuring that Red Kite operational teams learn to keep on the move constantly, lest they suffer a disaster.
 
  <b><color=#ffcc00>Fuel Cell: Improved vehicle engine that works in a Vacuum.</color></b>
@@ -617,7 +617,7 @@ VIPAdvanced/aerospacechassis/vehiclechassisdef_TAGDRONE.json,Description.Details
 <b>Rear</b>         40     15
 
 <b>Total</b>      279     75
-","헤일 아틀러리 VTOL은 단 하나의 목적을 위해 특별히 만들어졌습니다. 바로 포병 레이저 지시기를 전장에 운반하는 것입니다. 레이저 지시기와 보조 무장인 LRM-10만 장비한 헤일은 방어를 속도에 의존하며, 실질적인 장갑은 거의 탑재하지 않았습니다. 그래도 포병 지시기의 위력은 전투의 흐름을 뒤집기에 충분한 경우가 많았고, 그래서 헤일은 이너스피어의 군 지휘부에서 제 역할을 찾았습니다.
+","헤일 아틀러리 VTOL은 단 하나의 목적을 위해 특별히 만들어졌습니다. 바로 포병 레이저 지시기를 전장에 운반하는 것입니다. 레이저 지시기와 보조 무장인 LRM-10만 장비한 헤일은 방어를 속도에 의존하며, 실질적인 장갑은 거의 탑재하지 않았습니다. 그래도 포병 지시기의 위력은 전투의 흐름을 뒤집기에 충분한 경우가 많았고, 그래서 헤일은 이너스피어의 군 지휘부에서 제 역할을 찾았습니다.</color></b>
 
  <b><color=#ffcc00>ICE: 공기 흡입식 연소 엔진입니다. 이 유닛은 대기가 희박한 환경에는 배치할 수 없습니다.</color></b>
 
@@ -777,7 +777,7 @@ VIPAdvanced/aerospacechassis/vehiclechassisdef_VTOLDRONE.json,Description.Detail
 <b>Rear</b>         40     15
 
 <b>Total</b>      279     75
-","마타 하리 센서 VTOL은 사실상 무장하지 않은 정찰 유닛입니다. 무장이라고 부를 수나 있다면 TAG와 나크 런처만 갖추고 있을 뿐이며, 마타 하리는 아군 병력에 지원을 제공하기 위해 존재합니다. 비글 액티브 프로브와 가디언 ECM을 갖춘 덕분에, 마타 하리는 전자전 지원을 충분히 제공할 수 있습니다. 하지만 이 VTOL은 공격 무장을 전혀 탑재하지 않았기 때문에, 형편없는 장갑으로는 오래 버틸 수 없으므로 전장에서 궁지에 몰리지 않도록 극도로 주의해야 합니다.
+","마타 하리 센서 VTOL은 사실상 무장하지 않은 정찰 유닛입니다. 무장이라고 부를 수나 있다면 TAG와 나크 런처만 갖추고 있을 뿐이며, 마타 하리는 아군 병력에 지원을 제공하기 위해 존재합니다. 비글 액티브 프로브와 가디언 ECM을 갖춘 덕분에, 마타 하리는 전자전 지원을 충분히 제공할 수 있습니다. 하지만 이 VTOL은 공격 무장을 전혀 탑재하지 않았기 때문에, 형편없는 장갑으로는 오래 버틸 수 없으므로 전장에서 궁지에 몰리지 않도록 극도로 주의해야 합니다.</color></b>
 
  <b><color=#ffcc00>ICE: 공기 흡입식 연소 엔진입니다. 이 유닛은 옅은 대기에서는 배치할 수 없습니다.</color></b>
 
@@ -820,7 +820,7 @@ VIPAdvanced/aerospacechassis/vehiclechassisdef_YELLOWJACKET.json,Description.Det
 
 <b>로터</b>         15     10
 
-<b>합계</b>      245     75"
+<b>합계</b>      245     75</color>"
 VIPAdvanced/apc/vehicledef_APC_Alsvin.json,Description.Details,"The Alsvin APC carries two Machine Guns and a Medium Laser in a turret, but these are carried usually only for defense against other infantry units. The machine guns have a half ton of ammunition available. The main feature of the Alsvin is the infantry bay located in the body as well as a C3 Slave and TAG unit for supporting heavier units during unit deployment. It is protected by seven tons of armor.
 
  <b><color=#ffcc00>CARRIES A SQUAD OF IS STANDARD AND ACHILLES BATTLE ARMOR!</color></b>
@@ -889,7 +889,7 @@ VIPAdvanced/apc/vehicledef_APC_HeavyWheeled_LRM.json,Description.Details,"The He
 <b>포탑</b>      40     15
 
 <b>총합</b>      440    75
-"
+</color>"
 VIPAdvanced/apc/vehicledef_APC_Sleipnir.json,Description.Details,"The Sleipnir APC carries two Machine Guns and two Medium Lasers in a turret, but these are carried usually only for defense against other infantry units. The machine guns have a half ton of ammunition available. The main feature of the Sleipnir is the four ton infantry bay located in the body. It is protected by seven tons of armor.
 
  <b><color=#ffcc00>CARRIES A SQUAD OF IS STANDARD BATTLE ARMOR!</color></b>
@@ -982,7 +982,7 @@ VIPAdvanced/apc/vehicledef_APC_Vargr.json,Description.Details,"The Vargr APC car
 <b>Total</b>      1160    175
 ","바르그르 APC는 포탑에 머신건 두 정과 미디엄 레이저 두 문을 탑재하고 있지만, 이는 보통 다른 보병 유닛에 대한 방어용으로만 운용됩니다. 머신건용 탄약은 0.5톤이 제공됩니다. 바르그르의 주요 특징은 차체 내부에 위치한 보병실입니다. 이 보병실은 7톤의 장갑으로 보호됩니다.
 
- <b><color=#ffcc00>배틀 아머 사격 포트를 갖추고 있습니다.</color></b>
+ <b><color=#ffcc00>배틀 아머 사격 포트를 갖추고 있습니다.</b>
 
  <b><color=#ffcc00>차륜형: 개활지에서는 빠르고, 험지에서는 느립니다.</color></b>
 
@@ -1174,7 +1174,7 @@ VIPAdvanced/apcchassis/vehiclechassisdef_APC_HeavyWheeled_LRM.json,Description.D
 <b>포탑</b>      40     15
 
 <b>합계</b>      440    75
-"
+</color>"
 VIPAdvanced/apcchassis/vehiclechassisdef_APC_Sleipnir.json,Description.Details,"The Sleipnir APC carries two Machine Guns and two Medium Lasers in a turret, but these are carried usually only for defense against other infantry units. The machine guns have a half ton of ammunition available. The main feature of the Sleipnir is the four ton infantry bay located in the body. It is protected by seven tons of armor.
 
  <b><color=#ffcc00>CARRIES A SQUAD OF IS STANDARD BATTLE ARMOR!</color></b>
@@ -8017,7 +8017,7 @@ VIPAdvanced/medium/vehicledef_ZEPHYR_ROYAL.json,Description.Details,"The 'Royal'
 <b>Turret</b>      145     20
 
 <b>Total</b>      625    100
-</color>","제피르의 '로열' 버전은 SLDF 지도부가 이 고속 대응 미디엄 호버탱크에 기대했던 지원 관측 역할에 더욱 특화되어 있습니다. SRM6는 제거되고 NARC 미사일 비컨 발사기로 교체되었습니다.
+</color>","제피르의 '로열' 버전은 SLDF 지도부가 이 고속 대응 미디엄 호버탱크에 기대했던 지원 관측 역할에 더욱 특화되어 있습니다. SRM6는 제거되고 NARC 미사일 비컨 발사기로 교체되었습니다.</color></b>
 
  <b><color=#ffcc00>이동: 9/14 헥스: 270/420 미터.</color></b>
 
@@ -8798,7 +8798,7 @@ VIPAdvanced/mediumchassis/vehiclechassisdef_ZEPHYR_ROYAL.json,Description.Detail
 <b>Turret</b>      145     20
 
 <b>Total</b>      625    100
-</color>","제피르의 '로열' 버전은 SLDF 수뇌부가 이 고속 대응 미디엄 호버탱크에 기대했던 지원 관측 역할에 더욱 특화되어 있습니다. SRM6는 제거되고 NARC 미사일 비컨 발사기로 교체되었습니다.
+</color>","제피르의 '로열' 버전은 SLDF 수뇌부가 이 고속 대응 미디엄 호버탱크에 기대했던 지원 관측 역할에 더욱 특화되어 있습니다. SRM6는 제거되고 NARC 미사일 비컨 발사기로 교체되었습니다.</color></b>
 
  <b><color=#ffcc00>이동력: 9/14 헥스: 270/420 미터.</color></b>
 

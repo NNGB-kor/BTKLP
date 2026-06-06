@@ -868,7 +868,6 @@ Darius pauses, then adds, ""The MechWarriors have noticed, though. I'll try to g
 다리우스는 잠시 말을 멈췄다가 덧붙입니다.
 “하지만 멕워리어들이 눈치채고 있습니다. 다음 보급 임무 때 정상 수준으로 회복할 수 있도록 하겠습니다.”"
 SwordOfRestoration/events/forcedevent_FP_StoryTime3_B.json,Options[1].ResultSets[1].Description.Name,Small hit to MedTech skill and morale,MedTech 기술과 사기 소폭 감소
-SwordOfRestoration/events/forcedevent_FP_StoryTime3_B.json,Options[2].Description.Details,"[¢25,000]","[¢25,000]"
 SwordOfRestoration/events/forcedevent_FP_StoryTime3_B.json,Options[2].Description.Name,Buy extra supplies to boost medical efficiency.,의료 효율 향상을 위해 추가 보급품 구매
 SwordOfRestoration/events/forcedevent_FP_StoryTime3_B.json,Options[2].ResultSets[0].Description.Details,"Later in the week, Darius provides an update. ""I did some bargaining and managed to purchase a bulk lot of medical supplies.""
 

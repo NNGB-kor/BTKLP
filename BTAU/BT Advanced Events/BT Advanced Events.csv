@@ -1099,7 +1099,7 @@ BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_HL.json,Description
 
 <i><b>Commander, if we're going to do this race, there are a few things you need to know. This one takes place in the [[DM.BaseDescriptionDefs[BiomeHighlands],highlands]], so we have a few options. I can push hard and drive aggressively, but we'll probably banged up pretty good on some of those rocky outcroppings and ravines. On the other hand, I can play it a bit safer and hope to make up the time in the straightaways. Like most of these races, there's also an optional ""shortcut"" route; this one appears to run through a dense boulder field with a lot of tight turns. Just let me know how you'd like to proceed, and I'll get things ready to go. Of course if we don't have time, I understand.</i></b>","[[SCN_MW,{SCN_MW.Callsign}]]로부터 메시지가 도착했습니다. 우리가 시스템에 도착한 시점이 마침 경주가 열리는 시기인 것 같습니다. {SCN_MW.SUBJ}가 경주에 참가해야 할지 여부를 결정해야 합니다:
 
-<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeHighlands],고지대]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 그러면 바위 돌출부나 협곡에서 꽤 심하게 부딪힐 가능성이 있습니다. 반면에, 조금 더 안전하게 진행하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이 경로는 빽빽한 바위 지대와 많은 급격한 회전 구간을 통과하는 것으로 보입니다. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없다면 이해합니다.</b></i>"
+<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeHighlands],고지대]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 그러면 바위 돌출부나 협곡에서 꽤 심하게 부딪힐 가능성이 있습니다. 반면에, 조금 더 안전하게 진행하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이 경로는 빽빽한 바위 지대와 많은 급격한 회전 구간을 통과하는 것으로 보입니다. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없다면 이해합니다.</i></b>"
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_HL.json,Description.Name,Apocalypse Race: There Can Be Only One!,종말 레이스: 단 한 명만이 살아남을 수 있습니다!
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_HL.json,Options[0].Description.Details,-,-
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_HL.json,Options[0].Description.Name,Drive aggressively,공격적으로 운전하십시오.
@@ -1120,7 +1120,7 @@ BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_JG.json,Description
 
 <i><b>Commander, if we're going to do this race, there are a few things you need to know. This one takes place in the [[DM.BaseDescriptionDefs[BiomeJungleTropical],jungle]], so we have a few options. I can push hard and drive aggressively, but we'll want to watch out when the jungle gets too dense. On the other hand, I can play it a bit safer and hope to make up the time in the straightaways. Like most of these races, there's also an optional ""shortcut"" route; this one appears to run through a corrosive spore field. Just let me know how you'd like to proceed, and I'll get things ready to go. Of course if we don't have time, I understand.</i></b>","[[SCN_MW,{SCN_MW.Callsign}]]로부터 메시지가 도착했습니다. 우리가 시스템에 도착한 시점이 마침 경주가 열리는 시기인 것 같습니다. {SCN_MW.SUBJ}가 참가 여부를 결정해야 한다고 합니다:
 
-<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeJungleTropical],정글]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 정글이 너무 빽빽해질 때는 주의해야 할 것입니다. 반면에, 조금 더 안전하게 진행하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이 경로는 부식성 포자 지대를 통과하는 것으로 보입니다. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없다면 이해합니다.</b></i>"
+<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeJungleTropical],정글]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 정글이 너무 빽빽해질 때는 주의해야 할 것입니다. 반면에, 조금 더 안전하게 진행하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이 경로는 부식성 포자 지대를 통과하는 것으로 보입니다. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없다면 이해합니다.</i></b>"
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_JG.json,Description.Name,Apocalypse Race: Jungle Boogie,아포칼립스 레이스: 정글 부기
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_JG.json,Options[0].Description.Details,-,-
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_JG.json,Options[0].Description.Name,Drive aggressively,공격적으로 운전하십시오.
@@ -1141,7 +1141,7 @@ BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_LL.json,Description
 
 <i><b>Commander, if we're going to do this race, there are a few things you need to know. This one takes place in the [[DM.BaseDescriptionDefs[BiomeLowlands],lowlands]], so we have a few options. I can push hard and drive aggressively as long as we avoid sliding into any big rocks. On the other hand, I can play it a bit safer and hope to make up the time in the straightaways. Like most of these races, there's also an optional ""shortcut"" route; this one looks like it runs through a marshy area. Keep in mind that unlike BattleMechs, vehicles <i>can</i> get stuck. Just let me know how you'd like to proceed, and I'll get things ready to go. Of course if we don't have time, I understand.</i></b>","[[SCN_MW,{SCN_MW.Callsign}]]로부터 메시지가 도착했습니다. 우리가 시스템에 도착한 시점이 마침 경주가 열리는 시기인 것 같습니다. {SCN_MW.SUBJ}가 등록 여부를 결정해야 한다고 합니다:
 
-<i><b>사령관님, 우리가 이 경주에 참여하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeLowlands],저지대]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 큰 바위에 미끄러지지 않도록 주의해야 합니다. 반면에, 조금 더 안전하게 운전하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이 경로는 습지 지역을 통과하는 것처럼 보입니다. 배틀메크와 달리, 차량은 <i>정말로</i> 갇힐 수 있다는 점을 유념해 주세요. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없다면 이해합니다.</b></i>"
+<i><b>사령관님, 우리가 이 경주에 참여하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeLowlands],저지대]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 큰 바위에 미끄러지지 않도록 주의해야 합니다. 반면에, 조금 더 안전하게 운전하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이 경로는 습지 지역을 통과하는 것처럼 보입니다. 배틀메크와 달리, 차량은 <i>정말로</i> 갇힐 수 있다는 점을 유념해 주세요. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없다면 이해합니다.</i></b>"
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_LL.json,Description.Name,Apocalypse Race: Swamp Thing,아포칼립스 레이스: 스웜프 씽
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_LL.json,Options[0].Description.Details,-,-
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Apoc_LL.json,Options[0].Description.Name,Drive aggressively,공격적으로 운전하기
@@ -1162,7 +1162,7 @@ BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_AR.json,Description
 
 <i><b>Commander, if we're going to do this race, there are a few things you need to know. This one takes place in the [[DM.BaseDescriptionDefs[BiomePolar],polar region]], so we have a few options. I can push hard and drive aggressively, but we'll want to make sure we don't lose traction. On the other hand, I can play it a bit safer and hope to make up the time in the straightaways. Like most of these races, there's also an optional ""shortcut"" route; looks like this one goes through a large geothermal field. Just let me know how you'd like to proceed, and I'll get things ready to go. Of course if we don't have time, I understand.</i></b>","[[SCN_MW,{SCN_MW.Callsign}]]로부터 메시지가 도착했습니다. 우리가 시스템에 도착한 시점이 마침 경주가 열리는 시기인 것 같습니다. {SCN_MW.SUBJ}가 등록 여부를 결정해야 한다고 합니다:
 
-<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomePolar],극지방]]에서 열리기 때문에 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 그 경우에는 접지력을 잃지 않도록 주의해야 합니다. 반면에, 조금 더 안전하게 플레이하고 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이번 지름길은 큰 지열 지대를 통과하는 것 같네요. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없으시다면 이해합니다.</b></i>"
+<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomePolar],극지방]]에서 열리기 때문에 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 그 경우에는 접지력을 잃지 않도록 주의해야 합니다. 반면에, 조금 더 안전하게 플레이하고 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이번 지름길은 큰 지열 지대를 통과하는 것 같네요. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없으시다면 이해합니다.</i></b>"
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_AR.json,Description.Name,Ibex Race: Ice Capades,아이벡스 레이스: 아이스 카페이드
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_AR.json,Options[0].Description.Details,-,-
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_AR.json,Options[0].Description.Name,Drive aggressively,공격적으로 운전하기
@@ -1183,7 +1183,7 @@ BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_DS.json,Description
 
 <i><b>Commander, if we're going to do this race, there are a few things you need to know. This one takes place in the [[DM.BaseDescriptionDefs[BiomeDesert],desert]], so we have a few options. I can push hard and drive aggressively, but we're gonna want to keep an eye on the heat gauge. In addition, this is a 500km route, so fuel might be a concern. On the other hand, I can play it a bit safer and hope to make up the time in the straightaways. Like most of these races, there's also an optional ""shortcut"" route; looks like it runs through a crystal field, but that shouldn't make a difference for us. Just let me know how you'd like to proceed, and I'll get things ready to go. Of course if we don't have time, I understand.</i></b>","[[SCN_MW,{SCN_MW.Callsign}]]로부터 메시지가 도착했습니다. 우리가 시스템에 도착한 시점이 마침 경주가 열리는 시기인 것 같습니다. {SCN_MW.SUBJ}가 등록 여부를 결정해야 한다고 합니다:
 
-<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아두셔야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeDesert],사막]]에서 열리기 때문에 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 열 게이지를 주의 깊게 살펴야 할 겁니다. 게다가 이 경주는 500km 코스라 연료도 문제가 될 수 있습니다. 반면에, 조금 더 안전하게 운전하고 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 선택적인 ""지름길"" 경로도 있습니다. 보아하니 수정 지대를 통과하는 것 같은데, 우리에게는 큰 문제가 되지 않을 겁니다. 어떻게 진행할지 말씀만 해주시면 준비하겠습니다. 물론 시간이 없으시다면 이해합니다.</b></i>"
+<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아두셔야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeDesert],사막]]에서 열리기 때문에 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 열 게이지를 주의 깊게 살펴야 할 겁니다. 게다가 이 경주는 500km 코스라 연료도 문제가 될 수 있습니다. 반면에, 조금 더 안전하게 운전하고 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 선택적인 ""지름길"" 경로도 있습니다. 보아하니 수정 지대를 통과하는 것 같은데, 우리에게는 큰 문제가 되지 않을 겁니다. 어떻게 진행할지 말씀만 해주시면 준비하겠습니다. 물론 시간이 없으시다면 이해합니다.</i></b>"
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_DS.json,Description.Name,Ibex Race: Dakar 306X,이벡스 레이스: 다카르 306X
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_DS.json,Options[0].Description.Details,-,-
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_DS.json,Options[0].Description.Name,Drive aggressively,공격적으로 운전하기
@@ -1206,7 +1206,7 @@ BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_HL.json,Description
 
 <I><b>Commander, if we're going to do this race, there are a few things you need to know. This one takes place in the [[DM.BaseDescriptionDefs[BiomeHighlands],highlands]], so we have a few options. I can push hard and drive aggressively, but we'll probably banged up pretty good on some of those rocky outcroppings and ravines. On the other hand, I can play it a bit safer and hope to make up the time in the straightaways. Like most of these races, there's also an optional ""shortcut"" route; this one appears to run through a  dense boulder field with a lot of tight turns. Just let me know how you'd like to proceed, and I'll get things ready to go. Of course if we don't have time, I understand.</i></b>","[[SCN_MW,{SCN_MW.Callsign}]]로부터 메시지가 도착했습니다. 우리가 시스템에 도착한 시점이 마침 경주가 열리는 시기인 것 같습니다. {SCN_MW.SUBJ}가 경주에 참가해야 할지 물어보고 싶어 합니다:
 
-<I><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아두셔야 할 점이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeHighlands],고지대]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 그러면 바위 돌출부나 협곡에서 꽤 심하게 부딪힐 가능성이 있습니다. 반면에 조금 더 안전하게 진행하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 선택적인 ""지름길"" 경로도 있습니다. 이번 지름길은 바위가 빽빽한 지역을 통과하며, 많은 급커브가 포함된 것으로 보입니다. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없으시다면 이해합니다.</b></i>"
+<I><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아두셔야 할 점이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeHighlands],고지대]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 그러면 바위 돌출부나 협곡에서 꽤 심하게 부딪힐 가능성이 있습니다. 반면에 조금 더 안전하게 진행하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 선택적인 ""지름길"" 경로도 있습니다. 이번 지름길은 바위가 빽빽한 지역을 통과하며, 많은 급커브가 포함된 것으로 보입니다. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없으시다면 이해합니다.</i></b>"
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_HL.json,Description.Name,Ibex Race: There Can Be Only One!,아이벡스 레이스: 단 한 명만이 승리할 수 있습니다!
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_HL.json,Options[0].Description.Details,-,-
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_HL.json,Options[0].Description.Name,Drive aggressively,공격적으로 운전하기
@@ -1227,7 +1227,7 @@ BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_JG.json,Description
 
 <i><b>Commander, if we're going to do this race, there are a few things you need to know. This one takes place in the [[DM.BaseDescriptionDefs[BiomeJungleTropical],jungle]], so we have a few options. I can push hard and drive aggressively, but we'll want to watch out when the jungle gets too dense. On the other hand, I can play it a bit safer and hope to make up the time in the straightaways. Like most of these races, there's also an optional ""shortcut"" route; this one appears to run through a corrosive spore field. Just let me know how you'd like to proceed, and I'll get things ready to go. Of course if we don't have time, I understand.</i></b>","[[SCN_MW,{SCN_MW.Callsign}]]로부터 메시지가 도착했습니다. 우리가 시스템에 도착한 시점이 마침 경주가 열리는 시기인 것 같습니다. {SCN_MW.SUBJ}가 참가 여부를 결정해야 한다고 합니다:
 
-<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeJungleTropical],정글]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 정글이 너무 빽빽해질 때는 주의해야 할 것입니다. 반대로, 조금 더 안전하게 진행하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이 경로는 부식성 포자 지대를 통과하는 것으로 보입니다. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없다면 이해합니다.</b></i>"
+<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeJungleTropical],정글]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 정글이 너무 빽빽해질 때는 주의해야 할 것입니다. 반대로, 조금 더 안전하게 진행하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이 경로는 부식성 포자 지대를 통과하는 것으로 보입니다. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없다면 이해합니다.</i></b>"
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_JG.json,Description.Name,Ibex Race: Jungle Boogie,이벡스 레이스: 정글 부기
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_JG.json,Options[0].Description.Details,-,-
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_JG.json,Options[0].Description.Name,Drive aggressively,공격적으로 운전하기
@@ -1248,7 +1248,7 @@ BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_LL.json,Description
 
 <i><b>Commander, if we're going to do this race, there are a few things you need to know. This one takes place in the [[DM.BaseDescriptionDefs[BiomeLowlands],lowlands]], so we have a few options. I can push hard and drive aggressively as long as we avoid sliding into any big rocks. On the other hand, I can play it a bit safer and hope to make up the time in the straightaways. Like most of these races, there's also an optional ""shortcut"" route; this one looks like it runs through a marshy area. Keep in mind that unlike BattleMechs, vehicles <i>can</i> get stuck. Just let me know how you'd like to proceed, and I'll get things ready to go. Of course if we don't have time, I understand.</i></b>","[[SCN_MW,{SCN_MW.Callsign}]]로부터 메시지가 도착했습니다. 우리가 시스템에 도착한 시점이 마침 경주가 열리는 시기인 것 같습니다. {SCN_MW.SUBJ}가 참가 여부를 결정해야 한다고 합니다:
 
-<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeLowlands],저지대]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 큰 바위에 미끄러지지 않도록 주의해야 합니다. 반면에, 조금 더 안전하게 운전하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이 경로는 습지 지역을 통과하는 것처럼 보입니다. 배틀메크와 달리, 차량은 <i>정말로</i> 갇힐 수 있다는 점을 유념해 주세요. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없다면 이해합니다.</b></i>"
+<i><b>사령관님, 우리가 이 경주에 참가하려면 몇 가지 알아야 할 사항이 있습니다. 이번 경주는 [[DM.BaseDescriptionDefs[BiomeLowlands],저지대]]에서 열리며, 몇 가지 선택지가 있습니다. 제가 강하게 밀어붙이고 공격적으로 운전할 수도 있지만, 큰 바위에 미끄러지지 않도록 주의해야 합니다. 반면에, 조금 더 안전하게 운전하면서 직선 구간에서 시간을 만회하는 방법도 있습니다. 대부분의 이런 경주처럼, 이번에도 선택적인 ""지름길"" 경로가 있습니다. 이 경로는 습지 지역을 통과하는 것처럼 보입니다. 배틀메크와 달리, 차량은 <i>정말로</i> 갇힐 수 있다는 점을 유념해 주세요. 어떻게 진행할지 알려주시면 준비를 시작하겠습니다. 물론 시간이 없다면 이해합니다.</i></b>"
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_LL.json,Description.Name,Ibex Race: Swamp Thing,아이벡스 레이스: 스웜프 씽
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_LL.json,Options[0].Description.Details,-,-
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Ibex_LL.json,Options[0].Description.Name,Drive aggressively,공격적으로 운전하기
@@ -1324,7 +1324,7 @@ President, ISORES</i></b>
 
 저희 [[DM.BaseDescriptionDefs[TBoneLoreISORES],ISORES]]는 귀하께서 올해의 챔피언 중 한 분으로 확정되셨음을 자랑스럽게 발표합니다. 귀하의 레이스 팀에게도 축하의 말씀을 전해주시길 바라며, 앞으로의 모든 여정에 행운이 가득하시길 기원합니다. 귀하의 성취를 기념하며, 저희가 운영하는 모든 국가에 귀하의 챔피언 지위를 발표하였습니다.
 
-진심으로, 벤자민 클록  ISORES 사장</b></i>
+진심으로, 벤자민 클록  ISORES 사장</i></b>
 
 [[SCN_MW,{SCN_MW.Callsign}]]는 매우 기뻐하며, 그녀의 상금 일부를 [[DM.BaseDescriptionDefs[TBoneLoreGlengarryBlack],글렌개리 블랙]] 한 상자를 구매하여 팀원들과 나누어 마셨습니다. 모두가 축하 파티를 즐겼지만, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]]과 [[DM.BaseDescriptionDefs[TBoneLoreDoc],닥터 코블]]는 각각의 팀 효율성이 당분간 <i>저하</i>될 것이라고 보고했습니다. 그럼에도 불구하고, 이미 대부분의 [[DM.BaseDescriptionDefs[LoreMRBC],MRBC]] 연락 담당자들로부터 축하 메시지를 받으셨습니다. 거의 모든 사람들이 승자를 좋아하는 것 같습니다. 그리고 [[SCN_MW,{SCN_MW.Callsign}]]는 그녀의 조종 실력이 눈에 띄게 향상되었습니다."
 BT Advanced Events/events_Base/tbone_event_co_raceBlaze_Winner.json,Options[0].ResultSets[0].Description.Name,Read the message from ISORES.,Read the message from ISORES.
@@ -1735,7 +1735,7 @@ As you watch together, you see a short message pop up on Sumire's screen from [[
 함께 영상을 보고 있던 중, [[SCN_MW,{SCN_MW.Callsign}]]에게서 스미레의 화면에 짧은 메시지가 뜹니다.
 ""임무 완료.""
 스미레는 그것을 쓸어내며 조용히 손짓합니다.
-""이건 마법 같은 순간이에요, 사령관님. 그냥 그대로 두세요.""]"
+""이건 마법 같은 순간이에요, 사령관님. 그냥 그대로 두세요."""
 BT Advanced Events/events_Base/wulf_event_co_CatHoliday.json,Options[2].ResultSets[0].Description.Name,Sumire Route,Sumire Route
 BT Advanced Events/events_Base/wulf_event_co_catLoveChain1.json,Description.Details,"As you make your rounds through the ship, you hear an unusual sound. Following your ears you stumble upon a unexpected sight. 
 
@@ -2112,7 +2112,7 @@ BT Advanced Events/events_Clans/tbone_event_co_byeOptio.json,Description.Details
 
 [[SCN_MW,{SCN_MW.Callsign}]]의 메시지가 당신의 받은 편지함 맨 위에 있습니다:
 
-<b><i>사령관님께 인사드립니다. 제가 떠나기 전에 직접 만나 뵙지 못해 유감입니다만, 제가 왜 이렇게 은밀한 상황에서 떠나야 했는지 사령관님께서도 짐작하고 계실 것이라 생각합니다.</i></b>"
+<b><i>사령관님께 인사드립니다. 제가 떠나기 전에 직접 만나 뵙지 못해 유감입니다만, 제가 왜 이렇게 은밀한 상황에서 떠나야 했는지 사령관님께서도 짐작하고 계실 것이라 생각합니다.</b></i>"
 BT Advanced Events/events_Clans/tbone_event_co_byeOptio.json,Description.Name,Devil's Dues,악마의 대가
 BT Advanced Events/events_Clans/tbone_event_co_byeOptio.json,Options[0].Description.Details,Marian Rep <= -25,마리안 평판 <= -25
 BT Advanced Events/events_Clans/tbone_event_co_byeOptio.json,Options[0].Description.Name,Message continues.,메시지가 계속됩니다.
@@ -2123,7 +2123,7 @@ You feel the dull thud of an explosion rumble through the deck plates as the dul
 
 ""Commander! [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]] reports moderate damage to the MechBay, with several casualties. All fires contained. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterFARAH],Farah]] reports a data breach, but has it locked down.""
 
-Well. That should have been predictable.""","<b><i>저는 당신이 신뢰할 수 있는 사람이라고 생각했습니다. 저는 당신이 계약을 존중하는 사람이라고 생각했습니다. 이제 보니 제가 잘못 생각했군요. 당신의 회사는 [[DM.Factions[faction_Marian],패권]] 내에서 불청객으로 간주될 것입니다. 당신이 살아남아 그곳에 도달할 수 있다면 말입니다.</i></b>
+Well. That should have been predictable.""","<b><i>저는 당신이 신뢰할 수 있는 사람이라고 생각했습니다. 저는 당신이 계약을 존중하는 사람이라고 생각했습니다. 이제 보니 제가 잘못 생각했군요. 당신의 회사는 [[DM.Factions[faction_Marian],패권]] 내에서 불청객으로 간주될 것입니다. 당신이 살아남아 그곳에 도달할 수 있다면 말입니다.</b></i>
 
 갑판에서 둔탁한 폭발음이 울려 퍼지며, 비상 조명이 희미하게 켜지는 것을 느낍니다. 분명히 [[SCN_MW,{SCN_MW.Callsign}]]도 당신에게 작별 선물을 남긴 것 같습니다. 당신은 인터콤을 잡고 외칩니다: ""[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],XO]]! 피해 상황 보고하라!""
 
@@ -2269,7 +2269,7 @@ Be advised, the execution of prisoner #4d415441554954415f434c4159544f4e proceede
 
 클랜 울프 알파 갤럭시의 전사들에게,
 
-알려드립니다. 수감자 #4d415441554954415f434c4159544f4e의 처형이 2200ZULU에 예정대로 진행되었습니다. 메시지 종료.</b></i>"
+알려드립니다. 수감자 #4d415441554954415f434c4159544f4e의 처형이 2200ZULU에 예정대로 진행되었습니다. 메시지 종료.</i></b>"
 BT Advanced Events/events_Clans/tbone_event_co_MaxRescue2a.json,Options[0].ResultSets[0].Description.Name,Check your messages.,메시지를 확인하십시오.
 BT Advanced Events/events_Clans/tbone_event_co_MaxRevenge1.json,Description.Details,"[[SCN_MW,{SCN_MW.Callsign}]] knocks at your cabin, looking agitated, hand wrapped in a bloody bandage:
 
@@ -2380,7 +2380,7 @@ BT Advanced Events/events_Clans/tbone_event_co_MaxRevenge2a.json,Options[0].Resu
 
 Some time later, you hear rumors of an Inner Sphere MechWarrior killed while attempting to sneak a battered Commando into a [[DM.Factions[faction_ClanWolf],Clan Wolf]] Forward Operating Base.","당신은 [[SCN_MW,{SCN_MW.Callsign}]]로부터 온 메시지를 읽으며 불길한 예감을 느낍니다:
 
-<i><b>사령관님. 제가 드린 약속을 어기시다니 믿을 수 없습니다. 제 소식통으로부터 스타 사령관이 스트라나 멕티로 돌아갔다는 소식을 들었습니다. 이제 저는 아마 다시는 기회를 얻지 못할 것입니다. 이 메시지를 읽고 계신다면, 저는 이미 떠난 상태일 것입니다. 다시는 저를 보지 못하실 겁니다. 모든 것에 감사드립니다. 아니, 아무것도 감사하지 않습니다.</b></i>
+<i><b>사령관님. 제가 드린 약속을 어기시다니 믿을 수 없습니다. 제 소식통으로부터 스타 사령관이 스트라나 멕티로 돌아갔다는 소식을 들었습니다. 이제 저는 아마 다시는 기회를 얻지 못할 것입니다. 이 메시지를 읽고 계신다면, 저는 이미 떠난 상태일 것입니다. 다시는 저를 보지 못하실 겁니다. 모든 것에 감사드립니다. 아니, 아무것도 감사하지 않습니다.</i></b>
 
 얼마 후, 이너스피어 멕워리어가 낡은 코만도를 [[DM.Factions[faction_ClanWolf],클랜 울프]] 전진 작전 기지로 몰래 들여가려다 사망했다는 소문을 듣게 됩니다."
 BT Advanced Events/events_Clans/tbone_event_co_MaxRevenge2a.json,Options[0].ResultSets[0].Description.Name,Check your messages.,메시지를 확인하십시오.
@@ -2390,7 +2390,7 @@ The decoded message displays on your wall-screen, bright and accusing. [[SCN_MW,
 
 ""{SCN_MW.Callsign}. Something you need to tell me?""
 
-He glances down at the deck, then returns your stare. ""Commander. I will not mince words. I am, as you suspect, [[DM.BaseDescriptionDefs[TBoneLoreOrdoVigilis],Ordo Vigilis]]. I am to gather intelligence on the goals of [[DM.Factions[faction_ComStar],ComStar]] in the Periphery. Although they no longer control communications in the [[DM.Factions[faction_Marian],Hegemony]], there are certain elements within the Ordo that insist they are still a threat. As you now know my purpose here, perhaps we can come to an arrangement of sorts? ComStar might have a bounty on spies, but I can make this a lot more lucrative.""","<i><b>아베 레가투스. ""연설자로서"" 추가된 나의 편지. 나의 임무는 계속됩니다.</b></i>
+He glances down at the deck, then returns your stare. ""Commander. I will not mince words. I am, as you suspect, [[DM.BaseDescriptionDefs[TBoneLoreOrdoVigilis],Ordo Vigilis]]. I am to gather intelligence on the goals of [[DM.Factions[faction_ComStar],ComStar]] in the Periphery. Although they no longer control communications in the [[DM.Factions[faction_Marian],Hegemony]], there are certain elements within the Ordo that insist they are still a threat. As you now know my purpose here, perhaps we can come to an arrangement of sorts? ComStar might have a bounty on spies, but I can make this a lot more lucrative.""","<i><b>아베 레가투스. ""연설자로서"" 추가된 나의 편지. 나의 임무는 계속됩니다.</i></b>
 
 해독된 메시지가 당신의 벽 스크린에 밝고 비난하듯이 표시됩니다. [[SCN_MW,{SCN_MW.Callsign}]]는 당신의 시선을 붙잡고, 그것을 한 번도 쳐다보지 않습니다. 흔들림 없고 읽을 수 없는 표정입니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]와 [[TRT_MW,{TRT_MW.Callsign}]]는 문 바로 밖에서 기다리고 있습니다.
 
