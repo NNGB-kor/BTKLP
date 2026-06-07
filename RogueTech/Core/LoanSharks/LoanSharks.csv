@@ -1,0 +1,100 @@
+﻿File,Key,Value,Translation
+Core/LoanSharks/events_Base/tbone_event_co_PayUp1.json,Description.Details,"You've received a message on your console from [[DM.BaseDescriptionDefs[TBoneLoreDDSL],Discount Dan's Savings and Loan LLC.]]
+
+<i><b>Greetings Commander,
+
+This message is a courtesy reminder that your loan term will be up in less than 15 days. Failure to repay the loan will result in unfortunate consequences including but not limited to additional late fees. Should payment become excessively late, do expect to be paid a visit by myself, or one of our other capable ""collections agents."" Lest you be tempted to ignore this message, I've taken the liberty of attaching a short clip of one of our former customers. Let it serve as a stern warning of what happens to those who fail to pay in a timely fashion.
+
+Sincerely,
+
+Nicia Andretta
+Dept. Cash and Collections
+DDS&L LLC.</i></b>","[[DM.BaseDescriptionDefs[TBoneLoreDDSL],디스카운트 댄 저축 대출 LLC.]]에게서 콘솔로 메시지를 받았습니다.
+
+<i><b>안녕하십니까, 사령관님.
+
+이 메시지는 사령관님의 대출 기간이 15일 이내에 만료된다는 예의상 알림입니다. 대출금을 상환하지 않을 경우 추가 연체료를 포함하되 이에 국한되지 않는 불행한 결과가 발생할 것입니다. 납부가 지나치게 늦어질 경우, 저나 저희의 유능한 다른 ""추심 요원"" 중 한 명이 방문할 것으로 예상하십시오. 이 메시지를 무시하고 싶은 유혹을 받지 않도록, 저희의 전 고객 중 한 명에 관한 짧은 영상을 첨부해두었습니다. 제때 납부하지 않는 자들에게 무슨 일이 벌어지는지에 대한 엄중한 경고로 삼으십시오.
+
+진심을 담아,
+
+니시아 안드레타
+현금 및 추심 부서
+DDS&L LLC.</i></b>"
+Core/LoanSharks/events_Base/tbone_event_co_PayUp1.json,Options[0].Description.Details,View the attachment.,첨부 파일을 보십시오.
+Core/LoanSharks/events_Base/tbone_event_co_PayUp1.json,Options[0].ResultSets[0].Description.Details,"The video clip was...unpleasant to say the least. Unfortunately, Darius accidentally forwarded it to the entire crew too, so morale took a bit of a hit. Better pay that loan back ASAP.","그 영상은... 좋게 말해도 불쾌했습니다. 유감스럽게도 다리우스가 실수로 그것을 승무원 전체에게도 전달해버려서, 사기가 조금 떨어졌습니다. 그 대출금은 최대한 빨리 갚는 편이 좋겠습니다."
+Core/LoanSharks/events_Base/tbone_event_co_PayUp1.json,Options[1].Description.Details,Leave the attachment unopened.,첨부 파일은 열지 않은 채 두십시오.
+Core/LoanSharks/events_Base/tbone_event_co_PayUp1.json,Options[1].ResultSets[0].Description.Details,"You don't need to see the attachment to imagine the kinds of ""consequences"" the collection agent from [[DM.BaseDescriptionDefs[TBoneLoreDDSL],Discount Dan's]] is referring to. Better get that loan paid back ASAP.","[[DM.BaseDescriptionDefs[TBoneLoreDDSL],디스카운트 댄]]의 추심 요원이 말하는 ""결과""가 어떤 것인지 상상하는 데 첨부 파일을 볼 필요는 없습니다. 그 대출금은 최대한 빨리 갚는 편이 좋겠습니다."
+Core/LoanSharks/events_Base/tbone_event_co_PayUp2a.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pings you with an urgent message from planetside. Apparently [[TRT_MW,{TRT_MW.Callsign}]] and [[SCN_MW,{SCN_MW.Callsign}]] were both found in an alley, beaten and robbed. Darius has collected them and is en route to the <i>Argo</i>.
+
+Coincidentally, you also have a message from [[DM.BaseDescriptionDefs[TBoneLoreDDSL],Discount Dan's Savings and Loan LLC]]:
+
+<b><i>Greetings Commander,
+
+I was sorry to hear about the misfortune that recently befell your poor pilots. While your loan is now past due, I have been authorized to offer you the option of purchasing Discount Dan's Pilot Protection Plan, which guarantees against any further ""mishaps"" for a period of 120 days. Certainly we wouldn't want further injuries affecting your ability to repay your loans, would we?
+
+Sincerely,
+
+Nicia Andretta
+Dept. Cash and Collections
+DDS&L LLC</i></b>","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 행성 지표에서 온 긴급 메시지를 보내옵니다. 보아하니 [[TRT_MW,{TRT_MW.Callsign}]]와 [[SCN_MW,{SCN_MW.Callsign}]]가 둘 다 골목에서 발견되었으며, 구타당하고 강도까지 당한 상태였습니다. 다리우스는 그들을 수습했고 <i>아르고</i>로 이동 중입니다.
+
+우연히도, [[DM.BaseDescriptionDefs[TBoneLoreDDSL],디스카운트 댄 저축 대출 LLC]]에게서도 메시지가 와 있습니다.
+
+<b><i>안녕하십니까, 사령관님.
+
+최근 사령관님의 불쌍한 파일럿들에게 닥친 불운에 대해 듣고 유감스럽게 생각합니다. 대출금은 이제 연체 상태가 되었지만, 저는 사령관님께 디스카운트 댄 파일럿 보호 플랜을 구매할 선택지를 제공할 권한을 받았습니다. 이 플랜은 120일 동안 추가적인 ""사고""가 발생하지 않도록 보장합니다. 추가 부상이 대출 상환 능력에 영향을 미치는 일은 저희도 원치 않을 테니까요, 그렇지 않습니까?
+
+진심을 담아,
+
+니시아 안드레타
+현금 및 추심 부서
+DDS&L LLC</i></b>"
+Core/LoanSharks/events_Base/tbone_event_co_PayUp2a.json,Options[0].ResultSets[0].Description.Details,"It's hard to make money with your pilots laid up in the medbay. Hopefully this ""Pilot Protection Plan"" is worth the money and you can get the company back in the black before the ""Protection"" expires again.
+
+In the meantime, Darius has returned with [[TRT_MW,{TRT_MW.Callsign}]] and [[SCN_MW,{SCN_MW.Callsign}]]. Although {SCN_MW.Callsign} got the worst of it physically, {TRT_MW.Callsign} seems particularly shaken by the experience. It's hard to go from feeling invincible at the controls of a BattleMech to feeling helpless in a dark alley.","파일럿들이 메드베이에 누워 있으면 돈을 벌기 어렵습니다. 이 ""파일럿 보호 플랜""이 제값을 해서, ""보호""가 다시 만료되기 전에 중대를 다시 흑자로 돌려놓을 수 있기를 바랍니다.
+
+그동안 다리우스가 [[TRT_MW,{TRT_MW.Callsign}]]와 [[SCN_MW,{SCN_MW.Callsign}]]를 데리고 돌아왔습니다. 신체적으로는 {SCN_MW.Callsign}이 더 심하게 당했지만, {TRT_MW.Callsign}은 그 경험으로 특히 크게 동요한 것 같습니다. 배틀메크 조종석에서는 무적처럼 느끼다가 어두운 골목에서 무력감을 느끼게 되는 것은 견디기 힘든 일입니다."
+Core/LoanSharks/events_Base/tbone_event_co_PayUp2a.json,Options[1].Description.Details,Pass on the protection plan.,보호 플랜은 거절하십시오.
+Core/LoanSharks/events_Base/tbone_event_co_PayUp2a.json,Options[1].ResultSets[0].Description.Details,"You know a hustle when you see one. The only way out of this is to pay off that loan as soon as possible, not give Dan's goons <i>more</i> of your hard-earned money.
+
+In the meantime, Darius has returned with [[TRT_MW,{TRT_MW.Callsign}]] and [[SCN_MW,{SCN_MW.Callsign}]]. Although {SCN_MW.Callsign} got the worst of it physically, {TRT_MW.Callsign} seems particularly shaken by the experience. It's hard to go from feeling invincible at the controls of a BattleMech to feeling helpless in a dark alley.","수작을 보면 바로 알아차리실 겁니다. 여기서 벗어나는 유일한 방법은 그 대출금을 최대한 빨리 갚는 것이지, 댄의 부하들에게 힘들게 번 돈을 <i>더</i> 갖다 바치는 것이 아닙니다.
+
+그동안 다리우스가 [[TRT_MW,{TRT_MW.Callsign}]]와 [[SCN_MW,{SCN_MW.Callsign}]]를 데리고 돌아왔습니다. 신체적으로는 {SCN_MW.Callsign}이 더 심하게 당했지만, {TRT_MW.Callsign}은 그 경험으로 특히 크게 동요한 것 같습니다. 배틀메크 조종석에서는 무적처럼 느끼다가 어두운 골목에서 무력감을 느끼게 되는 것은 견디기 힘든 일입니다."
+Core/LoanSharks/events_Base/tbone_event_co_PayUp2b.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pings you with an urgent message from planetside. Apparently the entire resupply shipment has gone ""missing,"" and every local retailer is claiming to be completely out of stock.
+
+Coincidentally, you also have a message from [[DM.BaseDescriptionDefs[TBoneLoreDDSL],Discount Dan's Savings and Loan LLC]]:
+
+<b><i>Greetings Commander,
+
+A little bird told me you seem to have misplaced your resupply shipments. While your loan is now past due, I have been authorized to offer you the option of purchasing Discount Dan's Logistics Insurance Plan, which guarantees against any further loss of resupply for a period of 60 days. Certainly we wouldn't want degraded combat readiness affecting your ability to repay your loans, would we?
+
+Sincerely,
+
+Nicia Andretta
+Dept. Cash and Collections
+DDS&L LLC</i></b>","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 행성 지표에서 온 긴급 메시지를 보내옵니다. 보아하니 재보급 화물 전체가 ""사라졌고"", 모든 현지 소매업자가 재고가 완전히 바닥났다고 주장하고 있습니다.
+
+우연히도, [[DM.BaseDescriptionDefs[TBoneLoreDDSL],디스카운트 댄 저축 대출 LLC]]에게서도 메시지가 와 있습니다.
+
+<b><i>안녕하십니까, 사령관님.
+
+작은 새가 말해주길, 사령관님께서 재보급 화물을 잃어버리신 것 같더군요. 대출금은 이제 연체 상태가 되었지만, 저는 사령관님께 디스카운트 댄 물류 보험 플랜을 구매할 선택지를 제공할 권한을 받았습니다. 이 플랜은 60일 동안 추가적인 재보급 손실을 보장합니다. 전투 준비태세 저하가 대출 상환 능력에 영향을 미치는 일은 저희도 원치 않을 테니까요, 그렇지 않습니까?
+
+진심을 담아,
+
+니시아 안드레타
+현금 및 추심 부서
+DDS&L LLC</i></b>"
+Core/LoanSharks/events_Base/tbone_event_co_PayUp2b.json,Options[0].ResultSets[0].Description.Details,"It's hard to make money when you can't repair your BattleMechs between contracts. Hopefully this ""Logistics Insurance"" is worth the money and you can get the company back in the black before the coverage expires again.
+
+In the meantime, Darius has returned with the ""missing"" supplies.","계약 사이에 배틀메크를 수리할 수 없으면 돈을 벌기 어렵습니다. 이 ""물류 보험""이 제값을 해서, 보장 기간이 다시 만료되기 전에 중대를 다시 흑자로 돌려놓을 수 있기를 바랍니다.
+
+그동안 다리우스가 ""사라졌던"" 보급품을 가지고 돌아왔습니다."
+Core/LoanSharks/events_Base/tbone_event_co_PayUp2b.json,Options[1].Description.Details,Pass on the logistics insurance.,물류 보험은 거절하십시오.
+Core/LoanSharks/events_Base/tbone_event_co_PayUp2b.json,Options[1].ResultSets[0].Description.Details,"You know a hustle when you see one. The only way out of this is to pay off that loan as soon as possible, not give Dan's goons <i>more</i> of your hard-earned money.
+
+Unfortunately, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYang],Yang]] and [[DM.BaseDescriptionDefs[TBoneLoreDoc],Doc]] both report that supplies are critically low, and MedBay and MechBay performance will be seriously degraded for a while.","수작을 보면 바로 알아차리실 겁니다. 여기서 벗어나는 유일한 방법은 그 대출금을 최대한 빨리 갚는 것이지, 댄의 부하들에게 힘들게 번 돈을 <i>더</i> 갖다 바치는 것이 아닙니다.
+
+유감스럽게도, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYang],양]]과 [[DM.BaseDescriptionDefs[TBoneLoreDoc],닥터]] 모두 보급품이 심각하게 부족하며, 메드베이와 메크베이의 성능이 한동안 크게 저하될 것이라고 보고했습니다."
+Core/LoanSharks/Gear_Loan_Million.json,Description.Details,"This note certifies the temporary transfer to the bearer of 1,000,000 c-bills from Discount Dan's Savings and Loan LLC. Bearer is responsible for repayment of the full amount plus applicable fees and interest within 60 days. Interest on this loan is 10% of the loan value, deducted from the bearer's account monthly. A further 10% fee is deducted upon repayment.","이 증서는 디스카운트 댄 저축 대출 LLC로부터 소지자에게 1,000,000 C-Bills가 임시 이체되었음을 증명합니다. 소지자는 60일 이내에 전체 금액과 적용 가능한 수수료 및 이자를 상환할 책임이 있습니다. 이 대출의 이자는 대출 금액의 10%이며, 소지자의 계좌에서 매월 공제됩니다. 상환 시 추가로 10%의 수수료가 공제됩니다."
+Core/LoanSharks/lore/TBoneLoreDDSL.json,Details,"A wholly-owned subsidiary of MYOFB LLC, Discount Dan's Savings and Loan (DDS&L) is a reliable source of quick cash for those who need it most. More than one mercenary company has turned to DDS&L to survive just a little longer, and reports that DDS&L engages in predatory lending, intimidation, and racketeering are completely unfounded.","MYOFB LLC의 완전 소유 자회사인 디스카운트 댄 저축 대출(DDS&L)은 급전이 가장 절실한 이들에게 믿을 수 있는 현금 조달처입니다. 적지 않은 용병 중대가 조금이라도 더 오래 살아남기 위해 DDS&L을 찾았으며, DDS&L이 약탈적 대출, 협박, 갈취에 관여한다는 보고는 전혀 근거가 없습니다."
