@@ -1,0 +1,131 @@
+﻿File,Key,Value,Translation
+BT Advanced Clan Tanks/vehicle/vehicledef_MORRIGU_CLAN.json,Description.Details,"A monster of a unit, these heavily armed vehicles are the epitome of the Tank.  Line breakers and fire support platforms, these are usually found in the front of an attack. Carrying an array of ranged weapons, the Assault Tank is designed to smash targets at range.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ <b><color=#ffcc00>Movement: 3/5 Hex: 90/150 Meters.</color></b>
+
+<b>Armor:</b> Armor (C)
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       262     40
+<b>Left</b>         200     40
+<b>Right</b>       200     40
+<b>Rear</b>        165     40
+<b>Turret</b>      225     40
+
+<b>Total</b>      1052    200
+","괴물 같은 유닛인 이 중무장 차량은 전차의 전형입니다. 전선 돌파용이자 화력 지원 플랫폼인 이들은 보통 공격의 최전방에서 발견됩니다. 다양한 원거리 무기를 탑재한 어썰트 전차는 원거리에서 표적을 박살내도록 설계되었습니다.
+
+ <b><color=#ffcc00>궤도식: 높은 접지력, 민첩한 선회.</color></b>
+
+ <b><color=#ffcc00>이동: 3/5 헥스: 90/150미터.</color></b>
+
+<b>장갑:</b> 장갑 (C)
+<b>구조:</b> 구조
+<b>값          A        S  </b>
+<b>전면</b>       262     40
+<b>좌측</b>       200     40
+<b>우측</b>       200     40
+<b>후면</b>       165     40
+<b>터렛</b>       225     40
+
+<b>총합</b>       1052    200"
+BT Advanced Clan Tanks/vehicle/vehicledef_MORRIGU_LASER_CLAN.json,Description.Details,"A monster of a unit, these heavily armed vehicles are the epitome of the Tank.  Line breakers and fire support platforms, these are usually found in the front of an attack. Carrying an array of ranged weapons, the Assault Tank is designed to smash targets at range.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ <b><color=#ffcc00>Movement: 3/5 Hex: 90/150 Meters.</color></b>
+
+<b>Armor:</b> Armor (C)
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       239     40
+<b>Left</b>         180     40
+<b>Right</b>       180     40
+<b>Rear</b>        140     40
+<b>Turret</b>      185     40
+
+<b>Total</b>      924    200
+","괴물 같은 유닛인 이 중무장 차량은 전차의 전형입니다. 전선 돌파용이자 화력 지원 플랫폼인 이들은 보통 공격의 최전방에서 발견됩니다. 다양한 원거리 무기를 탑재한 어썰트 전차는 원거리에서 표적을 박살내도록 설계되었습니다.
+
+ <b><color=#ffcc00>궤도식: 높은 접지력, 민첩한 선회.</color></b>
+
+ <b><color=#ffcc00>이동: 3/5 헥스: 90/150미터.</color></b>
+
+<b>장갑:</b> 장갑 (C)
+<b>구조:</b> 구조
+<b>값          A        S  </b>
+<b>전면</b>       239     40
+<b>좌측</b>       180     40
+<b>우측</b>       180     40
+<b>후면</b>       140     40
+<b>터렛</b>       185     40
+
+<b>총합</b>       924    200"
+BT Advanced Clan Tanks/vehiclechassis/vehiclechassisdef_MORRIGU_CLAN.json,Description.Details,"A monster of a unit, these heavily armed vehicles are the epitome of the Tank.  Line breakers and fire support platforms, these are usually found in the front of an attack. Carrying an array of ranged weapons, the Assault Tank is designed to smash targets at range.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ <b><color=#ffcc00>Movement: 3/5 Hex: 90/150 Meters.</color></b>
+
+<b>Armor:</b> Armor (C)
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       262     40
+<b>Left</b>         200     40
+<b>Right</b>       200     40
+<b>Rear</b>        165     40
+<b>Turret</b>      225     40
+
+<b>Total</b>      1052    200
+","괴물 같은 유닛인 이 중무장 차량은 전차의 전형입니다. 전선 돌파용이자 화력 지원 플랫폼인 이들은 보통 공격의 최전방에서 발견됩니다. 다양한 원거리 무기를 탑재한 어썰트 전차는 원거리에서 표적을 박살내도록 설계되었습니다.
+
+ <b><color=#ffcc00>궤도식: 높은 접지력, 민첩한 선회.</color></b>
+
+ <b><color=#ffcc00>이동: 3/5 헥스: 90/150미터.</color></b>
+
+<b>장갑:</b> 장갑 (C)
+<b>구조:</b> 구조
+<b>값          A        S  </b>
+<b>전면</b>       262     40
+<b>좌측</b>       200     40
+<b>우측</b>       200     40
+<b>후면</b>       165     40
+<b>터렛</b>       225     40
+
+<b>총합</b>       1052    200"
+BT Advanced Clan Tanks/vehiclechassis/vehiclechassisdef_MORRIGU_CLAN.json,YangsThoughts,"It's a tank, Boss, they all look the same to me.","전차잖아요, 보스. 제 눈에는 다 똑같아 보입니다."
+BT Advanced Clan Tanks/vehiclechassis/vehiclechassisdef_MORRIGU_LASER_CLAN.json,Description.Details,"A monster of a unit, these heavily armed vehicles are the epitome of the Tank.  Line breakers and fire support platforms, these are usually found in the front of an attack. Carrying an array of ranged weapons, the Assault Tank is designed to smash targets at range.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ <b><color=#ffcc00>Movement: 3/5 Hex: 90/150 Meters.</color></b>
+
+<b>Armor:</b> Armor (C)
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       239     40
+<b>Left</b>         180     40
+<b>Right</b>       180     40
+<b>Rear</b>        140     40
+<b>Turret</b>      185     40
+
+<b>Total</b>      924    200
+","괴물 같은 유닛인 이 중무장 차량은 전차의 전형입니다. 전선 돌파용이자 화력 지원 플랫폼인 이들은 보통 공격의 최전방에서 발견됩니다. 다양한 원거리 무기를 탑재한 어썰트 전차는 원거리에서 표적을 박살내도록 설계되었습니다.
+
+ <b><color=#ffcc00>궤도식: 높은 접지력, 민첩한 선회.</color></b>
+
+ <b><color=#ffcc00>이동: 3/5 헥스: 90/150미터.</color></b>
+
+<b>장갑:</b> 장갑 (C)
+<b>구조:</b> 구조
+<b>값          A        S  </b>
+<b>전면</b>       239     40
+<b>좌측</b>       180     40
+<b>우측</b>       180     40
+<b>후면</b>       140     40
+<b>터렛</b>       185     40
+
+<b>총합</b>       924    200"
+BT Advanced Clan Tanks/vehiclechassis/vehiclechassisdef_MORRIGU_LASER_CLAN.json,YangsThoughts,"It's a tank, Boss, they all look the same to me.","전차잖아요, 보스. 제 눈에는 다 똑같아 보입니다."
