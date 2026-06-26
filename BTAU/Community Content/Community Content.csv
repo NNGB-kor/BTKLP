@@ -1,0 +1,61 @@
+﻿File,Key,Value,Translation
+Community Content/ammo/Ammunition_3G_STD.json,Description.Details,"Long range missiles, capable of dealing moderate damage at long range. Each missile lacks punch, but in a group they can deal significant damage.","장거리 미사일로, 장거리에서 중간 수준의 피해를 줄 수 있습니다. 각각의 미사일은 위력이 부족하지만, 한꺼번에 명중하면 상당한 피해를 줄 수 있습니다."
+Community Content/ammo/Ammunition_HVAC5_Phosphor.json,Description.Details,"Moderate caliber rounds, suitable for long range fire in an AC/5.",AC/5에서 장거리 사격에 사용하기 적합한 중구경 탄환입니다.
+Community Content/ammo/Ammunition_HVAC5_SubSonic.json,Description.Details,"Moderate caliber rounds, suitable for long range fire in an AC/5.",AC/5에서 장거리 사격에 사용하기 적합한 중구경 탄환입니다.
+Community Content/ammo/Ammunition_LRM_ThunderInfernoAugmented.json,Description.Details,"Long range missiles, capable of dealing moderate damage at long range. Each missile lacks punch, but in a group they can deal significant damage.","장거리 미사일로, 장거리에서 중간 수준의 피해를 줄 수 있습니다. 각각의 미사일은 위력이 부족하지만, 한꺼번에 명중하면 상당한 피해를 줄 수 있습니다."
+Community Content/ammo/Ammunition_LRM_ThunderStab.json,Description.Details,"Long range missiles, capable of dealing moderate damage at long range. Each missile lacks punch, but in a group they can deal significant damage.","장거리 미사일로, 장거리에서 중간 수준의 피해를 줄 수 있습니다. 각각의 미사일은 위력이 부족하지만, 한꺼번에 명중하면 상당한 피해를 줄 수 있습니다."
+Community Content/ammo/Ammunition_Mortar_Glue.json,Description.Details,"Massive rounds, designed for devastating impact, to be used in an AC/20.","AC/20에 사용하도록 설계된, 파괴적인 충격을 위한 대형 탄환입니다."
+Community Content/ammo/Ammunition_Mortar_Shock.json,Description.Details,"Massive rounds, designed for devastating impact, to be used in an AC/20.","AC/20에 사용하도록 설계된, 파괴적인 충격을 위한 대형 탄환입니다."
+Community Content/upgrade/Gear_Alpha_Strike.json,Custom.ActivatableComponent.statusEffects[0].Description.Details,"The Alpha Strike circuitry has been engaged, increasing this unit's weapon damage, weapon accuracy and heat generation.","알파 스트라이크 회로가 작동하여 이 유닛의 무기 피해, 무기 명중률, 열 생성량이 증가합니다."
+Community Content/upgrade/Gear_Alpha_Strike.json,Custom.ActivatableComponent.statusEffects[1].Description.Details,"The Alpha Strike circuitry has been engaged, increasing weapon accuracy.",알파 스트라이크 회로가 작동하여 무기 명중률이 증가합니다.
+Community Content/upgrade/Gear_Alpha_Strike.json,Custom.ActivatableComponent.statusEffects[2].Description.Details,"Alpha Strike circuitry has been engaged, increasing heat generated.",알파 스트라이크 회로가 작동하여 발생 열이 증가합니다.
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[0].Description.Details,Weapon attacks suffer -3 accuracy.,무기 공격 명중률이 -3 감소합니다.
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[10].Description.Details,All incoming damage increased by 10%.,받는 모든 피해가 10% 증가합니다.
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[11].Description.Details,aero unit thing,항공 유닛 관련 효과
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[12].Description.Details,aero unit thing,항공 유닛 관련 효과
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[13].Description.Details,aero unit thing,항공 유닛 관련 효과
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[1].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[2].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[3].Description.Details,A LAM in AirMech Mode gains a substantial movement bonus.,AirMech 모드의 LAM은 상당한 이동 보너스를 얻습니다.
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[4].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[5].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[6].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[7].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[8].Description.Details,A LAM in AirMech Mode has a 360 degree arc of fire.,AirMech 모드의 LAM은 360도 사격각을 가집니다.
+Community Content/upgrade/Gear_Avionics_MON.json,Custom.ActivatableComponent.statusEffects[9].Description.Details,The gyro helps establish center-of-mass equilibrium for the BattleMech.,자이로는 배틀메크의 질량 중심 평형을 확립하는 데 도움을 줍니다.
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[0].Description.Details,Weapon attacks suffer -3 accuracy.,무기 공격 명중률이 -3 감소합니다.
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[10].Description.Details,All incoming damage increased by 10%.,받는 모든 피해가 10% 증가합니다.
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[11].Description.Details,aero unit thing,항공 유닛 관련 효과
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[12].Description.Details,aero unit thing,항공 유닛 관련 효과
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[13].Description.Details,aero unit thing,항공 유닛 관련 효과
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[1].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[2].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[3].Description.Details,A LAM in AirMech Mode gains a substantial movement bonus.,AirMech 모드의 LAM은 상당한 이동 보너스를 얻습니다.
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[4].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[5].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[6].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[7].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[8].Description.Details,A LAM in AirMech Mode has a 360 degree arc of fire.,AirMech 모드의 LAM은 360도 사격각을 가집니다.
+Community Content/upgrade/Gear_Avionics_THM.json,Custom.ActivatableComponent.statusEffects[9].Description.Details,The gyro helps establish center-of-mass equilibrium for the BattleMech.,자이로는 배틀메크의 질량 중심 평형을 확립하는 데 도움을 줍니다.
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[0].Description.Details,Weapon attacks suffer -3 accuracy.,무기 공격 명중률이 -3 감소합니다.
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[10].Description.Details,All incoming damage increased by 10%.,받는 모든 피해가 10% 증가합니다.
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[11].Description.Details,aero unit thing,항공 유닛 관련 효과
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[12].Description.Details,aero unit thing,항공 유닛 관련 효과
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[13].Description.Details,aero unit thing,항공 유닛 관련 효과
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[1].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[2].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[3].Description.Details,A LAM in AirMech Mode gains a substantial movement bonus.,AirMech 모드의 LAM은 상당한 이동 보너스를 얻습니다.
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[4].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[5].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[6].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[7].Description.Details,AirMech mode,AirMech mode
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[8].Description.Details,A LAM in AirMech Mode has a 360 degree arc of fire.,AirMech 모드의 LAM은 360도 사격각을 가집니다.
+Community Content/upgrade/Gear_Avionics_VON.json,Custom.ActivatableComponent.statusEffects[9].Description.Details,The gyro helps establish center-of-mass equilibrium for the BattleMech.,자이로는 배틀메크의 질량 중심 평형을 확립하는 데 도움을 줍니다.
+Community Content/upgrade/Gear_Black_Marauder.json,Custom.ActivatableComponent.offlineStatusEffects[0].Description.Details,"The Spirit of the Black Marauder slumbers, providing a flat 10% damage reduction against incoming damage.","블랙 머로더의 영혼이 잠들어 있어, 받는 피해에 대해 고정 10% 피해 감소를 제공합니다."
+Community Content/upgrade/Gear_Black_Marauder.json,Custom.ActivatableComponent.statusEffects[0].Description.Details,"The Spirit of the Black Marauder has been awakened, allowing the Black Marauder to ignore 2 evasion and generating +20% heat.","블랙 머로더의 영혼이 깨어나, 블랙 머로더가 회피 2를 무시하고 열을 +20% 더 생성합니다."
+Community Content/upgrade/Gear_Black_Marauder.json,Custom.ActivatableComponent.statusEffects[1].Description.Details,"Alpha Strike circuitry has been engaged, increasing heat generated.",알파 스트라이크 회로가 작동하여 발생 열이 증가합니다.
+Community Content/upgrade/Gear_Svalinn_Energy_Shield.json,Custom.ActivatableComponent.statusEffects[0].Description.Details,"The Svalinn has been activated, heavily reducing weapon accuracy.",스발린이 활성화되어 무기 명중률이 크게 감소합니다.
+Community Content/upgrade/Gear_Svalinn_Energy_Shield.json,Custom.ActivatableComponent.statusEffects[1].Description.Details,"The Svalinn has been activated, massively reducing incoming damage.",스발린이 활성화되어 무기 명중률이 크게 감소합니다.
+Community Content/upgrade/Gear_Tarnkappe_Target_Jammer.json,Custom.ActivatableComponent.statusEffects[0].Description.Details,"The Tarnkappe has been activated, heavily reducing weapon accuracy and movement speed but making the Mad Cat significantly harder to hit with weapon and melee attacks.","타른카페가 활성화되어 무기 명중률과 이동 속도가 크게 감소하지만, 매드 캣은 무기 및 근접 공격에 훨씬 더 맞히기 어려워집니다."
+Community Content/upgrade/Gear_Tarnkappe_Target_Jammer.json,Custom.ActivatableComponent.statusEffects[1].Description.Details,"The Tarnkappe has been activated, reducing the mech's movement speed.",타른카페가 활성화되어 메크의 이동 속도가 감소합니다.
+Community Content/upgrade/Gear_Tarnkappe_Target_Jammer.json,Custom.ActivatableComponent.statusEffects[2].Description.Details,"The Tarnkappe has been activated, making the mech significantly harder to hit with weapons or melee attacks.",타른카페가 활성화되어 메크가 무기 또는 근접 공격에 훨씬 더 맞히기 어려워집니다.

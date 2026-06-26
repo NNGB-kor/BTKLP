@@ -1,0 +1,5 @@
+﻿File,Key,Value,Translation
+BT Advanced Unique Mechs/upgrade/Gear_Blackbeard_Raven.json,Auras[0].statusEffects[0].Description.Details,"Guardian ECM is making this unit harder to hit, +2 penalty to enemy missile attacks.",가디언 ECM이 이 유닛을 더 맞히기 어렵게 만들어 적 미사일 공격에 +2 페널티를 부여합니다.
+BT Advanced Unique Mechs/upgrade/Gear_Blackbeard_Raven.json,Auras[1].statusEffects[0].Description.Details,"Guardian ECM is jamming C3 networks, preventing C3 networks from functioning within 120 meters.","가디언 ECM이 C3 네트워크를 교란하여, 120미터 이내의 C3 네트워크가 작동하지 못하게 합니다."
+BT Advanced Unique Mechs/upgrade/Gear_Blackbeard_Raven.json,Auras[2].statusEffects[0].Description.Details,"ECM is scrambling this unit's VRPP system, rendering the 'Mech functionally useless in combat due to turning its sensor systems effectively blind.","ECM이 이 유닛의 VRPP 시스템을 교란하여 센서 시스템을 사실상 눈먼 상태로 만들고, 그 결과 '메크를 전투에서 사실상 무용지물로 만듭니다."
+BT Advanced Unique Mechs/upgrade/Gear_Blackbeard_Raven.json,Custom.ActivatableComponent.statusEffects[0].Description.Details,This unit is immune to sensor lock.,이 유닛은 센서 락에 면역입니다.

@@ -115,6 +115,7 @@ BT Advanced Events/events_Base/bd_event_BlueSuedeShoes.json,Options[1].ResultSet
 Darius nods and deletes his prepped message. ""No problem, Commander.""","당신은 고개를 젓습니다. “아니요, 이번에는 넘어가죠. 이렇게 정체불명의 물건을 그들이 부르는 금액에 사는 건… 관심 없습니다.”
 
 다리우스가 고개를 끄덕이며 준비해 둔 메시지를 삭제합니다. “알겠습니다, 사령관님.”"
+BT Advanced Events/events_Base/bd_event_co_byeTurtrus.json,Description.Details,"You're in your cabin one evening when there's a knock at your door. Opening it up, you find [[SCN_MW,Sam Marlow]] standing there looking a bit sheepish. ""Commander, I need your permission to leave the company for awhile. My mother is extremely ill and she's asked me to come be by her side. The docs say it's the end and I really need to be there for her. I know you need me here but I can't leave her alone. I'm going no matter what you say but wanted to ask if you'd keep a berth for me when... you know, for when it's over and I can come back."" You can see the stress in his eyes, this has been eating at him for awhile.","어느 날 저녁, 당신이 선실에 있을 때 문을 두드리는 소리가 들립니다. 문을 열자, [[SCN_MW,샘 말로]]가 조금 머쓱한 표정으로 서 있습니다. ""사령관님, 잠시 용병단을 떠날 수 있도록 허락을 구해야겠습니다. 제 어머니가 몹시 위독하신데, 곁에 와 달라고 하셨습니다. 의사들은 이제 마지막이라고 하고, 저는 정말 어머니 곁에 있어야 합니다. 제가 여기 필요하다는 건 알지만, 어머니를 혼자 둘 수는 없습니다. 사령관님이 뭐라고 하시든 저는 갈 겁니다. 다만... 그때가 되면, 아시잖습니까, 모든 게 끝나고 제가 돌아올 수 있을 때 제 자리를 남겨 두실 수 있는지 여쭤보고 싶었습니다."" 그의 눈에는 스트레스가 어려 있습니다. 이 일은 한동안 그를 계속 괴롭혀 온 듯합니다."
 BT Advanced Events/events_Base/bd_event_co_byeTurtrus.json,Options[0].Description.Name,Let him go with your blessing and your help.,그를 축복과 도움과 함께 보내주십시오.
 BT Advanced Events/events_Base/bd_event_co_byeTurtrus.json,Options[0].ResultSets[0].Description.Details,"You put your hand on his shoulder. ""[[SCN_MW,{SCN_MW.Callsign}]], you're one of my pilots and that means you're part of the family here. Not only will I keep a seat open for you but I'll help cover her medical costs for you. Go, be with your mother in her time of need."" His eyes go wide and he sputters for a moment before finding his voice again. ""Commander, I... I'll never forget this, I swear I won't. I'll be back, I promise I will be, and I'll be here as long as you'll have me."" Turtrus might be unavailable for awhile but you know you just bought yourself a MechWarrior for life and that's worth any price.","당신은 그의 어깨에 손을 얹습니다. ""[[SCN_MW,{SCN_MW.Callsign}]], 당신은 내 파일럿 중 한 명이고, 그것은 이곳에서 당신이 가족의 일원이라는 뜻입니다. 당신을 위해 자리를 비워둘 뿐만 아니라, 그녀의 의료비도 부담하는 데 도와주겠습니다. 가십시오. 어머니가 당신을 필요로 할 때 곁에 있어주십시오."" 그의 눈이 크게 떠지고, 잠시 말을 더듬다가 다시 목소리를 되찾습니다. ""사령관님, 저는... 이 일은 절대 잊지 않겠습니다. 맹세합니다. 돌아오겠습니다. 반드시 돌아오겠습니다. 사령관님께서 받아주시는 한 계속 여기 있겠습니다."" 터트러스는 한동안 사용할 수 없을지도 모르지만, 당신은 평생 함께할 멕워리어를 얻었다는 것을 알고 있으며, 그것은 어떤 대가를 치러도 가치 있는 일입니다."
 BT Advanced Events/events_Base/bd_event_co_byeTurtrus.json,Options[0].ResultSets[0].Description.Name,Pay His Way,그의 방식대로 지불
@@ -645,6 +646,31 @@ Bigger Darius interjects, ""Commander, I'd like to earn my keep here. On top of 
 
 <b>BXO</b>가 이제 막사에 추가되었습니다."
 BT Advanced Events/events_Base/tbone_event_co_biggerDarius3.json,Options[0].ResultSets[0].Description.Name,Continue unraveling this mess.,이 혼란을 계속 풀어나가겠습니다.
+BT Advanced Events/events_Base/tbone_event_co_BTA_Throwdown.json,Description.Details,"You can't help but feel a little nervous seeing the ancient [[DM.BaseDescriptionDefs[LoreComStar],Comstar]] Vincent Mk. 43 floating just beyond the shuttle bay doors. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterFARAH],Farah]] notices you fidgeting and tries to reassure you.
+
+""Commander, we're just lucky the communications grid was still under warranty. These Level II repair/recovery teams take their jobs very seriously; they don't care if you get along with their bosses or not, as long as you pay your bills on time.""
+
+The Comstar Acolyte waves you over, ""Greetings Commander, I am Acolyte Coles commanding RepRec Bravo-Tango-Alpha. Please show us to the communications grid.""
+
+
+After some time inspecting the faulty unit, Acolyte Coles gives you the bad news; you may need to wait some time for the replacement parts to come in by courier.
+
+""In the meantime Commander, we would certainly relish the chance to test our skill in battle against a hardened mercenary outfit such as your own. The reputation of the ComGuards is such that the mere threat of battle brings our delinquent clients to heel more often than not. We will of course reimburse you for any damages incurred to your own units.""
+
+
+""By the way, if any of us bear a resemblance to any of your crew, I trust you know enough about ComStar not to ask too many questions, hmm?""","셔틀 격납고 문 바로 너머에 떠 있는 고대 [[DM.BaseDescriptionDefs[LoreComStar],컴스타]] 빈센트 Mk. 43을 보자, 당신은 약간 긴장하지 않을 수 없습니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterFARAH],파라]]는 당신이 안절부절못하는 것을 알아차리고 안심시키려 합니다.
+
+""사령관님, 통신망이 아직 보증 기간 안에 있었다는 게 그나마 다행입니다. 이런 레벨 II 수리/회수 팀은 자기 일을 아주 진지하게 받아들입니다. 청구서만 제때 지불한다면, 그들은 당신이 자기 상관들과 사이가 좋든 나쁘든 신경 쓰지 않습니다.""
+
+컴스타 수행사제가 당신을 손짓해 부릅니다. ""안녕하십니까, 사령관님. 저는 RepRec 브라보-탱고-알파를 지휘하는 수행사제 콜스입니다. 통신망으로 안내해 주십시오.""
+
+
+고장 난 장치를 한동안 점검한 뒤, 수행사제 콜스가 좋지 않은 소식을 전합니다. 교체 부품이 특송으로 도착할 때까지 어느 정도 기다려야 할지도 모른다는 것입니다.
+
+""그동안 사령관님, 저희는 귀하와 같은 단련된 용병 부대를 상대로 전투에서 실력을 시험해 볼 기회를 기꺼이 즐기고 싶습니다. 컴가드의 명성은 전투의 위협만으로도 체납 고객들을 굴복시키는 경우가 대부분일 정도입니다. 물론 귀하의 유닛에 발생한 모든 피해는 저희가 배상하겠습니다.""
+
+
+""그런데 말입니다, 만약 저희 중 누군가가 귀하의 승무원 중 누군가와 닮아 보인다면, 컴스타에 대해 충분히 알고 계시니 너무 많은 질문은 하지 않으실 거라 믿겠습니다. 흠?"""
 BT Advanced Events/events_Base/tbone_event_co_BTA_Throwdown.json,Description.Name,BTA Calling,BTA 호출
 BT Advanced Events/events_Base/tbone_event_co_BTA_Throwdown.json,Options[0].Description.Details,Pass on the contract.,계약을 거절합니다.
 BT Advanced Events/events_Base/tbone_event_co_BTA_Throwdown.json,Options[0].Description.Name,Pass on the contract,계약을 넘기십시오
@@ -4379,6 +4405,19 @@ Tamar, [[DM.Factions[faction_ClanWolf],Clan Wolf]] Occupation Zone: Rumors are s
 
 타마, [[DM.Factions[faction_ClanWolf],클랜 울프]] 점령 구역: 깊은 변방에서 [[DM.Factions[faction_ClanGoliathScorpion],클랜 골리앗 스콜피온]]의 침공과 관련된 소문이 클랜 점령 구역 내에서 돌고 있습니다. 내성권 클랜들은 이들과 격리되어 있음에도 불구하고, 깊은 변방에 있는 방황하는 사촌들에게 큰 관심을 보이고 있습니다. 확인된 정보는 없지만, 멀리 떨어진 [[DM.BaseDescriptionDefs[LoreClanHomeworlds],클랜 홈월드]]에서 어떤 격변이 발생한 것으로 보입니다. 내성권 클랜들은 홈월드에 대한 모든 문의를 거부하고 있어 자세한 정보는 부족하지만, 익명의 소식통에 따르면 홈월드가 남아 있는 클랜들 간의 격렬한 갈등에 휘말렸을 가능성이 있습니다. 몇몇 클랜은 완전히 소멸되었을 수도 있으며, 다른 클랜들은 혼란을 피해 도망치는 중일지도 모른다는 소문도 있습니다. 이는 [[DM.Factions[faction_ClanGoliathScorpion],골리앗 스콜피온]]이 [[DM.Factions[faction_Castile],누에바 카스티야]]를 공격한 이유를 설명해줄 수도 있습니다."
 BT Advanced Events/events_Timeline/3063-05-14.json,Options[0].ResultSets[0].Description.Name,MercNews Broadcast,MercNews Broadcast
+BT Advanced Events/events_Timeline/3063-06-07.json,Description.Details,"CALDERON'S HEIR REVEALED ON TAURUS!
+
+
+Taurus, [[DM.Factions[faction_TaurianConcordat],Taurian Concordat]]: In a surprise announcement, Taurian Baron Cham Kithrong declared his regency for Erik Martens-Calderon, the illegitimate son of [[DM.BaseDescriptionDefs[LoreJeffCalderon],Jeffrey Calderon]] and a mercenary warrior in his employ. The current Protector of the [[DM.Factions[faction_TaurianConcordat],Taurian Concordat]], Grover Shraplen, has so far not responded to Baron Kithrong's demands that he step down in favor of a regency council for the young Erik.""
+
+
+Would you like to know more?","칼데론의 후계자가 토러스에서 밝혀지다!
+
+
+토러스, [[DM.Factions[faction_TaurianConcordat],타우리안 협정국]]: 깜짝 발표에서 타우리안 남작 챔 키스롱은 [[DM.BaseDescriptionDefs[LoreJeffCalderon],제프리 칼데론]]과 그가 고용한 용병 전사 사이에서 태어난 사생아, 에릭 마르텐스-칼데론을 위한 자신의 섭정을 선언했습니다. 현재 [[DM.Factions[faction_TaurianConcordat],타우리안 협정국]]의 프로텍터인 그로버 슈라플렌은 젊은 에릭을 위한 섭정 평의회에 자리를 넘기고 물러나라는 키스롱 남작의 요구에 아직 응답하지 않고 있습니다.""
+
+
+더 알아보시겠습니까?"
 BT Advanced Events/events_Timeline/3063-06-07.json,Description.Name,MercNews Broadcast,MercNews Broadcast
 BT Advanced Events/events_Timeline/3063-06-07.json,Options[0].Description.Details,Broadcast continues.,Broadcast continues.
 BT Advanced Events/events_Timeline/3063-06-07.json,Options[0].Description.Name,Yes.,Yes.
