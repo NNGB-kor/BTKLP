@@ -1,0 +1,16 @@
+﻿File,Key,Value,Translation
+cFixes/StreamingAssets/data/descriptions/Lore/LoreGreatHouses.json,Details,"The Great Houses are the ruling families of the five Successor States of the Inner Sphere: House Davion (Federated Suns), House Kurita (Draconis Combine), House Steiner (Lyran Commonwealth), House Marik (Free Worlds League), and House Liao (Capellan Confederation).","대가문은 이너스피어의 다섯 계승 국가를 지배하는 가문들입니다. 다비온 가문(페더레이티드 선즈), 쿠리타 가문(드라코니스 연맹), 스타이너 가문(라이란 연방), 마릭 가문(자유 행성 연맹), 랴오 가문(카펠란 연합)이 이에 해당합니다."
+cFixes/StreamingAssets/data/descriptions/Lore/LoreSuccessorState.json,Details,"Five great nations of the Inner Sphere are considered the successors to the Star League. These are known as the Successor States:
+
+ • The Federated Suns, ruled by House Davion
+ • The Draconis Combine, ruled by House Kurita
+ • The Lyran Commonwealth, ruled by House Steiner
+ • The Free Worlds League, ruled by House Marik
+ • The Capellan Confederation, ruled by House Liao","이너스피어의 다섯 강대국은 스타 리그의 계승자로 여겨집니다. 이들은 계승 국가로 알려져 있습니다.
+
+ • 다비온 가문이 다스리는 페더레이티드 선즈
+ • 쿠리타 가문이 다스리는 드라코니스 연맹
+ • 스타이너 가문이 다스리는 라이란 연방
+ • 마릭 가문이 다스리는 자유 행성 연맹
+ • 랴오 가문이 다스리는 카펠란 연합"
+cFixes/StreamingAssets/data/regions/regionDef_Positive.json,Description.Details,Positive regions are good. In general you should try and stand your units inside this region.,유리한 구역은 아군에게 이점을 제공합니다. 일반적으로 이 구역 안에 유닛을 배치하는 것이 좋습니다.

@@ -6638,87 +6638,983 @@ BT Advanced Contracts/conversations/Bkt_WZ_Opfor_Bark_053.json,contents[0].words
 BT Advanced Contracts/conversations/Bkt_WZ_Opfor_Bark_061.json,contents[0].words,Your resistance is pulling in additional hostiles around you.,사령관님의 저항으로 인해 주변의 추가 적대 세력이 몰려들고 있습니다.
 BT Advanced Contracts/conversations/Bkt_WZ_Opfor_Bark_062.json,contents[0].words,Contact!  Multiple {TEAM_TAR.FactionDef.Demonym} hostiles inbound on your position.  Get ready for contact.,접촉! 다수의 {TEAM_TAR.FactionDef.Demonym} 적대 세력이 사령관님의 위치로 접근 중입니다. 교전에 대비하십시오.
 BT Advanced Contracts/conversations/Bkt_WZ_Opfor_Bark_063.json,contents[0].words,"Scopes are picking up more bogies, Commander.","스코프에 추가 적기가 포착되고 있습니다, 사령관님."
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife1.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] calls you to the command center, where he has a message from one of your pirate contacts pulled up. Apparently, your contact has a proposal for you:
+
+<i><b>Greetin's Commander {Commander.LastName},
+
+On occasion, in the course of doing business, I come privy to certain knowledge and opportunities. Opportunities which, me and mine bein' the well-known rabblerousers and buckleswashers we are, be not in a position to take advantage of. But you and yours, what with bein' all ""registered"" and ""licensed"" and ""whatnot"" with the veneer o' civilization an' legitimatism, could do. If'n yer interested, give us a nod or a wink an' we'll surely keep you apprised when choice chances do occur. Mind, if'n we come to ye with a job, ye best be takin' it or we'll find some other outfit fit for the task.
+
+-[[DM.BaseDescriptionDefs[TBoneLoreRoberts],D.P. Roberts]]</i></b>
+
+""Darius? Mind translating? Their speech-to-text software must <i>hate</i> them...no one actually writes like that, do they?""
+
+""Commander, I <i>think</i> what they're saying is that they'll contact us with special jobs if we agree, but they'll be upset if they bring us a contract and we <i>don't</i> take it.""","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 당신을 지휘 센터로 부릅니다. 그곳에는 당신의 해적 연락책 중 하나에게서 온 메시지가 띄워져 있습니다. 보아하니, 그 연락책이 당신에게 제안할 것이 있는 모양입니다.
+
+<i><b>안녕하십니까, 사령관님 {Commander.LastName},
+
+가끔 일을 하다 보면, 이런저런 지식과 기회를 알게 될 때가 있습니다. 그런데 저와 제 사람들처럼 잘 알려진 소란꾼이자 난장판 전문가들은 그런 기회를 써먹을 입장이 못 됩니다. 하지만 당신네는 ""등록""도 되어 있고 ""허가""도 받았고 ""기타 등등"" 문명과 합법성의 껍데기를 두르고 있으니, 할 수 있겠지요. 관심이 있다면 고개를 끄덕이든 눈짓을 하든 해 주십시오. 괜찮은 기회가 생길 때마다 확실히 알려 드리겠습니다. 다만, 저희가 일감을 들고 찾아가면 그걸 받는 게 좋을 겁니다. 안 그러면 그 일에 맞는 다른 부대를 찾아볼 테니까요.
+
+-[[DM.BaseDescriptionDefs[TBoneLoreRoberts],D.P. 로버츠]]</i></b>
+
+""다리우스, 번역해 주시겠습니까? 저쪽 음성 인식 소프트웨어는 저 사람들을 정말 <i>싫어하겠군요</i>... 실제로 저렇게 글을 쓰는 사람은 없겠지요?""
+
+""사령관님, 제 <i>생각에는</i> 우리가 동의하면 특별한 일감을 가지고 연락하겠다는 뜻 같습니다. 다만 그들이 계약을 가져왔는데 우리가 그걸 <i>받지 않으면</i> 화를 낼 거라는군요."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife1.json,Options[0].ResultSets[0].Description.Details,"A few hours after agreeing to Roberts' proposal, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] meets you with an update.
+
+""Commander, our contact [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] is basically the 2IC for the [[DM.BaseDescriptionDefs[TBoneLoreDamned],Band of the Damned]] under Vance Rezak. Rezak is famous for his spy network, and the Band is perfectly capable of running these jobs themselves. If Roberts is going behind Rezak and the rest of the Band, there's definitely something else going on here. Could be dangerous.""
+
+""Where there's danger, there's opportunity. We'll be careful.""","로버츠의 제안에 동의하고 몇 시간 뒤, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 갱신된 소식을 가지고 당신을 찾아옵니다.
+
+""사령관님, 우리 연락책인 [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]는 사실상 밴스 레작 휘하 [[DM.BaseDescriptionDefs[TBoneLoreDamned],밴드 오브 더 댐드]]의 2인자입니다. 레작은 자신의 첩보망으로 유명하고, 밴드는 이런 일을 직접 수행할 능력도 충분합니다. 로버츠가 레작과 밴드의 다른 이들 몰래 움직이고 있다면, 여기에는 분명 다른 무언가가 있습니다. 위험할 수도 있습니다.""
+
+""위험이 있는 곳에는 기회도 있습니다. 조심해서 움직이겠습니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_ClanNovaCat.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_ClanNovaCat],Nova Cat]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_ClanNovaCat],클랜 노바 캣]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_ClanNovaCat.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_ClanNovaCat.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_ClanNovaCat2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_ClanNovaCat],Nova Cat]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_ClanNovaCat],클랜 노바 캣]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_ClanNovaCat2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_ClanNovaCat2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Davion.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Davion],Davion]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Davion],다비온]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Davion.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Davion.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Davion2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Davion],FedSuns]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Davion],페드선즈]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Davion2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Davion2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Delphi.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Delphi],New Delphi Compact]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Delphi],뉴 델파이 컴팩트]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Delphi.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Delphi.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Delphi2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Delphi],New Delphi Compact]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Delphi],뉴 델파이 컴팩트]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Delphi2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Delphi2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Ives.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Ives],St. Ives Compact]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Ives],세인트 아이브스 컴팩트]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Ives.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Ives.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Ives2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Ives],St. Ives Compact]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Ives],세인트 아이브스 컴팩트]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Ives2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Ives2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Kurita.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Kurita],Draconis Combine]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Kurita],드라코니스 연맹]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Kurita.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Kurita.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Kurita2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Kurita],Draconis Combine]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Kurita],드라코니스 연맹]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Kurita2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Kurita2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Liao.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Liao],Capellan]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Liao],카펠란]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Liao.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Liao.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Liao2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Liao],Capellan]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Liao],카펠란]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Liao2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Liao2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_MagistracyOfCanopus.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_MagistracyOfCanopus],Canopian]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_MagistracyOfCanopus],카노피안]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_MagistracyOfCanopus.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_MagistracyOfCanopus.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_MagistracyOfCanopus2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_MagistracyOfCanopus],Canopian]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_MagistracyOfCanopus],카노피안]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_MagistracyOfCanopus2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_MagistracyOfCanopus2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Marik.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Marik],Free Worlds League]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Marik],자유 행성 연맹]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Marik.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Marik.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Marik2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Marik],Free Worlds League]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Marik],자유 행성 연맹]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Marik2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Marik2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Steiner.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Steiner],Lyran]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Steiner],라이란]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Steiner.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Steiner.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Steiner2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Steiner],Lyran]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Steiner],라이란]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Steiner2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_Steiner2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_TaurianConcordat.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_TaurianConcordat],Taurian]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_TaurianConcordat],타우리안]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_TaurianConcordat.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_TaurianConcordat.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_TaurianConcordat2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_TaurianConcordat],Taurian Concordat]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_TaurianConcordat],타우리안 협정국]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_TaurianConcordat2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_TaurianConcordat2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_WordOfBlake.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_WordOfBlake],Word of Blake]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_WordOfBlake],워드 오브 블레이크]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_WordOfBlake.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_WordOfBlake.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_WordOfBlake2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_WordOfBlake],Word of Blake]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_WordOfBlake],워드 오브 블레이크]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_WordOfBlake2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_aPiratesLife_WordOfBlake2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Base/tbone_event_co_rep_AuriganPirates.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_AuriganPirates],pirate]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_AuriganPirates],해적]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""확인했습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_AuriganPirates2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_AuriganPirates2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanGhostBear.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_ClanGhostBear],Clan Ghost Bear]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_ClanGhostBear],클랜 고스트 베어]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanGhostBear2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanGhostBear2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanJadeFalcon.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_ClanJadeFalcon],Clan Jade Falcon]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_ClanJadeFalcon],클랜 제이드 팰컨]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanJadeFalcon2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanJadeFalcon2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanNovaCat.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_ClanNovaCat],Clan Nova Cat]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_ClanNovaCat],클랜 노바 캣]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanNovaCat2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanNovaCat2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanWolf.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_ClanWolf],Clan Wolf]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_ClanWolf],클랜 울프]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanWolf2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_ClanWolf2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_ComStar.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_ComStar],ComStar]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_ComStar],컴스타]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_ComStar2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_ComStar2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Davion.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_Davion],FedCom]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_Davion],페드컴]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_Davion2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Davion2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Ives.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_Ives],St. Ives Compact]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_Ives],세인트 아이브스 컴팩트]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_Ives2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Ives2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Kurita.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_Kurita],Draconis Combine]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_Kurita],드라코니스 연맹]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_Kurita2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Kurita2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Liao.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_Liao],Capellan]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_Liao],카펠란]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_Liao2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Liao2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_MagistracyOfCanopus.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_MagistracyOfCanopus],Canopian]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_MagistracyOfCanopus],카노피안]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_MagistracyOfCanopus2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_MagistracyOfCanopus2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Marian.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_Marian],Marian Hegemony]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_Marian],마리안 헤게모니]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_Marian2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Marian2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Marik.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_Marik],Marik]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_Marik],마릭]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_Marik2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Marik2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Outworld.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_Outworld],Outworlds Alliance]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_Outworld],아웃월드 동맹]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_Outworld2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Outworld2.json,Options[0].ResultSets[0].Description.Details,"""Commander. We've gotten our people off the surface, and left the OpFor in a smoldering heap. Hopefully they'll think twice about coming after us in the future. Let's see if there's anything on the net about that kill team.""
+
+
+Surprisingly, you have a message from the [[DM.Factions[faction_Outworld],Outworlds Alliance]] Mercenary Rep waiting for you:
+
+
+<b><i>Greetings Commander,
+
+I have just been informed of the recent destruction of several of our [[DM.BaseDescriptionDefs[TBoneLoreAMC],AMC]] units. Although I was unaware of their mission, you must be aware that your actions have given us little cause to hold you in high esteem. Nonetheless, I have successfully argued that you be given a reprieve from further retaliation. I suggest you use this time to work your way back into our good graces.</b></i>","""사령관님. 우리 인원들을 지표면에서 철수시켰고, OpFor는 불타는 잔해 더미로 남겨 두었습니다. 앞으로 우리를 노릴 생각을 하기 전에 두 번은 생각하게 되길 바랍니다. 그 암살조에 대해 네트에 뭔가 올라온 것이 있는지 확인해 보겠습니다.""
+
+
+놀랍게도, [[DM.Factions[faction_Outworld],아웃월드 동맹]] 용병 담당자에게서 온 메시지가 당신을 기다리고 있습니다.
+
+
+<b><i>안녕하십니까, 사령관님.
+
+최근 저희 [[DM.BaseDescriptionDefs[TBoneLoreAMC],AMC]] 유닛 몇 기가 파괴되었다는 보고를 방금 받았습니다. 저는 그들의 임무를 알지 못했지만, 귀하의 행동으로 인해 저희가 귀하를 높이 평가할 이유가 거의 없어졌다는 점은 귀하도 알고 계셔야 합니다. 그럼에도 불구하고, 저는 귀하에게 추가 보복을 유예할 기회를 주어야 한다고 성공적으로 주장했습니다. 이 시간을 이용해 다시 저희의 호의를 얻으시길 권합니다.</b></i>"
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Outworld2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Steiner.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_Steiner],Lyran]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_Steiner],라이란]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_Steiner2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Steiner2.json,Options[0].ResultSets[0].Description.Details,"""Commander. We've gotten our people off the surface, and left the OpFor in a smoldering heap. Hopefully they'll think twice about coming after us in the future. Let's see if there's anything on the net about that kill team.""
+
+
+Surprisingly, you have a message from the [[DM.Factions[faction_Steiner],Lyran Alliance]] Mercenary Rep waiting for you:
+
+
+<b><i>Greetings Commander,
+
+I have just been informed of the recent mishap that seems to have befallen several of our [[DM.BaseDescriptionDefs[LoreSteinerLCAF],LAAF]] units. In these uncertain times, the Archon is never quite sure who to trust, and you've given us little reason to rely on you. Nevertheless, you've been given a reprieve from further retaliation. I strongly suggest you use this time to work your way back into our good graces.</b></i>","""사령관님. 우리 인원들을 지표면에서 철수시켰고, OpFor는 불타는 잔해 더미로 남겨 두었습니다. 앞으로 우리를 노릴 생각을 하기 전에 두 번은 생각하게 되길 바랍니다. 그 암살조에 대해 네트에 뭔가 올라온 것이 있는지 확인해 보겠습니다.""
+
+
+놀랍게도, [[DM.Factions[faction_Steiner],라이란 동맹]] 용병 담당자에게서 온 메시지가 당신을 기다리고 있습니다.
+
+
+<b><i>안녕하십니까, 사령관님.
+
+최근 저희 [[DM.BaseDescriptionDefs[LoreSteinerLCAF],LAAF]] 유닛 몇 기에 닥친 것으로 보이는 불상사에 대해 방금 보고받았습니다. 이런 불확실한 시기에, 아콘은 누구를 믿어야 할지 결코 쉽게 확신하지 못하며, 귀하는 저희가 귀하를 신뢰할 이유를 거의 주지 않았습니다. 그럼에도 불구하고, 귀하에게는 추가 보복을 유예할 기회가 주어졌습니다. 이 시간을 이용해 다시 저희의 호의를 얻으시길 강력히 권합니다.</b></i>"
+BT Advanced Contracts/events_Base/tbone_event_co_rep_Steiner2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_TaurianConcordat.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_TaurianConcordat],Taurian]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_TaurianConcordat],타우리안]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
 BT Advanced Contracts/events_Base/tbone_event_co_rep_TaurianConcordat2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_TaurianConcordat2.json,Options[0].ResultSets[0].Description.Details,"""Commander. We've gotten our people off the surface, and left the OpFor in a smoldering heap. Hopefully they'll think twice about coming after us in the future. Let's see if there's anything on the net about that kill team.""
+
+
+Surprisingly, you have a message from the [[DM.Factions[faction_TaurianConcordat],Taurian]] Mercenary Rep waiting for you:
+
+
+<b><i>Greetings Commander,
+
+I have just been informed of the recent destruction of several of our [[DM.BaseDescriptionDefs[LoreTMI],TMI]] units. Although I was unaware of their mission, you must be aware that your actions have given us little cause to hold you in high esteem. Nonetheless, I have successfully argued that you be given a reprieve from further retaliation. I suggest you use this time to work your way back into our good graces.</b></i>","""사령관님. 우리 인원들을 지표면에서 철수시켰고, OpFor는 불타는 잔해 더미로 남겨 두었습니다. 앞으로 우리를 노릴 생각을 하기 전에 두 번은 생각하게 되길 바랍니다. 그 암살조에 대해 네트에 뭔가 올라온 것이 있는지 확인해 보겠습니다.""
+
+
+놀랍게도, [[DM.Factions[faction_TaurianConcordat],타우리안]] 용병 담당자에게서 온 메시지가 당신을 기다리고 있습니다.
+
+
+<b><i>안녕하십니까, 사령관님.
+
+최근 저희 [[DM.BaseDescriptionDefs[LoreTMI],TMI]] 유닛 몇 기가 파괴되었다는 보고를 방금 받았습니다. 저는 그들의 임무를 알지 못했지만, 귀하의 행동으로 인해 저희가 귀하를 높이 평가할 이유가 거의 없어졌다는 점은 귀하도 알고 계셔야 합니다. 그럼에도 불구하고, 저는 귀하에게 추가 보복을 유예할 기회를 주어야 한다고 성공적으로 주장했습니다. 이 시간을 이용해 다시 저희의 호의를 얻으시길 권합니다.</b></i>"
+BT Advanced Contracts/events_Base/tbone_event_co_rep_TaurianConcordat2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_WordOfBlake.json,Description.Details,"The general quarters alarm sounds as [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] pages you on the intercom.
+
+
+""Commander. As you know, we have people down on the planet surface on a supply run, including [[TRT_MW,{TRT_MW.Callsign}]]. We've just detected a small [[DM.Factions[faction_WordOfBlake],Blakist]] kill team on track to ambush our people before they make it back to the shuttle. We need to drop immediately and take out the kill team before they can intercept our supply run. ""
+
+
+""Copy that, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> prepped for launch!","총원 전투 배치 경보가 울리고, [[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 인터컴으로 당신을 호출합니다.
+
+
+""사령관님. 아시다시피, 현재 행성 표면에는 보급품 조달을 위해 내려간 인원들이 있으며, 그중에는 [[TRT_MW,{TRT_MW.Callsign}]]도 포함되어 있습니다. 방금 소규모 [[DM.Factions[faction_WordOfBlake],블레이키스트]] 암살조가 우리 인원들이 셔틀로 돌아오기 전에 매복하려는 경로에 있음을 탐지했습니다. 즉시 강하하여 그들이 보급 인원을 가로막기 전에 암살조를 제거해야 합니다. ""
+
+
+""알겠습니다, XO. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 발진 준비해 주십시오!"
+BT Advanced Contracts/events_Base/tbone_event_co_rep_WordOfBlake.json,Options[0].ResultSets[0].Description.Details,"""OK people, this is gonna get hairy. We're dropping between the [[DM.Factions[faction_WordOfBlake],Blakist]] kill team and our people. We'll hit the kill team in some old ruins that make for a natural choke point. If the OpFor makes it past us, there's nothing to stop them from from hitting our people on the ground. Let's take out the kill team and escort our people home. We only have time to prep a couple mechs, and we're shorthanded with [[TRT_MW,{TRT_MW.Callsign}]] down on the surface.""","""좋습니다, 여러분. 이번 일은 험해질 겁니다. 우리는 [[DM.Factions[faction_WordOfBlake],블레이키스트]] 암살조와 우리 인원들 사이에 강하합니다. 자연적인 병목 지점이 되는 오래된 폐허에서 암살조를 타격할 겁니다. OpFor가 우리를 지나치면, 지상에 있는 우리 인원들을 공격하는 것을 막을 방법이 없습니다. 암살조를 제거하고 우리 인원들을 무사히 데려옵시다. 준비할 수 있는 메크는 두어 기뿐이고, [[TRT_MW,{TRT_MW.Callsign}]]가 지표면에 내려가 있어 인원도 부족합니다."""
 BT Advanced Contracts/events_Base/tbone_event_co_rep_WordOfBlake2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] is waiting to brief you on the aftermath of the operation.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 작전 이후 상황에 대해 보고하기 위해 기다리고 있습니다."
+BT Advanced Contracts/events_Base/tbone_event_co_rep_WordOfBlake2.json,Options[0].ResultSets[0].Description.Details,"""Commander. We've gotten our people off the surface, and left the OpFor in a smoldering heap. Hopefully they'll think twice about coming after us in the future. Let's see if there's anything on the net about that kill team.""
+
+
+Surprisingly, you have a message from the [[DM.Factions[faction_WordOfBlake],Word Of Blake]] Mercenary Rep waiting for you:
+
+
+<b><i>Greetings Commander,
+
+I have just been informed of the recent destruction of several of our <i>Rho<i> units. Although I was unaware of their mission, you must be aware that your actions have given us little cause to hold you in high esteem. Nonetheless, I have successfully argued that you be given a reprieve from further retaliation. I suggest you use this time to work your way back into our good graces.</b></i>","""사령관님. 우리 인원들을 지표면에서 철수시켰고, OpFor는 불타는 잔해 더미로 남겨 두었습니다. 앞으로 우리를 노릴 생각을 하기 전에 두 번은 생각하게 되길 바랍니다. 그 암살조에 대해 네트에 뭔가 올라온 것이 있는지 확인해 보겠습니다.""
+
+
+놀랍게도, [[DM.Factions[faction_WordOfBlake],워드 오브 블레이크]] 용병 담당자에게서 온 메시지가 당신을 기다리고 있습니다.
+
+
+<b><i>안녕하십니까, 사령관님.
+
+최근 저희 <i>로<i> 유닛 몇 기가 파괴되었다는 보고를 방금 받았습니다. 저는 그들의 임무를 알지 못했지만, 귀하의 행동으로 인해 저희가 귀하를 높이 평가할 이유가 거의 없어졌다는 점은 귀하도 알고 계셔야 합니다. 그럼에도 불구하고, 저는 귀하에게 추가 보복을 유예할 기회를 주어야 한다고 성공적으로 주장했습니다. 이 시간을 이용해 다시 저희의 호의를 얻으시길 권합니다.</b></i>"
+BT Advanced Contracts/events_Base/tbone_event_co_rep_WordOfBlake2.json,Options[1].ResultSets[0].Description.Details,"""Commander. We did what we could, but we weren't able to keep the kill team from hitting our supply run. Let's get down to the landing bay and see what we were able to salvage.""
+
+
+You are greeted by a chaotic scene in the landing bay. [[SCN_MW,{SCN_MW.Callsign}]] was severely injured in the attack. Several MechTechs and deckhands were killed in the attack, and most of the expensive equipment and supplies were destroyed.","""사령관님. 저희가 할 수 있는 일은 다 했지만, 암살조가 우리 보급 인원을 공격하는 것을 막지는 못했습니다. 착륙 격납고로 내려가 무엇을 건질 수 있었는지 확인해 보겠습니다.""
+
+
+착륙 격납고에 도착하자 혼란스러운 광경이 당신을 맞이합니다. [[SCN_MW,{SCN_MW.Callsign}]]는 공격으로 심각한 부상을 입었습니다. 여러 메크테크와 갑판원이 공격으로 사망했고, 값비싼 장비와 보급품 대부분이 파괴되었습니다."
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife2.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] calls you to the command center. Apparently [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] wishes to speak with you directly.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 당신을 지휘 센터로 부릅니다. 보아하니 [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 당신과 직접 대화하고 싶어 하는 모양입니다."
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife3.json,Description.Details,"[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],Darius]] once again calls you to the conference room. Apparently [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has contacted you with an update.","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다리우스]]가 다시 한번 당신을 회의실로 부릅니다. 보아하니 [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 갱신된 소식을 가지고 연락해 온 모양입니다."
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Chainelane.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Chainelane],Chainelane]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Chainelane],체이넬레인]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Chainelane.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Chainelane.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Chainelane2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Chainelane],Chainelane]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Chainelane],체이넬레인]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Chainelane2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Chainelane2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Circinus.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Circinus],Circinus Federation]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Circinus],서시너스 연방]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Circinus.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Circinus.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Circinus2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Circinus],Circinus Federation]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Circinus],서시너스 연방]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Circinus2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Circinus2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ClanGhostBear.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_ClanGhostBear],Clan Ghost Bear]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_ClanGhostBear],클랜 고스트 베어]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ClanGhostBear.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ClanGhostBear.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ClanJadeFalcon.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_ClanJadeFalcon],Clan Jade Falcon]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_ClanJadeFalcon],클랜 제이드 팰컨]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ClanJadeFalcon.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ClanJadeFalcon.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ClanWolf.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_ClanWolf],Clan Wolf]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_ClanWolf],클랜 울프]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ClanWolf.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ClanWolf.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ComStar.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_ComStar],ComStar]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_ComStar],컴스타]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ComStar.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ComStar.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ComStar2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_ComStar],ComStar]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_ComStar],컴스타]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ComStar2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_ComStar2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Delphi.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Delphi],New Delphi Compact]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Delphi],뉴 델파이 컴팩트]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Delphi.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Delphi.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Delphi2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Delphi],New Delphi Compact]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Delphi],뉴 델파이 컴팩트]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Delphi2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Delphi2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Hanse.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Hanse],Hanseatic League]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Hanse],한자 동맹]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Hanse.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Hanse.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Hanse2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Hanse],Hanseatic League]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Hanse],한자 동맹]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Hanse2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Hanse2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_JarnFolk.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_JarnFolk],JarnFolk]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_JarnFolk],야른포크]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_JarnFolk.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_JarnFolk.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
 BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_JarnFolk2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_JarnFolk],JarnFolk]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_JarnFolk],야른포크]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_JarnFolk2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_JarnFolk2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Marian.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Marian],Marian Hegemony]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Marian],마리안 헤게모니]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Marian.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Marian.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Marian2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Marian],Marian Hegemony]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Marian],마리안 헤게모니]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Marian2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Marian2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Outworld.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Outworld],Outworlds Alliance]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Outworld],아웃월드 동맹]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Outworld.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Outworld.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Outworld2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Outworld],Outworlds Alliance]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Outworld],아웃월드 동맹]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Outworld2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Outworld2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rasalhague.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Rasalhague],Free Rasalhague Republic]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Rasalhague],자유 라살하그 공화국]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rasalhague.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rasalhague.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rasalhague2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Rasalhague],Free Rasalhague Republic]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Rasalhague],자유 라살하그 공화국]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rasalhague2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rasalhague2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rim.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Rim],Rim Collection]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Rim],림 컬렉션]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rim.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rim.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rim2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Rim],Rim Collection]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Rim],림 컬렉션]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rim2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Rim2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Tortuga.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Tortuga],Tortuga Dominion]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Tortuga],토르투가 도미니언]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Tortuga.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We'll drop in, hit the guards, load up the goods, and get out.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 우리는 강하해서 경비대를 타격하고, 물자를 싣고, 빠져나올 겁니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Tortuga.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Tortuga2.json,Description.Details,"""Commander, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],Roberts]] has forwarded us the details for one of his ""special"" contracts. I'll spare you the mental anguish of reading the message yourself, but suffice to say that he's found the location and manifest for a secret [[DM.Factions[faction_Tortuga],Tortuga Dominions]] equipment cache. Apparently it includes a lot of high-end gear, stuff they reserve for their elite units. As always, if we're going to do it, we have to drop immediately.""","""사령관님, [[DM.BaseDescriptionDefs[TBoneLoreRoberts],로버츠]]가 자신의 ""특별"" 계약 중 하나에 대한 세부 정보를 전달해 왔습니다. 사령관님이 직접 그 메시지를 읽으며 정신적 고통을 겪는 일은 덜어 드리겠습니다만, 간단히 말해 그가 비밀 [[DM.Factions[faction_Tortuga],토르투가 도미니언즈]] 장비 은닉처의 위치와 적재 목록을 찾아냈습니다. 그 안에는 상당수의 고급 장비, 그러니까 그들이 정예 부대용으로 남겨 두는 물건들이 포함되어 있는 모양입니다. 늘 그렇듯, 우리가 이 일을 하려면 즉시 강하해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Tortuga2.json,Options[0].ResultSets[0].Description.Details,"""Ok people, you know the drill. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],Sumire]], get the <i>Leopard</i> warmed up. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],Yang]], get the MechBay ready for repair and recovery. We have friendly relations with the OpFor on this one. If we want to keep things that way, we'll need to complete the secondary objective, wiping the evidence of our intrusion and implicating another unit in the raid.""","""좋습니다, 여러분. 절차는 알고 계실 겁니다. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterSUMIRE],스미레]], <i>레오파드</i>를 예열해 주십시오. [[DM.BaseDescriptionDefs[TooltipSimGameCharacterYANG],양]], 수리와 회수를 위해 메크베이를 준비해 주십시오. 이번 건에서 우리는 OpFor와 우호적인 관계를 유지하고 있습니다. 그 관계를 계속 유지하려면, 침입의 증거를 지우고 다른 부대가 습격한 것처럼 꾸미는 2차 목표를 완료해야 합니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_aPiratesLife_Tortuga2.json,Options[1].ResultSets[0].Description.Details,"""XO, tell our contact that we're not equipped to take this contract at the moment.""
+
+""Understood Commander. He won't be happy, but there's nothing we can do about that.""","""XO, 우리 연락책에게 지금은 이 계약을 맡을 장비가 갖춰져 있지 않다고 전해 주십시오.""
+
+""알겠습니다, 사령관님. 그는 달가워하지 않겠지만, 그 점에 대해 우리가 할 수 있는 일은 없습니다."""
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cgb_base.json,Description.Details,"Darius calls you into the Command Center. Seems he has an interesting proposition:
+
+""Commander, we've identified a [[DM.Factions[faction_ClanGhostBear],Ghost Bear]] forward repair depot that's just been established. It only has a skeleton garrison at most, so this could be a perfect opportunity for us to do a smash and grab. No employers, no contracts...just us walking off with whatever we can carry. What do you say?""","다리우스가 당신을 지휘 센터로 부릅니다. 흥미로운 제안이 있는 모양입니다.
+
+""사령관님, 저희가 막 설치된 [[DM.Factions[faction_ClanGhostBear],고스트 베어]] 전방 수리 기지를 확인했습니다. 기껏해야 최소한의 주둔 병력만 있을 테니, 치고 빠지며 노획하기에 완벽한 기회일 수 있습니다. 고용주도 없고, 계약도 없습니다... 그저 저희가 가져갈 수 있는 건 뭐든 들고 나오는 겁니다. 어떻게 생각하십니까?"""
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cgb_base.json,Options[0].ResultSets[0].Description.Details,"""Sound like a decent idea, XO. What are we looking at?""
+
+""Basically just a standard base destruction op, but with the twist that the only one paying us, is us. It's a salvage-only op, so we need to minimize damage and maximize our salvage. It's also worth mentioning that the active Clans in this AO absolutely <i>hate</i> each other. The only thing Clanners respect is force and skill on the battlefield. Hitting one hard might increase our standing with the others.""
+
+
+<b>A contract named <i>Freelancing: Home Is Where the MechBay Is</i> has been added to the Command Center.</b>","""괜찮은 생각 같습니다, XO. 어떤 상황입니까?""
+
+""기본적으로는 표준적인 기지 파괴 작전입니다만, 특이한 점은 우리에게 돈을 지불하는 쪽이 우리 자신뿐이라는 겁니다. 노획 전용 작전이니, 피해를 최소화하고 노획품을 최대화해야 합니다. 또한 언급할 만한 점은, 이 작전 구역에서 활동 중인 클랜들이 서로를 정말 <i>증오한다는</i> 것입니다. 클랜이 존중하는 것은 전장에서의 힘과 실력뿐입니다. 한쪽을 강하게 타격하면 다른 쪽과의 평판이 올라갈 수도 있습니다.""
+
+
+<b><i>프리랜싱: 메크베이가 있는 곳이 집</i>이라는 계약이 지휘 센터에 추가되었습니다.</b>"
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cgb_base.json,Options[1].ResultSets[0].Description.Details,"""It's not a bad idea, but I don't want to piss off the clanners too much just yet. Not without someone else footing the bill at least.""
+
+""Understood, Commander.""","""나쁜 생각은 아니지만, 아직은 클랜 놈들을 너무 자극하고 싶지 않습니다. 적어도 다른 누군가가 비용을 대 주는 상황이 아니라면 말입니다.""
+
+""알겠습니다, 사령관님."""
 BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cgb_convoy.json,Description.Details,"Darius calls you into the Command Center. Seems he has an interesting proposition:
 
 ""Commander, we've identified a significant shipment of freshly manufactured [[DM.Factions[faction_ClanGhostBear],Ghost Bear]] BattleMechs on their way to a distribution hub. This could be a golden opportunity for us to hit the clanners and walk away with an armload of their tech. No employers, no contracts...just us walking off with whatever we can carry. What do you say?""","다리우스가 당신을 지휘 센터로 호출합니다. 흥미로운 제안이 있는 모양입니다:
 
 ""사령관님, 저희가 배급 거점으로 향하는 갓 제조된 [[DM.Factions[faction_ClanGhostBear],고스트 베어]] 배틀메크의 대규모 수송 행렬을 확인했습니다. 클랜 놈들을 공격하고 그들의 기술을 한가득 챙겨 나올 절호의 기회일 수 있습니다. 고용주도 없고, 계약도 없습니다...그냥 우리가 가져갈 수 있는 건 뭐든 들고 나오는 겁니다. 어떻게 생각하십니까?"""
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cgb_convoy.json,Options[0].ResultSets[0].Description.Details,"""Sound like a decent idea, XO. What are we looking at?""
+
+""Basically just a standard convoy ambush, but with the twist that the only one paying us, is us. It's a salvage-only op, so we need to minimize damage and maximize our salvage. It's also worth mentioning that the active Clans in this AO absolutely <i>hate</i> each other. The only thing Clanners respect is force and skill on the battlefield. Hitting one hard might increase our standing with the others.""
+
+
+<b>A contract named <i>Freelancing: Cannonball Run</i> has been added to the Command Center.</b>","""괜찮은 생각 같습니다, XO. 어떤 상황입니까?""
+
+""기본적으로는 표준적인 호송대 매복 작전입니다만, 특이한 점은 우리에게 돈을 지불하는 쪽이 우리 자신뿐이라는 겁니다. 노획 전용 작전이니, 피해를 최소화하고 노획품을 최대화해야 합니다. 또한 언급할 만한 점은, 이 작전 구역에서 활동 중인 클랜들이 서로를 정말 <i>증오한다는</i> 것입니다. 클랜이 존중하는 것은 전장에서의 힘과 실력뿐입니다. 한쪽을 강하게 타격하면 다른 쪽과의 평판이 올라갈 수도 있습니다.""
+
+
+<b><i>프리랜싱: 캐논볼 런</i>이라는 계약이 지휘 센터에 추가되었습니다.</b>"
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cgb_convoy.json,Options[1].ResultSets[0].Description.Details,"""It's not a bad idea, but I don't want to piss off the clanners too much just yet. Not without someone else footing the bill at least.""
+
+""Understood, Commander.""","""나쁜 생각은 아니지만, 아직은 클랜 놈들을 너무 자극하고 싶지 않습니다. 적어도 다른 누군가가 비용을 대 주는 상황이 아니라면 말입니다.""
+
+""알겠습니다, 사령관님."""
 BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cgb_fight.json,Description.Details,"Darius calls you into the Command Center. Seems he has an interesting proposition:
 
 ""Commander, we've spotted a lone [[DM.Factions[faction_ClanGhostBear],Ghost Bear]] heavy unit operating alone. Whether it's actually alone or not, this could be a great chance to rack up some clan salvage. No employers, no contracts...just us walking off with whatever we can carry. What do you say?""","다리우스가 당신을 지휘 센터로 호출합니다. 흥미로운 제안이 있는 모양입니다:
 
 ""사령관님, 저희가 단독으로 작전 중인 [[DM.Factions[faction_ClanGhostBear],고스트 베어]] 헤비급 유닛 하나를 포착했습니다. 정말 혼자인지 아닌지는 알 수 없지만, 클랜 노획품을 꽤 챙길 좋은 기회일 수 있습니다. 고용주도 없고, 계약도 없습니다...그냥 우리가 가져갈 수 있는 건 뭐든 들고 나오는 겁니다. 어떻게 생각하십니까?"""
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cgb_fight.json,Options[0].ResultSets[0].Description.Details,"""Sound like a decent idea, XO. What are we looking at?""
+
+""Basically just a standard lance destruction op, but with the twist that the only one paying us, is us. It's a salvage-only op, so we need to minimize damage and maximize our salvage. It's also worth mentioning that the active Clans in this AO absolutely <i>hate</i> each other. The only thing Clanners respect is force and skill on the battlefield. Hitting one hard might increase our standing with the others.""
+
+
+<b>A contract named <i>Freelancing: Gone Fishing</i> has been added to the Command Center.</b>","""괜찮은 생각 같습니다, XO. 어떤 상황입니까?""
+
+""기본적으로는 표준적인 랜스 섬멸 작전입니다만, 특이한 점은 우리에게 돈을 지불하는 쪽이 우리 자신뿐이라는 겁니다. 노획 전용 작전이니, 피해를 최소화하고 노획품을 최대화해야 합니다. 또한 언급할 만한 점은, 이 작전 구역에서 활동 중인 클랜들이 서로를 정말 <i>증오한다는</i> 것입니다. 클랜이 존중하는 것은 전장에서의 힘과 실력뿐입니다. 한쪽을 강하게 타격하면 다른 쪽과의 평판이 올라갈 수도 있습니다.""
+
+
+<b><i>프리랜싱: 낚시하러 가다</i>라는 계약이 지휘 센터에 추가되었습니다.</b>"
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cgb_fight.json,Options[1].ResultSets[0].Description.Details,"""It's not a bad idea, but I don't want to piss off the clanners too much just yet. Not without someone else footing the bill at least.""
+
+""Understood, Commander.""","""나쁜 생각은 아니지만, 아직은 클랜 놈들을 너무 자극하고 싶지 않습니다. 적어도 다른 누군가가 비용을 대 주는 상황이 아니라면 말입니다.""
+
+""알겠습니다, 사령관님."""
 BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cjf_base.json,Description.Details,"Darius calls you into the Command Center. Seems he has an interesting proposition:
 
 Commander, we've identified a [[DM.Factions[faction_ClanJadeFalcon],Jade Falcon]] forward repair depot that's just been established. It only has a skeleton garrison at most, so this could be a perfect opportunity for us to do a smash and grab. No employers, no contracts...just us walking off with whatever we can carry. What do you say?","다리우스가 당신을 지휘 센터로 호출합니다. 흥미로운 제안이 있는 모양입니다:
 
 사령관님, 저희가 막 설치된 [[DM.Factions[faction_ClanJadeFalcon],제이드 팰컨]] 전방 수리 기지를 확인했습니다. 기껏해야 최소한의 주둔 병력만 있을 뿐이니, 치고 빠지며 노획하기에 완벽한 기회일 수 있습니다. 고용주도 없고, 계약도 없습니다...그냥 우리가 가져갈 수 있는 건 뭐든 들고 나오는 겁니다. 어떻게 생각하십니까?"
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cjf_base.json,Options[0].ResultSets[0].Description.Details,"""Sound like a decent idea, XO. What are we looking at?""
+
+""Basically just a standard base destruction op, but with the twist that the only one paying us, is us. It's a salvage-only op, so we need to minimize damage and maximize our salvage. It's also worth mentioning that the active Clans in this AO absolutely <i>hate</i> each other. The only thing Clanners respect is force and skill on the battlefield. Hitting one hard might increase our standing with the others.""
+
+
+<b>A contract named <i>Freelancing: Home Is Where the MechBay Is</i> has been added to the Command Center.</b>","""괜찮은 생각 같습니다, XO. 어떤 상황입니까?""
+
+""기본적으로는 표준적인 기지 파괴 작전입니다만, 특이한 점은 우리에게 돈을 지불하는 쪽이 우리 자신뿐이라는 겁니다. 노획 전용 작전이니, 피해를 최소화하고 노획품을 최대화해야 합니다. 또한 언급할 만한 점은, 이 작전 구역에서 활동 중인 클랜들이 서로를 정말 <i>증오한다는</i> 것입니다. 클랜이 존중하는 것은 전장에서의 힘과 실력뿐입니다. 한쪽을 강하게 타격하면 다른 쪽과의 평판이 올라갈 수도 있습니다.""
+
+
+<b><i>프리랜싱: 메크베이가 있는 곳이 집</i>이라는 계약이 지휘 센터에 추가되었습니다.</b>"
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cjf_base.json,Options[1].ResultSets[0].Description.Details,"""It's not a bad idea, but I don't want to piss off the clanners too much just yet. Not without someone else footing the bill at least.""
+
+""Understood, Commander.""","""나쁜 생각은 아니지만, 아직은 클랜 놈들을 너무 자극하고 싶지 않습니다. 적어도 다른 누군가가 비용을 대 주는 상황이 아니라면 말입니다.""
+
+""알겠습니다, 사령관님."""
 BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cjf_convoy.json,Description.Details,"Darius calls you into the Command Center. Seems he has an interesting proposition:
 
 ""Commander, we've identified a significant shipment of freshly manufactured [[DM.Factions[faction_ClanJadeFalcon],Jade Falcon]] BattleMechs on their way to a distribution hub. This could be a golden opportunity for us to hit the clanners and walk away with an armload of their tech. No employers, no contracts...just us walking off with whatever we can carry. What do you say?""","다리우스가 당신을 지휘 센터로 호출합니다. 흥미로운 제안이 있는 모양입니다:
 
 ""사령관님, 저희가 배급 거점으로 향하는 갓 제조된 [[DM.Factions[faction_ClanJadeFalcon],제이드 팰컨]] 배틀메크의 대규모 수송 행렬을 확인했습니다. 클랜 놈들을 공격하고 그들의 기술을 한가득 챙겨 나올 절호의 기회일 수 있습니다. 고용주도 없고, 계약도 없습니다...그냥 우리가 가져갈 수 있는 건 뭐든 들고 나오는 겁니다. 어떻게 생각하십니까?"""
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cjf_convoy.json,Options[0].ResultSets[0].Description.Details,"""Sound like a decent idea, XO. What are we looking at?""
+
+""Basically just a standard convoy ambush, but with the twist that the only one paying us, is us. It's a salvage-only op, so we need to minimize damage and maximize our salvage. It's also worth mentioning that the active Clans in this AO absolutely <i>hate</i> each other. The only thing Clanners respect is force and skill on the battlefield. Hitting one hard might increase our standing with the others.""
+
+
+<b>A contract named <i>Freelancing: Cannonball Run</i> has been added to the Command Center.</b>","""괜찮은 생각 같습니다, XO. 어떤 상황입니까?""
+
+""기본적으로는 표준적인 호송대 매복 작전입니다만, 특이한 점은 우리에게 돈을 지불하는 쪽이 우리 자신뿐이라는 겁니다. 노획 전용 작전이니, 피해를 최소화하고 노획품을 최대화해야 합니다. 또한 언급할 만한 점은, 이 작전 구역에서 활동 중인 클랜들이 서로를 정말 <i>증오한다는</i> 것입니다. 클랜이 존중하는 것은 전장에서의 힘과 실력뿐입니다. 한쪽을 강하게 타격하면 다른 쪽과의 평판이 올라갈 수도 있습니다.""
+
+
+<b><i>프리랜싱: 캐논볼 런</i>이라는 계약이 지휘 센터에 추가되었습니다.</b>"
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cjf_convoy.json,Options[1].ResultSets[0].Description.Details,"""It's not a bad idea, but I don't want to piss off the clanners too much just yet. Not without someone else footing the bill at least.""
+
+""Understood, Commander.""","""나쁜 생각은 아니지만, 아직은 클랜 놈들을 너무 자극하고 싶지 않습니다. 적어도 다른 누군가가 비용을 대 주는 상황이 아니라면 말입니다.""
+
+""알겠습니다, 사령관님."""
 BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cjf_fight.json,Description.Details,"Darius calls you into the Command Center. Seems he has an interesting proposition:
 
 ""Commander, we've spotted a lone [[DM.Factions[faction_ClanJadeFalcon],Jade Falcon]] heavy unit operating alone. Whether it's actually alone or not, this could be a great chance to rack up some clan salvage. No employers, no contracts...just us walking off with whatever we can carry. What do you say?""","다리우스가 당신을 지휘 센터로 호출합니다. 흥미로운 제안이 있는 모양입니다:
 
 ""사령관님, 저희가 단독으로 작전 중인 [[DM.Factions[faction_ClanJadeFalcon],제이드 팰컨]] 헤비급 유닛 하나를 포착했습니다. 정말 혼자인지 아닌지는 알 수 없지만, 클랜 노획품을 꽤 챙길 좋은 기회일 수 있습니다. 고용주도 없고, 계약도 없습니다...그냥 우리가 가져갈 수 있는 건 뭐든 들고 나오는 겁니다. 어떻게 생각하십니까?"""
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cjf_fight.json,Options[0].ResultSets[0].Description.Details,"""Sound like a decent idea, XO. What are we looking at?""
+
+""Basically just a standard lance destruction op, but with the twist that the only one paying us, is us. It's a salvage-only op, so we need to minimize damage and maximize our salvage. It's also worth mentioning that the active Clans in this AO absolutely <i>hate</i> each other. The only thing Clanners respect is force and skill on the battlefield. Hitting one hard might increase our standing with the others.""
+
+
+<b>A contract named <i>Freelancing: Gone Fishing</i> has been added to the Command Center.</b>","""괜찮은 생각 같습니다, XO. 어떤 상황입니까?""
+
+""기본적으로는 표준적인 랜스 섬멸 작전입니다만, 특이한 점은 우리에게 돈을 지불하는 쪽이 우리 자신뿐이라는 겁니다. 노획 전용 작전이니, 피해를 최소화하고 노획품을 최대화해야 합니다. 또한 언급할 만한 점은, 이 작전 구역에서 활동 중인 클랜들이 서로를 정말 <i>증오한다는</i> 것입니다. 클랜이 존중하는 것은 전장에서의 힘과 실력뿐입니다. 한쪽을 강하게 타격하면 다른 쪽과의 평판이 올라갈 수도 있습니다.""
+
+
+<b><i>프리랜싱: 낚시하러 가다</i>라는 계약이 지휘 센터에 추가되었습니다.</b>"
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cjf_fight.json,Options[1].ResultSets[0].Description.Details,"""It's not a bad idea, but I don't want to piss off the clanners too much just yet. Not without someone else footing the bill at least.""
+
+""Understood, Commander.""","""나쁜 생각은 아니지만, 아직은 클랜 놈들을 너무 자극하고 싶지 않습니다. 적어도 다른 누군가가 비용을 대 주는 상황이 아니라면 말입니다.""
+
+""알겠습니다, 사령관님."""
 BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cwf_base.json,Description.Details,"Darius calls you into the Command Center. Seems he has an interesting proposition:
 
 ""Commander, we've identified a [[DM.Factions[faction_ClanWolf],Clan Wolf]] forward repair depot that's just been established. It only has a skeleton garrison at most, so this could be a perfect opportunity for us to do a smash and grab. No employers, no contracts...just us walking off with whatever we can carry. What do you say?""","다리우스가 당신을 지휘 센터로 호출합니다. 흥미로운 제안이 있는 모양입니다:
 
 ""사령관님, 저희가 막 설치된 [[DM.Factions[faction_ClanWolf],클랜 울프]] 전방 수리 기지를 확인했습니다. 기껏해야 최소한의 주둔 병력만 있을 뿐이니, 치고 빠지며 노획하기에 완벽한 기회일 수 있습니다. 고용주도 없고, 계약도 없습니다...그냥 우리가 가져갈 수 있는 건 뭐든 들고 나오는 겁니다. 어떻게 생각하십니까?"""
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cwf_base.json,Options[0].ResultSets[0].Description.Details,"""Sound like a decent idea, XO. What are we looking at?""
+
+""Basically just a standard base destruction op, but with the twist that the only one paying us, is us. It's a salvage-only op, so we need to minimize damage and maximize our salvage. It's also worth mentioning that the active Clans in this AO absolutely <i>hate</i> each other. The only thing Clanners respect is force and skill on the battlefield. Hitting one hard might increase our standing with the others.""
+
+
+<b>A contract named <i>Freelancing: Home Is Where the MechBay Is</i> has been added to the Command Center.</b>","""괜찮은 생각 같습니다, XO. 어떤 상황입니까?""
+
+""기본적으로는 표준적인 기지 파괴 작전입니다만, 특이한 점은 우리에게 돈을 지불하는 쪽이 우리 자신뿐이라는 겁니다. 노획 전용 작전이니, 피해를 최소화하고 노획품을 최대화해야 합니다. 또한 언급할 만한 점은, 이 작전 구역에서 활동 중인 클랜들이 서로를 정말 <i>증오한다는</i> 것입니다. 클랜이 존중하는 것은 전장에서의 힘과 실력뿐입니다. 한쪽을 강하게 타격하면 다른 쪽과의 평판이 올라갈 수도 있습니다.""
+
+
+<b><i>프리랜싱: 메크베이가 있는 곳이 집</i>이라는 계약이 지휘 센터에 추가되었습니다.</b>"
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cwf_base.json,Options[1].ResultSets[0].Description.Details,"""It's not a bad idea, but I don't want to piss off the clanners too much just yet. Not without someone else footing the bill at least.""
+
+""Understood, Commander.""","""나쁜 생각은 아니지만, 아직은 클랜 놈들을 너무 자극하고 싶지 않습니다. 적어도 다른 누군가가 비용을 대 주는 상황이 아니라면 말입니다.""
+
+""알겠습니다, 사령관님."""
 BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cwf_convoy.json,Description.Details,"Darius calls you into the Command Center. Seems he has an interesting proposition:
 
 ""Commander, we've identified a significant shipment of freshly manufactured [[DM.Factions[faction_ClanWolf],Clan Wolf]] BattleMechs on their way to a distribution hub. This could be a golden opportunity for us to hit the clanners and walk away with an armload of their tech. No employers, no contracts...just us walking off with whatever we can carry. What do you say?""","다리우스가 당신을 지휘 센터로 호출합니다. 흥미로운 제안이 있는 모양입니다:
 
 ""사령관님, 저희가 배급 거점으로 향하는 갓 제조된 [[DM.Factions[faction_ClanWolf],클랜 울프]] 배틀메크의 대규모 수송 행렬을 확인했습니다. 클랜 놈들을 공격하고 그들의 기술을 한가득 챙겨 나올 절호의 기회일 수 있습니다. 고용주도 없고, 계약도 없습니다...그냥 우리가 가져갈 수 있는 건 뭐든 들고 나오는 겁니다. 어떻게 생각하십니까?"""
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cwf_convoy.json,Options[0].ResultSets[0].Description.Details,"""Sound like a decent idea, XO. What are we looking at?""
+
+""Basically just a standard convoy ambush, but with the twist that the only one paying us, is us. It's a salvage-only op, so we need to minimize damage and maximize our salvage. It's also worth mentioning that the active Clans in this AO absolutely <i>hate</i> each other. The only thing Clanners respect is force and skill on the battlefield. Hitting one hard might increase our standing with the others.""
+
+
+<b>A contract named <i>Freelancing: Cannonball Run</i> has been added to the Command Center.</b>","""괜찮은 생각 같습니다, XO. 어떤 상황입니까?""
+
+""기본적으로는 표준적인 호송대 매복 작전입니다만, 특이한 점은 우리에게 돈을 지불하는 쪽이 우리 자신뿐이라는 겁니다. 노획 전용 작전이니, 피해를 최소화하고 노획품을 최대화해야 합니다. 또한 언급할 만한 점은, 이 작전 구역에서 활동 중인 클랜들이 서로를 정말 <i>증오한다는</i> 것입니다. 클랜이 존중하는 것은 전장에서의 힘과 실력뿐입니다. 한쪽을 강하게 타격하면 다른 쪽과의 평판이 올라갈 수도 있습니다.""
+
+
+<b><i>프리랜싱: 캐논볼 런</i>이라는 계약이 지휘 센터에 추가되었습니다.</b>"
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cwf_convoy.json,Options[1].ResultSets[0].Description.Details,"""It's not a bad idea, but I don't want to piss off the clanners too much just yet. Not without someone else footing the bill at least.""
+
+""Understood, Commander.""","""나쁜 생각은 아니지만, 아직은 클랜 놈들을 너무 자극하고 싶지 않습니다. 적어도 다른 누군가가 비용을 대 주는 상황이 아니라면 말입니다.""
+
+""알겠습니다, 사령관님."""
 BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cwf_fight.json,Description.Details,"Darius calls you into the Command Center. Seems he has an interesting proposition:
 
 ""Commander, we've spotted a lone [[DM.Factions[faction_ClanWolf],Clan Wolf]] heavy unit operating alone. Whether it's actually alone or not, this could be a great chance to rack up some clan salvage. No employers, no contracts...just us walking off with whatever we can carry. What do you say?""","다리우스가 당신을 지휘 센터로 호출합니다. 흥미로운 제안이 있는 모양입니다:
 
 ""사령관님, 저희가 단독으로 작전 중인 [[DM.Factions[faction_ClanWolf],클랜 울프]] 헤비급 유닛 하나를 포착했습니다. 정말 혼자인지 아닌지는 알 수 없지만, 클랜 노획품을 꽤 챙길 좋은 기회일 수 있습니다. 고용주도 없고, 계약도 없습니다...그냥 우리가 가져갈 수 있는 건 뭐든 들고 나오는 겁니다. 어떻게 생각하십니까?"""
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cwf_fight.json,Options[0].ResultSets[0].Description.Details,"""Sound like a decent idea, XO. What are we looking at?""
+
+""Basically just a standard lance destruction op, but with the twist that the only one paying us, is us. It's a salvage-only op, so we need to minimize damage and maximize our salvage. It's also worth mentioning that the active Clans in this AO absolutely <i>hate</i> each other. The only thing Clanners respect is force and skill on the battlefield. Hitting one hard might increase our standing with the others.""
+
+
+<b>A contract named <i>Freelancing: Gone Fishing</i> has been added to the Command Center.</b>","""괜찮은 생각 같습니다, XO. 어떤 상황입니까?""
+
+""기본적으로는 표준적인 랜스 섬멸 작전입니다만, 특이한 점은 우리에게 돈을 지불하는 쪽이 우리 자신뿐이라는 겁니다. 노획 전용 작전이니, 피해를 최소화하고 노획품을 최대화해야 합니다. 또한 언급할 만한 점은, 이 작전 구역에서 활동 중인 클랜들이 서로를 정말 <i>증오한다는</i> 것입니다. 클랜이 존중하는 것은 전장에서의 힘과 실력뿐입니다. 한쪽을 강하게 타격하면 다른 쪽과의 평판이 올라갈 수도 있습니다.""
+
+
+<b><i>프리랜싱: 낚시하러 가다</i>라는 계약이 지휘 센터에 추가되었습니다.</b>"
+BT Advanced Contracts/events_Clans/tbone_event_co_clanraid_cwf_fight.json,Options[1].ResultSets[0].Description.Details,"""It's not a bad idea, but I don't want to piss off the clanners too much just yet. Not without someone else footing the bill at least.""
+
+""Understood, Commander.""","""나쁜 생각은 아니지만, 아직은 클랜 놈들을 너무 자극하고 싶지 않습니다. 적어도 다른 누군가가 비용을 대 주는 상황이 아니라면 말입니다.""
+
+""알겠습니다, 사령관님."""
+BT Advanced Contracts/lore/TBoneLoreDamned.json,Details,"One of the innumerable pirate bands of the Periphery, the Band of the Damned is currently lead by the infamous Vance Rezak. The Band gained fame and riches by raiding the Combine world of Korramabad in the mid 3050s, walking away with an untold fortune in synthetic diamonds.",변방지역의 수많은 해적단 중 하나인 밴드 오브 더 댐드는 현재 악명 높은 밴스 레작이 이끌고 있습니다. 이 해적단은 3050년대 중반 드라코니스 연맹의 코라마바드를 습격해 헤아릴 수 없을 만큼 막대한 합성 다이아몬드를 챙겨 달아나면서 명성과 부를 얻었습니다.
+BT Advanced Contracts/lore/TBoneLoreRoberts.json,Details,"Your contact with the Band of the Damned pirate gang, D.P. Roberts is certainly a character. Not much is known about him, except that he is a capable MechWarrior, and his manner of speaking appears to be adopted wholesale from an obscure ancient Terran media series depicting historical events during the Age of Sail. No one knows what D.P. stands for.","밴드 오브 더 댐드 해적단과의 연락책인 D.P. 로버츠는 확실히 개성 넘치는 인물입니다. 그에 대해 알려진 것은 많지 않지만, 유능한 멕워리어라는 점과 그의 말투가 범선 시대의 역사적 사건들을 묘사한 고대 테란의 알려지지 않은 미디어 시리즈에서 통째로 가져온 듯하다는 점은 알려져 있습니다. D.P.가 무엇의 약자인지는 아무도 모릅니다."
 BT Advanced Contracts/pilot/pilot_tbone_Cutter.json,Description.Details,"Cutter Edgewise grew up an orphan on the rough streets of Tortuga Prime. From a young age he learned that he had to scrap to get by. Eventually, he was working in a local restaurant to get money for a trip offworld so he could pursue his dream of being an artist. However, after the local mafia strongarmed his boss into paying protection money, Cutter was hired by the local pirates (who had a feud with the mafia on Tortuga) to run supplies for them. After being captured by the mafia, and losing an eye in the process, Cutter fell more seriously into the pirate lifestyle. A brief stint with the Federated Suns military happened, followed by returning to the pirate life just in time to work with the newly crowned Pirate Lord, you. Cutter brings a lifetime of pirate experience, great skill as a MechWarrior, and an engine room still for rotgut to the team, all things a budding Pirate Lord needs on his crew.","커터 에지와이즈는 토르투가 프라임의 험악한 거리에서 고아로 자랐습니다. 어린 시절부터 그는 살아남으려면 싸워야 한다는 것을 배웠습니다. 결국 그는 예술가가 되겠다는 꿈을 좇아 행성을 떠날 여비를 마련하기 위해 현지 식당에서 일하게 되었습니다. 하지만 현지 마피아가 그의 상사를 협박해 보호비를 내게 만들자, 커터는 토르투가에서 마피아와 대립하던 현지 해적들에게 고용되어 그들의 보급품 운반을 맡게 되었습니다. 마피아에게 붙잡히고 그 과정에서 한쪽 눈을 잃은 뒤, 커터는 해적의 삶에 더 깊이 빠져들었습니다. 잠시 페더레이티드 선즈 군에 몸담은 뒤, 그는 때마침 새로 즉위한 해적 군주인 당신과 함께 일하기 위해 다시 해적의 삶으로 돌아왔습니다. 커터는 평생에 걸친 해적 경험, 멕워리어로서의 뛰어난 실력, 그리고 엔진룸의 싸구려 독주 증류기까지 팀에 제공합니다. 이 모든 것은 성장 중인 해적 군주가 자신의 선원들에게 필요로 하는 것들입니다."
 BT Advanced Contracts/pilot/pilot_tbone_Rezak.json,Description.Details,"Vance Rezak, a former Kuritan noble and <i>Sho-sa</i> of the DCMS, turned to piracy following his betrayal at the hands of his former commanding officer. Currently the leader of the Band of the Damned pirate gang, Rezak has amassed considerable personal wealth and oversees oneof the most extensive spy networks in the Periphery.","전직 쿠리타 귀족이자 DCMS의 <i>쇼사</i>였던 밴스 레작은 전 상관에게 배신당한 뒤 해적이 되었습니다. 현재 밴드 오브 더 댐드 해적단의 지도자인 레작은 상당한 개인 재산을 축적했으며, 변방지역에서 가장 광범위한 첩보망 중 하나를 지휘하고 있습니다."
