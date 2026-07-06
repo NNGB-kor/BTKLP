@@ -1,0 +1,390 @@
+﻿File,Key,Value,Translation
+BT Advanced Sanctuary Worlds Tanks and Turrets/aerospace/vehicledef_COBRA_VTOL.json,Description.Details,"It's a VTOL, Boss","VTOL입니다, 보스"
+BT Advanced Sanctuary Worlds Tanks and Turrets/aerospace/vehicledef_COBRA_VTOL_DXR.json,Description.Details,"It's a VTOL, Boss","VTOL입니다, 보스"
+BT Advanced Sanctuary Worlds Tanks and Turrets/aerospace/vehicledef_RABBIT_VTOL.json,Description.Details,"It's a VTOL, Boss","VTOL입니다, 보스"
+BT Advanced Sanctuary Worlds Tanks and Turrets/aerospace/vehicledef_RABBIT_VTOL_NPC.json,Description.Details,"It's a VTOL, Boss","VTOL입니다, 보스"
+BT Advanced Sanctuary Worlds Tanks and Turrets/aerospacechassis/vehiclechassisdef_COBRA_VTOL.json,Description.Details,"It's a VTOL, Boss","VTOL입니다, 보스"
+BT Advanced Sanctuary Worlds Tanks and Turrets/aerospacechassis/vehiclechassisdef_COBRA_VTOL_DXR.json,Description.Details,"It's a VTOL, Boss","VTOL입니다, 보스"
+BT Advanced Sanctuary Worlds Tanks and Turrets/aerospacechassis/vehiclechassisdef_RABBIT_VTOL.json,Description.Details,"It's a VTOL, Boss","VTOL입니다, 보스"
+BT Advanced Sanctuary Worlds Tanks and Turrets/aerospacechassis/vehiclechassisdef_RABBIT_VTOL_NPC.json,Description.Details,"It's a VTOL, Boss","VTOL입니다, 보스"
+BT Advanced Sanctuary Worlds Tanks and Turrets/apc/vehicledef_APC_HeavyWheeled_VRM_Sanctuary.json,Description.Details,"The Heavy Wheeled APC is a larger version of its standard counterpart able to carry two full platoons of Foot Infantry or one platoon of either Motorized or Jump Infantry. The LRM variant of the APC was introduced in the Star League era and had the following changes to accommodate modification: the LRM 5 launcher and its ammunition take up half of the vehicle's original six ton infantry bay capacities. 
+
+ <b><color=#ffcc00>Movement: 6/9 Hex: 180/270 Meters.</color></b>
+
+<color=#ffcc00><b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       100     10
+<b>Left</b>          65     10
+<b>Right</b>        65     10
+<b>Rear</b>         50     10
+
+<b>Turret</b>         50     10
+<b>Total</b>      330     50
+</color>","헤비 휠드 APC는 표준형보다 더 큰 파생형으로, 도보 보병 2개 완편 소대 또는 차량화 보병이나 점프 보병 1개 소대를 수송할 수 있습니다. APC의 LRM 파생형은 스타 리그 시대에 도입되었으며, 개조를 수용하기 위해 다음과 같은 변경이 이루어졌습니다. LRM 5 발사기와 그 탄약이 차량 원래의 6톤 보병 적재 공간 중 절반을 차지합니다. 
+
+ <b><color=#ffcc00>이동력: 6/9 헥스: 180/270 미터.</color></b>
+
+<color=#ffcc00><b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       100     10
+<b>좌측</b>          65     10
+<b>우측</b>        65     10
+<b>후면</b>         50     10
+
+<b>포탑</b>         50     10
+<b>합계</b>      330     50
+</color>"
+BT Advanced Sanctuary Worlds Tanks and Turrets/apcchassis/vehiclechassisdef_APC_HeavyWheeled_VRM_Sanctuary.json,Description.Details,"The Heavy Wheeled APC is a larger version of its standard counterpart able to carry two full platoons of Foot Infantry or one platoon of either Motorized or Jump Infantry. The LRM variant of the APC was introduced in the Star League era and had the following changes to accommodate modification: the LRM 5 launcher and its ammunition take up half of the vehicle's original six ton infantry bay capacities. 
+
+ <b><color=#ffcc00>Movement: 6/9 Hex: 180/270 Meters.</color></b>
+
+<color=#ffcc00><b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       100     10
+<b>Left</b>          65     10
+<b>Right</b>        65     10
+<b>Rear</b>         50     10
+<b>Turret</b>         50     10
+
+<b>Total</b>      330     50
+</color>","헤비 휠드 APC는 표준형보다 더 큰 파생형으로, 도보 보병 2개 완편 소대 또는 차량화 보병이나 점프 보병 1개 소대를 수송할 수 있습니다. APC의 LRM 파생형은 스타 리그 시대에 도입되었으며, 개조를 수용하기 위해 다음과 같은 변경이 이루어졌습니다. LRM 5 발사기와 그 탄약이 차량의 원래 6톤 보병 적재 공간 중 절반을 차지합니다. 
+
+ <b><color=#ffcc00>이동력: 6/9 헥스: 180/270미터.</color></b>
+
+<color=#ffcc00><b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       100     10
+<b>좌측</b>          65     10
+<b>우측</b>        65     10
+<b>후면</b>         50     10
+<b>포탑</b>         50     10
+
+<b>합계</b>      330     50
+</color>"
+BT Advanced Sanctuary Worlds Tanks and Turrets/assault/vehicledef_ALACORN_SANCTUARY.json,Description.Details,It's a Tank Boss,탱크 보스입니다
+BT Advanced Sanctuary Worlds Tanks and Turrets/assault/vehicledef_ALACORN_SANCTUARY_SG.json,Description.Details,It's a Tank Boss,탱크 보스입니다
+BT Advanced Sanctuary Worlds Tanks and Turrets/assault/vehicledef_APOSTLE.json,Description.Details,Tank lol,Tank lol
+BT Advanced Sanctuary Worlds Tanks and Turrets/assault/vehicledef_CARRIER_HEAVY_BOMBARD.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/assault/vehicledef_MARKOLAB.json,Description.Details,"Developed by the Sanctuary Worlds powers as the final word in combat vehicle prowess, the Markolab (named for an ancient Terran mythological creature) is swathed in as much armor as an assault mech with even more firepower. The Markolab is very slow and requires screening by allied forces but Sanctuary commanders often consider it an acceptable trade-off for the firepower it offers.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ 
+
+ <b><color=#ffcc00>Movement: 2/3 Hex: 60/90 Meters.</color></b>
+
+<b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       400     85
+<b>Left</b>         250     85
+<b>Right</b>       250     85
+<b>Rear</b>        200     85
+<b>Turret</b>      300     85
+
+<b>Total</b>      1400    425
+","생츄어리 월드 세력이 전투 차량의 역량을 집대성한 최종형으로 개발한 마르콜랍은, 고대 테란 신화 속 생물의 이름을 딴 기체로서, 어썰트 메크에 맞먹는 장갑에 그보다도 더 강력한 화력을 두르고 있습니다. 마르콜랍은 매우 느리고 아군의 엄호가 필요하지만, 생츄어리 지휘관들은 그 화력이 제공하는 가치를 생각하면 충분히 감수할 만한 대가로 여기는 경우가 많습니다.
+
+ <b><color=#ffcc00>궤도형: 높은 접지력, 민첩한 선회.</color></b>
+
+ 
+
+ <b><color=#ffcc00>이동력: 2/3 헥스: 60/90미터.</color></b>
+
+<b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       400     85
+<b>좌측</b>         250     85
+<b>우측</b>       250     85
+<b>후면</b>        200     85
+<b>포탑</b>      300     85
+
+<b>합계</b>      1400    425"
+BT Advanced Sanctuary Worlds Tanks and Turrets/assault/vehicledef_MARKOLAB_GAMMA.json,Description.Details,"Developed by the Sanctuary Worlds powers as the final word in combat vehicle prowess, the Markolab (named for an ancient Terran mythological creature) is swathed in as much armor as an assault mech with even more firepower. The Markolab is very slow and requires screening by allied forces but Sanctuary commanders often consider it an acceptable trade-off for the firepower it offers.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ 
+
+ <b><color=#ffcc00>Movement: 2/3 Hex: 60/90 Meters.</color></b>
+
+<b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       400     85
+<b>Left</b>         250     85
+<b>Right</b>       250     85
+<b>Rear</b>        200     85
+<b>Turret</b>      300     85
+
+<b>Total</b>      1400    425
+","생츄어리 월드 세력이 전투 차량 성능의 결정판으로 개발한 마르콜랍은(고대 테란 신화 속 생물의 이름을 땄습니다) 어썰트 메크에 맞먹는 장갑과 그보다도 강력한 화력을 두르고 있습니다. 마르콜랍은 매우 느리고 아군의 엄호가 필요하지만, 생츄어리 지휘관들은 그 화력이 제공하는 대가로는 충분히 감수할 만하다고 자주 판단합니다.
+
+ <b><color=#ffcc00>궤도식: 높은 접지력, 민첩한 선회.</color></b>
+
+ 
+
+ <b><color=#ffcc00>이동력: 2/3 헥스: 60/90미터.</color></b>
+
+<b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       400     85
+<b>좌측</b>         250     85
+<b>우측</b>       250     85
+<b>후면</b>        200     85
+<b>포탑</b>      300     85
+
+<b>합계</b>      1400    425"
+BT Advanced Sanctuary Worlds Tanks and Turrets/assault/vehicledef_MARKOLAB_MASSDRIVER.json,Description.Details,"Developed by the Sanctuary Worlds powers as the final word in combat vehicle prowess, the Markolab (named for an ancient Terran mythological creature) is swathed in as much armor as an assault mech with even more firepower. The Markolab is very slow and requires screening by allied forces but Sanctuary commanders often consider it an acceptable trade-off for the firepower it offers.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ 
+
+ <b><color=#ffcc00>Movement: 2/3 Hex: 60/90 Meters.</color></b>
+
+<b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       400     85
+<b>Left</b>         250     85
+<b>Right</b>       250     85
+<b>Rear</b>        200     85
+<b>Turret</b>      300     85
+
+<b>Total</b>      1400    425
+","생츄어리 월즈 세력이 전투 차량 성능의 최종 형태로 개발한 마르콜랍은, 고대 테란 신화 속 생물의 이름을 딴 기종으로, 어썰트 메크에 맞먹는 장갑과 그보다 더 강력한 화력을 두르고 있습니다. 마르콜랍은 매우 느리고 아군의 엄호가 필요하지만, 생츄어리 지휘관들은 대개 그 화력이 제공하는 가치를 생각하면 충분히 감수할 만한 대가로 여깁니다.
+
+ <b><color=#ffcc00>궤도식: 높은 접지력, 민첩한 선회.</color></b>
+
+ 
+
+ <b><color=#ffcc00>이동력: 2/3 헥스: 60/90미터.</color></b>
+
+<b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       400     85
+<b>좌측</b>         250     85
+<b>우측</b>       250     85
+<b>후면</b>        200     85
+<b>포탑</b>      300     85
+
+<b>합계</b>      1400    425"
+BT Advanced Sanctuary Worlds Tanks and Turrets/assault/vehicledef_MARKOLAB_NPC.json,Description.Details,"Developed by the Sanctuary Worlds powers as the final word in combat vehicle prowess, the Markolab (named for an ancient Terran mythological creature) is swathed in as much armor as an assault mech with even more firepower. The Markolab is very slow and requires screening by allied forces but Sanctuary commanders often consider it an acceptable trade-off for the firepower it offers.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ 
+
+ <b><color=#ffcc00>Movement: 2/3 Hex: 60/90 Meters.</color></b>
+
+<b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       400     85
+<b>Left</b>         250     85
+<b>Right</b>       250     85
+<b>Rear</b>        200     85
+<b>Turret</b>      300     85
+
+<b>Total</b>      1400    425
+","생츄어리 월즈 세력이 전투 차량 성능의 결정판으로 개발한 마르콜라브(고대 테란 신화 속 생물의 이름을 땄습니다)는 어썰트 메크에 맞먹는 장갑과 그보다 더 강한 화력을 갖추고 있습니다. 마르콜라브는 매우 느리고 아군의 호위가 필요하지만, 생츄어리 지휘관들은 그 화력이 제공하는 대가로는 충분히 감수할 만하다고 여기는 경우가 많습니다.
+
+ <b><color=#ffcc00>궤도형: 높은 접지력, 민첩한 선회.</color></b>
+
+ 
+
+ <b><color=#ffcc00>이동력: 2/3 헥스: 60/90미터.</color></b>
+
+<b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       400     85
+<b>좌측</b>         250     85
+<b>우측</b>       250     85
+<b>후면</b>        200     85
+<b>포탑</b>      300     85
+
+<b>합계</b>      1400    425"
+BT Advanced Sanctuary Worlds Tanks and Turrets/assault/vehicledef_WITTMANN.json,Description.Details,Tank lol,Tank lol
+BT Advanced Sanctuary Worlds Tanks and Turrets/assault/vehicledef_WITTMANN_GAMMA.json,Description.Details,Tank lol,Tank lol
+BT Advanced Sanctuary Worlds Tanks and Turrets/assaultchassis/vehiclechassisdef_ALACORN_SANCTUARY.json,Description.Details,It's a Tank Boss,전차 보스입니다
+BT Advanced Sanctuary Worlds Tanks and Turrets/assaultchassis/vehiclechassisdef_ALACORN_SANCTUARY_SG.json,Description.Details,It's a Tank Boss,전차 보스입니다
+BT Advanced Sanctuary Worlds Tanks and Turrets/assaultchassis/vehiclechassisdef_APOSTLE.json,Description.Details,Tank lol,Tank lol
+BT Advanced Sanctuary Worlds Tanks and Turrets/assaultchassis/vehiclechassisdef_CARRIER_HEAVY_BOMBARD.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/assaultchassis/vehiclechassisdef_MARKOLAB.json,Description.Details,"Developed by the Sanctuary Worlds powers as the final word in combat vehicle prowess, the Markolab (named for an ancient Terran mythological creature) is swathed in as much armor as an assault mech with even more firepower. The Markolab is very slow and requires screening by allied forces but Sanctuary commanders often consider it an acceptable trade-off for the firepower it offers.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ 
+
+ <b><color=#ffcc00>Movement: 2/3 Hex: 60/90 Meters.</color></b>
+
+<b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       400     85
+<b>Left</b>         250     85
+<b>Right</b>       250     85
+<b>Rear</b>        200     85
+<b>Turret</b>      300     85
+
+<b>Total</b>      1400    425
+","생츄어리 월드 세력이 전투 차량 성능의 최종형으로 개발한 마르콜랍은, 고대 테란 신화 속 생물의 이름을 딴 기종으로, 어썰트 메크만큼이나 두꺼운 장갑에 그보다도 강력한 화력을 갖추고 있습니다. 마르콜랍은 매우 느려 아군의 엄호가 필요하지만, 생츄어리 지휘관들은 그 화력이 제공하는 이점을 생각하면 충분히 감수할 만한 대가로 여기는 경우가 많습니다.
+
+ <b><color=#ffcc00>궤도형: 높은 접지력, 민첩한 선회.</color></b>
+
+ 
+
+ <b><color=#ffcc00>이동력: 2/3 헥스: 60/90미터.</color></b>
+
+<b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       400     85
+<b>좌측</b>         250     85
+<b>우측</b>       250     85
+<b>후면</b>        200     85
+<b>포탑</b>      300     85
+
+<b>합계</b>      1400    425"
+BT Advanced Sanctuary Worlds Tanks and Turrets/assaultchassis/vehiclechassisdef_MARKOLAB_GAMMA.json,Description.Details,"Developed by the Sanctuary Worlds powers as the final word in combat vehicle prowess, the Markolab (named for an ancient Terran mythological creature) is swathed in as much armor as an assault mech with even more firepower. The Markolab is very slow and requires screening by allied forces but Sanctuary commanders often consider it an acceptable trade-off for the firepower it offers.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ 
+
+ <b><color=#ffcc00>Movement: 2/3 Hex: 60/90 Meters.</color></b>
+
+<b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       400     85
+<b>Left</b>         250     85
+<b>Right</b>       250     85
+<b>Rear</b>        200     85
+<b>Turret</b>      300     85
+
+<b>Total</b>      1400    425
+","생츄어리 월드 세력이 전투 차량 성능의 궁극체로 개발한 마르코랍은, 고대 테라 신화 속 생물의 이름을 딴 기종으로, 어썰트 메크에 맞먹는 장갑과 그보다 더 강력한 화력을 갖추고 있습니다. 마르코랍은 매우 느리고 아군의 엄호가 필요하지만, 생츄어리 지휘관들은 그 화력이 제공하는 가치를 생각하면 충분히 감수할 만한 대가로 여기는 경우가 많습니다.
+
+ <b><color=#ffcc00>궤도식: 높은 접지력, 민첩한 선회.</color></b>
+
+ 
+
+ <b><color=#ffcc00>기동: 2/3 헥스: 60/90미터.</color></b>
+
+<b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       400     85
+<b>좌측</b>         250     85
+<b>우측</b>       250     85
+<b>후면</b>        200     85
+<b>포탑</b>      300     85
+
+<b>합계</b>      1400    425"
+BT Advanced Sanctuary Worlds Tanks and Turrets/assaultchassis/vehiclechassisdef_MARKOLAB_MASSDRIVER.json,Description.Details,"Developed by the Sanctuary Worlds powers as the final word in combat vehicle prowess, the Markolab (named for an ancient Terran mythological creature) is swathed in as much armor as an assault mech with even more firepower. The Markolab is very slow and requires screening by allied forces but Sanctuary commanders often consider it an acceptable trade-off for the firepower it offers.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ 
+
+ <b><color=#ffcc00>Movement: 2/3 Hex: 60/90 Meters.</color></b>
+
+<b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       400     85
+<b>Left</b>         250     85
+<b>Right</b>       250     85
+<b>Rear</b>        200     85
+<b>Turret</b>      300     85
+
+<b>Total</b>      1400    425
+","생츄어리 월드 세력이 전투 차량 성능의 최종 형태로 개발한 마르콜라브는, 고대 테란 신화 속 생물의 이름을 딴 기종으로, 어썰트 메크에 맞먹는 장갑과 그보다 더 강력한 화력을 두르고 있습니다. 마르콜라브는 매우 느려 아군의 엄호가 필요하지만, 생츄어리 지휘관들은 그 화력이 제공하는 대가로는 충분히 감수할 만하다고 여깁니다.
+
+ <b><color=#ffcc00>궤도형: 높은 접지력, 민첩한 선회.</color></b>
+
+ 
+
+ <b><color=#ffcc00>이동력: 2/3 헥스: 60/90미터.</color></b>
+
+<b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       400     85
+<b>좌측</b>         250     85
+<b>우측</b>       250     85
+<b>후면</b>        200     85
+<b>포탑</b>      300     85
+
+<b>합계</b>      1400    425"
+BT Advanced Sanctuary Worlds Tanks and Turrets/assaultchassis/vehiclechassisdef_MARKOLAB_NPC.json,Description.Details,"Developed by the Sanctuary Worlds powers as the final word in combat vehicle prowess, the Markolab (named for an ancient Terran mythological creature) is swathed in as much armor as an assault mech with even more firepower. The Markolab is very slow and requires screening by allied forces but Sanctuary commanders often consider it an acceptable trade-off for the firepower it offers.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ 
+
+ <b><color=#ffcc00>Movement: 2/3 Hex: 60/90 Meters.</color></b>
+
+<b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       400     85
+<b>Left</b>         250     85
+<b>Right</b>       250     85
+<b>Rear</b>        200     85
+<b>Turret</b>      300     85
+
+<b>Total</b>      1400    425
+","생츄어리 월즈 세력이 전투 차량 성능의 최종형으로 개발한 마르콜랍은, 고대 테란 신화 속 생물의 이름을 딴 기종으로, 어썰트 메크에 맞먹는 장갑에 그보다도 더 강력한 화력을 갖추고 있습니다. 마르콜랍은 매우 느려서 아군의 호위가 필요하지만, 생츄어리 지휘관들은 대개 이 화력이 주는 가치를 생각하면 감수할 만한 대가라고 여깁니다.
+
+ <b><color=#ffcc00>궤도형: 높은 접지력, 민첩한 선회.</color></b>
+
+ 
+
+ <b><color=#ffcc00>기동력: 2/3 헥스: 60/90미터.</color></b>
+
+<b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       400     85
+<b>좌측</b>         250     85
+<b>우측</b>       250     85
+<b>후면</b>        200     85
+<b>포탑</b>      300     85
+
+<b>합계</b>      1400    425"
+BT Advanced Sanctuary Worlds Tanks and Turrets/assaultchassis/vehiclechassisdef_WITTMANN.json,Description.Details,Tank lol,Tank lol
+BT Advanced Sanctuary Worlds Tanks and Turrets/assaultchassis/vehiclechassisdef_WITTMANN_GAMMA.json,Description.Details,Tank lol,Tank lol
+BT Advanced Sanctuary Worlds Tanks and Turrets/carquirks/Tank_CargoComponent_Sanctuary.json,Description.Details,"This is the cargo being carried by Sanctuary convoy trucks. It's usually not incredibly valuable but it still has some cash value. Salvaging it will give us a nice bonus payday and maybe a few military-grade components. Who knows, there might be mechparts in there, you never know with these convoys.","이것은 생츄어리 수송대 트럭이 운반 중인 화물입니다. 보통 엄청나게 값비싼 물건은 아니지만 그래도 어느 정도 현금 가치는 있습니다. 이걸 인양하면 괜찮은 추가 보수를 챙길 수 있고, 어쩌면 군용 등급 부품 몇 개도 얻을 수 있습니다. 누가 알겠습니까, 저 안에 메크 부품이 들어 있을지도 모릅니다. 이런 수송대는 정말 알 수가 없으니까요."
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavy/vehicledef_CARRIER_DRM.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavy/vehicledef_CARRIER_VRM.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavy/vehicledef_MERKAVA_X.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavy/vehicledef_MERKAVA_X_DBAC.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavy/vehicledef_MERKAVA_X_LASER.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavy/vehicledef_MERKAVA_XI.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavy/vehicledef_MONASH.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavy/vehicledef_MONASH_DXR.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavychassis/vehiclechassisdef_CARRIER_DRM.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavychassis/vehiclechassisdef_CARRIER_VRM.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavychassis/vehiclechassisdef_MERKAVA_X.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavychassis/vehiclechassisdef_MERKAVA_X_DBAC.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavychassis/vehiclechassisdef_MERKAVA_X_LASER.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavychassis/vehiclechassisdef_MERKAVA_XI.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavychassis/vehiclechassisdef_MONASH.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/heavychassis/vehiclechassisdef_MONASH_DXR.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/medium/vehicledef_LTV-4_SANCTUARY.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/medium/vehicledef_LTV-4_SANCTUARY_MKII.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/medium/vehicledef_REAPER.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/mediumchassis/vehiclechassisdef_LTV-4_SANCTUARY.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/mediumchassis/vehiclechassisdef_LTV-4_SANCTUARY_MKII.json,Description.Details,tanklol,tanklol
+BT Advanced Sanctuary Worlds Tanks and Turrets/mediumchassis/vehiclechassisdef_REAPER.json,Description.Details,tanklol,tanklol
