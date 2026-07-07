@@ -119,16 +119,64 @@ MonsterMashup/mod_localized_text.json,Quips.SupportSpawn[1],Scrambling support u
 MonsterMashup/mod_localized_text.json,Quips.SupportSpawn[2],Launch support units!,지원 유닛 발진!
 MonsterMashup/mod_localized_text.json,Quips.SupportSpawn[3],Need coverage on the flank!,측면 엄호가 필요하다!
 MonsterMashup/mod_localized_text.json,Quips.SupportSpawn[4],Deploy when ready!,준비되면 배치하라!
+MonsterMashup/upgrade/Gear_Overlord_Turret_Aft_Left.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Aft_Right.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Belt_Left.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Belt_Right.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Mid_Front.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Mid_Left.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Mid_Rear.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Mid_Right.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Top_Front_Left.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Top_Front_Right.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Top_Rear_Left.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Overlord_Turret_Top_Rear_Right.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Chassis_Left.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Chassis_Left_Player.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Chassis_Rear.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Chassis_Rear_Player.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Chassis_Right.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Chassis_Right_Player.json,Description.Details,BAR,BAR
 MonsterMashup/upgrade/Gear_Rattler_Resistances.json,Description.Details,"All 'Mechs come equipped with a stock targeting and tracking system-or TTS-which can be upgraded for improved performance. Upgrades increase accuracy when attacking with Ballistic, Energy, or Missile weaponry, depending on the type of TTS.","모든 '메크에는 기본 조준 및 추적 시스템, 즉 TTS가 장착되어 있으며, 성능 향상을 위해 업그레이드할 수 있습니다. 업그레이드는 TTS 유형에 따라 탄도, 에너지 또는 미사일 무기로 공격할 때 명중률을 증가시킵니다."
 MonsterMashup/upgrade/Gear_Rattler_Resistances.json,statusEffects[0].Description.Details,The Rattler is resistant to pilot hits.,래틀러는 조종사 피해에 저항성이 있습니다.
 MonsterMashup/upgrade/Gear_Rattler_Resistances.json,statusEffects[1].Description.Details,The Rattler cannot bleed out from injuries.,래틀러는 부상으로 출혈사하지 않습니다.
 MonsterMashup/upgrade/Gear_Rattler_Resistances.json,statusEffects[2].Description.Details,The Rattler is resistant to crits due to its bulk.,래틀러는 거대한 덩치 때문에 치명타에 저항성이 있습니다.
+MonsterMashup/upgrade/Gear_Rattler_Tower.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Tower_Player.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Track_Left_Front.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Track_Left_Front_Player.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Track_Left_Rear.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Track_Left_Rear_Player.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Track_Right_Front.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Track_Right_Front_Player.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Track_Right_Rear.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Rattler_Track_Right_Rear_Player.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_RattlerSL_Chassis_Left.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_RattlerSL_Chassis_Rear.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_RattlerSL_Chassis_Right.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_RattlerSL_Tower.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_RattlerSL_Track_Left_Front.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_RattlerSL_Track_Left_Rear.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_RattlerSL_Track_Right_Front.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_RattlerSL_Track_Right_Rear.json,Description.Details,BAR,BAR
 MonsterMashup/upgrade/Gear_TargetingTrackingSystem_Overlord.json,Description.Details,"All 'Mechs come equipped with a stock targeting and tracking system-or TTS-which can be upgraded for improved performance. Upgrades increase accuracy when attacking with Ballistic, Energy, or Missile weaponry, depending on the type of TTS.","모든 '메크에는 기본 조준 및 추적 시스템, 즉 TTS가 장착되어 있으며, 성능 향상을 위해 업그레이드할 수 있습니다. 업그레이드는 TTS 유형에 따라 탄도, 에너지 또는 미사일 무기로 공격할 때 명중률을 증가시킵니다."
 MonsterMashup/upgrade/Gear_TargetingTrackingSystem_Overlord.json,statusEffects[0].Description.Details,"The Overlord Dropship is providing control and command functions to its turrets, increasing their hit chance by +4 as well as ignoring 2 evasion.",오버로드 드롭십은 터렛에 지휘통제 기능을 제공하여 명중 확률을 +4 증가시키고 회피 2를 무시하게 합니다.
 MonsterMashup/upgrade/Gear_TargetingTrackingSystem_Overlord.json,statusEffects[1].Description.Details,Missile weapon attacks have their hit improved by [AMT].,미사일 무기 공격의 명중이 [AMT]만큼 향상됩니다.
 MonsterMashup/upgrade/Gear_TargetingTrackingSystem_Rattler.json,Description.Details,"All 'Mechs come equipped with a stock targeting and tracking system-or TTS-which can be upgraded for improved performance. Upgrades increase accuracy when attacking with Ballistic, Energy, or Missile weaponry, depending on the type of TTS.","모든 '메크에는 기본 조준 및 추적 시스템, 즉 TTS가 장착되어 있으며, 성능 향상을 위해 업그레이드할 수 있습니다. 업그레이드는 TTS 유형에 따라 탄도, 에너지 또는 미사일 무기로 공격할 때 명중률을 증가시킵니다."
 MonsterMashup/upgrade/Gear_TargetingTrackingSystem_Rattler.json,statusEffects[0].Description.Details,"The Rattler is providing control and command functions to its turrets, increasing their hit chance by +4 as well as ignoring 2 evasion.",래틀러는 터렛에 지휘통제 기능을 제공하여 명중 확률을 +4 증가시키고 회피 2를 무시하게 합니다.
 MonsterMashup/upgrade/Gear_TargetingTrackingSystem_Rattler.json,statusEffects[1].Description.Details,Missile weapon attacks have their hit improved by [AMT].,미사일 무기 공격의 명중이 [AMT]만큼 향상됩니다.
+MonsterMashup/upgrade/Gear_Union_Turret_Belt_Left_Front.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Belt_Left_Rear.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Belt_Right_Front.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Belt_Right_Rear.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Mid_Front.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Mid_Left.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Mid_Rear.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Mid_Right.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Top_Left_Front.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Top_Left_Rear.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Top_Right_Front.json,Description.Details,BAR,BAR
+MonsterMashup/upgrade/Gear_Union_Turret_Top_Right_Rear.json,Description.Details,BAR,BAR
 MonsterMashup/vehicle/vehicledef_RATTLER_FORTRESS_PLAYER.json,Description.Details,"It's the Rattler. It's a fortress the size of a dropship and it carries enough firepower to level a city in one volley. You fought one, you know how dangerous it can be, and now we're deploying one somehow. Enjoy, Commander, you earned it.</color></b>
 
  

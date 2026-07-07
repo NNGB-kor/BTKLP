@@ -1717,6 +1717,42 @@ VIPAdvanced/assault/vehicledef_DEMOLISHER_ARROWIV.json,Description.Details,"Tall
 <b>포탑</b>      190     40
 
 <b>합계</b>      760    200"
+VIPAdvanced/assault/vehicledef_DEMOLISHER_GAUSS.json,Description.Details,"Tall, squat, and using four treads, the Demolisher has a well-earned reputation as one of the most deadly vehicles on the battlefield. Designed to counteract the increasing scarcity of 'Mechs during the Succession Wars, the Demolisher became popular, especially on worlds where BattleMechs were not available. The Demolisher is armed with two GausS Rifles, which are enough to make any other unit, 'Mechs included, pause. The relatively long range of the guns means that nothing is beyond the Demolisher's reach. It has plentiful armor, and the rather solid fusion engine allows for a cruising speed of 32.4kph.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ 
+
+ <b><color=#ffcc00>Movement: 3/5 Hex: 90/150 Meters.</color></b>
+
+<b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       250     40
+<b>Left</b>         180     40
+<b>Right</b>       180     40
+<b>Rear</b>        150     40
+<b>Turret</b>      225     40
+
+<b>Total</b>      985    200
+","키가 크고 땅딸막하며 네 개의 궤도를 사용하는 데몰리셔는 전장에서 가장 치명적인 차량 중 하나라는 명성을 충분히 얻었습니다. 계승 전쟁 동안 점점 희소해지는 '메크에 대응하기 위해 설계된 데몰리셔는 특히 배틀메크를 구할 수 없는 세계에서 인기를 얻었습니다. 데몰리셔는 가우스 라이플 두 문으로 무장하고 있으며, 이는 '메크를 포함한 어떤 유닛이든 멈칫하게 만들기에 충분합니다. 포의 비교적 긴 사거리 덕분에 데몰리셔의 손이 닿지 않는 것은 없습니다. 풍부한 장갑을 갖추고 있으며, 꽤 견고한 퓨전 엔진은 순항 속도 32.4kph를 가능하게 합니다.
+
+ <b><color=#ffcc00>궤도식: 높은 견인력, 민첩한 선회.</color></b>
+
+ 
+
+ <b><color=#ffcc00>이동: 3/5 헥스: 90/150 미터.</color></b>
+
+<b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       250     40
+<b>좌측</b>         180     40
+<b>우측</b>       180     40
+<b>후면</b>        150     40
+<b>포탑</b>      225     40
+
+<b>총합</b>      985    200"
 VIPAdvanced/assault/vehicledef_DEMOLISHER_GAUSS_LFR.json,Description.Details,"This training-spec Demolisher has had the normal gauss ammunition replaced with practice rounds. They left the medium lasers in place, however.",이 훈련 사양 데몰리셔는 일반 가우스 탄약을 연습탄으로 교체했습니다. 하지만 미디엄 레이저는 그대로 두었습니다.
 VIPAdvanced/assault/vehicledef_DEVASTATOR.json,Description.Details,"The third generation of the Demolisher, the DVE-5B Mark III, was found mainly among the defense forces of the richer planets in the Inner Sphere. It is powered by a Type 240 Fusion Engine and mounts some additional weapons: A Flamer in the turret, one Small Laser in the front and on each side, and a front-mounted SRM-6.
 
@@ -2598,6 +2634,42 @@ VIPAdvanced/assaultchassis/vehiclechassisdef_DEMOLISHER_ARROWIV.json,Description
 <b>포탑</b>      190     40
 
 <b>합계</b>      760    200"
+VIPAdvanced/assaultchassis/vehiclechassisdef_DEMOLISHER_GAUSS.json,Description.Details,"Tall, squat, and using four treads, the Demolisher has a well-earned reputation as one of the most deadly vehicles on the battlefield. Designed to counteract the increasing scarcity of 'Mechs during the Succession Wars, the Demolisher became popular, especially on worlds where BattleMechs were not available. The Demolisher is armed with two GausS Rifles, which are enough to make any other unit, 'Mechs included, pause. The relatively long range of the guns means that nothing is beyond the Demolisher's reach. It has plentiful armor, and the rather solid fusion engine allows for a cruising speed of 32.4kph.
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ 
+
+ <b><color=#ffcc00>Movement: 3/5 Hex: 90/150 Meters.</color></b>
+
+<b>Armor:</b> Armor
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       250     40
+<b>Left</b>         180     40
+<b>Right</b>       180     40
+<b>Rear</b>        150     40
+<b>Turret</b>      225     40
+
+<b>Total</b>      985    200
+","키가 크고 땅딸막하며 네 개의 궤도를 사용하는 데몰리셔는 전장에서 가장 치명적인 차량 중 하나라는 명성을 충분히 얻었습니다. 계승 전쟁 동안 점점 희소해지는 '메크에 대응하기 위해 설계된 데몰리셔는 특히 배틀메크를 구할 수 없는 세계에서 인기를 얻었습니다. 데몰리셔는 가우스 라이플 두 문으로 무장하고 있으며, 이는 '메크를 포함한 어떤 유닛이든 멈칫하게 만들기에 충분합니다. 포의 비교적 긴 사거리 덕분에 데몰리셔의 손이 닿지 않는 것은 없습니다. 풍부한 장갑을 갖추고 있으며, 꽤 견고한 퓨전 엔진은 순항 속도 32.4kph를 가능하게 합니다.
+
+ <b><color=#ffcc00>궤도식: 높은 견인력, 민첩한 선회.</color></b>
+
+ 
+
+ <b><color=#ffcc00>이동: 3/5 헥스: 90/150 미터.</color></b>
+
+<b>장갑:</b> 장갑
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       250     40
+<b>좌측</b>         180     40
+<b>우측</b>       180     40
+<b>후면</b>        150     40
+<b>포탑</b>      225     40
+
+<b>총합</b>      985    200"
 VIPAdvanced/assaultchassis/vehiclechassisdef_DEMOLISHER_GAUSS_LFR.json,Description.Details,"This training-spec Demolisher has had the normal gauss ammunition replaced with practice rounds. They left the medium lasers in place, however.",이 훈련용 사양 데몰리셔는 일반 가우스 탄약을 훈련탄으로 교체했습니다. 다만 미디엄 레이저는 그대로 두었습니다.
 VIPAdvanced/assaultchassis/vehiclechassisdef_DEVASTATOR.json,Description.Details,"The third generation of the Demolisher, the DVE-5B Mark III, was found mainly among the defense forces of the richer planets in the Inner Sphere. It is powered by a Type 240 Fusion Engine and mounts some additional weapons: A Flamer in the turret, one Small Laser in the front and on each side, and a front-mounted SRM-6.
 
@@ -4015,6 +4087,42 @@ VIPAdvanced/heavy/vehicledef_MAGI_UCSV.json,Description.Details,"This is a field
 <b>포탑</b>      200     35
 
 <b>합계</b>      1050    175"
+VIPAdvanced/heavy/vehicledef_MAGI_UCSV.json,Description.Details,"This is a field modification of the original Magi vehicle which was in service for the Word of Blake. The vehicle's engine is swapped out for a light version and, while its laser weaponry remains the same, its front-mounted machine guns have increased to four and have been bundled into a machine gun array. The ammunition was also increased to three tons. The Magi's targeting and spotting abilities were enhanced, and to allow overall targeting for Level II formations, a C3i computer was installed.
+
+ <b><color=#ffcc00>CARRIES A SQUAD OF TENGU BATTLE ARMOR!</color></b>
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ <b><color=#ffcc00>Movement: 5/8 Hex: 150/240 Meters.</color></b>
+
+<b>Armor:</b> Standard
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       220     35
+<b>Left</b>         215     35
+<b>Right</b>       215     35
+<b>Rear</b>        200     35
+<b>Turret</b>      200     35
+
+<b>Total</b>      1050    175
+","이것은 워드 오브 블레이크에서 운용되던 원본 마기 차량의 현장 개조형입니다. 차량의 엔진은 라이트 버전으로 교체되었고, 레이저 무장은 그대로 유지되었지만, 전방 장착 기관총은 네 정으로 늘어나 기관총 배열로 묶였습니다. 탄약도 3톤으로 증가했습니다. 마기의 표적 지정 및 정찰 능력이 향상되었고, 레벨 II 편대 전체에 표적 지정을 제공하기 위해 C3i 컴퓨터가 설치되었습니다.
+
+ <b><color=#ffcc00>텐구 배틀 아머 한 분대를 수송합니다!</color></b>
+
+ <b><color=#ffcc00>궤도식: 높은 견인력, 민첩한 선회.</color></b>
+
+ <b><color=#ffcc00>이동: 5/8 헥스: 150/240 미터.</color></b>
+
+<b>장갑:</b> 표준
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       220     35
+<b>좌측</b>         215     35
+<b>우측</b>       215     35
+<b>후면</b>        200     35
+<b>포탑</b>      200     35
+
+<b>총합</b>      1050    175"
 VIPAdvanced/heavy/vehicledef_MANTEUFFEL_PRIME.json,Description.Details,"The Manteuffel (named after a long line of Lyran armor generals) is a fast, hard hitting tank. With a 350 XL engine and a top speed of 86 kph, as well as 11.5 tons of FF armor, the base chassis is a formidable addition to any force. Armed with a RAC/5, three ER M Lasers, and a Guardian ECM, the Manteuffel can destroy most other vehicles and mechs with a few well placed volleys. It also carries a C3 Slave for added unit co-ordination. This tank is assigned only to highest-profile units within the LAAF and AFFS because of its expense and technologies it uses, such as the Lyran Guards in the Alliance and Davion Brigade of Guards in the Suns.
 
  <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
@@ -5319,6 +5427,42 @@ VIPAdvanced/heavychassis/vehiclechassisdef_MAGI_UCSV.json,Description.Details,"T
  <b><color=#ffcc00>궤도식: 높은 접지력, 민첩한 선회.</color></b>
 
  <b><color=#ffcc00>기동: 5/8 헥스: 150/240미터.</color></b>
+
+<b>장갑:</b> 표준
+<b>구조:</b> 구조
+<b>수치       A        S  </b>
+<b>전면</b>       220     35
+<b>좌측</b>         215     35
+<b>우측</b>       215     35
+<b>후면</b>        200     35
+<b>포탑</b>      200     35
+
+<b>총합</b>      1050    175"
+VIPAdvanced/heavychassis/vehiclechassisdef_MAGI_UCSV.json,Description.Details,"This is a field modification of the original Magi vehicle which was in service for the Word of Blake. The vehicle's engine is swapped out for a light version and, while its laser weaponry remains the same, its front-mounted machine guns have increased to four and have been bundled into a machine gun array. The ammunition was also increased to three tons. The Magi's targeting and spotting abilities were enhanced, and to allow overall targeting for Level II formations, a C3i computer was installed.
+
+ <b><color=#ffcc00>CARRIES A SQUAD OF TENGU BATTLE ARMOR!</color></b>
+
+ <b><color=#ffcc00>Tracked: High traction, agile turning.</color></b>
+
+ <b><color=#ffcc00>Movement: 5/8 Hex: 150/240 Meters.</color></b>
+
+<b>Armor:</b> Standard
+<b>Structure:</b> Structure
+<b>Values       A        S  </b>
+<b>Front</b>       220     35
+<b>Left</b>         215     35
+<b>Right</b>       215     35
+<b>Rear</b>        200     35
+<b>Turret</b>      200     35
+
+<b>Total</b>      1050    175
+","이것은 워드 오브 블레이크에서 운용되던 원본 마기 차량의 현장 개조형입니다. 차량의 엔진은 라이트 버전으로 교체되었고, 레이저 무장은 그대로 유지되었지만, 전방 장착 기관총은 네 정으로 늘어나 기관총 배열로 묶였습니다. 탄약도 3톤으로 증가했습니다. 마기의 표적 지정 및 정찰 능력이 향상되었고, 레벨 II 편대 전체에 표적 지정을 제공하기 위해 C3i 컴퓨터가 설치되었습니다.
+
+ <b><color=#ffcc00>텐구 배틀 아머 한 분대를 수송합니다!</color></b>
+
+ <b><color=#ffcc00>궤도식: 높은 견인력, 민첩한 선회.</color></b>
+
+ <b><color=#ffcc00>이동: 5/8 헥스: 150/240 미터.</color></b>
 
 <b>장갑:</b> 표준
 <b>구조:</b> 구조

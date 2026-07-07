@@ -1,0 +1,42 @@
+﻿File,Key,Value,Translation
+CustomUnits/ability/AbilityDefCU_DeploySetPosition.json,Description.Details,Set deploy position,배치 위치 설정
+CustomUnits/ability/AbilityDefCU_Shutdown.json,Description.Details,"Shutdown the mech, venting heat but becoming immobile for the turn and losing all evasion.","메크를 셧다운합니다. 열을 배출하지만, 해당 턴 동안 움직일 수 없게 되고 모든 회피를 잃습니다."
+CustomUnits/ability/AbilityDefCU_SpawnUnit.json,Description.Details,"ACTION: Reduces movement extremely heavily, bringing it to a crawl, but allows the unit to ignore all pathing and terrain restrictions for the turn in order to unstick itself from bad terrain.","행동: 이동력을 극도로 크게 감소시켜 거의 기어가듯 움직이게 하지만, 유닛이 나쁜 지형에서 빠져나올 수 있도록 이번 턴 동안 모든 경로 및 지형 제한을 무시할 수 있게 합니다."
+CustomUnits/ability/AbilityDefCU_SpawnUnit.json,EffectData[0].Description.Details,This unit ignores terrain bonuses and penalties as well as landmines this turn but has massively reduced movement.,"이 유닛은 이번 턴 동안 지형 보너스와 페널티, 그리고 지뢰를 무시하지만, 이동력이 크게 감소합니다."
+CustomUnits/ability/AbilityDefCU_SpawnUnit.json,EffectData[1].Description.Details,This unit ignores terrain bonuses and penalties as well as landmines this turn but has massively reduced movement.,"이 유닛은 이번 턴 동안 지형 보너스와 페널티, 그리고 지뢰를 무시하지만, 이동력이 크게 감소합니다."
+CustomUnits/ability/AbilityDefCU_SpawnUnit.json,EffectData[2].Description.Details,This unit ignores terrain bonuses and penalties as well as landmines this turn but has massively reduced movement.,"이 유닛은 이번 턴 동안 지형 보너스와 페널티, 그리고 지뢰를 무시하지만, 이동력이 크게 감소합니다."
+CustomUnits/ability/AbilityDefCU_SpawnUnit.json,EffectData[3].Description.Details,This unit ignores terrain bonuses and penalties as well as landmines this turn but has massively reduced movement.,"이 유닛은 이번 턴 동안 지형 보너스와 페널티, 그리고 지뢰를 무시하지만, 이동력이 크게 감소합니다."
+CustomUnits/ability/AbilityDefCU_SpawnUnit.json,EffectData[4].Description.Details,This unit ignores terrain bonuses and penalties as well as landmines this turn but has massively reduced movement.,"이 유닛은 이번 턴 동안 지형 보너스와 페널티, 그리고 지뢰를 무시하지만, 이동력이 크게 감소합니다."
+CustomUnits/ability/AbilityDefCU_SpawnUnit.json,EffectData[5].Description.Details,This unit ignores terrain bonuses and penalties as well as landmines this turn but has massively reduced movement.,"이 유닛은 이번 턴 동안 지형 보너스와 페널티, 그리고 지뢰를 무시하지만, 이동력이 크게 감소합니다."
+CustomUnits/ability/AbilityDefCU_SpawnUnit.json,EffectData[6].Description.Details,This unit ignores terrain bonuses and penalties as well as landmines this turn but has massively reduced movement.,"이 유닛은 이번 턴 동안 지형 보너스와 페널티, 그리고 지뢰를 무시하지만, 이동력이 크게 감소합니다."
+CustomUnits/chassis/chassisdef_deploy_director.json,Description.Details,Deploy director,디렉터를 배치하십시오
+CustomUnits/drop_classes/BAClass.json,Description.Details,Mechs,메크
+CustomUnits/drop_classes/GenericMechClass.json,Description.Details,Mechs,메크
+CustomUnits/drop_classes/GenericVehicleClass.json,Description.Details,Mechs,메크
+CustomUnits/drop_decorations/decoration_slot_ba.json,Description.Details,This type of drop slots can be used for battle armor.,이 유형의 드롭 슬롯은 배틀 아머에 사용할 수 있습니다.
+CustomUnits/drop_decorations/decoration_slot_hotdrop.json,Description.Details,Slot for hotdrop reinforcements,핫드롭 증원 슬롯
+CustomUnits/drop_decorations/decoration_slot_mech.json,Description.Details,This type of drop slots can be used for mechs.,이 유형의 출격 슬롯은 메크에 사용할 수 있습니다.
+CustomUnits/drop_decorations/decoration_slot_vehicle.json,Description.Details,This type of drop slots can be used for vehicles.,이 유형의 드롭 슬롯은 차량에 사용할 수 있습니다.
+CustomUnits/drop_lances/default_default_lance1.json,Description.Details,Default lance description,기본 랜스 설명
+CustomUnits/drop_lances/default_default_lance_ba.json,Description.Details,Default lance description,기본 랜스 설명
+CustomUnits/drop_lances/default_default_lance_hot.json,Description.Details,Default lance description,기본 랜스 설명
+CustomUnits/drop_lances/default_default_lance_mech.json,Description.Details,Default lance description,기본 랜스 설명
+CustomUnits/drop_lances/default_default_lance_mechtank1.json,Description.Details,Default lance description,기본 랜스 설명
+CustomUnits/drop_lances/default_default_lance_mechtank2.json,Description.Details,Default lance description,기본 랜스 설명
+CustomUnits/drop_lances/default_default_lance_tank.json,Description.Details,Default lance description,기본 랜스 설명
+CustomUnits/drop_layouts/default_simgame_layout.json,Description.Details,Default layout description,기본 레이아웃 설명
+CustomUnits/drop_layouts/default_skirmish_layout.json,Description.Details,Default layout description,기본 레이아웃 설명
+CustomUnits/drop_slots/default_ba_slot.json,Description.Details,This type of drop slot can be used for battle armor.,이 유형의 투하 슬롯은 배틀 아머에 사용할 수 있습니다.
+CustomUnits/drop_slots/default_mech_slot.json,Description.Details,This type of drop slots can be used for mechs,이 유형의 드롭 슬롯은 메크에 사용할 수 있습니다
+CustomUnits/drop_slots/default_mech_tank_slot.json,Description.Details,This type of drop slots can be used for mechs and for tanks.,이 유형의 드롭 슬롯은 메크와 전차에 사용할 수 있습니다.
+CustomUnits/drop_slots/default_omni_hotdrop.json,Description.Details,This type of drop slots can be used for all chassis,이 유형의 드롭 슬롯은 모든 섀시에 사용할 수 있습니다
+CustomUnits/drop_slots/default_omni_slot.json,Description.Details,This type of drop slots can be used for all chassis,이 유형의 출격 슬롯은 모든 섀시에 사용할 수 있습니다
+CustomUnits/drop_slots/default_tank_mech_slot.json,Description.Details,This type of drop slots can be used for mechs and for tanks.,이 유형의 강하 슬롯은 메크와 전차에 사용할 수 있습니다.
+CustomUnits/drop_slots/default_vehicle_slot.json,Description.Details,This type of drop slot can be used for vehicles,이 유형의 출격 슬롯은 차량에 사용할 수 있습니다
+CustomUnits/hangardefs/mech_bay_2.json,Description.Details,Secondary Mech Hangar,보조 메크 격납고
+CustomUnits/hangardefs/mech_bay_3.json,Description.Details,Secondary Mech Hangar,보조 메크 격납고
+CustomUnits/hangardefs/vehicle_bays.json,Description.Details,Vehicle bays,차량 격납고
+CustomUnits/mech/mechdef_deploy_director.json,Description.Details,Deploy director,국장 배치
+CustomUnits/pilot/pilot_deploy_director.json,Description.Details,Darius Oliveira deploy director,다리우스 올리베이라 배치 지휘관
+CustomUnits/piloting_classes/GenericMechClass.json,Description.Details,Mechs,메크
+CustomUnits/piloting_classes/GenericVehicleClass.json,Description.Details,Vehicles,차량

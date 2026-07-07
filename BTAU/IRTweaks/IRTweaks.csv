@@ -1,0 +1,4 @@
+﻿File,Key,Value,Translation
+IRTweaks/mod_localized_text.json,Tooltips.COMBAT_RESTART_DETAILS,Restarting a missing during combat is disabled to prevent errors in modded games. Restarting often leads to corruption at the salvage screen.,모드 적용 게임에서 오류를 방지하기 위해 전투 중 임무 재시작은 비활성화되어 있습니다. 재시작은 종종 노획품 화면에서 손상을 일으킵니다.
+IRTweaks/mod_localized_text.json,Tooltips.COMBAT_SAVE_DETAILS,"Saving during combat is disabled to prevent errors in modded games. Loading a modded game can result in consistent behavior, as few mods write their data into the saves.","모드 적용 게임에서 오류를 방지하기 위해 전투 중 저장은 비활성화되어 있습니다. 저장 파일에 데이터를 기록하는 모드는 거의 없기 때문에, 모드 적용 게임을 불러오면 일관되지 않은 동작이 발생할 수 있습니다."
+IRTweaks/simGameStatDesc/SimGameStatDesc_IRTweaks_DiffMod.json,Description.Details,Career Difficulty Modified,경력 난이도 수정됨

@@ -405,3 +405,26 @@ Heavy Metal Flashpoint Module/mech/mechdef_enforcer_ENF-4R_fp_morganKell.json,De
 Heavy Metal Flashpoint Module/mech/mechdef_jenner_JR7-D_fp_morganKell.json,Description.Details,"Jenner Ds run hot, and they run fast but can quickly bound into combat to deliver a knockout punch, even against heavier units. Their capability with speed and weaponry tends to come at the expense of lower armor capacity, though.","제너 D는 열이 많이 발생하고 속도도 빠르지만, 순식간에 전투에 뛰어들어 더 무거운 기체를 상대로도 치명적인 일격을 가할 수 있습니다. 다만 이런 속도와 무장 능력은 장갑이 약한 대가로 얻은 것입니다."
 Heavy Metal Flashpoint Module/mech/mechdef_orion_ON1-K_fp_morganKell.json,Description.Details,"The Orion K was the first true heavy 'Mech. As a multirole brawler, the Orion can engage enemies at a variety of ranges, and with plenty of armor, it can survive combined fire for quite some time. Slow, yes-but powerful.","오리온 K는 최초의 진정한 헤비 배틀메크였습니다. 다목적 난전형 기체로서 다양한 거리에서 적과 교전할 수 있으며, 두꺼운 장갑 덕분에 집중 사격도 꽤 오래 버틸 수 있습니다. 느리지만 강력한 기체입니다."
 Heavy Metal Flashpoint Module/mech/mechdef_stalker_STK-BM.json,Description.Details,"The Stalker 3F mounts a ridiculous amount of weaponry-even for an assault 'Mech. It is also notable for its incredibly poor heat management, which is the cost it pays for such amazing damage output. Powerful, but to be used wisely.",스토커 3F는 어썰트 배틀메크치고도 과하다 싶을 정도의 무장을 탑재하고 있습니다. 또한 엄청난 화력의 대가로 열 관리 성능이 매우 나쁘다는 점으로도 유명합니다. 강력하지만 신중하게 운용해야 하는 기체입니다.
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[0].Description.Details,Start of the FP,FP의 시작
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[10].Description.Details,Mission 4,미션 4
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[11].Description.Details,reward,reward
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[12].Description.Details,Complete,Complete
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[13].Description.Details,reward,reward
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[14].Description.Details,cancel,cancel
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[15].Description.Details,reward,reward
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[16].Description.Details,cancel,cancel
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[17].Description.Details,reward,reward
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[1].Description.Details,Accept or decline the FP,FP를 수락하거나 거절하십시오
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[2].Description.Details,Branch to Mission1 or Cancel,미션1으로 진행하거나 취소하십시오
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[3].Description.Details,First Mission/Ambush Convoy,첫 번째 임무/호송대 매복
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[4].Description.Details,Convo after Mission1,Mission1 이후 대화
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[5].Description.Details,Mission2,미션2
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[6].Description.Details,Convo after Mission2,미션2 이후 대화
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[7].Description.Details,Mission 3,임무 3
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[8].Description.Details,Convo after Mission3,미션3 이후 대화
+Heavy Metal Flashpoint Module/milestoneSets/ms_fp_SmoothCriminal.json,Milestones[9].Description.Details,Branch to Mission4 or Cancel,Mission4로 진행하거나 취소하십시오
+Heavy Metal Flashpoint Module/pilot/pilot_fp_GDL_Clay.json,Description.Details,NONE,NONE
+Heavy Metal Flashpoint Module/pilot/pilot_fp_GDL_GraysonCarlyle.json,Description.Details,NONE,NONE
+Heavy Metal Flashpoint Module/pilot/pilot_fp_GDL_Kalmar.json,Description.Details,NONE,NONE
+Heavy Metal Flashpoint Module/pilot/pilot_fp_GDL_McCall.json,Description.Details,NONE,NONE
+Heavy Metal Flashpoint Module/StreamingAssets/data/pilot/pilot_fp_MorganKell.json,Description.Details,NONE,NONE

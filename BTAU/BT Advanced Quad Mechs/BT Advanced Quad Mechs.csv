@@ -261,6 +261,7 @@ BT Advanced Quad Mechs/upgrade/Gear_Gyro_Quad_Omni.json,statusEffects[1].Descrip
 BT Advanced Quad Mechs/upgrade/Gear_Gyro_Quad_Omni.json,statusEffects[2].Description.Details,Increased sprint speed.,질주 속도가 증가합니다.
 BT Advanced Quad Mechs/upgrade/Gear_Gyro_Quad_Omni.json,statusEffects[3].Description.Details,Kick attacks deal 20 more damage.,발차기 공격이 20의 추가 피해를 줍니다.
 BT Advanced Quad Mechs/upgrade/Gear_Gyro_Quad_Omni.json,statusEffects[4].Description.Details,Kick attacks gain +1 accuracy.,발차기 공격이 +1 명중률을 얻습니다.
+BT Advanced Quad Mechs/upgrade/Gear_Gyro_Quad_Omni.json,statusEffects[5].Description.Details,getHasBattleArmorMounts,getHasBattleArmorMounts
 BT Advanced Quad Mechs/upgrade/Gear_Gyro_Ultralight_Quad_XL.json,Description.Details,This piece of gear represents the inherently superior gyro that the Celerity carries. This gyro combines the benefits of a QuadMech with those of an Ultralight 'Mech as well as those of an XL Gyro. The Celerity is the bleeding edge of BattleMech technology and it shows it in all aspects of its construction.,"이 장비는 셀러리티가 탑재한 본질적으로 우수한 자이로를 나타냅니다. 이 자이로는 쿼드메크의 이점과 울트라라이트 메크의 이점, 그리고 XL 자이로의 이점을 결합합니다. 셀러리티는 배틀메크 기술의 최첨단에 있으며, 그 사실은 구조의 모든 측면에서 드러납니다."
 BT Advanced Quad Mechs/upgrade/Gear_Gyro_Ultralight_Quad_XL.json,statusEffects[0].Description.Details,Increases Jump Jet jump distance by 20%,점프젯 도약 거리가 20% 증가합니다.
 BT Advanced Quad Mechs/upgrade/Gear_Gyro_Ultralight_Quad_XL.json,statusEffects[1].Description.Details,This unit generates an extra EVASIVE charge from movement actions (up to its maximum).,이 유닛은 이동 행동으로 추가 회피 충전을 생성합니다. 최대치까지만 적용됩니다.
@@ -320,3 +321,4 @@ BT Advanced Quad Mechs/upgrade/Quad_Hind_leg_lower.json,Description.Details,"An 
 BT Advanced Quad Mechs/upgrade/Quad_Hind_leg_lower.json,statusEffects[0].Description.Details,Chance to stand up improved by actuator,기립 확률이 액추에이터에 의해 향상됩니다
 BT Advanced Quad Mechs/upgrade/Quad_Hind_leg_upper.json,Description.Details,"An Actuator is a component within a BattleMech's limbs, composed of the joint, myomer bundles, and motor control units.","액추에이터는 배틀메크의 팔다리 내부에 있는 구성품으로, 관절, 마이오머 다발, 모터 제어 장치로 이루어져 있습니다."
 BT Advanced Quad Mechs/upgrade/Quad_Hind_leg_upper.json,statusEffects[0].Description.Details,Chance to stand up improved by actuator,기립 확률이 액추에이터에 의해 향상됩니다
+BT Advanced Quad Mechs/weapon/Weapon_MeleeAttackEx.json,Description.Details,melee weapon,근접 무기

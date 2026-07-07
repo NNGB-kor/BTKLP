@@ -523,6 +523,7 @@ She continues as if you'd agreed. ""You have a MechWarrior in your employ, goes 
 그녀는 마치 당신이 동의한 것처럼 말을 이어갑니다. ""귀하의 고용인 중에 멕워리어가 한 명 있는데, 호출부호는 [[TGT_MW,{TGT_MW.Callsign}]]입니다. {TGT_MW.Gender?Male:그는|Female:그녀는|NonBinary:그들은} 특정 다비온 관리의 꼭 닮은 모습인데, 그 관리자는 제가 꼭 내부를 들여다보고 싶은 Mydron 연구 시설에 접근할 수 있는 권한을 가지고 있습니다.""
 
 ""며칠이 아니라 몇 주 동안 {TGT_MW.OBJ}을 빌려 주십시오. 만약 협조해 주신다면, 그곳에서 찾는 것 중 하나를 하나 드리겠습니다. 어떠십니까? 파트너가 되시겠습니까?"""
+Flashpoint DLC Flashpoints/events/event_mw_FP-scoundrel-A_NewScam.json,Options[0].Description.Details,Non-participation choice,불참 선택
 Flashpoint DLC Flashpoints/events/event_mw_FP-scoundrel-A_NewScam.json,Options[0].Description.Name,Refuse to participate in her scheme.,그녀의 계획에 참여하지 마세요.
 Flashpoint DLC Flashpoints/events/event_mw_FP-scoundrel-A_NewScam.json,Options[0].ResultSets[0].Description.Details,"""Ms. Hadley, after what you pulled the last time, you're at the top of my list of people not to trust. Given my line of work, I hope you appreciate that.""
 
@@ -560,6 +561,7 @@ She shrugs innocently. ""<i>But</i> I'm going to hang onto {TGT_MW.Callsign} a f
 
 그녀는 천연덕스럽게 어깨를 으쓱합니다.
 “<i>하지만</i> {TGT_MW.Callsign}은 몇 주 더 데리고 있겠습니다. 제가 추적해야 할 새로운 단서가 있어서요. 그리고 이건 두 사람이 해야 하는 일이거든요.”"
+Flashpoint DLC Flashpoints/events/event_mw_FP-scoundrel-A_NewScam.json,Options[2].Description.Details,risky option,위험한 선택지
 Flashpoint DLC Flashpoints/events/event_mw_FP-scoundrel-A_NewScam.json,Options[2].Description.Name,Capture her and turn her over to the Federated Suns.,그녀를 생포하여 항성 합중국에 인도하십시오.
 Flashpoint DLC Flashpoints/events/event_mw_FP-scoundrel-A_NewScam.json,Options[2].ResultSets[0].Description.Details,"Lady Alexandria Cunningham thanks you profusely as her agents slap Ayasha Hadley into restraints and march her aboard the nearby transport.
 
@@ -586,3 +588,19 @@ Flashpoint DLC Flashpoints/mech/mechdef_griffin_GRF-4N_fp_greed.json,Description
 Flashpoint DLC Flashpoints/mech/mechdef_hatchetman_HCT-6X.json,Description.Details,"Developed by the Lyran Commonwealth as an experimental refit of the Hatchetman, the HCT-6X was designed around using TSM for maximum effectiveness with its hatchet. Built around a XL 225-rated engine for a ground speed of 81 kph (which is boosted by TSM) and equipped with five jump jets for clearing obstacles, the -6X can rapidly close the distance to bring the hatchet to bear. For firepower, the -6X carries an all-energy loadout of two Snub-Nose PPCs and an ER Medium Laser, giving it a brutal close-range payload. Rounding out the loadout is a Boosted Active Probe to lock enemy forces.","라이란 코먼웰스에서 핫치트맨을 실험적으로 개조하여 개발한 HCT-6X는 핫치를 최대한 효율적으로 활용하기 위해 TSM을 중심으로 설계되었습니다. XL 225 등급 엔진을 중심으로 제작되어 지상 속도 81 kph(이는 TSM으로 더욱 향상됩니다)를 낼 수 있으며, 장애물 통과를 위한 5개의 점프 제트를 탑재해 빠르게 거리를 좁혀 핫치를 활용할 수 있습니다. 화력은 전부 에너지 무장으로 구성되어 두 기의 스너브-노즈 PPC와 한 기의 ER 미디엄 레이저를 장착하여 근거리에서 굉장히 강력한 화력을 제공합니다. 무장 구성의 마무리로 적을 잠금하기 위한 부스트 액티브 프로브도 탑재되어 있습니다."
 Flashpoint DLC Flashpoints/mech/mechdef_jagermech_JM6-S_fp_headhunting.json,Description.Details,"The JagerMech S model is highly specialized at long-range Autocannon fire support. It doesn't have much in the way of protection or closer-range weapons, though, so keep it distant and out of harm's way.",예거메크 S형은 장거리 오토캐넌 화력 지원에 고도로 특화된 기체입니다. 방어력이나 근거리 무장이 많지 않으니 멀리 두시고 위험에 노출되지 않도록 하십시오.
 Flashpoint DLC Flashpoints/mech/mechdef_thunderbolt_TDR-5SE_fp_headhunting.json,Description.Details,"Thunderbolt SE models lose a little of their firepower in exchange for mounting Jump Jets. The greater mobility is intended to allow for more precision attacking maneuvers, though it all depends on the battlefield terrain.","썬더볼트 SE형 모델은 점프 제트를 장착하는 대신 화력이 다소 줄어듭니다. 향상된 기동성은 보다 정밀한 공격 기동을 가능하게 하기 위한 것이지만, 이는 전장의 지형에 따라 달라집니다."
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[0].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[10].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[11].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[12].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[13].Description.Details,"Extra rewards, including Reputation and bonus C-Bills go here",추가 보상은 평판과 보너스 C-빌을 포함해 여기에 표시됩니다
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[14].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[15].Description.Details,"Extra rewards, including Reputation and bonus C-Bills go here",평판과 추가 C-빌을 포함한 추가 보상은 여기에 표시됩니다
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[1].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[2].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[3].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[4].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[5].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[6].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[7].Description.Details,flashpoint,플래시포인트
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[8].Description.Details,"Extra rewards, including Reputation and bonus C-Bills go here",평판과 추가 C-빌을 포함한 추가 보상은 여기에 표시됩니다
+Flashpoint DLC Flashpoints/milestoneSets/ms_fp_shadowOrg.json,Milestones[9].Description.Details,flashpoint,플래시포인트

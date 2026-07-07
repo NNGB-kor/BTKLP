@@ -1039,5 +1039,47 @@ Urban Warfare Flashpoints/flashpoints/fp_yangBigScore.json,Description.Name,Yang
 Urban Warfare Flashpoints/flashpoints/fp_yangBigScore.json,FlashpointShortDescription,"Hey, Boss. I've got a line on a really juicy opportunity out on Electra, but I need to check it out in person to be sure. Think you could authorize taking a little detour?","사령관님, 일렉트라에 정말 매력적인 기회가 하나 들어왔습니다만, 확실히 확인하려면 직접 가봐야 합니다. 잠깐 우회하는 것을 승인해 주시겠습니까?"
 Urban Warfare Flashpoints/mech/mechdef_urbanmech_UM-R60SB.json,Description.Details,"Taken as a prize by the victor of the Tournament of Champions, this UrbanMech has been extensively modified by Professor Horvat for reasons unknown. In place of its usual weaponry are a pair of gauss weapons: the Silver Bullet Gauss Rifle providing the main punch and a lone Magshot Gauss Rifle providing quiet backup. To make these weapons possible on the chassis, this Urbie has been made with an Endo-Steel structure and Ferro-Fibrous armor. Truly, the mind that created this was quite unhinged.","챔피언 토너먼트(Tournament of Champions)의 우승자가 전리품으로 획득한 어반메크(UrbanMech)는 호르바트 교수(Professor Horvat)에 의해 정체불명의 이유로 대대적으로 개조되었습니다. 기존 무장 대신 두 정의 가우스 무장이 장착되어 있는데, 주 화력은 실버 불릿(Silver Bullet) 가우스 라이플이 담당하고 보조 화력으로는 매그샷(Magshot) 가우스 라이플이 장착되어 있습니다. 이러한 무장을 섀시에 장착하기 위해 이 어반메크는 엔도-스틸 구조와 페로-파이브러스 장갑으로 제작되었습니다. 이것을 만든 이의 정신은 확실히 정상적이지 않았습니다."
 Urban Warfare Flashpoints/mech/mechdef_urbanmech_UM-R60SB.json,Description.Name,UrbanMech,UrbanMech
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[0].Description.Details,Start of the FP,FP의 시작
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[10].Description.Details,Mission 3b,임무 3b
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[11].Description.Details,Convo after Mission3b,Mission3b 이후 대화
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[12].Description.Details,complete,완료하십시오
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[13].Description.Details,Reward,보상
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[1].Description.Details,Accept or decline the FP,FP를 수락하거나 거절하십시오
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[2].Description.Details,First Mission,첫 번째 임무
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[3].Description.Details,Mission2,미션2
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[4].Description.Details,Convo after Mission2,미션2 이후 대화
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[5].Description.Details,Branch to Mission 3a or 3b,미션 3a 또는 3b로 분기
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[6].Description.Details,Mission 3a,임무 3a
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[7].Description.Details,Convo after Mission3a,Mission3a 이후 대화
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[8].Description.Details,complete,완료
+Urban Warfare Flashpoints/milestoneSets/ms_fp_AKnightAtTheOmni.json,Milestones[9].Description.Details,Reward,보상
+Urban Warfare Flashpoints/milestoneSets/ms_fp_BreakingNews.json,Milestones[0].Description.Details,Start of the FP,FP의 시작
+Urban Warfare Flashpoints/milestoneSets/ms_fp_BreakingNews.json,Milestones[1].Description.Details,Initial talk,초기 대화
+Urban Warfare Flashpoints/milestoneSets/ms_fp_BreakingNews.json,Milestones[2].Description.Details,First Mission,첫 번째 임무
+Urban Warfare Flashpoints/milestoneSets/ms_fp_BreakingNews.json,Milestones[3].Description.Details,Convo after Mission1,미션1 이후 대화
+Urban Warfare Flashpoints/milestoneSets/ms_fp_BreakingNews.json,Milestones[4].Description.Details,Mission2,임무2
+Urban Warfare Flashpoints/milestoneSets/ms_fp_BreakingNews.json,Milestones[5].Description.Details,Convo after Mission2,Mission2 이후 대화
+Urban Warfare Flashpoints/milestoneSets/ms_fp_BreakingNews.json,Milestones[6].Description.Details,Mission 3,임무 3
+Urban Warfare Flashpoints/milestoneSets/ms_fp_BreakingNews.json,Milestones[7].Description.Details,Convo after Mission3,미션3 이후 대화
+Urban Warfare Flashpoints/milestoneSets/ms_fp_BreakingNews.json,Milestones[8].Description.Details,complete,완료
+Urban Warfare Flashpoints/milestoneSets/ms_fp_BreakingNews.json,Milestones[9].Description.Details,Reward,보상
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[0].Description.Details,Start of the FP,FP의 시작
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[10].Description.Details,Mission 2b,임무 2b
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[11].Description.Details,Convo after Mission2b,Mission2b 후 대화
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[12].Description.Details,complete,완료
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[13].Description.Details,Reward,보상
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[14].Description.Details,cancel,cancel
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[15].Description.Details,reward,reward
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[16].Description.Details,cancel,cancel
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[17].Description.Details,reward,reward
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[1].Description.Details,Accept or decline the FP,FP를 수락하거나 거절하십시오
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[2].Description.Details,Branch to Mission or Cancel,임무로 진행하거나 취소하십시오
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[3].Description.Details,First Mission,첫 번째 임무
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[4].Description.Details,Convo after Mission1,미션1 이후 대화
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[5].Description.Details,Branch choices after Mission1,미션1 이후 분기 선택지
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[6].Description.Details,Mission2a,Mission2a
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[7].Description.Details,Convo after Mission2a,Mission2a 이후 대화
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[8].Description.Details,Mission2a Complete,Mission2a 완료
+Urban Warfare Flashpoints/milestoneSets/ms_fp_MackAttack.json,Milestones[9].Description.Details,Reward,보상
 Urban Warfare Flashpoints/pilot/pilot_FP_Black_Knight.json,Description.Details,NONE,NONE
 Urban Warfare Flashpoints/pilot/pilot_FP_Black_Knight.json,Description.Name,Walt,Walt

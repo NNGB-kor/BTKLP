@@ -108,12 +108,16 @@ BT Advanced Battle Armor/upgrade/emod_structureslots_standard_battlearmor.json,D
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw.json,Description.Details,The Battle Claw is a melee weapon equipped to Battle Armor to allow them to cause reasonable damage against mech-scale opponents. The Battle Claw also allows Battle Armor to conduct swarm attacks against enemy mechs and tanks.,배틀 클로는 배틀 아머에 장착되어 메크급 상대에게 적절한 피해를 입힐 수 있게 해주는 근접 무기입니다. 배틀 클로는 또한 배틀 아머가 적 메크와 탱크에 대해 군집 공격을 수행할 수 있도록 합니다.
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw.json,statusEffects[0].Description.Details,This is a physical weapon and uses those melee rules.,이것은 물리 무기이며 해당 근접전 규칙을 사용합니다.
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw.json,statusEffects[1].Description.Details,This physical weapon ignores actuator damage.,이 물리 무기는 액추에이터 피해를 무시합니다.
+BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw.json,statusEffects[2].Description.Details,Foo,Foo
+BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw.json,statusEffects[3].Description.Details,Foo,Foo
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw.json,statusEffects[4].Description.Details,Claws do 3 damage per 1 ton of the battle armor.,클로는 배틀 아머 1톤당 3의 피해를 줍니다.
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw.json,statusEffects[5].Description.Details,Claws do 3 stab damage per 1 ton of the battle armor.,클로는 배틀 아머 1톤당 3의 피해를 줍니다.
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw.json,statusEffects[6].Description.Details,Better damage for BA while swarming.,스웜 중인 BA의 피해량이 향상됩니다.
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw_Quad.json,Description.Details,The Battle Claw is a melee weapon equipped to Battle Armor to allow them to cause reasonable damage against mech-scale opponents. The Battle Claw also allows Battle Armor to conduct swarm attacks against enemy mechs and tanks.,배틀 클로는 배틀 아머에 장착되어 메크급 상대에게 적절한 피해를 입히도록 설계된 근접 무기입니다. 배틀 클로는 또한 배틀 아머가 적 메크와 전차에 군집 공격을 수행할 수 있게 합니다.
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw_Quad.json,statusEffects[0].Description.Details,This is a physical weapon and uses those melee rules.,이것은 물리 무기이며 해당 근접전 규칙을 사용합니다.
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw_Quad.json,statusEffects[1].Description.Details,This physical weapon ignores actuator damage.,이 물리 무기는 액추에이터 피해를 무시합니다.
+BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw_Quad.json,statusEffects[2].Description.Details,Foo,Foo
+BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw_Quad.json,statusEffects[3].Description.Details,Foo,Foo
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw_Quad.json,statusEffects[4].Description.Details,Claws do 3 damage per 1 ton of the battle armor.,클로는 배틀 아머 1톤당 3의 피해를 줍니다.
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw_Quad.json,statusEffects[5].Description.Details,Claws do 3 stab damage per 1 ton of the battle armor.,클로는 배틀 아머 1톤당 3의 피해를 줍니다.
 BT Advanced Battle Armor/upgrade/Gear_Battle_Armor_Claw_Quad.json,statusEffects[6].Description.Details,Better damage for BA while swarming.,스웜 중인 BA의 피해량이 향상됩니다.

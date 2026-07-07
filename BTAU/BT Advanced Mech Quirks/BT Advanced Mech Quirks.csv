@@ -256,6 +256,8 @@ BT Advanced Mech Quirks/upgrade/Gear_Quirk_Cowl_Uziel.json,statusEffects[1].Desc
 BT Advanced Mech Quirks/upgrade/Gear_Quirk_Crane_LoaderKing.json,Description.Details,"Built specially for the Loader King industrial mech, this is an industrial-strength crane. It was intended to aid the Loader King in moving cargo around but it proved useful in mech vs mech combat as it knocks enemies around in melee.","로더 킹 산업용 메크를 위해 특별히 제작된 이것은 산업용급 크레인입니다. 원래는 로더 킹이 화물을 이리저리 옮기는 일을 돕기 위한 용도였지만, 근접전에서 적을 마구 밀쳐낼 수 있어 메크 대 메크 전투에서도 유용하다는 것이 입증되었습니다."
 BT Advanced Mech Quirks/upgrade/Gear_Quirk_Crane_LoaderKing.json,Description.Name,Industrial Crane,산업용 크레인
 BT Advanced Mech Quirks/upgrade/Gear_Quirk_Crane_LoaderKing.json,statusEffects[0].Description.Details,This is a physical weapon and uses those melee rules.,이것은 물리 무기이며 해당 근접 규칙을 사용합니다.
+BT Advanced Mech Quirks/upgrade/Gear_Quirk_Crane_LoaderKing.json,statusEffects[1].Description.Details,Foo,Foo
+BT Advanced Mech Quirks/upgrade/Gear_Quirk_Crane_LoaderKing.json,statusEffects[2].Description.Details,Foo,Foo
 BT Advanced Mech Quirks/upgrade/Gear_Quirk_Crane_LoaderKing.json,statusEffects[3].Description.Details,"Being hit with a crane hurts, turns out.",크레인에 맞으면 아프다는 것이 밝혀졌습니다.
 BT Advanced Mech Quirks/upgrade/Gear_Quirk_Crane_LoaderKing.json,statusEffects[4].Description.Details,"Being hit with a crane hurts, turns out.",크레인에 맞으면 아프다는 것이 밝혀졌습니다.
 BT Advanced Mech Quirks/upgrade/Gear_Quirk_Crane_LoaderKing.json,statusEffects[5].Description.Details,Cranes do 5 damage per 5 tons of the mech.,크레인은 메크 5톤당 5 피해를 줍니다.

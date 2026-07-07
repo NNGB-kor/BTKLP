@@ -49,6 +49,7 @@ DDS&L LLC</i></b>","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다�
 니시아 안드레타
 현금 및 추심 부서
 DDS&L LLC</i></b>"
+LoanSharks/events_Base/tbone_event_co_PayUp2a.json,Options[0].Description.Details,"[¢500,000]","[¢500,000]"
 LoanSharks/events_Base/tbone_event_co_PayUp2a.json,Options[0].ResultSets[0].Description.Details,"It's hard to make money with your pilots laid up in the medbay. Hopefully this ""Pilot Protection Plan"" is worth the money and you can get the company back in the black before the ""Protection"" expires again.
 
 In the meantime, Darius has returned with [[TRT_MW,{TRT_MW.Callsign}]] and [[SCN_MW,{SCN_MW.Callsign}]]. Although {SCN_MW.Callsign} got the worst of it physically, {TRT_MW.Callsign} seems particularly shaken by the experience. It's hard to go from feeling invincible at the controls of a BattleMech to feeling helpless in a dark alley.","파일럿들이 메드베이에 누워 있으면 돈을 벌기 어렵습니다. 이 ""파일럿 보호 플랜""이 제값을 해서, ""보호""가 다시 만료되기 전에 중대를 다시 흑자로 돌려놓을 수 있기를 바랍니다.
@@ -85,6 +86,7 @@ DDS&L LLC</i></b>","[[DM.BaseDescriptionDefs[TooltipSimGameCharacterDARIUS],다�
 니시아 안드레타
 현금 및 추심 부서
 DDS&L LLC</i></b>"
+LoanSharks/events_Base/tbone_event_co_PayUp2b.json,Options[0].Description.Details,"[¢500,000]","[¢500,000]"
 LoanSharks/events_Base/tbone_event_co_PayUp2b.json,Options[0].ResultSets[0].Description.Details,"It's hard to make money when you can't repair your BattleMechs between contracts. Hopefully this ""Logistics Insurance"" is worth the money and you can get the company back in the black before the coverage expires again.
 
 In the meantime, Darius has returned with the ""missing"" supplies.","계약 사이에 배틀메크를 수리할 수 없으면 돈을 벌기 어렵습니다. 이 ""물류 보험""이 제값을 해서, 보장 기간이 다시 만료되기 전에 중대를 다시 흑자로 돌려놓을 수 있기를 바랍니다.
