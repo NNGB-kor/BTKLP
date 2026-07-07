@@ -243,6 +243,7 @@ Abilifier/abilities/AbilityDefGu8T.json,Description.Details,"PASSIVE: This tank 
 Abilifier/abilities/AbilityDefGu8T.json,Description.Name,STREET RACER,스트리트 레이서
 Abilifier/abilities/AbilityDefGu8T.json,EffectData[0].Description.Details,This unit takes 20% less damage at all times.,이 유닛은 항상 받는 피해 20% 감소
 Abilifier/abilities/AbilityDefGu8T.json,EffectData[0].Description.Name,Street Racer,스트리트 레이서
+Abilifier/abilities/AbilityDefImposterInit.json,Description.Details,PASSIVE: Imposter might be a body double but he's a damn good one. He receives +2 initiative in combat.,"패시브: 임포스터는 대역일지도 모르지만, 빌어먹게 훌륭한 대역입니다. 전투 중 주도권 +2를 받습니다."
 Abilifier/abilities/AbilityDefKOSQuadEnjoyer.json,Description.Details,"PASSIVE: KOS gains +2 resolve when piloting a Quad Mech.  However, pilot gets penalized with -4 accuracy, -30m walk speed, -0.1 sprint multiplier, and -2 resolve generation when piloting a non-quad mech.","패시브: KOS는 쿼드 메크를 조종할 때 결의 +2를 얻습니다. 그러나 비쿼드 메크를 조종할 때는 파일럿이 명중률 -4, 보행 속도 -30m, 질주 배율 -0.1, 결의 생성량 -2의 불이익을 받습니다."
 Abilifier/abilities/AbilityDefKOSQuadEnjoyer.json,Description.Name,Quad Enjoyer,쿼드 애호가
 Abilifier/abilities/AbilityDefKOSQuadEnjoyer.json,EffectData[0].Description.Details,"This mechwarrior is piloting a non-preferred mech (Quad) and is penalized.

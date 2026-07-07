@@ -67,48 +67,56 @@ BiggerDrops/shipUpgrades/argoUpgrade_VeeSlot.json,AssignedCastDescription,With t
 BiggerDrops/shipUpgrades/argoUpgrade_VeeSlot.json,Description.Details,Increases the company's ability to field an additional combat vehicle. <b><color=#F79232>Increases Vehicle-Only Slots to 3 and increases Drop Weight Limit by 50 tons.</color></b>,"회사가 추가 전투 차량을 투입할 수 있는 능력을 향상시킵니다. <b><color=#F79232>차량 전용 슬롯이 3으로 증가하고, 드롭 중량 제한이 50톤 증가합니다.</color></b>"
 BiggerDrops/shipUpgrades/argoUpgrade_VeeSlot1.json,AssignedCastDescription,With this we can support dropping an additional combat vehicle onto the battlefield.,이를 통해 전장에 추가 전투 차량 1대를 강하시키는 것을 지원할 수 있습니다.
 BiggerDrops/shipUpgrades/argoUpgrade_VeeSlot1.json,Description.Details,Increases the company's ability to field an additional combat vehicle. <b><color=#F79232>Increases Vehicle-Only Slots to 4 and increases Drop Weight Limit by 50 tons.</color></b>,"회사가 추가 전투 차량을 투입할 수 있는 능력을 향상시킵니다. <b><color=#F79232>차량 전용 슬롯이 4로 증가하고, 드롭 중량 제한이 50톤 증가합니다.</color></b>"
+BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,Description.Details,Affects non-jump travel times - not shown,비점프 이동 시간에 영향을 줍니다 - 표시되지 않음
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,infinitiveNegativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,infinitivePositiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,infinitiveSetResult,Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}%
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,negativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,positiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechSlots.json,setResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,Description.Details,Affects non-jump travel times - not shown,비점프 이동 시간에 영향을 줍니다 - 표시되지 않음
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,infinitiveNegativeResult,Decreases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,infinitivePositiveResult,Increases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,infinitiveSetResult,Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}%
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,negativeResult,Decreases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,positiveResult,Increases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalMechTankSlots.json,setResult,Increases Size of first Lance {RES_VALUE.ToString}%,첫 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,Description.Details,Affects non-jump travel times - not shown,비점프 이동 시간에 영향을 줍니다 - 표시되지 않음
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,infinitiveNegativeResult,Decreases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어가 조종하는 조종사 수 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,infinitivePositiveResult,Increases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어가 조종하는 조종사 수 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,infinitiveSetResult,Player Controlled Pilots {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}%
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,negativeResult,Decreases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,positiveResult,Increases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalPlayerMechSlots.json,setResult,Increases Player Controlled Pilots by {RES_VALUE.ToString}%,플레이어 조종사 수 {RES_VALUE.ToString}% 증가
+BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,Description.Details,Affects non-jump travel times - not shown,비점프 이동 시간에 영향을 줍니다 - 표시되지 않음
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,infinitiveNegativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,infinitivePositiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,infinitiveSetResult,Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}%
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,negativeResult,Decreases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,positiveResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_AdditionalTankMechSlots.json,setResult,Increases Size of second Lance {RES_VALUE.ToString}%,두 번째 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_BAOnlySlots.json,Description.Details,Affects non-jump travel times - not shown,비점프 이동 시간에 영향을 줍니다 - 표시되지 않음
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_BAOnlySlots.json,infinitiveNegativeResult,Decreases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_BAOnlySlots.json,infinitivePositiveResult,Increases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_BAOnlySlots.json,infinitiveSetResult,Size of battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}%
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_BAOnlySlots.json,negativeResult,Decreases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_BAOnlySlots.json,positiveResult,Increases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_BAOnlySlots.json,setResult,Increases size of the battle armor lance {RES_VALUE.ToString}%,전투 장비 랜스 규모 {RES_VALUE.ToString}% 증가
+BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_CuVehicleCount.json,Description.Details,Affects non-jump travel times - not shown,비점프 이동 시간에 영향을 줍니다 - 표시되지 않음
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_CuVehicleCount.json,infinitiveNegativeResult,Decreases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_CuVehicleCount.json,infinitivePositiveResult,Increases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_CuVehicleCount.json,infinitiveSetResult,Allows dropping additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 허용 {RES_VALUE.ToString}%
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_CuVehicleCount.json,negativeResult,Decreases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_CuVehicleCount.json,positiveResult,Increases drop number of additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 수 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_CuVehicleCount.json,setResult,Allows dropping additional combat vehicles {RES_VALUE.ToString}%,추가 전투 차량 드롭 허용 {RES_VALUE.ToString}%
+BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MaxTonnage.json,Description.Details,Affects non-jump travel times - not shown,비점프 이동 시간에 영향을 줍니다 - 표시되지 않음
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MaxTonnage.json,infinitiveNegativeResult,Decreases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MaxTonnage.json,infinitivePositiveResult,Increases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MaxTonnage.json,infinitiveSetResult,Max Drop Tonnage {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}%
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MaxTonnage.json,negativeResult,Decreases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MaxTonnage.json,positiveResult,Increases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MaxTonnage.json,setResult,Increases Max Drop Tonnage by {RES_VALUE.ToString}%,최대 드롭 중량 {RES_VALUE.ToString}% 증가
+BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MechOnlySlots.json,Description.Details,Affects non-jump travel times - not shown,비점프 이동 시간에 영향을 줍니다 - 표시되지 않음
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MechOnlySlots.json,infinitiveNegativeResult,Decreases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 감소
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MechOnlySlots.json,infinitivePositiveResult,Increases size of the mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}% 증가
 BiggerDrops/statdesc/SimGameStatDesc_BiggerDrops_MechOnlySlots.json,infinitiveSetResult,Size of mech-only lance {RES_VALUE.ToString}%,멕 전용 랜스 규모 {RES_VALUE.ToString}%
